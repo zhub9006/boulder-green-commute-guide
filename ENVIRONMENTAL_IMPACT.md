@@ -1,78 +1,49 @@
-# 🌍 Environmental Impact Analysis
+# Environmental Impact
 
-Understanding the carbon footprint reduction of choosing walking or biking over driving for your daily Boulder commute.
+## Carbon Footprint Comparison (Per Trip vs. Driving)
 
----
-
-## Commute Summary
-
-| | Walking | Biking | Driving (est.) | Transit (est.) |
+| Mode | Distance | Car CO₂ Equivalent | Mode CO₂ | Savings per Trip |
 |---|---|---|---|---|
-| **Distance** | 4.0 km | 4.0 km | 4.0 km | 4.0 km |
-| **Time** | ~50–60 min | ~10–15 min | ~10–15 min | ~20–30 min |
-| **CO₂ per Trip** | 0 g | 0 g | ~800 g | ~100 g |
-| **CO₂ per Day (round trip)** | 0 g | 0 g | ~1,600 g | ~200 g |
+| 🚶 Walking | 4.0 km | ~0.8 kg CO₂ | 0 g CO₂ | **0.8 kg CO₂** |
+| 🚴 Biking | 4.0 km | ~0.8 kg CO₂ | 0 g CO₂ | **0.8 kg CO₂** |
 
----
+_Assumes average gasoline car: ~0.2 kg CO₂/km_
 
-## Annual Impact (250 workdays)
+## Annual Impact (250 Workdays/Year)
 
-### Walking
-| Metric | Value |
-|---|---|
-| CO₂ Saved | **200 kg/year** |
-| Equivalent | Planting ~10 trees |
-| Equivalent | Not driving ~500 km |
-| Calories Burned | ~75,000 kcal/year |
+| Mode | Annual CO₂ Savings | Carbon Offset Equivalent | Cars Removed from Road (per person) |
+|---|---|---|---|
+| 🚶 Walking | ~200 kg CO₂ | Planting ~10 trees | ~0.5 car-away |
+| 🚴 Biking | ~200 kg CO₂ | 900 fewer car-miles | ~0.5 car-away |
+| **Combined** *(alternating modes)* | ~400 kg CO₂ | ~20 trees planted | ~1 car-away |
 
-### Biking
-| Metric | Value |
-|---|---|
-| CO₂ Saved | **200 kg/year** |
-| Equivalent | Removing ~900 miles of driving |
-| Equivalent | Not driving ~1,500 km |
-| Calories Burned | ~37,500 kcal/year |
+## Other Environmental Benefits
+- **Zero air pollution**: No NOx, PM2.5, or VOC emissions
+- **Less road wear**: Reduced city maintenance costs
+- **Lower noise pollution**: Quieter residential streets
+- **Reduced stormwater runoff**: Less impervious surface than parking lots
+- **No fossil fuel consumed**: Saves money and reduces energy dependence
 
-### Driving (for comparison)
-| Metric | Value |
-|---|---|
-| Annual CO₂ Emissions | ~400 kg/year (one car, round trips) |
-| Fuel Cost | ~$500–700/year (at Boulder gas prices) |
-| Parking Cost | ~$1,000–2,000/year (downtown Boulder) |
+## Health Co-Benefits
 
----
+| Mode | Calories/Trip | Annual Calories (250 days) | Key Benefits |
+|---|---|---|---|
+| 🚶 Walking | ~300–400 kcal | ~75,000–100,000 kcal | Cardiovascular health, mood, weight management, bone density |
+| 🚴 Biking | ~100–150 kcal | ~25,000–37,500 kcal | Cardiovascular fitness, leg strength, stress reduction |
 
-## Boulder-Specific Environmental Context
+### Weight Equivalent (Walking)
+Burning ~75,000–100,000 extra calories/year ≈ losing ~10–14 kg of body fat
 
-### Why This Matters for Boulder
-- Boulder's **Climate Action Plan** targets 80% reduction in community GHG emissions by 2050
-- Transportation is the **#1 source** of emissions in Boulder (~45% of total)
-- Short car trips (< 5 km) are the least fuel-efficient — making walking/biking especially impactful
-- Boulder's **Walk Score** improvement initiatives prioritize pedestrian and bike infrastructure
+## U.S. Benchmark Comparison
 
-### CO₂ Comparison per Mode per Kilometer
-| Mode | g CO₂/km | Notes |
+| Metric | Boulder (Active Commute) | U.S. Average (Driving) |
 |---|---|---|
-| Walking | 0 | Human-powered |
-| Biking | 0 | Human-powered (electric bikes: ~5 g/km) |
-| Transit (bus) | 89 | Average US bus, varies by ridership |
-| Car (average) | 170 g/km | ~4.6 L/100 km, 1 person |
-| Car (carpool, 2 people) | 85 g/km | Shared emissions |
-| Scooter (e-scooter) | 25 g/km | Including charging emissions |
+| Commute Distance | 4.0 km | 16 km (10 miles) |
+| Commute Time | 10–60 min | 27 min |
+| CO₂ per Commute | 0 g | ~3.2 kg |
+| Annual Commute CO₂ | 0 g | ~1,600 kg |
 
----
+_Boulder's short average commute distance makes it one of the best U.S. cities for sustainable transportation alternatives._
 
-## Beyond Carbon: Other Environmental Benefits
-
-| Benefit | Walking | Biking |
-|---|---|---|
-| Reduced air pollution | ✅ | ✅ |
-| Less road wear | ✅ | ✅ |
-| Reduced noise pollution | ✅ | ✅ |
-| Lower stormwater runoff (less pavement) | ✅ | ✅ |
-| Habitat preservation | ✅ | ✅ |
-| Reduced demand for parking infrastructure | ✅ | ✅ |
-
----
-
-*Data based on EPA emission factors and Boulder, CO transportation statistics.*
+## Takeaway
+Every car trip replaced by walking or biking is a direct, measurable contribution to cleaner air, less noise, healthier bodies, and a more livable Boulder. The cumulative impact across the community can transform our city's environmental footprint.
