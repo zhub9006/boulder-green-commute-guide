@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "generated": "2026-06-21",
+    "source": "OpenStreetMap neighborhood analysis via OSM MCP server",
+    "analysis_radius_m": 1000
+  },
+  "home": {
+    "address": "45 Oak Avenue, Boulder, CO 80304",
+    "latitude": 40.0448805,
+    "longitude": -105.2738879,
+    "neighborhood_score": 1.8,
+    "walkability": 0,
+    "categories": {
+      "restaurants": {
+        "count": 4,
+        "avg_distance_m": 650.7,
+        "venues": [
+          {"name": "Dagabi Cucina", "cuisine": "Spanish", "distance_m": 635.7, "address": "3970 Broadway #101", "phone": "+1-303-786-9004", "hours": "Mo-Su 17:00-21:00", "outdoor_seating": true},
+          {"name": "China Gourmet", "cuisine": "Chinese", "distance_m": 639.0, "address": "3970 Broadway", "phone": "+1-303-440-3500", "hours": "Su-Fr 11:30-21:00, Sa 16:30-21:00"},
+          {"name": "Lucky's Bakehouse Cafe", "cuisine": "American/Breakfast/Brunch", "distance_m": 652.3, "address": "3980 Broadway #107", "phone": "+1-303-444-5007", "hours": "Mo-Su 07:00-14:00"},
+          {"name": "Ruzo Coffee", "cuisine": "Coffee", "distance_m": 675.7, "address": "3980 Broadway #104", "hours": "Mo-Su 07:00-16:00"}
+        ]
+      },
+      "education": {
+        "count": 2,
+        "venues": [
+          {"name": "Boulder Waldorf Kindergarten & Preschool", "distance_m": 518.4, "address": "4072 19th Street", "website": "https://boulderwaldorf.com/"},
+          {"name": "Tara Institute of the Performing Arts", "distance_m": 629.4, "address": "Tara Institute, Boulder"}
+        ]
+      },
+      "parks": {
+        "count": 4,
+        "venues": [
+          {"type": "Playground", "distance_m": 716.4},
+          {"type": "Playground", "distance_m": 731.9},
+          {"type": "Playground (private, Wildwood HOA)", "distance_m": 763.8},
+          {"type": "Playground", "distance_m": 895.3}
+        ]
+      },
+      "services": {
+        "count": 1,
+        "venues": [
+          {"name": "North Boulder Shipping Store", "type": "Post Office (DHL/FedEx/UPS/USPS)", "distance_m": 672.4, "hours": "Mo-Fr 09:00-16:00; Sa 10:00-14:00"}
+        ]
+      },
+      "public_transport": {"count": 0, "average_distance_m": null},
+      "groceries": {"count": 0, "average_distance_m": null},
+      "healthcare": {"count": 0, "average_distance_m": null},
+      "sports": {"count": 0, "average_distance_m": null},
+      "shopping": {"count": 0, "average_distance_m": null},
+      "entertainment": {"count": 0, "average_distance_m": null}
+    }
+  },
+  "office": {
+    "address": "1800 Broadway, Boulder, CO 80302",
+    "latitude": 40.0163281,
+    "longitude": -105.2789726,
+    "neighborhood_score": 6.2,
+    "walkability": 10,
+    "categories": {
+      "restaurants": {
+        "count": 94,
+        "avg_distance_m": 554.0,
+        "top_venues": [
+          {"name": "Boulder Creek Market", "cuisine": "Deli", "distance_m": 46},
+          {"name": "Jaipur Indian Restaurant", "cuisine": "Indian", "distance_m": 59.8},
+          {"name": "T/ACO", "cuisine": "Mexican", "distance_m": 114.6, "website": "https://tacocolorado.com/"},
+          {"name": "Boulder Baked", "cuisine": "Cupcake Cafe", "distance_m": 126.7, "hours": "Tu-Su 15:00-24:00"},
+          {"name": "Brewing Market Coffee", "cuisine": "Coffee", "distance_m": 149.2, "hours": "Mo-Sa 08:00-17:00; Su 09:00-17:00"},
+          {"name": "Ku Cha House of Tea", "cuisine": "Tea House", "distance_m": 205.7, "hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00"},
+          {"name": "Peregrine", "cuisine": "Coffee/Beer", "distance_m": 210.9, "outdoor_seating": true},
+          {"name": "Amante", "cuisine": "Coffee", "distance_m": 213.4, "hours": "Mo-Fr 07:30-15:30; Sa-Su 07:30-14:00"}
+        ]
+      },
+      "shopping": {
+        "count": 39,
+        "avg_distance_m": 397.4,
+        "top_venues": [
+          {"name": "Free People", "category": "Clothing", "distance_m": 176.7},
+          {"name": "Max", "category": "Clothing", "distance_m": 105.5},
+          {"name": "The Denim Store at Weekends", "distance_m": 144.1},
+          {"name": "Island Farm", "distance_m": 203.4},
+          {"name": "Prana", "category": "Clothing", "distance_m": 212.2},
+          {"name": "Savvy on Pearl", "distance_m": 210.3}
+        ]
+      },
+      "fitness_sports": {
+        "count": 6,
+        "venues": [
+          {"name": "One Boulder Fitness", "distance_m": 22.0},
+          {"name": "Skating center", "distance_m": 60.2},
+          {"name": "Amana Yoga Studio", "distance_m": 289.0, "hours": "Mo-Fr 07:00-19:30; Sa-Su 09:00-16:15"},
+          {"name": "Buldog Yoga", "distance_m": 398.6},
+          {"name": "CorePower Yoga", "distance_m": 959.9}
+        ]
+      },
+      "transport": {
+        "count": 4,
+        "venues": [
+          {"name": "Downtown Boulder Station Gate 1", "type": "Bus stop (covered)", "distance_m": 233.1},
+          {"name": "Downtown Boulder Station Gate 2", "type": "Bus stop (covered)", "distance_m": 231.2},
+          {"name": "Downtown Boulder Station Gate 3", "type": "Bus stop (covered)", "distance_m": 230.1},
+          {"name": "Downtown Boulder Station Gate 4", "type": "Bus stop (covered)", "distance_m": 230.6}
+        ]
+      },
+      "banks_services": {
+        "count": 18,
+        "avg_distance_m": 262.8,
+        "top_venues": [
+          {"name": "Morgan Stanley", "distance_m": 24.8},
+          {"name": "Chase", "distance_m": 90.4},
+          {"name": "Elevations Credit Union", "distance_m": 129.7, "hours": "Mo-Fr 08:30-17:30"},
+          {"name": "Bank of America", "distance_m": 137.9},
+          {"name": "Flatirons Bank", "distance_m": 178.6, "hours": "Mo-Fr 09:00-17:00"}
+        ]
+      },
+      "parks": {
+        "count": 4,
+        "venues": [
+          {"type": "Playground", "distance_m": 578.1},
+          {"type": "Playground", "distance_m": 634.7}
+        ]
+      }
+    }
+  }
+}
