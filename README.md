@@ -1,4 +1,4 @@
-# Boulder Green Commute Guide 🌿🚲
+# 🌿 Boulder Green Commute Guide
 
 **Helping Boulder, CO residents make sustainable travel choices — one commute at a time.**
 
@@ -58,7 +58,7 @@
 | 1 | **Oak Avenue** — Start southbound from home | 97 m | ~1 min | Residential street, bike-friendly |
 | 2 | **19th Street** — Use the bike lane heading south | 2.16 km | ~3 min | Dedicated bike lane; main arterial |
 | 3 | **20th St.** — Brief jog east | 106 m | ~1 min | Quick connector |
-| 4 | **20th Street** — Continue south in bike lane | 566 m | ~1 min |过渡 zone between residential and downtown |
+| 4 | **20th Street** — Continue south in bike lane | 566 m | ~1 min | Transition zone between residential and downtown |
 | 5 | **Pearl Street** — Dismount and walk your bike on the mall | 216 m | ~1 min | Bikes allowed but dismount near pedestrians for safety |
 | 6 | **18th Street** — Short connector to Canyon | 249 m | ~1 min | Brief connector |
 | 7 | **Canyon Boulevard** — Bike lane leads to Broadway | 637 m | ~1 min | Protected bike lane into downtown |
@@ -86,13 +86,24 @@
 
 ---
 
-## 🏙️ Why Sustainable Commuting in Boulder?
+## 🌎 Why Sustainable Commuting in Boulder?
 
-- 🌎 **Climate Goals** — Boulder aims to cut GHG emissions 80% by 2050
+- 🌍 **Climate Goals** — Boulder aims to cut GHG emissions 80% by 2050
 - 🚲 **BCycle** — Bike-share stations throughout downtown ($9/day passes)
-- 🛤️ **Shiv Cycle Path** — Protected bike path connecting east Boulder to downtown
+- 🛴 **Shiv Cycle Path** — Protected bike path connecting east Boulder to downtown
 - 🚶 **Pearl Street Mall** — Car-free heart of downtown
 - 🏔️ **Flatirons Views** — Fresh air and mountain views instead of traffic
+
+---
+
+## 📈 Boulder Commute Stats
+
+| Stat | Value |
+|------|-------|
+| Boulder residents who bike to work | ~6% (among highest in the US) |
+| Boulder residents who walk to work | ~10% |
+| Average one-way commute time | ~22 minutes |
+| Bicycle commuting growth (2010–2020) | ~60% increase |
 
 ---
 
@@ -110,20 +121,27 @@
 4. Try BCycle day passes if you don't own a bike
 
 ### Everyone
-1. Combine modes — bike to Pearl Street, walk the last blocks through the mall
+1. **Combine modes** — bike to Pearl Street, walk the last blocks through the mall
 2. Use Park & Ride lots if you must drive sometimes
 3. Check RTD bus schedules along Broadway and Canyon
 
 ---
 
-## 📈 Boulder Commute Stats
+## 🗺️ Route Map Data
 
-| Stat | Value |
-|------|-------|
-| Boulder residents who bike to work | ~6% (among highest in the US) |
-| Boulder residents who walk to work | ~10% |
-| Average one-way commute time | ~22 minutes |
-| Bicycle commuting growth (2010–2020) | ~60% increase |
+### Coordinates
+| Location | Latitude | Longitude |
+|---|---|---|
+| Home (45 Oak Avenue) | 40.0449 | -105.2739 |
+| Work (1800 Broadway) | 40.0163 | -105.2790 |
+
+### Key Streets on Route
+1. Oak Avenue
+2. 19th Street
+3. 20th Street
+4. Pearl Street
+5. 18th Street
+6. Canyon Boulevard
 
 ---
 
