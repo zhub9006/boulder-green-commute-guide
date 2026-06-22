@@ -1,0 +1,58 @@
+{
+  "commute": {
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, Boulder County, Colorado, 80304",
+      "coordinates": {
+        "latitude": 40.0448805,
+        "longitude": -105.2738879
+      }
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, Boulder County, Colorado, 80302",
+      "coordinates": {
+        "latitude": 40.0163281,
+        "longitude": -105.2789726
+      }
+    },
+    "distance_km": 4.03,
+    "distance_miles": 2.49,
+    "modes": {
+      "foot": {
+        "distance_km": 4.03,
+        "duration_minutes": 7.1,
+        "duration_seconds": 426,
+        "co2_saved_kg_per_trip": 0.9,
+        "gas_saved_liters_per_trip": 0.35,
+        "calories_burned": 320,
+        "steps_count": 7,
+        "streets": [
+          {"name": "Oak Avenue", "distance_km": 0.097, "duration_seconds": 15.6},
+          {"name": "19th Street", "distance_km": 2.157, "duration_seconds": 208.6},
+          {"name": "20th St.", "distance_km": 0.106, "duration_seconds": 11.9},
+          {"name": "20th Street", "distance_km": 0.566, "duration_seconds": 69.2},
+          {"name": "Pearl Street", "distance_km": 0.216, "duration_seconds": 25.5},
+          {"name": "18th Street", "distance_km": 0.249, "duration_seconds": 36.9},
+          {"name": "Canyon Boulevard", "distance_km": 0.637, "duration_seconds": 58.5}
+        ]
+      },
+      "bike": {
+        "distance_km": 4.03,
+        "duration_minutes": 7.1,
+        "duration_seconds": 426,
+        "co2_saved_kg_per_trip": 0.9,
+        "gas_saved_liters_per_trip": 0.35,
+        "calories_burned": 150,
+        "steps_count": 7,
+        "streets": [
+          {"name": "Oak Avenue", "distance_km": 0.097, "duration_seconds": 15.6},
+          {"name": "19th Street", "distance_km": 2.157, "duration_seconds": 208.6},
+          {"name": "20th St.", "distance_km": 0.106, "duration_seconds": 11.9},
+          {"name": "20th Street", "distance_km": 0.566, "duration_seconds": 69.2},
+          {"name": "Pearl Street", "distance_km": 0.216, "duration_seconds": 25.5},
+          {"name": "18th Street", "distance_km": 0.249, "duration_seconds": 36.9},
+          {"name": "Canyon Boulevard", "distance_km": 0.637, "duration_seconds": 58.5}
+        ]
+      }
+    }
+  }
+}
