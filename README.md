@@ -21,19 +21,20 @@
 
 **Total Distance:** 4.03 km (2.5 miles)  
 **Estimated Time:** ~50 minutes at average walking pace (5 km/h)  
-**Elevation Gain:** Moderate — downtown Boulder has some notable climbs, especially approaching the Flatirons to the west
+**Elevation Gain:** Moderate — Boulder's hilliest downtown area  
+**Route Type:** Sidewalks + Pearl Street Mall (pedestrian-only zone)
 
 ### Turn-by-Turn Directions
 
-| Step | Street | Distance | Est. Time |
-|------|--------|----------|-----------|
-| 1 | **Oak Avenue** — Start southbound from home | 97 m | ~1 min |
-| 2 | **19th Street** — Head south, main north-south arterial | 2.16 km | ~21 min |
-| 3 | **20th St.** — Brief jog east | 106 m | ~1 min |
-| 4 | **20th Street** — Continue south toward downtown | 566 m | ~7 min |
-| 5 | **Pearl Street** — Iconic Boulder pedestrian mall | 216 m | ~3 min |
-| 6 | **18th Street** — Short east-west connector | 249 m | ~4 min |
-| 7 | **Canyon Boulevard** — Arrive at Broadway intersection | 637 m | ~6 min |
+| Step | Street | Distance | Est. Time | Notes |
+|------|--------|----------|-----------|-------|
+| 1 | **Oak Avenue** — Start southbound from home | 97 m | ~1 min | Residential street, low traffic |
+| 2 | **19th Street** — Head south, main north-south arterial | 2.16 km | ~21 min | Use sidewalk; busy road, watch for turns |
+| 3 | **20th St.** — Brief jog east | 106 m | ~1 min | Quick connector southbound |
+| 4 | **20th Street** — Continue south toward downtown | 566 m | ~7 min | Residential/transition zone |
+| 5 | **Pearl Street** — Iconic Boulder pedestrian mall | 216 m | ~3 min | Car-free zone, shops & cafes open up |
+| 6 | **18th Street** — Short east-west connector | 249 m | ~4 min | Brief crossing into Canyon Blvd area |
+| 7 | **Canyon Boulevard** — Arrive at Broadway intersection | 637 m | ~6 min | Tree-lined boulevard, scenic finish |
 
 ### Walking Highlights
 - ✅ **Pearl Street Mall** — Car-free pedestrian corridor, vibrant and safe
@@ -47,19 +48,20 @@
 
 **Total Distance:** 4.03 km (2.5 miles)  
 **Estimated Time:** ~15 minutes at average biking pace (16 km/h)  
-**Elevation Gain:** Moderate — expect some climbs near downtown, with a general southward descent from Oak Avenue
+**Elevation Gain:** Moderate — expect some climbs near downtown  
+**Route Type:** Bike lanes on 19th St & Canyon Blvd; dismount on Pearl Street Mall
 
 ### Turn-by-Turn Directions
 
-| Step | Street | Distance | Est. Time |
-|------|--------|----------|-----------|
-| 1 | **Oak Avenue** — Start southbound from home | 97 m | ~1 min |
-| 2 | **19th Street** — Use the bike lane heading south | 2.16 km | ~3 min |
-| 3 | **20th St.** — Brief jog east | 106 m | ~1 min |
-| 4 | **20th Street** — Continue south in bike lane | 566 m | ~1 min |
-| 5 | **Pearl Street** — Dismount and walk your bike on the mall | 216 m | ~1 min |
-| 6 | **18th Street** — Short connector to Canyon | 249 m | ~1 min |
-| 7 | **Canyon Boulevard** — Bike lane leads to Broadway | 637 m | ~1 min |
+| Step | Street | Distance | Est. Time | Notes |
+|------|--------|----------|-----------|-------|
+| 1 | **Oak Avenue** — Start southbound from home | 97 m | ~1 min | Residential street, bike-friendly |
+| 2 | **19th Street** — Use the bike lane heading south | 2.16 km | ~3 min | Dedicated bike lane; main arterial |
+| 3 | **20th St.** — Brief jog east | 106 m | ~1 min | Quick connector |
+| 4 | **20th Street** — Continue south in bike lane | 566 m | ~1 min |过渡 zone between residential and downtown |
+| 5 | **Pearl Street** — Dismount and walk your bike on the mall | 216 m | ~1 min | Bikes allowed but dismount near pedestrians for safety |
+| 6 | **18th Street** — Short connector to Canyon | 249 m | ~1 min | Brief connector |
+| 7 | **Canyon Boulevard** — Bike lane leads to Broadway | 637 m | ~1 min | Protected bike lane into downtown |
 
 ### Biking Highlights
 - ✅ **Protected bike lanes** on 19th Street and Canyon Boulevard
@@ -77,7 +79,7 @@
 | **Distance** | 4.03 km | 4.03 km | 4.03 km |
 | **Time** | ~50 min | ~15 min | ~10-15 min |
 | **CO₂ per trip** | 0 g | 0 g | ~0.8 kg |
-| **CO₂ per year (200 days)** | 0 kg | 0 kg | ~160 kg |
+| **CO₂ per year (200 work days)** | 0 kg | 0 kg | ~160 kg |
 | **Calories burned** | ~320 kcal | ~150 kcal | 0 kcal |
 | **Cost per trip** | Free | Free | ~$1.50 |
 | **Cost per year** | Free | Free | ~$300 |
@@ -86,10 +88,10 @@
 
 ## 🏙️ Why Sustainable Commuting in Boulder?
 
-- 🌍 **Climate Goals** — Boulder aims to cut GHG emissions 80% by 2050
+- 🌎 **Climate Goals** — Boulder aims to cut GHG emissions 80% by 2050
 - 🚲 **BCycle** — Bike-share stations throughout downtown ($9/day passes)
 - 🛤️ **Shiv Cycle Path** — Protected bike path connecting east Boulder to downtown
-- 🚌 **Pearl Street Mall** — Car-free heart of downtown
+- 🚶 **Pearl Street Mall** — Car-free heart of downtown
 - 🏔️ **Flatirons Views** — Fresh air and mountain views instead of traffic
 
 ---
@@ -144,33 +146,12 @@ git push origin feature/your-route-analysis
 
 ## 📚 Resources
 
-- City of Boulder Transportation — bouldercolorado.gov/transportation
-- Boulder BCycle — boulder-bcycle.com
-- RTD Transit — rtd-denver.com
-- Bicycle Space — bicyclespace.org
-- Boulder Climate Action Plan — bouldercolorado.gov/climate
+- City of Boulder Transportation — [bouldercolorado.gov/transportation](https://bouldercolorado.gov/transportation)
+- Boulder BCycle — [boulder-bcycle.com](https://boulder-bcycle.com)
+- RTD Transit — [rtd-denver.com](https://rtd-denver.com)
+- Bicycle Space — [bicyclespace.org](https://bicyclespace.org)
+- Boulder Climate Action Plan — [bouldercolorado.gov/climate](https://bouldercolorado.gov/climate)
 
 ---
 
 *Made with ❤️ for Boulder, Colorado. Every car-free trip is a step toward a cleaner, healthier community.*
-
-## Repository Structure
-
-### Directories
-- **data/**
-
-### Files
-- commute-data.json (1.2 KB)
-- ENVIRONMENTAL_IMPACT.md (2.2 KB)
-- GETTING_STARTED.md (1.8 KB)
-- neighborhood-analysis.md (2.7 KB)
-- neighborhood-data.json (5.7 KB)
-- README.md (5.7 KB)
-- ROUTE_ANALYSIS.md (1.6 KB)
-- route-coordinates.json (0.6 KB)
-- route-details.md (1.7 KB)
-
-## Links
-
-- **GitHub:** https://github.com/zhub9006/boulder-green-commute-guide
-- **Clone:** `git clone https://github.com/zhub9006/boulder-green-commute-guide.git`
