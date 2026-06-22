@@ -68,7 +68,7 @@ Enjoy the final stretch on **Canyon Boulevard**, a beautiful tree-lined boulevar
 Exit your home heading south on Oak Avenue. This residential street is bike-friendly with low speed limits.
 
 **2. 19th Street (2.16 km, ~3 min)**  
-Turn onto 19th Street and use the **dedicated bike lane** heading south. This is your longest and most important cycling segment. The bike lane is separated from traffic, but stay alert at intersections where right-turning vehicles may cross your path.
+Turn onto 19th Street and use the **dedicated bike lane** heading south. This is your longest and most important cycling segment. The bike lane is separated from traffic, protected bike lane, but stay alert at intersections where right-turning vehicles may cross your path.
 
 > ⚠️ **Caution:** 19th Street can be busy during 7:30–9:00 AM and 4:30–6:00 PM. The bike lane exists but drivers don't always check mirrors.
 
