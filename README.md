@@ -21,7 +21,7 @@
 
 **Total Distance:** 4.03 km (2.5 miles)  
 **Estimated Time:** ~50 minutes at average walking pace (5 km/h)  
-**Elevation Gain:** Moderate — Boulder's hilliest downtown area
+**Elevation Gain:** Moderate — downtown Boulder has some notable climbs, especially approaching the Flatirons to the west
 
 ### Turn-by-Turn Directions
 
@@ -47,7 +47,7 @@
 
 **Total Distance:** 4.03 km (2.5 miles)  
 **Estimated Time:** ~15 minutes at average biking pace (16 km/h)  
-**Elevation Gain:** Moderate — expect some climbs near downtown
+**Elevation Gain:** Moderate — expect some climbs near downtown, with a general southward descent from Oak Avenue
 
 ### Turn-by-Turn Directions
 
@@ -86,10 +86,10 @@
 
 ## 🏙️ Why Sustainable Commuting in Boulder?
 
-- 🌎 **Climate Goals** — Boulder aims to cut GHG emissions 80% by 2050
+- 🌍 **Climate Goals** — Boulder aims to cut GHG emissions 80% by 2050
 - 🚲 **BCycle** — Bike-share stations throughout downtown ($9/day passes)
 - 🛤️ **Shiv Cycle Path** — Protected bike path connecting east Boulder to downtown
-- 🚶 **Pearl Street Mall** — Car-free heart of downtown
+- 🚌 **Pearl Street Mall** — Car-free heart of downtown
 - 🏔️ **Flatirons Views** — Fresh air and mountain views instead of traffic
 
 ---
@@ -152,4 +152,25 @@ git push origin feature/your-route-analysis
 
 ---
 
-*Made with 💚 for Boulder, Colorado. Every car-free trip is a step toward a cleaner, healthier community.*
+*Made with ❤️ for Boulder, Colorado. Every car-free trip is a step toward a cleaner, healthier community.*
+
+## Repository Structure
+
+### Directories
+- **data/**
+
+### Files
+- commute-data.json (1.2 KB)
+- ENVIRONMENTAL_IMPACT.md (2.2 KB)
+- GETTING_STARTED.md (1.8 KB)
+- neighborhood-analysis.md (2.7 KB)
+- neighborhood-data.json (5.7 KB)
+- README.md (5.7 KB)
+- ROUTE_ANALYSIS.md (1.6 KB)
+- route-coordinates.json (0.6 KB)
+- route-details.md (1.7 KB)
+
+## Links
+
+- **GitHub:** https://github.com/zhub9006/boulder-green-commute-guide
+- **Clone:** `git clone https://github.com/zhub9006/boulder-green-commute-guide.git`
