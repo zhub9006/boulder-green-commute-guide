@@ -1,0 +1,56 @@
+{
+  "commute": {
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "latitude": 40.0448805,
+      "longitude": -105.2738879
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "latitude": 40.0163281,
+      "longitude": -105.2789726
+    },
+    "distance_km": 4.03,
+    "distance_miles": 2.5,
+    "analysis_date": "2025-07-11",
+    "data_source": "OpenStreetMap / OSRM"
+  },
+  "walking_route": {
+    "distance_km": 4.03,
+    "estimated_minutes": 48,
+    "pace_kmh": 5.0,
+    "segments": [
+      {"name": "Oak Avenue", "distance_m": 96.6, "duration_min": 1.5},
+      {"name": "19th Street", "distance_m": 2156.5, "duration_min": 3.5},
+      {"name": "20th St.", "distance_m": 106.1, "duration_min": 1.0},
+      {"name": "20th Street", "distance_m": 565.6, "duration_min": 6.5},
+      {"name": "Pearl Street", "distance_m": 216.2, "duration_min": 2.5},
+      {"name": "18th Street", "distance_m": 248.8, "duration_min": 2.5},
+      {"name": "Canyon Boulevard", "distance_m": 636.6, "duration_min": 7.5}
+    ],
+    "waypoints": [
+      {"lat": 40.0448805, "lon": -105.2738879, "name": "Oak Avenue"},
+      {"lat": 40.039879, "lon": -105.272735, "name": "19th Street corridor"},
+      {"lat": 40.016016, "lon": -105.278866, "name": "Canyon Boulevard / 1800 Broadway"}
+    ]
+  },
+  "biking_route": {
+    "distance_km": 4.03,
+    "estimated_minutes": 12,
+    "pace_kmh": 20.0,
+    "segments": [
+      {"name": "Oak Avenue", "distance_m": 96.6, "duration_min": 0.5},
+      {"name": "19th Street", "distance_m": 2156.5, "duration_min": 3.5},
+      {"name": "20th St.", "distance_m": 106.1, "duration_min": 0.5},
+      {"name": "20th Street", "distance_m": 565.6, "duration_min": 1.0},
+      {"name": "Pearl Street", "distance_m": 216.2, "duration_min": 1.0},
+      {"name": "18th Street", "distance_m": 248.8, "duration_min": 1.0},
+      {"name": "Canyon Boulevard", "distance_m": 636.6, "duration_min": 1.5}
+    ],
+    "waypoints": [
+      {"lat": 40.0448805, "lon": -105.2738879, "name": "Oak Avenue"},
+      {"lat": 40.039879, "lon": -105.272735, "name": "19th Street corridor"},
+      {"lat": 40.016016, "lon": -105.278866, "name": "Canyon Boulevard / 1800 Broadway"}
+    ]
+  }
+}
