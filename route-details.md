@@ -1,128 +1,79 @@
-# 📋 Route Details: 45 Oak Avenue → 1800 Broadway
+# Route Details: 45 Oak Avenue → 1800 Broadway
 
-Complete turn-by-turn walking and biking directions for Boulder's most popular sustainable commute corridor.
+## Walking Route
 
----
+- **Total Distance:** 4.03 km (2.5 miles)
+- **Estimated Time:** ~50 minutes (5 km/h average walking pace)
+- **Elevation:** Moderate gain — Starts higher on Oak Avenue (near the foothills), descends southward toward Broadway
+- **Route Type:** Urban streets, mixed commercial/residential, passes through Pearl Street Mall
 
-## Overview
+### Step-by-Step
 
-| | Walking 🚶 | Biking 🚴 |
-|---|---|---|
-| **Total Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) |
-| **Est. Time** | ~50 minutes | ~15 minutes |
-| **Pace** | 5 km/h (3.1 mph) | 16 km/h (10 mph) |
-| **Elevation** | Moderate gain (~60m) | Moderate gain (~60m) |
-| **Surface** | Sidewalks + mall | Bike lanes + mall |
+| # | Street | Distance | Est. Time | Notes |
+|---|--------|----------|-----------|-------|
+| 1 | Oak Avenue | 97 m | ~1 min | Residential start, quiet street, head south |
+| 2 | 19th Street | 2.16 km | ~21 min | Main arterial — use sidewalk, busy during rush hour |
+| 3 | 20th St. | 106 m | ~1 min | Short jog east to continue south |
+| 4 | 20th Street | 566 m | ~7 min | Continue southbound, residential to commercial transition |
+| 5 | Pearl Street | 216 m | ~3 min | **Pedestrian mall zone** — bikes must be walked here |
+| 6 | 18th Street | 249 m | ~4 min | Quick connector through downtown grid |
+| 7 | Canyon Boulevard | 637 m | ~6 min | Tree-lined boulevard into Broadway |
 
----
-
-## 🚶 Walking Directions
-
-### Step 1: Oak Avenue (97 m, ~1 min)
-- Head south from 45 Oak Avenue on the sidewalk
-- Residential street, low traffic
-
-### Step 2: 19th Street (2.16 km, ~21 min)
-- Turn left (east) onto 19th Street
-- This is the main stretch — stay on the sidewalk
-- ⚠️ **Caution:** 19th is a busy arterial with right-turning traffic. Use crosswalks at intersections.
-- You'll pass several blocks of downtown Boulder shops and restaurants on your right
-
-### Step 3: 20th Street jog (106 m, ~1 min)
-- Bear right onto 20th Street — brief jog east
-- Quick connector between 19th and the southbound route
-
-### Step 4: 20th Street (566 m, ~7 min)
-- Continue south on 20th Street
-- Mixed-use area with shops and residences
-- Stay on the sidewalk
-
-### Step 5: Pearl Street Mall (216 m, ~3 min)
-- Enter the **Pearl Street Mall** — Boulder's iconic car-free pedestrian corridor
-- 🎉 This is the most pleasant part of the walk! Enjoy the street performers, cafes, and shopping
-- Bikes are allowed but must yield to pedestrians
-
-### Step 6: 18th Street (249 m, ~4 min)
-- Exit the mall and head east on 18th Street
-- Short connector through downtown
-- Use the crosswalk at intersections
-
-### Step 7: Canyon Boulevard (637 m, ~6 min)
-- Turn left (north) onto Canyon Boulevard
-- Tree-lined boulevard with wide sidewalks
-- You'll see the Flatirons to the left
-- Arrive at 1800 Broadway at the intersection with Canyon Boulevard
+### Walking Tips
+- 🕶️ Wear reflective gear — 19th Street lighting can be uneven at dawn/dusk
+- 🚦 Use crosswalk signals — Boulder's downtown crossings are well-timed
+- ☕ Explore Pearl Street — Coffee or a bite makes the walk part of the experience
+- 🌡️ Winter commute? Add 10-15 min for icy sidewalks near the foothills
 
 ---
 
-## 🚴 Biking Directions
+## Biking Route
 
-### Step 1: Oak Avenue (97 m, ~1 min)
-- Head south from 45 Oak Avenue
-- Residential street, quiet traffic
+- **Total Distance:** 4.03 km (2.5 miles)
+- **Estimated Time:** ~15 minutes (16 km/h average biking pace)
+- **Elevation:** Moderate — the route follows the same streets; traffic-calmed sections make it comfortable
+- **Route Type:** Mix of protected bike lanes and shared streets, dismount zone on Pearl Street Mall
 
-### Step 2: 19th Street bike lane (2.16 km, ~3 min)
-- Turn left (east) onto 19th Street
-- 🚲 Use the **protected bike lane** heading south
-- ⚠️ **Rush hour caution:** Traffic can be heavy 7–9 AM and 4–6 PM
-- Maintain a steady pace in the bike lane
+### Step-by-Step
 
-### Step 3: 20th Street jog (106 m, ~1 min)
-- Bear right onto 20th Street — brief jog east
-- Low-conflict shared path
+| # | Street | Distance | Est. Time | Notes |
+|---|--------|----------|-----------|-------|
+| 1 | Oak Avenue | 97 m | ~1 min | Start from home address, head south |
+| 2 | 19th Street | 2.16 km | ~3 min | Bike lane available; watch for right-turning vehicles |
+| 3 | 20th St. | 106 m | ~1 min | Brief jog east to reconnect |
+| 4 | 20th Street | 566 m | ~1 min | Bike lane continues southbound |
+| 5 | Pearl Street | 216 m | ~1 min | **Dismount zone** — walk bike through pedestrian mall |
+| 6 | 18th Street | 249 m | ~1 min | Connector to Canyon Boulevard |
+| 7 | Canyon Boulevard | 637 m | ~1 min | Protected bike lane to Broadway |
 
-### Step 4: 20th Street bike lane (566 m, ~1 min)
-- Continue south in the bike lane
-- Smooth, dedicated cycling infrastructure
-
-### Step 5: Pearl Street Mall — Dismount (216 m, ~1 min)
-- 🛑 **Dismount and walk your bike** on the Pearl Street Mall
-- This is a pedestrian zone — bikes must be walked here
-- Use the bike rack at the south end of the mall if you need to stop
-
-### Step 6: 18th Street (249 m, ~1 min)
-- Remount your bike and head east on 18th Street
-- Short connector, low traffic
-
-### Step 7: Canyon Boulevard protected bike lane (637 m, ~1 min)
-- Turn left (north) onto Canyon Boulevard
-- 🚲 Ride in the **protected bike lane** (separated from traffic by a buffer)
-- Beautiful tree-lined approach to downtown
-- Arrive at 1800 Broadway
+### Biking Tips
+- 🔒 Lock up with a U-lock at Broadway bike racks near 1800 Broadway
+- 📋 Check City of Boulder bike route maps seasonally
+- 💡 Use lights year-round — short winter days require front/rear lights Nov–Mar
+- 🚲 Try BCycle day passes ($9/day) if you don't own a bike
+- ⚡ Keep right on 19th Street bike lane and signal turns clearly
 
 ---
 
-## 🔒 Parking & Security (Biking)
+## Route Coordinates
 
-- **Bike racks** are available near 1800 Broadway on Canyon Boulevard
-- Use a **U-lock** for maximum security
-- Remove any detachable accessories (lights, bags) before locking
-- Register your bike with the City of Boulder for free anti-theft etching
+**Origin (Home):** 40.0448805, -105.2738879 (Oak Avenue, Boulder, CO 80304)
+**Destination (Office):** 40.0163281, -105.2789726 (1800 Broadway, Boulder, CO 80302)
 
----
+### Full Route Geometry (Key Waypoints)
 
-## 🚌 Transit Alternatives
+| Segment | Latitude | Longitude | Street |
+|---------|----------|-----------|--------|
+| Start | 40.04488 | -105.27389 | Oak Avenue |
+| 19th & Oak | 40.04488 | -105.27328 | Turn onto 19th Street |
+| 19th & 20th | 40.02700 | -105.27275 | Jog east to 20th St |
+| 20th & Pearl | 40.01710 | -105.27350 | Turn onto Pearl Street |
+| Pearl & 18th | 40.01725 | -105.27290 | Jog east to 18th St |
+| End | 40.01602 | -105.27887 | Canyon Blvd & Broadway |
 
-If walking/biking isn't feasible, RTD buses run along Broadway and Canyon Boulevard:
-
-| Route | Corridor | Frequency |
-|-------|----------|-----------|
-| **BT 13** | Broadway ↔ Canyon | Every 15–20 min |
-| **BT 20** | Pearl Street ↔ Downtown | Every 30 min |
-
-RTD day passes: $6.50 | Monthly pass: $78
-
----
-
-## ☀️ Seasonal Notes
-
-| Season | Walking Tips | Biking Tips |
-|--------|-------------|-------------|
-| **Spring (Mar–May)** | Enjoy wildflowers along Canyon Blvd | Start with lights — days are still short |
-| **Summer (Jun–Aug)** | Hydrate! Carry water | Early morning or evening rides avoid heat |
-| **Fall (Sep–Nov)** | Beautiful foliage on 19th St | Layer up — mornings can be chilly |
-| **Winter (Dec–Feb)** | Watch for ice on sidewalks | Use studded tires; lights are essential |
-
----
-
-*Last updated: 2026-06-22 | Data source: OpenStreetMap + OSRM*
+### Key Intersections
+- **Oak Ave & 19th St** — Residential to arterial transition
+- **19th St & 20th St** — Major north-south intersection with bike lane
+- **20th St & Pearl St** — Edge of Pearl Street Mall
+- **Pearl St & 18th St** — Downtown grid connector
+- **Canyon Blvd & Broadway** — Destination intersection with bike parking
