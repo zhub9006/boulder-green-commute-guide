@@ -1,0 +1,44 @@
+{
+  "route": {
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "latitude": 40.0448805,
+      "longitude": -105.2738879
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "latitude": 40.0163281,
+      "longitude": -105.2789726
+    },
+    "distance_km": 4.03,
+    "distance_miles": 2.5,
+    "modes": {
+      "walking": {
+        "time_minutes": 43,
+        "speed_kmh": 5.5,
+        "segments": [
+          {"street": "Oak Avenue", "distance_m": 96.6, "duration_sec": 93},
+          {"street": "19th Street", "distance_m": 2156.5, "duration_sec": 208.6},
+          {"street": "20th St.", "distance_m": 106.1, "duration_sec": 11.9},
+          {"street": "20th Street", "distance_m": 565.6, "duration_sec": 69.2},
+          {"street": "Pearl Street", "distance_m": 216.2, "duration_sec": 25.5},
+          {"street": "18th Street", "distance_m": 248.8, "duration_sec": 36.9},
+          {"street": "Canyon Boulevard", "distance_m": 636.6, "duration_sec": 58.5}
+        ]
+      },
+      "biking": {
+        "time_minutes": 13,
+        "speed_kmh": 18.6,
+        "segments": [
+          {"street": "Oak Avenue", "distance_m": 96.6, "duration_sec": 15.6},
+          {"street": "19th Street", "distance_m": 2156.5, "duration_sec": 208.6},
+          {"street": "20th St.", "distance_m": 106.1, "duration_sec": 11.9},
+          {"street": "20th Street", "distance_m": 565.6, "duration_sec": 69.2},
+          {"street": "Pearl Street", "distance_m": 216.2, "duration_sec": 25.5},
+          {"street": "18th Street", "distance_m": 248.8, "duration_sec": 36.9},
+          {"street": "Canyon Boulevard", "distance_m": 636.6, "duration_sec": 58.5}
+        ]
+      }
+    }
+  }
+}
