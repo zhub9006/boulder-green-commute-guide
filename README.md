@@ -148,6 +148,14 @@ By choosing to walk or bike instead of driving this 4 km commute:
 
 ---
 
+## 📊 Detailed Route Data & Methodology
+
+For granular route-by-route analysis — including OSM coordinate geometry, per-segment speed calculations, environmental data, and neighborhood amenities — see:
+
+- **[DETAILED_OSM_ANALYSIS_OAK_TO_BROADWAY.md](DETAILED_OSM_ANALYSIS_OAK_TO_BROADWAY.md)** — Full OSM routing data with turn-by-turn timing, coordinate sequences, environmental calculations, and modal recommendations
+
+---
+
 ## 📚 Resources
 
 - [City of Boulder Bike Map](https://bouldercolorado.gov/bike-map)
