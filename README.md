@@ -18,7 +18,7 @@ This repository shares walking and biking commute analyses, travel times, and ti
 
 ### Route Overview
 
-Both the walking and biking routes follow the same path through Boulder's core streets, taking advantage of the city's well-connected grid system:
+Both the walking and biking routes follow the same path through Boulder's core streets:
 
 1. **Oak Avenue** — Start in the residential neighborhood (97 m)
 2. **19th Street** — Head south on this major north-south corridor (2.2 km)
@@ -29,10 +29,10 @@ Both the walking and biking routes follow the same path through Boulder's core s
 
 ### Why This Route Works
 
-- **See-and-be-seen streets**: The route passes through Boulder's vibrant downtown core, well-lit and populated during commuting hours.
-- **Flat to moderate terrain**: Boulder's grid follows the natural contour of the land, with gradual elevation changes.
-- **Multi-use paths**: Several segments connect to Boulder's adjacent bike/pedestrian facilities.
-- **No major highway crossings**: Avoids dangerous intersection with US-36.
+- **See-and-be-seen streets**: Passes through Boulder's vibrant downtown core
+- **Flat to moderate terrain**: Gradual elevation changes
+- **Multi-use paths**: Connects to dedicated bike/pedestrian facilities
+- **No major highway crossings**: Avoids dangerous US-36 intersection
 
 ---
 
@@ -42,19 +42,18 @@ Both the walking and biking routes follow the same path through Boulder's core s
 - **Best for**: Short-distance commuters living within 2–3 miles of work
 - **Weather prep**: Boulder's weather shifts quickly — carry layers and rain gear
 - **Pedestrian safety**: Use marked crosswalks
-- **Footwear**: Invest in comfortable walking shoes — the pavement can be hard on joints
-- **Timing**: Allow 10–15 extra minutes during winter months for icy sidewalks
+- **Footwear**: Invest in comfortable walking shoes
+- **Timing**: Allow 10–15 extra minutes during winter for icy sidewalks
 - **Step count**: ~6,000 steps one way
 
 ### 🚲 Biking Tips
-- **Best for**: Commuters who want speed without the cost of driving
-- **Boulder's bike infrastructure**: The city has an extensive network of dedicated bike lanes and multi-use paths
-- **Storage**: Many Boulder businesses offer bike parking; consider a U-lock and optional helmet
-- **Gear**: Lights are essential (Colorado law requires front white and rear red lights at night)
-- **Seasonal riding**: Winter biking is feasible with studded tires and proper visibility gear
+- **Best for**: Commuters who want speed without driving costs
+- **Boulder's bike infrastructure**: The city has an extensive network of dedicated bike lanes
+- **Gear**: Colorado law requires front white and rear red lights at night
+- **Seasonal riding**: Winter biking is feasible with studded tires
 
 ### 🌍 Environmental Impact
-| Mode | Annual CO₂ Savings (vs. car, 5 mi round-trip) | Health Benefit |
+| Mode | Annual CO₂ Savings | Health Benefit |
 |---|---|---|
 | Walking | ~1,200 kg | Cardiovascular fitness, mental health |
 | Biking | ~1,200 kg | Full-body workout, reduced commute time |
@@ -63,31 +62,21 @@ Both the walking and biking routes follow the same path through Boulder's core s
 
 ## Boulder Commuter Resources
 
-- **[Boulder Transportation](https://bouldercolorado.gov/transportation)**: City transportation plans and infrastructure updates
-- **[RTD Bus Services](https://rtd-denver.com)**: Regional transit with Boulder connections
-- **[Boulder BCycle](https://bouldercolorado.gov/transportation/bicycle/master-plan)**: Bike-sharing program
-- **[OpenStreetMap Boulder](https://www.openstreetmap.org/)**: Community-maintained mapping for route planning
+- **[Boulder Transportation](https://bouldercolorado.gov/transportation)**: City plans and infrastructure
+- **[RTD Bus Services](https://rtd-denver.com)**: Regional transit
+- **[Boulder BCycle](https://bouldercolorado.gov/transportation/bicycle/master-plan)**: Bike-sharing
+- **[OpenStreetMap Boulder](https://www.openstreetmap.org/)**: Community mapping
 
 ---
 
 ## Contributing
 
-We welcome contributions from Boulder residents! Share your own commute routes, tips, or updates:
-
-1. Fork this repository
-2. Create a new branch for your contribution
-3. Submit a pull request with your route analysis or tips
-
-### How to Add Your Commute Route
-- Provide start and end addresses
-- Include walking and biking times/distances
-- Note any hazards, shortcuts, or pleasant segments
-- Share seasonal considerations
+Welcome contributions! Fork this repo, create a branch, and submit a pull request with your route analysis or tips.
 
 ---
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+[MIT License](LICENSE)
 
 *Made with ❤️ for a greener Boulder.*
