@@ -144,9 +144,9 @@ The route follows a general southward path from Oak Avenue through the numbered 
 - **Start**: Oak Avenue, 40.04488°N, 105.27389°W
 - **19th Street**: Major north-south corridor
 - **20th Street**: Transition zone
-- **Pearl Street**: Downtown Boulder pedestrian area
-- **18th Street**: Central downtown
-- **End**: Canyon Boulevard, 40.01602°N, 105.27887°W (near 1800 Broadway)
+- **Pearl Street**: Downtown Boulder pedestrian area |
+| 18th Street | Central downtown |
+| **End**: Canyon Boulevard, 40.01602°N, 105.27887°W (near 1800 Broadway) |
 
 ---
 
