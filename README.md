@@ -1,4 +1,4 @@
-# Boulder Green Commute Guide 🌲🚶🚲
+# Boulder Green Commute Guide 🌿
 
 A comprehensive, data-driven guide to sustainable commuting options in Boulder, Colorado — designed to help residents reduce their carbon footprint by choosing walking, biking, and other green transportation alternatives.
 
@@ -43,97 +43,95 @@ This guide features a detailed analysis of a typical Boulder commute from **45 O
 - 🏙️ Passes through downtown Boulder's vibrant Pearl Street Mall area
 - ☕ Great coffee shops and cafes along the route for a mid-walk break
 - 🌳 Tree-lined streets in North Boulder provide shade in summer
-- 📸 Plenty of public art and murals to enjoy along the way
+- 🎨 Plenty of public art and murals to enjoy along the way
 
 #### Walking Tips:
 - Bring a water bottle — Boulder's altitude (5,430 ft) means you dehydrate faster
 - Wear layers — morning temps can be 20°F cooler than afternoon
-- Use the Boulder Creek Path segment for a more scenic route along the creek
 
----
-
-### 🚲 Biking Route Details
+### 🚴 Biking Route Details
 
 **Total Distance:** 4.03 km (2.5 miles)  
-**Estimated Time:** ~15 minutes at a comfortable biking pace (15 km/h)  
-**Elevation Gain:** Similar to walking route — moderate southward incline
+**Estimated Time:** ~10–15 minutes at a moderate biking pace (15–17 km/h)  
+**Elevation Gain:** Gentle southward descent makes the return trip slightly harder
 
 #### Turn-by-Turn Biking Directions:
 
 1. **Start on Oak Avenue** — Head south from 45 Oak Avenue (100 m)
-2. **Turn onto 19th Street** — Continue south for ~2.2 km; 19th has bike lanes for much of its length
-3. **Turn onto 20th Street** — Brief east jog (~100 m)
-4. **Continue on 20th Street** — Head south for ~565 m
-5. **Turn onto Pearl Street** — Enter downtown via Pearl Street; dismount and walk your bike on the Pedestrian Mall if preferred (~216 m)
-6. **Turn onto 18th Street** — Brief segment (~249 m)
-7. **Arrive via Canyon Boulevard** — Continue to 1800 Broadway (~637 m)
+2. **Turn onto 19th Street** — Continue south on 19th Street for ~2.2 km; bike-influenced corridor
+3. **Turn onto 20th Street** — Brief jog east on 20th St (~100 m)
+4. **Continue on 20th Street** — Head south for ~565 m toward downtown
+5. **Turn onto Pearl Street** — Turn east onto Pearl Street (~216 m)
+6. **Turn onto 18th Street** — Brief segment on 18th Street (~249 m)
+7. **Arrive via Canyon Boulevard** — Continue to 1800 Broadway at Canyon Boulevard (~637 m)
 
 #### Biking Highlights:
-- 🛤️ Dedicated bike lanes on several segments of 19th Street
-- 🌊 The Boulder Creek Path offers a scenic, low-stress biking alternative
-- 🏢 End in downtown Boulder with ample bike parking at 1800 Broadway
-- ⚡ E-bike friendly — with an e-bike, this commute drops to ~8-10 minutes
+- 🚲 Uses streets with established bike infrastructure
+- 🏔️ Gentle terrain — mostly flat with a slight southward grade
+- 🔒 Plenty of bike racks downtown near Pearl Street Mall
+- 🌄 Canyon Boulevard offers scenic approach to downtown
 
 #### Biking Tips:
-- Use Boulder's bike lane network — 19th St and 20th St have protected lanes
-- Dismount on Pearl Street Mall — bikes are allowed but walking your bike is courteous
-- Scout the route in daylight first — some street crossings can be busy during rush hour
-- Consider a cargo bike or bike trailer for commuting with gear
+- Always wear a helmet and use lights at dawn/dusk
+- Consider an e-bike for a comfortable commute with less sweat
+- Use dedicated bike lanes where available
+- Plot your route using Boulder's greenway paths when possible
 
 ---
 
-## Monthly Impact Calculator
+## 📊 Commute Comparison
 
-If you commute 5 days/week, 22 days/month:
-
-| Mode | Monthly Trips | Monthly Distance | CO₂ Saved/Month | Time Spent/Month |
-|------|--------------|-----------------|-----------------|-----------------|
-| 🚶 Walking | 22 | 88 km (55 mi) | ~19 kg CO₂ | ~17.6 hours |
-| 🚲 Biking | 22 | 88 km (55 mi) | ~17.6 kg CO₂ | ~5.5 hours |
-| 🚗 Driving (for comparison) | 22 | 88 km (55 mi) | 0 kg saved | ~2.5 hours |
-
-**Annual Impact of Biking Instead of Driving:**
-- 🌍 ~211 kg CO₂ saved per year (equivalent to planting ~10 trees)
-- 💰 ~$500-$800 saved on fuel and parking
-- 💪 ~1,300 calories burned per week (health benefits!)
+| Mode | Distance | Time (typical) | CO₂ Saved (per trip) | Calories Burned |
+|------|----------|---------------|---------------------|----------------|
+| 🚗 Driving | 4.03 km | ~5 min | 0 kg | 0 |
+| 🚶 Walking | 4.03 km | 45–55 min | ~1.0 kg | ~150–200 kcal |
+| 🚴 Biking | 4.03 km | 10–15 min | ~0.8 kg | ~50–80 kcal |
 
 ---
 
-## Additional Boulder Green Commute Resources
+## 🌍 Why Choose Sustainable Commuting?
 
-### 🚌 Public Transit
-- **Boulder Valley Regional Transportation District (RTD)** — Bus routes connect North Boulder to downtown
-- **Boulder Bike Share** — Available at multiple downtown stations for one-way trips
-- **Smart Route planner** — [bouldertransit.com](https://bouldertransit.com)
-
-### 🛤️ Bike Infrastructure
-- **Boulder Creek Path** — 12+ miles of paved, car-free trail following Boulder Creek
-- **US-36 Bikeway** — Protected bike lane connecting Boulder to Louisville
-- **City Bike Racks** — Free bike parking throughout downtown
-
-### 🚶 Walkability
-- **Boulder's Walk Score: 72** — Very Walkable
-- Downtown Boulder is pedestrian-friendly with wide sidewalks and crosswalks
-- The Pearl Street Mall is completely car-free
+| Benefit | Impact |
+|---------|--------|
+| **Reduced emissions** | Zero carbon footprint per trip |
+| **Health benefits** | Improved cardiovascular health, mental wellness |
+| **Cost savings** | No fuel, parking, or car maintenance costs |
+| **Traffic reduction** | Less congestion on Broadway and Pearl Street |
+| **Community** | Support Boulder's climate action goals |
 
 ---
 
-## Contribute
+## 🏔️ Boulder-Specific Considerations
 
-Have a green commute route you'd like to share? Found a better bike path? Open an issue or submit a PR to help grow this guide!
+- **Altitude:** ~5,430 ft — stay hydrated and pace yourself, especially when starting out
+- **Weather:** Colorado weather changes quickly — carry layers and rain gear
+- **Bike parking:** 1800 Broadway area has bike racks — lock up securely
+- **Seasonal commute:** Summer offers the best conditions for both walking and biking
 
-### How to Add a New Route:
-1. Fork this repository
-2. Add your route details in `/routes/` using the template
-3. Include: start/end addresses, distance, estimated times, terrain notes, safety tips
-4. Submit a pull request
+### Seasonal Tips
+
+| Season | Walking | Biking |
+|--------|---------|--------|
+| ☀️ Summer | Hydrate often; carry sun protection | Best riding season; watch for afternoon storms |
+| 🍂 Fall | Comfortable; enjoy fall colors | Ideal cycling weather |
+| ❄️ Winter | Watch for ice on sidewalks | Use studded tires; shorter days require lights |
+| 🌸 Spring | Unpredictable — dress in layers | Melt cycles can make paths soggy |
 
 ---
 
-## License
+## 📁 Additional Resources
 
-This project is open source and available under the [MIT License](LICENSE).
+- **[Environmental Impact Guide](environmental-impact-guide.md)** — Deep dive into CO₂ savings, health benefits, and cost analysis
+- **[Route Coordinates](data/route-coordinates.json)** — Machine-readable route data for mapping tools
+
+## 🤝 Contributing
+
+Know a great Boulder commuting route? Have tips for new residents? Contributions are welcome!
+
+1. Fork the repository
+2. Add your route analysis or tips
+3. Submit a pull request
 
 ---
 
-*Last updated: 2025 | Data sources: OpenStreetMap, Boulder Valley RTD*
+*Data sourced from OpenStreetMap via the OSM routing API*
