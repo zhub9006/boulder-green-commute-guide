@@ -1,0 +1,47 @@
+{
+  "commute": {
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, Colorado",
+      "coordinates": {
+        "latitude": 40.0448805,
+        "longitude": -105.2738879
+      }
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, Colorado",
+      "coordinates": {
+        "latitude": 40.0163281,
+        "longitude": -105.2789726
+      }
+    },
+    "distance_km": 4.03,
+    "distance_miles": 2.5,
+    "modes": {
+      "walking": {
+        "duration_minutes": 48,
+        "pace_minutes_per_km": 11.9,
+        "calories_burned": 320,
+        "co2_saved_kg": 0.8,
+        "steps_estimated": 5300
+      },
+      "biking": {
+        "duration_minutes": 16,
+        "pace_minutes_per_km": 4.0,
+        "calories_burned": 150,
+        "co2_saved_kg": 0.8,
+        "steps_estimated": 0
+      }
+    },
+    "route_stops": [
+      "Oak Avenue",
+      "19th Street",
+      "20th St.",
+      "20th Street",
+      "Pearl Street",
+      "18th Street",
+      "Canyon Boulevard"
+    ],
+    "analysis_date": "2025-06-27",
+    "data_source": "OpenStreetMap"
+  }
+}
