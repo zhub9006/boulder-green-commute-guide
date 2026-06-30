@@ -1,38 +1,65 @@
-# Additional Boulder Sustainable Transit Tips 💡
+# 🚌 Transit Tips for Your Boulder Commute
 
-## Beyond Walking & Biking
+**Route:** 45 Oak Avenue → 1800 Broadway  
+**Best for:** Bad weather days, days you need a break from walking/biking, or hybrid commute options  
 
-### RTD Bus Service
-Boulder is served by the Regional Transportation District (RTD) bus system:
-- **Route 1B**: Frequent service along Pearl Street Mall
-- **Route 20**: Connects north Boulder to downtown
-- **HOP, SKIP, and Stampede**: Rapid bus services with limited stops
+---
 
-### Bike-Share Programs
-- Boulder has **BCycle** stations throughout downtown
-- Check the **Pearl Street** and **Canyon Boulevard** stations near your route
+## RTD Bus Option (Hybrid)
 
-### Safe Routes Tips
-- **Use the Boulder Creek Path** — A dedicated multi-use path running through downtown
-- **Canyon Boulevard** has bike lanes for much of its length
-- **Pearl Street Mall** is pedestrian-only — perfect for a walking commute
-- Be aware of Boulder's variable weather — carry rain gear in spring/summer
+### Route: Bike + Bus #3
 
-## Seasonal Considerations
+1. **Bike** from 45 Oak Avenue to **19th & Broadway Station** (~0.3 km, already on your walking/biking route)
+2. **Lock bike** at the station bike rack
+3. **Board Bus Line 3** heading toward Boulder Transit Center
+4. **Get off** at **18th & Pearl Street Station** (usually 2–3 stops, ~3–7 min)
+5. **Walk** or **bike** 150 m east to 1800 Broadway
 
-| Season | Walking | Biking | Notes |
-|--------|---------|--------|-------|
-| 🌸 Spring | Great | Great | Watch for rain and snowmelt on paths |
-| ☀️ Summer | Great | Great | Dry conditions, stay hydrated |
-| 🍂 Fall | Great | Great | Beautiful foliage along Canyon BLVD |
-| ❄️ Winter | Good | Fair | Ice on paths; studded tires recommended |
+**Total time:** ~15–20 min (including wait time)
+**Cost:** $2–3/trip ($100/month RTD pass)
+**Bike rack:** Standard RTD bus bike racks hold 2 bikes each — free with fare
 
-## Making the Switch
+### RTD Bus Schedule Tip
+- Lines 3 and 10 run frequently on 19th St and 18th St during weekday rush hours (7–9 AM, 3–6 PM)
+- Check real-time arrivals at https://rtd-denver.com or use the **Transit app**
 
-Start small:
-1. **Walk one day** — Try the 43-minute walk to start your day with exercise
-2. **Bike twice a week** — The 12-minute bike ride is perfect for regular commutes
-3. **Combine with transit** — Walk to the nearest RTD stop and bus the rest
-4. **Carpool on bad weather days** — Use the rainy/snowy days as carpool opportunities
+---
 
-Every sustainable trip counts! 🌿
+## Boulder B-Cycle (E-Bike Share)
+
+- **Stations near your route:**
+  - **Broadway & 18th Street** — closest to 1800 Broadway
+  - **Folsom Street @ 19th Street** — near the middle of your route
+- **Pricing:** $9/day unlimited rides, ~$100/month, or ~$140/year
+- **E-bikes available** — great for combatting the 5,200 ft elevation!
+- **Best for:** Coders working late (no personal bike at office), visitors, or those wanting to try before buying
+
+---
+
+## Weather-Based Commute Planning
+
+| Weather Condition | Recommended Mode | Backup Mode |
+|-------------------|------------------|-------------|
+| Clear, mild (50–80°F) 🌤 | Walking or biking | — |
+| Rain 🌧 | Biking (with rain gear) or RTD bus | Walking only if safe |
+| Snow/ice ❄ | RTD bus or Boulder B-Cycle e-bike | Carpool if must |
+| Extreme heat (90°F+) 🔥 | RTD bus (cool air) | Walking early AM |
+| High winds 💨 | Walking (more stable) | Biking if experienced |
+| Allergy season 🌸 | Biking with mask | Walking |
+
+---
+
+## Boulder's Active Transportation Resources
+
+| Resource | Link |
+|----------|------|
+| RTD Schedules & Trip Planner | https://rtd-denver.com |  
+| Boulder Moun t - Winter Biking | https://bouldercolorado.gov/b-cycle |
+| Boulder's Bike Map | https://bouldercolorado.gov/street-bike-lane-type |
+| BCycle Boulder — Stations Map | https://www.gocycl e.com/stations-boulder |
+ | |
+| */  
+
+---  
+
+*🚌 RTD * *

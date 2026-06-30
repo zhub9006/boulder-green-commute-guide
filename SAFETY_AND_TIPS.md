@@ -1,122 +1,123 @@
-# Safety Tips & Commuting Best Practices for Boulder
+# 🛡️ Safety & Seasonal Tips for Your Boulder Green Commute
 
-## 🚶 Walking Safety on Your Route
-
-### Route Safety Profile
-- **Overall safety:** Very good — this route uses well-lit, high-traffic streets in a college town
-- **Peak pedestrian hours:** 7–9 AM and 4–6 PM along 19th Street and downtown
-- **Late evening (< 8 PM):** Oak Avenue is quiet but well-lit; be cautious at 19th St intersections
-- **Pearl Street Mall:** Safe and well-patrolled; popular with families, students, and tourists
-
-### General Walking Safety
-| Tip | Details |
-|---|---|
-| **Visibility** | Wear bright colors in low light; carry a flashlight in winter months |
-| **Crossings** | Use marked crosswalks; make eye contact with drivers at 19th St |
-| **Headphones** | Keep volume low or use one earbud to hear traffic |
-| **Weather** | Watch for wet leaves (fall) and ice (winter) on sidewalks |
-| **Personal Safety** | Well-trafficked route in a college town — low crime risk |
+**Route:** 45 Oak Avenue → 1800 Broadway (4.03 km / 2.5 miles)
 
 ---
 
-## 🚲 Biking Safety on Your Route
+## 🚲 Biking Safety Tips
 
-### Route Safety Profile
-- **19th Street bike lane** is the most exposed segment — watch for:
-  - Right-turning vehicles at intersections (19th & Oak, 19th & 20th)
-  - Parked car doors ("dooring") — stay at least 1m from parked cars
-  - CU student pedestrians crossing unpredictably near campus
-- **Canyon Boulevard** is generally very safe for bikes with protected infrastructure
-- **Pearl Street Mall** — always dismount and walk; biking through a pedestrian zone is illegal and dangerous
+### Always Wear a Helmet
+- Boulder has a strong helmet culture — make it part of your commute kit
+- Consider a MIPS-equipped helmet for better side-impact protection at 5,200 ft elevation
 
-### Essential Biking Gear
-| Item | Recommendation | Why It Matters |
-|---|---|---|
-| **Helmet** | Required by Colorado law (under 18); recommended for all | Head injury prevention |
-| **Front light** | White, minimum 500 lumens for dawn/dusk | Visibility to drivers |
-| **Rear light** | Red, flashing mode | Visibility from behind |
-| **Bell/horn** | Required by Colorado law | Alert pedestrians on shared paths |
-| **Lock** | U-lock + cable for Canyon Blvd racks | Prevent theft at downtown destination |
+### Pre-Ride Checklist
+| Check | What | How |
+|-------|------|-----|
+| 💡 | Lights (front/rear) | Daily check — even daytime use recommended
+| 🔗 | Brakes | Squeeze both levers firmly
+| 🛞 | Tires | Check pressure (Boulder roads can be rough)
+| 🔧 | Chain | Quick lube weekly
+| 🎦 | Quick releases | Ensure wheels are secure
+| 🪖 | Helmet | Snug fit, straps correctly adjusted
 
-### Biking in Boulder
-- **Speed limit on 19th St:** 25 mph — slow to 10–15 mph in the bike lane
-- **Boulder's ranking:** Consistently ranked among top 10 bike-friendly US cities
-- **B-Cycle bike share:** Alternative to owning a bike — stations within 3 blocks of both ends
+### Intersection Safety
 
----
+| Intersection | Risk Level | Tip |
+|--------------|------------|-----|
+| 19th & Folsom | 🟡 Medium | Right-turning cars — expect at all intersections |
+| 19th & 20th | 🟢 Low | Bike signal and dedicated turn lane |
+| 20th & Pearl | 🔴 High | Heavy pedestrian traffic — slow down and signal |
+| Canyon & Broadway | 🟡 Medium | Multi-lane turn — take the lane if needed |
 
-## ⚠️ Common Hazards & How to Avoid Them
-
-| Hazard | Location | Solution |
-|---|---|---|
-| Turning cars | 19th & Oak, 19th & 20th | Wait for walk signal; bikers use hand signals and stay visible |
-| Dooring (parked cars) | 19th St between Oak and 20th | Ride at least 1m (3 ft) from parked vehicles |
-| Pedestrian crossings | 20th/Pearl intersection | Slow down; expect CU student foot traffic |
-| Mall congestion | Pearl Street Mall | Always dismount and walk bikes through |
-| Wet leaves | Canyon Blvd (fall) | Slow down — leaves are slippery on paths |
-| Ice patches | Canyon Blvd & 20th St (winter) | Use studded tires; walk bike on ice sections |
-| Sun glare | Canyon Blvd (morning southbound) | Wear sunglasses; road runs north-south |
+### Group Riding
+- **Boulder Greenways** offers weekly group rides — join for safety and social benefits!
+- Ride two-abreast where legal and safe, single file on narrow streets
+- Use hand signals: left arm straight for left turn, left arm up for right turn
 
 ---
 
-## 🌦️ Seasonal Safety Guide
+## 🚶 Walking Safety Tips
 
-### Boulder-Specific Weather Patterns
-- **Altitude:** Boulder sits at ~1,580 m (5,180 ft) — UV exposure is **40% stronger** than at sea level
-- **Rapid weather changes:** Afternoon thunderstorms (summer), sudden snow (winter)
-- **Wind:** Canyon Boulevard can be windy, especially southbound heading downtown
+### Day vs. Night
 
-| Month | Walking Comfort | Biking Comfort | Key Advisory |
-|---|---|---|---|
-| **Jan** | ❄️ Cold; ice possible | ❄️ Very cold; icy paths | Studded tires; transit backup for icy days |
-| **Feb** | ❄️ Cold; snow | ❄️ Cold; lingering ice | Same as January |
-| **Mar** | 🌨️ Late snow; mud | 🌨️ Rain/snow mix | Waterproof gear; watch for slush |
-| **Apr** | 🌸 Pleasant; wet | 🌧️ Spring rain | Rain jacket; bike fenders |
-| **May** | ☀️ Great | ☀️ Great | Prime biking season begins |
-| **Jun** | ☀️ Great; hot | ☀️ Great; hot | Morning/evening commute; carry water |
-| **Jul** | ☀️ Hot; storms | ☀️ Hot; storms | Start early; check forecast |
-| **Aug** | ☀️ Hot; storms | ☀️ Hot; storms | Same as July; rain cover for bag |
-| **Sep** | 🍂 Perfect | 🍂 Excellent | Best month for both modes |
-| **Oct** | 🍂 Great; cooler | 🍂 Great; leaf cover | Watch slippery leaves on paths |
-| **Nov** | 🌧️ Cold; wet | 🌧️ Chilly; early snow | Layers; studded tires if early snow |
-| **Dec** | ❄️ Cold; ice | ❄️ Very cold; ice | Transit backup recommended |
+| Condition | Recommendation |
+|-----------|---------------|
+| Daytime | Walk the route confidently — well-lit streets with sidewalks |
+| Evening | Stick to well-lit sections (Canyon Blvd especially); carry a light |
+| Winter early morning | Wear reflective gear; sunrise is late in Boulder (~7:30 AM in winter) |
 
-*Snow removal priority: Primary roads (19th, Canyon) cleared first; side streets and Pearl Street Mall may have lingering snow/ice.*
+### Pedestrian-Only Zones
+- **Pearl Street Mall** — be aware of pedestrians, especially during summer outdoor dining season
+- Bikes must be walked in the mall — watch for tourists unfamiliar with this rule
 
 ---
 
-## 🏢 Destination Safety (1800 Broadway)
+## 🌤️ Seasonal Guide
 
-- 1800 Broadway is in **downtown Boulder**, near the Boulder Junction area
-- Bike parking: Racks at Canyon Blvd / 18th St intersection
-- Indoor bike parking may be available in building lobby — check with management
-- Well-lit area with evening foot traffic; safe at all hours
+| Season | Walking | Biking | Key Advisory |
+|--------|---------|--------|
+| **Spring** (Mar–May) | ✅ Great | ✅ Great | Wildflowers along Canyon Rd. Rain/sleet may slick streets. | |
+| **Summer** (Jun–Aug) | ✅ Great (AM) | ✅ Great (AM) | Afternoon thunderstorms — ride early. Carry water! | |
+| **Fall** (Sep–Nov) | ✅ Great | ✅ Great | Cooler temps = ideal biking. Fall foliage on 19th St! | |
+| **Winter** (Dec–Feb) | ✅ OK | ⚠️ Careful | Ice/snow possible. Use studded tires; salt on roads may be patchy. | |
 
----
+### Summer Heat (Jun–Aug)
+- Start early (before 8 AM) to avoid heat
+- Carry 500 ml+ of water — Boulder's altitude (5,200 ft) increases dehydration risk
+- Sunscreen and a hat are essential even on partly cloudy days
 
-## Emergency Resources
+### Winter Riding (Dec–Feb)
+- **Studded tires** strongly recommended for icy mornings
+- **Lights front + rear** essential — winter darkness is early and late
+- Allow 5–10 min extra for cautious riding
+- Major hills are rare on this route but bridge crossings may freeze
+- Bike parking at 1800 Broadway may be snow-covered — arrive early to clear your rack
 
-| Service | Contact | Notes |
-|---|---|---|
-| **Boulder PD** | 911 (emergency) / 303-441-3331 (non-emergency) |  |
-| **Boulder Fire Rescue** | 911 |  |
-| **RTD Transit (late-night)** | 303-299-6000 | Bus routes serve both ends of commute |
-| **CU Police** | 303-492-6664 | Near 19th St / University area |
-
----
-
-## 💡 General Commuting Tips
-
-| Tip | Details |
-|---|---|
-| **Start small** | Alternate 1–2 days/week walking/biking before going daily |
-| **Check weather** | Boulder forecasts change fast — check morning forecast |
-| **Carry essentials** | Water, sunscreen (year-round!), small first aid kit |
-| **Plan backup** | RTD bus routes serve both ends of commute for bad-weather days |
-| **BUDDY SYSTEM** | Find a coworker neighbor with a similar route for motivation |
-| **Time management** | Walking adds ~40 min vs. biking; biking adds ~5 min vs. driving |
-| **Equipment** | Visit University Bicycles or REI Boulder for gear recommendations |
+### Allergy Season (Apr–May)
+- Pollen counts can be high in Boulder spring — consider a mask if you have allergies
+- Wash hands/face after your commute (pollen on hands → face contact)
 
 ---
 
-*Safety first — adapt your pace and timing to conditions. When in doubt, take the 66 RT Bus!*
+## 🆘 Emergency & Hazard Resources
+
+| Resource | Contact | When to Use |
+|----------|---------|-------------|
+| CU Police Non-Emergency | 303-492-6666 | Suspicious activity, non-urgent safety concern |
+| Boulder Traffic Control | 303-441-3443 | Road hazards, construction issues |
+| RTD Transit Emergency | 303-299-7382 | Safety concern on RTD property |
+| Bicycle Emergency (Flat/Mechanical) | 720-555-BIKE (local shops) | Bike breakdown en route |
+| Poison Control | 1-800-222-1222 | Ingestion/allergic reaction |
+
+### Boulder Emergency Alerts
+- Sign up for **Boulder County Alerts:** https://www.boulderoasis.com/alert
+- Enable **WE warnings** on your phone for severe weather
+
+---
+
+## 🎒 Commute Gear Checklist
+
+### For Walking
+- [ ] Comfortable walking shoes with good tread
+- [ ] Reflective vest/jacket (for dawn/dusk)
+- [ ] Small daypack for essentials
+- [ ] Reusable water bottle (1L minimum)
+- [ ] Sunscreen (even in winter!
+- [ ] Lightweight rain jacket for unpredictable BL storms
+- [ ] Phone with offline maps & emergency contacts saved
+
+### For Biking
+- [ ] Certified helmet (MIPS recommended)
+- [ ] Front & rear lights (charge daily)
+- [ ] Bell (required by Colorado law)
+- [ ] Lock (U-lock + cable for extra security)
+- [ ] Repair kit (tube, tire levers, mini pump)
+- [ ] Water bottle with cage
+- [ ] Backpack or pannier for work items
+- [ ] Sunglasses
+- [ ] Sunscreen
+- [ ] Studded tires (Dec–Feb)
+
+---
+
+*Stay safe, stay sustainable, and enjoy the ride!* 🌿

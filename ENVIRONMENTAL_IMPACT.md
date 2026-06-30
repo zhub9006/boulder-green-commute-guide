@@ -1,127 +1,112 @@
-# Environmental Impact Analysis
+# 🌍 Environmental Impact: Your Green Commute
 
-> **Route:** 45 Oak Avenue ↔ 1800 Broadway, Boulder, CO
-> **Distance:** 4.03 km (2.5 miles) per one-way trip
-> **Data source:** OpenStreetMap routing + EPA emission factors
-> **Last updated:** 2025
+**Route:** 45 Oak Avenue → 1800 Broadway, Boulder, CO  
+**Distance:** 4.03 km (2.5 miles) one way  
 
 ---
 
-## 📊 Emission Factors
+## 🚗 vs. 🚶‍♂️ vs. 🚲 CO₂ Emissions Comparison
 
-| Transportation Mode | CO₂ per km | CO₂ per trip (4.03 km) | CO₂ per year (200 workdays) |
-|---------------------|-----------|----------------------|---------------------------|
-| **Walking** | 0 g/km | **0 g** | **0 g** |
-| **Biking** | 0 g/km | **0 g** | **0 g** |
-| **Electric Transit (RTD)** | ~50 g/km | ~201 g | ~40 kg |
-| **Hybrid Car** | ~120 g/km | ~484 g | ~97 kg |
-| **Gasoline Car (avg)** | ~200 g/km | ~806 g | ~161 kg |
-| **Single-Occupancy Car** | ~220 g/km | ~887 g | ~177 kg |
+| Mode | CO₂ per Trip (kg) | CO₂ per Year (250 RT) | Money Saved vs. Driving |
+|------|--------------------|-----------------------|------------------------|
+| 🚗 Driving (avg car) | ~0.80 | ~200 kg | Baseline |
+| 🚶‍♂️ Walking | ~0.00 | ~0 kg | ~$2,060–$3,760/year |
+| 🚲 Biking | ~0.00 | ~0 kg | ~$2,060–$3,760/year |
+| 🚌 RTD Bus | ~0.20 | ~50 kg | ~$1,500/year |
 
-> *Note: Emission factors include vehicle manufacturing, fuel production (Well-to-Wheel), and operational emissions. Transit figures account for average occupancy.*
+### Per-Trip Breakdown
 
----
+**Walking (4.03 km / 50–55 min):**
+- 0.00 kg CO₂ emitted or avoided
+- ~500 kcal burned
+- Zero infrastructure cost for the trip
 
-## 🌍 Your Personal Impact
+**Biking (4.03 km / 15–20 min):**
+- 0.00 kg CO₂ emitted or avoided
+- ~250 kcal burned
+- Zero emissions (assuming regular bike); e-bike: ~0.005 kg/trip (negligible)
 
-### By Walking vs. Driving (One Round Trip Per Day)
+**Driving (4.03 km / 10–15 min):**
+- ~0.8 kg CO₂ per trip (assuming 20 mpg car)
+- ~3.5 kg CO₂ per trip (if driving alone in an SUV — calculation based on EPA data)
 
-| Metric | Per Day | Per Month (20 days) | Per Year (250 days) |
-|--------|---------|---------------------|---------------------|
-| **CO₂ Saved** | ~1.6 kg | ~32 kg | ~400 kg |
-| **Money Saved** | ~$3.00 | ~$60 | ~$750 |
-| **Car Miles Avoided** | 8.06 km | 161 km | 2,015 km (1,253 mi) |
-| **Calories Burned** | ~600 kcal | ~12,000 kcal | ~150,000 kcal |
-
-### By Biking vs. Driving (One Round Trip Per Day)
-
-| Metric | Per Day | Per Month (20 days) | Per Year (250 days) |
-|--------|---------|---------------------|---------------------|
-| **CO₂ Saved** | ~1.6 kg | ~32 kg | ~400 kg |
-| **Money Saved** | ~$3.00 | ~$60 | ~$750 |
-| **Car Miles Avoided** | 8.06 km | 161 km | 2,015 km (1,253 mi) |
-| **Calories Burned** | ~300 kcal | ~6,000 kcal | ~75,000 kcal |
+> **Note:** Boulder's climate is semi-arid and the altitude (5,200 ft) means car engines operate less efficiently. Cars in Boulder may produce 10–15% slightly more CO₂ per mile than at sea level.
 
 ---
 
-## 🏢 Office-Scale Impact
+## 📊 Annual Impact (5 days/week × 50 weeks = 250 round trips)
 
-If everyone at **1800 Broadway** switched to green commuting:
+### Walking
+| Metric | Annual Total |
+|--------|-------------|
+| CO₂ Avoided | ~200 kg (440 lbs) |
+| Calories Burned | ~125,000 kcal |
+| Car Miles Avoided | ~2,015 km (1,253 mi) |
+| Money Saved | ~$2,060–$3,760 |
+| Trees Equivalent | ~8 tree-years of CO₂ absorption |
 
-| Scenario | Commuters | Daily CO₂ Saved | Annual CO₂ Saved | Monthly $ Saved (fuel+parking) |
-|----------|-----------|-----------------|------------------|-------------------------------|
-| **10% switch (walk/bike)** | 5 people | ~8 kg | ~2,000 kg (2 tonnes) | ~$900 |
-| **25% switch (walk/bike)** | 13 people | ~21 kg | ~5,200 kg (5.2 tonnes) | ~$2,340 |
-| **50% switch (walk/bike)** | 25 people | ~40 kg | ~10,000 kg (10 tonnes) | ~$4,500 |
-| **75% switch (walk/bike)** | 38 people | ~60 kg | ~15,000 kg (15 tonnes) | ~$6,750 |
-| **100% switch (walk/bike)** | 50 people | ~80 kg | ~20,000 kg (20 tonnes) | ~$9,000 |
+### Biking
+| Metric | Annual Total |
+|--------|-------------|
+| CO₂ Avoided | ~200 kg (440 lbs) |
+| Calories Burned | ~62,500 kcal |
+| Car Miles Avoided | ~2,015 km (1,253 mi) |
+| Money Saved | ~$2,060–$3,760 |
+| Cars Taken Off Road (equiv.) | ~1 fewer car on the road for 2,000 km of driving prevented |
 
-### Equivalencies for 20,000 kg CO₂ Saved Annually (100% switch):
-- 🌲 **330 trees** planted and grown for one year to absorb that CO₂
-- 🏠 **2.1 average US homes** worth of electricity use offset for a year
-- 🚗 **11,000 km** not driven (equivalent to driving from Boulder to New York and back)
-- ⛽ **1,800 liters** of gasoline not burned
-
----
-
-## 📈 Scaling Up: Boulder Citywide
-
-If Boulder's estimated **150,000 residents** each replaced just **one car trip per week** with walking or biking:
-
-| Metric | Annual Impact |
-|--------|---------------|
-| **CO₂ Saved** | ~48,000,000 kg (48 metric tons) |
-| **Car Miles Avoided** | ~1,215,000,000 km (755 million miles) |
-| **Gasoline Saved** | ~43,000,000 liters |
-| **Health Savings** | Reduced healthcare costs from increased physical activity |
-| **Traffic Reduction** | Equivalent to taking ~25,000 cars off the road daily |
+### Combined Walking + Biking (3 days walk / 2 days bike, 250 RT)
+| Metric | Annual Total |
+|--------|-------------|
+| CO₂ Avoided | ~160 kg |
+| Calories Burned | ~106,250 kcal |
+| Money Saved | ~$2,060–$3,760 |
 
 ---
 
-## 🎯 Carbon Budget Perspective
+## 🏙️ Boulder's Climate Context
 
-The average American generates about **16 metric tons of CO₂ per year** from personal transportation.
+### Boulder's Climate Action Plan
+- **Goal:** 80% Reduction in GHG emissions by 2050 (from 2005 levels)
+- **Focus:** Transportation is Boulder's **largest GHG source** (~36% of community emissions)
+- **Target:** Get **60% of commuters** using sustainable modes by 2030
 
-By walking or biking this commute instead of driving:
-- **One traveler** switching 5 days/week saves **~400 kg/year** = **2.5% of personal transport carbon budget**
-- **One traveler** switching 5 days/week saves **~177 kg of gasoline** = enough to fill a small swimming pool
-- If 50 people at your office switch: **~20,000 kg/year** = taking **~4.3 cars off the road** for a year
+### If 10% of Boulder Commuters Switched...
+Based on Boulder's estimated 50,000+ daily car commuters:
 
----
+| Metric | Impact |
+|--------|--------|
+| Commuters switching | ~5,000 people |
+| CO₂ avoided annually | ~5,000 metric tons |
+| Car miles avoided | ~8 million miles |
+| Health savings (medical) | ~$1.2 million/year |
+| Traffic reduction | Noticeable impact on 19th St & Broadway corridors |
 
-## 🏆 Boulder's Climate Goals
-
-Boulder's [Climate Action Plan](https://www.bouldercolorado.gov/climate) targets:
-- **80% reduction in community-wide GHG emissions by 2050** (from 2005 baseline)
-- **100% renewable electricity by 3030**
-- **Transportation is the largest emissions source (~36%)** — making active transportation critical
-
-Every walk or bike trip directly supports Boulder's climate goals!
-
----
-
-## 💡 Additional Environmental Benefits
-
-Beyond CO₂ reduction, green commuting provides:
-
-| Benefit | Impact |
-|---------|--------|
-| **Reduced air pollution** | Less NOₓ, PM2.5, and VOCs — healthier air for the whole community |
-| **Less noise pollution** | Quieter streets = better quality of life |
-| **Reduced road wear** | Lower maintenance costs for the city |
-| **Less parking demand** | More space for parks, housing, and businesses |
-| **Stormwater management** | Less impervious surface from parking lots |
-| **Biodiversity** | More green space, less habitat fragmentation |
+### Boulder's Premier Ranking
+- **#1 in Colorado** for bike infrastructure
+- **Top 10 nationally** among bike-friendly communities (PeopleForBikes)
+- First US city to **fund open space with a sales tax** (1967!)
+- 45,000+ acres of **permanently protected open space** (60%+ of city)
 
 ---
 
-## 🔗 Additional Resources
+## 🔄 Beyond Commuting: Other Sustainable Transport Options
 
-- **Boulder Climate Action Plan:** [bouldercolorado.gov/climate](https://www.bouldercolorado.gov/climate)
-- **EPA Carbon Footprint Calculator:** [epa.gov/carbon-footprint-calculator](https://www.epa.gov/carbon-footprint-calculator)
-- **CO₂ Equivalencies Calculator:** [epa.gov/energy/greenhouse-gas-equivalencies-calculator](https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator)
-- **Boulder's Transportation Master Plan:** [bouldercolorado.gov/transportation](https://www.bouldercolorado.gov/transportation)
+| Option | Description | Best For |
+|--------|-------------|----------|
+| **BL Cast & Ride** | Free via on-demand microtransit in central Boulder | Short trips within downtown area |
+| **RTD Bus + Bike** | Bike on bus (racks available) + ride for part of commute | Bad weather or missed bike friends. |
+| **Boulder B-cycle** | E-bike share at ~$9/day or ~$100/month | No personal bike days. | |
+| **Carpool/Vanpool** | If you must drive, share with 1+ colleagues | Cost-sharing and HOV use |
+| **Telecommute** | Work from home 1–2 days/week | Major commute elimination |
 
 ---
 
-*Small changes, big impact. Every car-free trip is a vote for a cleaner Boulder.* 🌱
+## 📚 Further Reading & References
+
+- **Boulder Climate Action Plan:** https://bouldercolorado.gov/climate-action-plan
+- **EPA Greenhouse Gas Equivalencies Calculator:** https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator
+- **Boulder Climate Mobilization Plan 2025 Update:** https://bouldercolorado.gov/bccdi
+
+---
+
+*Every trip you make by foot or bike is a victory for Boulder's climate goals. Keep it up!* 🌱

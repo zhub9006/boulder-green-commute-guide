@@ -1,1 +1,116 @@
-{"commute_name": "Oak Avenue to Broadway", "description": "Walking and biking route analysis from 45 Oak Avenue to 1800 Broadway in Boulder, Colorado", "origin": {"address": "45 Oak Avenue, Boulder, CO 80304", "latitude": 40.0448805, "longitude": -105.2738879, "elevation_m": 1580}, "destination": {"address": "1800 Broadway, Boulder, CO 80302", "latitude": 40.0163281, "longitude": -105.2789726, "elevation_m": 1560}, "total_distance_km": 4.03, "total_distance_miles": 2.51, "elevation_drop_m": 20, "last_updated": "2026-06-30", "data_source": "OpenStreetMap", "route_segments": [{"name": "Oak Avenue", "distance_m": 97, "walking_time_s": 16, "biking_time_s": 6, "type": "residential"}, {"name": "19th Street", "distance_m": 2157, "walking_time_s": 209, "biking_time_s": 90, "type": "main_corridor"}, {"name": "20th St. Connector", "distance_m": 106, "walking_time_s": 12, "biking_time_s": 4, "type": "connector"}, {"name": "20th Street", "distance_m": 566, "walking_time_s": 69, "biking_time_s": 23, "type": "residential"}, {"name": "Pearl Street", "distance_m": 216, "walking_time_s": 26, "biking_time_s": 0, "type": "pedestrian_mall", "note": "Dismount and walk your bike"}, {"name": "18th Street", "distance_m": 249, "walking_time_s": 37, "biking_time_s": 10, "type": "downtown_connector"}, {"name": "Canyon Boulevard", "distance_m": 637, "walking_time_s": 59, "biking_time_s": 25, "type": "protected_bike_lane_corridor"}], "waypoints": [{"label": "Start: 45 Oak Ave", "lat": 40.04488, "lon": -105.27389}, {"label": "Oak → 19th St junction", "lat": 40.04488, "lon": -105.27275}, {"label": "19th St midpoint", "lat": 40.03989, "lon": -105.2727}, {"label": "20th St start", "lat": 40.03788, "lon": -105.27268}, {"label": "Pearl St area", "lat": 40.0255, "lon": -105.2726}, {"label": "18th St / Canyon Blvd", "lat": 40.01602, "lon": -105.27887}, {"label": "End: 1800 Broadway", "lat": 40.01633, "lon": -105.27897}], "walking_total_time_min": 55, "biking_total_time_min": 17, "mode_times": {"walking": {"minutes": 55, "calories_per_trip_kcal": 500, "co2_saved_kg": 0.8}, "biking": {"minutes": 17, "calories_per_trip_kcal": 250, "co2_saved_kg": 0.8}}}
+{
+  "route": {
+    "name": "Oak Avenue to Broadway",
+    "city": "Boulder, CO",
+    "last_updated": "2025-06-01",
+    "home": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "latitude": 40.0448805,
+      "longitude": -105.2738879,
+      "elevation_m": 1580
+    },
+    "work": {
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "latitude": 40.0163281,
+      "longitude": -105.2789726,
+      "elevation_m": 1560
+    }
+  },
+  "distance_km": 4.03,
+  "segments": [
+    {
+      "id": 1,
+      "street": "Oak Avenue",
+      "latitude": 40.0448805,
+      "longitude": -105.2738879,
+      "distance_m": 97,
+      "walking_time_s": 73,
+      "biking_time_s": 16
+    },
+    {
+      "id": 2,
+      "street": "19th Street",
+      "latitude": 40.040099,
+      "longitude": -105.272741,
+      "distance_m": 2157,
+      "walking_time_s": 290,
+      "biking_time_s": 90
+    },
+    {
+      "id": 3,
+      "street": "20th St. connector",
+      "latitude": 40.033903,
+      "longitude": -105.272687,
+      "distance_m": 106,
+      "walking_time_s": 13,
+      "biking_time_s": 4
+    },
+    {
+      "id": 4,
+      "street": "20th Street",
+      "latitude": 40.025517,
+      "longitude": -105.272523,
+      "distance_m": 566,
+      "walking_time_s": 418,
+      "biking_time_s": 23
+    },
+    {
+      "id": 5,
+      "street": "Pearl Street (walk bike zone)",
+      "latitude": 40.024026,
+      "longitude": -105.271039,
+      "distance_m": 216,
+      "walking_time_s": 162,
+      "biking_time_s": 30,
+      "note": "Dismount zone — pedestrian-only mall"
+    },
+    {
+      "id": 6,
+      "street": "18th Street",
+      "latitude": 40.023542,
+      "longitude": -105.270871,
+      "distance_m": 249,
+      "walking_time_s": 185,
+      "biking_time_s": 10
+    },
+    {
+      "id": 7,
+      "street": "Canyon Boulevard",
+      "latitude": 40.016016,
+      "longitude": -105.278866,
+      "distance_m": 637,
+      "walking_time_s": 388,
+      "biking_time_s": 25
+    }
+  ],
+  "totals": {
+    "distance_m": 4026,
+    "walking_time_min": 50,
+    "biking_time_min": 17,
+    "elevation_change_m": -20
+  },
+  "mode_scores": {
+    "walking": {
+      "time_min": 50,
+      "co2_kg_avoided": 0.8,
+      "calories_burned": 500,
+      "cost_usd": 0,
+      "exposure_to_elements": "moderate"
+    },
+    "biking": {
+      "time_min": 17,
+      "co2_kg_avoided": 0.8,
+      "calories_burned": 250,
+      "cost_usd": 0,
+      "exposure_to_elements": "moderate"
+    }
+  },
+  "nearby_blocks": [
+    {
+      "id": "WB-CM",
+      "name": "West Boulder Commons",
+      "lat": 40.01633,
+      "lon": -105.27897
+    }
+  ]
+}
