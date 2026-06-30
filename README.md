@@ -31,7 +31,7 @@ A practical guide for Boulder, Colorado residents to make sustainable travel cho
 
 ---
 
-## 📂 Guide Contents
+## 📋 Guide Contents
 
 | File | Description |
 |---|---|
@@ -78,16 +78,17 @@ Boulder is committed to reducing greenhouse gas emissions under its [Climate Act
 - Reduce traffic congestion on key corridors like 19th Street
 - Save money on gas, parking, and vehicle maintenance
 
-## 🏪 Route Amenities
+## 🌺 Route Amenities
 
 **Don't miss** — [Route Amenities & POIs](route-amenities-and-pois.md) — coffee, lunch, bike repair, bike parking, and errands along your commute. Your route passes through 28+ businesses!
 
 | Quick Links | |
 |---|---|
-| ☕ **Coffee & Tea** | Capital One Cafe, Ku Cha House of Tea, Tea & Cakes |
+| ☕ **Coffee & Tea** | Ku Cha House of Tea, Tea & Cakes, Capital One Cafe |
 | 🍴 **Lunch** | Jax Fish House, Pasta Jay's, Wahoo's Fish Taco |
 | 🚲 **Bike Services** | University Bicycles (downtown), REI Boulder |
-| ♿ **Bike Parking** | Canyon Blvd racks near 18th Street |
+| ♿ **Bike Parking** | Canyon Blvd racks near 18th Street, 10-capacity covered bike shelters |
+| 🚌 **Transit** | RTD Bus stops on 19th Street (5+ stops within 2 blocks of route) |
 
 ## 🛤️ Resources
 
@@ -126,7 +127,7 @@ This guide is open-source. If you have improvements — better routes, new bike 
 
 ---
 
-*Data sourced from OpenStreetMap and GitHub routing analysis. Last updated: 2025–2026.*
+*Data sourced from OpenStreetMap and GitHub routing analysis. Last updated: June 2026.*
 
 ## License
 
