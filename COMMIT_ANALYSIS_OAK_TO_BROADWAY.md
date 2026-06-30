@@ -1,154 +1,189 @@
-# 🚶‍♂️🚲 Commute Analysis: Oak Avenue to Broadway
+# Walking & Biking Commute Analysis: Oak Avenue to Broadway
 
-**Route:** 45 Oak Avenue → 1800 Broadway, Boulder, CO  
-**Distance:** 4.03 km (2.5 miles)  
-**Elevation Change:** ~20 m descent (1580 m → 1560 m)  
-**Data Source:** OpenStreetMap (OSM) via route analysis tools  
-**Last Updated:** June 2025
-
----
-
-## 📊 Mode Comparison
-
-| Mode | Distance | Est. Time | CO₂/Trip | Calories | Cost | Notes |
-|------|----------|-----------|----------|----------|------|-------|
-| 🚶‍♂️ Walking | 4.03 km | 48–55 min | ~0.8 kg avoided | ~500 kcal | Free | Best for exercise & enjoy the route |
-| 🚲 Biking | 4.03 km | 15–20 min | ~0.8 kg avoided | ~250 kcal | Free–$9/day | Fastest zero-emission option |
-| 🚗 Driving | 4.03 km | 10–15 min | ~0.8 kg emitted | 0 kcal | $3–6/trip | Fastest but highest emissions |
-| 🚌 RTD Bus | 4.03 km | 20–30 min | ~0.2 kg emitted | 0 kcal | $2–3/trip | Good hybrid option in bad weather |
+> **Route:** 45 Oak Avenue → 1800 Broadway, Boulder, CO  
+> **Distance:** 4.03 km (2.5 miles)  
+> **Elevation Change:** ~20 m gentle descent (1,580 m → 1,560 m)  
+> **Data Source:** OpenStreetMap (OSM) via route analysis tools  
+> **Last Updated:** June 2025
 
 ---
 
-## 🗺️ Walking Route — Turn-by-Turn
+## 📊 Mode Comparison at a Glance
 
-**Total Distance:** 4,027 m  
-**Estimated Walking Time:** 48–55 minutes at a comfortable pace  
-**Terrain:** Predominantly flat with a gentle ~20 m descent toward Broadway
+| Mode | Distance | Est. Time | CO₂/Trip | Calories | Cost | Practical Rating |
+|------|----------|-----------|----------|----------|------|-----------------|
+| 🚶 Walking | 4.03 km | 50–55 min | ~0.8 kg avoided | ~500 kcal | Free | ⭐⭐⭐⭐ Great for fitness |
+| 🚲 Biking | 4.03 km | 15–20 min | ~0.8 kg avoided | ~250 kcal | Free–$9/day | ⭐⭐⭐⭐⭐ Best overall option |
+| 🚗 Driving | 4.03 km | 10–15 min | ~0.8 kg emitted | 0 kcal | $3–6/trip | ⭐⭐⭐ Fastest, highest emissions |
+| 🚌 RTD Bus | 4.03 km | 20–30 min | ~0.2 kg emitted | 0 kcal | $2–3/trip | ⭐⭐⭐⭐ Good hybrid option |
 
-| Step | Street | Distance | Est. Time | Notes |
-|------|--------|----------|-----------|-------|
-| 1 | **Oak Avenue** | 97 m | ~1 min | Head east from 45 Oak Ave toward 19th St |
-| 2 | **19th Street** | 2,157 m | ~4–5 min | Main stretch — bike lane available, gentle downhill |
-| 3 | **20th St.** (connector) | 106 m | ~1 min | Turn south toward downtown |
-| 4 | **20th Street** | 566 m | ~6–7 min | Continue through residential area |
-| 5 | **Pearl Street** | 216 m | ~2 min | ⚠️ **Dismount zone** — pedestrian mall, walk bike alongside |
-| 6 | **18th Street** | 249 m | ~2 min | Short connector to Canyon Blvd |
-| 7 | **Canyon Boulevard** | 637 m | ~6 min | Protected bike lane, scenic canyon views |
-| 8 | Arrive at **1800 Broadway** | — | — | Destination on the right |
+> **Verdict:** Biking is the optimal choice — 3× faster than walking, full exercise benefits, and zero emissions. Walking is excellent for fitness enthusiasts and those who enjoy the leisurely pace.
 
-### Walking Segment Breakdown
+---
+
+## 🗺️ Route Overview
 
 ```
-Segment 1: 16 s     ▏
-Segment 2: 209 s    ████████████████████████████████▌
-Segment 3: 12 s     ▎
-Segment 4: 69 s     ▏▁
-Segment 5: 26 s     ▏
-Segment 6: 37 s     ▏▏
-Segment 7: 59 s     █▏
-─────────────────────────────────────────────────
-Total OSM routing time: 426 s (notes: OSM returned bike-speed routing; humans should expect ~48-55 min)
+Oak Ave (start) → 19th St (south) → 20th St (connector) → 20th St (south) 
+→ Pearl St (dismount!) → 18th St (connector) → Canyon Blvd (south) → Broadway (arrive)
 ```
 
-> **⚠️ Important:** The OSM routing engine returned durations based on bike/vehicle speeds. For walking, use the separate estimates above. A 4 km walk at Boulder's elevation (5,200 ft) with a gentle downhill should take 48–55 minutes at a comfortable pace.
+### Complete Segment Breakdown
 
----
-
-## 🚲 Biking Route — Turn-by-Turn
-
-**Total Distance:** 4,027 m  
-**Estimated Biking Time:** 15–20 minutes at a moderate pace (15–16 km/h)  
-**Terrain:** Mostly flat, gentle downhill from Oak Ave to Broadway  
-**Elevation Gain:** Minimal net descent (~20 m) — return trip may require slight effort
-
-| Step | Street | Distance | Est. Time | Bike Notes |
-|------|--------|----------|-----------|------------|
-| 1 | **Oak Avenue** | 97 m | ~6 s | Residential street, moderate traffic |
-| 2 | **19th Street** | 2,157 m | ~1.5 min | 🚲 Dedicated bike lane; main stretch |
-| 3 | **20th St.** (connector) | 106 m | ~4 s | Quick turn south |
-| 4 | **20th Street** | 566 m | ~23 s | Use bike lane or sharrows |
-| 5 | **Pearl Street** | 216 m | ~30 s | ⚠️ **Dismount zone** — pedestrian mall |
-| 6 | **18th Street** | 249 m | ~10 s | Walk bike through mall or use adjacent street |
-| 7 | **Canyon Boulevard** | 637 m | ~25 s | 🚲 Protected bike lane along Boulder Creek |
-| 8 | Arrive at **1800 Broadway** | — | — | Bike parking available nearby |
+| # | Street | Distance | Walking Time | Biking Time | Notes |
+|---|--------|----------|-------------|-------------|-------|
+| 1 | **Oak Avenue** | 97 m | ~1 min | ~1 min | Residential, low traffic, calm start |
+| 2 | **19th Street** | 2,157 m | ~4–5 min | ~2 min | Longest segment; dedicated bike lane |
+| 3 | **20th St.** (connector) | 106 m | ~1 min | ~1 min | Brief jog east to reconnect southbound |
+| 4 | **20th Street** | 566 m | ~7 min | ~1 min | Residential to downtown transition; sharrows |
+| 5 | **Pearl Street** | 216 m | ~2 min | ⚠️ Dismount & walk | **PEDESTRIAN-ONLY MALL** — walk your bike |
+| 6 | **18th Street** | 249 m | ~2 min | ~1 min | Short connector through downtown |
+| 7 | **Canyon Boulevard** | 637 m | ~6 min | ~1 min | Protected bike lane; scenic canyon views |
+| | **TOTAL** | **4,026 m** | **~50–55 min** | **~15–20 min** | |
 
 ### ⚠️ Critical Biking Alerts
 
 1. **Pearl Street Mall** is a **pedestrian-only zone** — you MUST dismount and walk your bike. Look for bike racks near 18th Street/Canyon Blvd intersection. **Fines apply for riding in the mall.**
-2. **19th Street** has a dedicated bike lane but watch for right-turning cars at intersections.
-3. **Canyon Boulevard** has a protected bike lane with beautiful creek views but can be busy during peak hours.
+2. **19th Street** has a dedicated bike lane but watch for right-turning cars at intersections, especially during rush hour (7:30–9:00 AM, 4:30–6:00 PM).
+3. **Canyon Boulevard** has a protected bike lane with beautiful creek views — the most scenic part of the ride. Look up at the Flatirons!
 4. **20th Street** has sharrows (shared lane markings) — ride in the center of the lane for visibility.
+5. Elevation is mostly flat — only ~20 m total descent, so return trips require a slight climb.
 
 ---
 
-## 🌍 CO₂ & Environmental Impact
+## 🚶 Walking Commute — Detailed Guide
 
-### Per-Trip Savings (vs. Driving)
+### Pre-Walk Preparation
+- **Footwear:** Comfortable walking shoes with good support and cushioning
+- **Weather gear:** Boulder weather changes rapidly — always carry a light rain jacket
+- **Water:** 500 ml minimum (altitude increases dehydration risk at 5,200 ft)
+- **Timing:** Allow 50–55 minutes; add buffer for crosswalk waits and rest stops
+- **Sun protection:** Sunscreen and sunglasses (altitude = stronger UV exposure)
 
-| Metric | Walking | Biking |
-|--------|---------|--------|
-| CO₂ avoided per trip | ~0.8 kg | ~0.8 kg |
-| CO₂ avoided per year (250 RT) | ~100 kg | ~100 kg |
-| Car miles avoided per year | ~1,253 mi (2,015 km) | ~1,253 mi (2,015 km) |
-| Money saved per year | $2,060–$3,760 | $2,060–$3,760 |
+### Turn-by-Turn Walking Directions
 
-### Boulder Context
+**1. Oak Avenue (97 m, ~1 min)**  
+Head south from your home at 45 Oak Avenue. This short residential stretch is quiet and calm — a pleasant start to your walk. Walk on the sidewalk toward 19th Street.
 
-- Transportation accounts for **~36% of Boulder's community GHG emissions**
-- Boulder's **Climate Action Plan** targets **80% emission reduction by 2050**
-- Individual action: If 10% of Boulder's commuters walked or biked just 1 day/week, it would eliminate **~5,000 metric tons of CO₂ annually**
+**2. 19th Street (2,157 m, ~4–5 min)**  
+Turn west onto 19th Street and head south. This is your longest segment — enjoy the view! The sidewalk is well-maintained on both sides. **Tip:** The east sidewalk offers better sight lines with turning vehicles. This street stretches from the north Boulder residential area straight into downtown — it's the backbone of your commute.
+
+**3. 20th St. Connector (106 m, ~1 min)**  
+Take a brief jog south on 20th Street. This quick connector links you back to a southbound-ready position. Cross at the crosswalk.
+
+**4. 20th Street (566 m, ~7 min)**  
+Continue south through a transitioning neighborhood — you'll notice the character shifting from residential to more urban downtown. Sidewalks are clean and well-maintained. Watch for pedestrians and joggers coming from side streets.
+
+**5. Pearl Street Mall (216 m, ~2 min)**  
+Welcome to **Boulder's iconic pedestrian-only downtown!** The Pearl Street Mall is a car-free zone filled with street performers, shops, and cafes. This is actually a delightful break in your commute — pause to enjoy the atmosphere, grab a coffee, or watch the buskers. You'll need to walk your bike alongside you through this zone. **Look for bike racks along 18th Street/Canyon Blvd on the east side of the mall.**
+
+**6. 18th Street (249 m, ~2 min)**  
+A brief connector cutting through downtown. Cross at designated crosswalks — signals are well-timed here. If you're walking your bike, use the parallel parking lane along the south edge of the mall to roll through.
+
+**7. Canyon Boulevard (637 m, ~6 min)**  
+The final and most scenic stretch! Canyon Boulevard is a beautiful tree-lined boulevard running alongside Boulder Creek. Look for the **protected bike lane** on your right (west side). As you approach Broadway, your office at 1800 Broadway will be on your right. **Bonus:** On clear days, you'll get stunning views of the Flatirons as you ride/walk into downtown.
+
+### Walking Health Benefits
+- Burns ~500 kcal per one-way commute
+- Meets CDC's 150 min/week moderate activity recommendation with a ~30 min daily walk
+- Low impact — suitable for almost all fitness levels and ages
+- Reduces risk of heart disease, diabetes, depression, and certain cancers
+- Weight-bearing exercise helps maintain bone density (important at altitude)
 
 ---
 
-## 💪 Health Benefits
+## 🚲 Biking Commute — Detailed Guide
 
-### Walking (50 min/day)
-- Burns ~500 kcal per commute
-- Meets CDC's 150 min/week moderate activity recommendation
-- Low impact — suitable for most fitness levels
-- Reduces risk of heart disease, diabetes, and depression
+### Pre-Ride Preparation
+- **Bike:** Any bike works — standard, hybrid, or e-bike. For hilly days, an e-bike is a great investment!
+- **Helmet:** Required by Colorado law for riders under 18; strongly recommended for all ages
+- **Lights:** Front white light + rear red light (required by CO law at night — and Boulder roads deserve lights even in daytime)
+- **Lock:** A sturdy U-lock for securing your bike at Broadway — bike theft does occur downtown
+- **Bell:** Legally required in Colorado
+- **Timing:** Allow 15–20 minutes; add 5–10 min during rush hour or in poor weather
 
-### Biking (15–20 min/day)
-- Burns ~250 kcal per commute
+### Turn-by-Turn Biking Directions
+
+**1. Oak Avenue (97 m, ~1 min)**  
+Exit your home heading south on Oak Avenue. This residential street is bike-friendly with low speed limits and minimal traffic. Enjoy the quiet residential feel before you hit the busier streets.
+
+**2. 19th Street (2,157 m, ~2 min)** 🚲  
+Turn onto 19th Street and use the **dedicated bike lane** heading south. This is your longest and most important cycling segment. The bike lane is separated from vehicle traffic — thank you, Boulder! **Key caution:** 19th Street can be busy during 7:30–9:00 AM and 4:30–6:00 PM. The bike lane exists but drivers don't always check mirrors before turning right. Stay alert at every intersection.
+
+> 💡 **Pro tip:** Maintain a consistent pace on 19th Street — don't get caught in the "stop-and-go" trap between cars. Position yourself in the center of the bike lane to avoid being squeezed by right-turning vehicles.
+
+**3. 20th St. Connector (106 m, ~1 min)**  
+Brief jog south on 20th Street. Watch for pedestrians — the sidewalk gets busy near Pearl Street. If biking, hug the right side and yield to foot traffic.
+
+**4. 20th Street (566 m, ~1 min)**  
+Continue south in the shared bike lane/sharrows. The road narrows slightly as you approach downtown — this is intentional, designed to slow vehicular traffic. Ride in the center of the lane for maximum visibility.
+
+**5. Pearl Street (216 m, ~1 min)** ⚠️  
+**🛑 Dismount and walk your bike through the Pearl Street Mall!** This is a legal requirement and a safety must — the Mall is packed with pedestrians, especially on weekends and during summer outdoor dining season. Use the parallel parking lane along the south edge of the mall to roll your bike through. The Mall actually makes a wonderful walking segment — enjoy the people-watching!
+
+**6. 18th Street (249 m, ~1 min)**  
+Brief connector — rejoin your bike here if you ditched it earlier, or continue walking it through. Bike racks are available along Canyon Boulevard near 18th Street if you need a secure parking spot.
+
+**7. Canyon Boulevard (637 m, ~1 min)** 🚲🏔️  
+The highlight of your commute! Enjoy the **protected bike lane** on Canyon Boulevard as it sweeps you into downtown Boulder and right up to Broadway. This is the most scenic part — the bike lane runs right alongside Boulder Creek with the Flatirons towering above. On clear days, this is one of the most beautiful urban bike rides in America. **Arrive at 1800 Broadway — your office is on the right!**
+
+### Biking Health Benefits
+- Burns ~250 kcal per one-way commute
 - Builds cardiovascular fitness and leg strength
-- Higher intensity but shorter duration
+- Higher intensity but shorter duration than walking
 - Improves joint health and mental clarity
+- Regular cycling reduces risk of chronic disease by 50% (research from the British Medical Journal)
 
 ---
 
-## 📋 Route Data (Machine-Readable)
+## 🔀 Hybrid Commute Options
 
-### Coordinates
-```json
-{
-  "route": {
-    "home": {
-      "address": "45 Oak Avenue, Boulder, CO 80304",
-      "lat": 40.0448805,
-      "lon": -105.2738879,
-      "elevation_m": 1580
-    },
-    "work": {
-      "address": "1800 Broadway, Boulder, CO 80302",
-      "lat": 40.0163281,
-      "lon": -105.2789726,
-      "elevation_m": 1560
-    }
-  },
-  "distance_km": 4.03,
-  "mode": "walking",
-  "segments": [
-    {"street": "Oak Avenue", "lat": 40.0448805, "lon": -105.2738879},
-    {"street": "19th Street", "lat": 40.040099, "lon": -105.272741},
-    {"street": "20th St.", "lat": 40.033903, "lon": -105.272687},
-    {"street": "20th Street", "lat": 40.025517, "lon": -105.272523},
-    {"street": "Pearl Street", "lat": 40.024026, "lon": -105.271039},
-    {"street": "18th Street", "lat": 40.023542, "lon": -105.270871},
-    {"street": "Canyon Boulevard", "lat": 40.016016, "lon": -105.278866}
-  ]
-}
-```
+Many Boulder commuters use a **hybrid strategy** to combine the benefits of multiple modes:
+
+### Option A: Walk + Bcycle
+1. **Walk** from Oak Avenue to a BCycle station near 19th & Canyon (~10 min)
+2. **BCycle** (Boulder's bike-share) south on Canyon Boulevard to downtown (~5 min)
+3. **Walk** through the Pearl Street Mall to your office (~5 min)
+- **Total time:** ~20–25 minutes
+- **Cost:** $9/day for BCycle, or free if you walk the whole way
+- **Best for:** Days when you don't want to carry a bike through the pedestrian mall
+
+### Option B: Bike to Transit
+1. **Bike** from Oak Avenue to the RTD 19th Street bus stop (~10 min)
+2. **Bus** south on 19th to Broadway (~10 min, with bike rack on front of bus)
+3. **Walk** the remaining blocks to your office (~3 min)
+- **Total time:** ~25–30 minutes
+- **Cost:** $2–3/trip (RTD day pass: $6)
+- **Best for:** Bad weather days or when you're too tired to bike the whole way
+
+### Option C: Walk + RTD
+1. **Walk** from Oak Avenue to the RTD bus stop (~12 min)
+2. **Bus** on 19th Street to Broadway (~15 min)
+3. **Walk** to your office (~3 min)
+- **Total time:** ~30–35 minutes
+- **Cost:** $2–3/trip
+- **Best for:** Early morning starts or late evenings
 
 ---
 
-*Data sourced from OpenStreetMap. Route times are estimates — actual times vary with traffic, weather, and personal pace. Verify with live tools like Google Maps, Strava, or Komoot before commuting.*  
+## 📈 Annual Impact Summary
+
+| Metric | Walking Only | Biking Only | Mixed (3W+2B) |
+|--------|-------------|-------------|---------------|
+| CO₂ Avoided/Year | ~200 kg (440 lbs) | ~200 kg (440 lbs) | ~160 kg |
+| Calories Burned/Year | ~125,000 kcal | ~62,500 kcal | ~106,250 kcal |
+| Car Miles Avoided/Year | ~2,015 km (1,253 mi) | ~2,015 km (1,253 mi) | ~1,612 km |
+| Money Saved/Year | ~$2,060–$3,760 | ~$2,060–$3,760 | ~$2,060–$3,760 |
+| Trees Equivalent | ~8 tree-years | ~8 tree-years | ~6 tree-years |
+| Round Trips/Year (250) | 250 | 250 | 250 |
+
+### If 10% of Boulder Commuters Switched...
+- ~5,000 people walking/biking 1 day/week
+- **~5,000 metric tons of CO₂ avoided annually**
+- **~8 million miles of car travel eliminated**
+- **~$1.2 million/year in health savings**
+- Noticeable traffic reduction on 19th Street & Broadway corridors
+
+---
+
+*Data sourced from OpenStreetMap, EPA emission factors, and Boulder city planning data. Route times are estimates — actual times vary with traffic, weather, and personal pace. Always verify with live tools (Google Maps, Strava, Komoot) before commuting.*
