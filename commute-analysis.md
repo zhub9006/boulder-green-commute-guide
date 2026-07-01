@@ -1,93 +1,54 @@
-# Detailed Commute Analysis: 45 Oak Avenue → 1800 Broadway
+# Commute Analysis: Oak Avenue → 1800 Broadway
 
 ## Route Overview
 
-| Property | Value |
-|----------|-------|
+| Detail | Value |
+|--------|-------|
 | **Origin** | 45 Oak Avenue, Boulder, CO 80304 |
 | **Destination** | 1800 Broadway, Boulder, CO 80302 |
 | **Total Distance** | 4.03 km (~2.5 miles) |
-| **Coordinates (Home)** | 40.0448805, -105.2738879 |
-| **Coordinates (Office)** | 40.0163281, -105.2789726 |
+| **Elevation Change** | Moderate (southbound descent into downtown) |
+
+## Walking vs. Biking Comparison
+
+### 🚶 Walking
+
+- **Distance:** 4.03 km
+- **Estimated Time:** ~48 minutes (at 5 km/h average walking pace)
+- **Terrain:** Mostly flat with a gentle southbound grade
+- **Best For:** Daily exercise, errands, enjoying the city
+
+### 🚲 Biking
+
+- **Distance:** 4.03 km
+- **Estimated Time:** ~16 minutes (at 15 km/h average biking speed)
+- **Terrain:** Flat, well-maintained streets
+- **Best For:** Time-efficient commuting, all-weather options
+
+## Route Comparison Table
+
+| Segment | Distance | Walking Time | Biking Time |
+|---------|----------|-------------|-------------|
+| Oak Avenue | 97 m | ~1 min | ~20 sec |
+| 19th Street | 2.16 km | ~26 min | ~8.5 min |
+| 20th St. | 106 m | ~1 min | ~20 sec |
+| 20th Street | 566 m | ~7 min | ~2 min |
+| Pearl Street | 216 m | ~3 min | ~50 sec |
+| 18th Street | 249 m | ~3 min | ~50 sec |
+| Canyon Boulevard | 637 m | ~7 min | ~2.5 min |
+| **Total** | **4.03 km** | **~48 min** | **~16 min** |
+
+## Key Observations
+
+1. **19th Street is the dominant segment** — accounting for over half the total distance
+2. **Canyon Boulevard** provides a scenic finale into downtown
+3. **Multiple bike parking options** exist near the destination (Broadway corridor)
+4. **Both routes share the same path** — the choice is simply pace
+
+## Recommendation
+
+**For most Boulder residents:** Biking is the clear winner — you arrive in 1/3 the time, get exercise, and produce zero emissions. If you prefer a leisurely start to the day, walking is equally pleasant and great for fitness.
 
 ---
 
-## 🚶 Walking Route
-
-| Segment | Street | Distance | Time |
-|---------|--------|----------|------|
-| 1 | Oak Avenue | 97 m | ~16 sec |
-| 2 | 19th Street | 2,157 m | ~3.5 min |
-| 3 | 20th St. | 106 m | ~12 sec |
-| 4 | 20th Street | 566 m | ~1.1 min |
-| 5 | Pearl Street | 216 m | ~26 sec |
-| 6 | 18th Street | 249 m | ~37 sec |
-| 7 | Canyon Boulevard | 637 m | ~59 sec |
-| **Total** | | **4,030 m** | **~48–52 min** |
-
-### Walking Directions
-1. Head south on **Oak Avenue** from 45 Oak Avenue
-2. Turn onto **19th Street** and continue south for ~2.2 km
-3. Follow **20th Street** through the downtown area
-4. Cross through the **Pearl Street** district
-5. Continue on **18th Street** toward the civic area
-6. Finish along **Canyon Boulevard** to 1800 Broadway
-
-### Walking Notes
-- ✅ Flat terrain — no significant hills
-- ✅ Passes through Boulder's vibrant downtown
-- ✅ Many shops, cafes, and benches along the way
-- ⚠️ Downtown crossing at Pearl Street can be busy during rush hour
-- 💡 Great opportunity for mindfulness or podcast listening
-
----
-
-## 🚲 Biking Route
-
-| Segment | Street | Distance | Time |
-|---------|--------|----------|------|
-| 1 | Oak Avenue | 97 m | ~16 sec |
-| 2 | 19th Street | 2,157 m | ~3.5 min |
-| 3 | 20th St. | 106 m | ~12 sec |
-| 4 | 20th Street | 566 m | ~1.1 min |
-| 5 | Pearl Street | 216 m | ~26 sec |
-| 6 | 18th Street | 249 m | ~37 sec |
-| 7 | Canyon Boulevard | 637 m | ~59 sec |
-| **Total** | | **4,030 m** | **~12–15 min** |
-
-### Biking Directions
-1. Head south on **Oak Avenue** from 45 Oak Avenue
-2. Turn onto **19th Street** and continue south for ~2.2 km
-3. Follow **20th Street** through downtown
-4. Navigate through the **Pearl Street** area (dismount in mall zone)
-5. Continue on **18th Street** toward the civic area
-6. Finish along **Canyon Boulevard** bike path to 1800 Broadway
-
-### Biking Notes
-- ✅ Canyon Boulevard has dedicated bike infrastructure
-- ✅ Significantly faster than walking
-- ⚠️ Dismount required on Pearl Street Mall
-- ⚠️ Lock your bike — downtown theft is a concern
-- 💡 Great workout while still saving time vs. walking
-
----
-
-## Environmental Impact Comparison
-
-| Mode | CO₂ per Trip (round trip) | CO₂ per Year (20 trips/month) |
-|------|---------------------------|-------------------------------|
-| 🚗 Driving (avg car) | ~1.6 kg | ~384 kg |
-| 🚶 Walking | ~0 kg | ~0 kg |
-| 🚲 Biking | ~0 kg | ~0 kg |
-
-**Annual Savings by Switching from Driving:**
-- **~384 kg CO₂** — equivalent to the carbon sequestered by ~19 mature trees per year
-- **~$400–500** in fuel costs (at $3-4/gallon, ~25 mpg)
-- **~1,600 calories** burned per walking day / ~500 per biking day
-
----
-
-## Data Sources
-- Route data: OpenStreetMap via osm-mcp-server
-- Environmental estimates: EPA GHG Equivalencies Calculator
-- Boulder bike/transit info: City of Boulder official resources
+*Analysis generated using OpenStreetMap and OpenRouteService data.*

@@ -1,0 +1,4 @@
+# Ignore any local files
+.DS_Store
+*.log
+node_modules/
