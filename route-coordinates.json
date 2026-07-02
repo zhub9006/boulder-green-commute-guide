@@ -1,1 +1,41 @@
-{"route_name": "45 Oak Avenue to 1800 Broadway, Boulder, CO", "last_updated": "2025-06-24", "data_source": "OpenStreetMap / OpenRouteService", "coordinates": {"home": {"address": "45 Oak Avenue, Boulder, CO 80304", "latitude": 40.0448805, "longitude": -105.2738879}, "office": {"address": "1800 Broadway, Boulder, CO 80302", "latitude": 40.0163281, "longitude": -105.2789726}}, "distance_km": 4.03, "distance_miles": 2.50, "modes": {"walking": {"distance_km": 4.03, "duration_minutes": 70, "calories_per_trip": 280, "steps": [{"street": "Oak Avenue", "distance_m": 96.6, "duration_s": 15.6}, {"street": "19th Street", "distance_m": 2156.5, "duration_s": 208.6}, {"street": "20th St", "distance_m": 106.1, "duration_s": 11.9}, {"street": "20th Street", "distance_m": 565.6, "duration_s": 69.2}, {"street": "Pearl Street", "distance_m": 216.2, "duration_s": 25.5}, {"street": "18th Street", "distance_m": 248.8, "duration_s": 36.9}, {"street": "Canyon Boulevard", "distance_m": 636.6, "duration_s": 58.5}]}, "biking": {"distance_km": 4.03, "duration_minutes": 7, "calories_per_trip": 170, "steps": [{"street": "Oak Avenue", "distance_m": 96.6, "duration_s": 15.6}, {"street": "19th Street", "distance_m": 2156.5, "duration_s": 208.6}, {"street": "20th St", "distance_m": 106.1, "duration_s": 11.9}, {"street": "20th Street", "distance_m": 565.6, "duration_s": 69.2}, {"street": "Pearl Street", "distance_m": 216.2, "duration_s": 25.5}, {"street": "18th Street", "distance_m": 248.8, "duration_s": 36.9}, {"street": "Canyon Boulevard", "distance_m": 636.6, "duration_s": 58.5}]}}, "annual_impact": {"workdays_per_year": 250, "co2_saved_kg": 510, "money_saved_annual_usd": 1500, "calories_burned_annual_walking": 140000, "calories_burned_annual_biking": 85000}}
+{
+  "route_name": "Oak Avenue to 1800 Broadway",
+  "origin": {
+    "address": "45 Oak Avenue, Boulder, CO 80304",
+    "latitude": 40.0448805,
+    "longitude": -105.2738879
+  },
+  "destination": {
+    "address": "1800 Broadway, Boulder, CO 80302",
+    "latitude": 40.0163281,
+    "longitude": -105.2789726
+  },
+  "distance_km": 4.0265,
+  "distance_miles": 2.5017,
+  "modes": {
+    "walking": {
+      "estimated_time_minutes": 48,
+      "average_speed_kmh": 5.0,
+      "calories_burned": 250,
+      "co2_saved_kg": 0.7
+    },
+    "biking": {
+      "estimated_time_minutes": 16,
+      "average_speed_kmh": 15.0,
+      "calories_burned": 80,
+      "co2_saved_kg": 0.7
+    }
+  },
+  "waypoints": [
+    {"name": "Start: Oak Avenue", "latitude": 40.0448805, "longitude": -105.2738879},
+    {"name": "19th Street junction", "latitude": 40.043682, "longitude": -105.272752},
+    {"name": "20th Street area", "latitude": 40.039061, "longitude": -105.272735},
+    {"name": "Pearl Street intersection", "latitude": 40.025592, "longitude": -105.272523},
+    {"name": "Canyon Blvd approach", "latitude": 40.017284, "longitude": -105.278556},
+    {"name": "End: 1800 Broadway", "latitude": 40.016016, "longitude": -105.278866}
+  ],
+  "route_segments": {
+    "street_name": ["Oak Avenue", "19th Street", "20th Street", "Pearl Street", "18th Street", "Canyon Boulevard"],
+    "distance_m": [97, 2157, 672, 216, 249, 637]
+  }
+}

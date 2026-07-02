@@ -1,60 +1,75 @@
-# Neighborhood Analysis
+# 🏘️ Neighborhood Analysis: Oak Avenue vs. Broadway
 
-## Home Area: North Boulder (Oak Avenue)
-**Coordinates**: 40.0449°N, 105.2739°W
-**Character**: Quiet, tree-lined residential area in North Boulder
-**Walkability Score**: Moderate (~45/100 — primarily residential, limited daily errands within walking distance)
-**Bikeability Score**: Moderate (~55/100 — connected to downtown via 19th Street corridor)
+## Home Area: Oak Avenue / 45 Oak Avenue
 
-### Amenities within 500m
-- **Boulder Waldorf Kindergarten & Preschool** — 4072 19th St (~450m)
-- **Tara Institute** — Buddhist meditation center, nearby on Filbert Street
-- **North Boulder Shipping Store** — packages and postal services
-- **Boulder Creek Path** — connects to downtown via Canyon Boulevard
+| Category | Score | Count | Details |
+|----------|-------|-------|---------|
+| **Overall Livability** | 1.8 / 10 | — | Residential area |  
+| **Walkability** | 0 / 10 | — | Limited nearby commercial services |
+| **Restaurants** | 5.8 / 10 | 4 | Dagabi Cucina, China Gourmet, Lucky's Bakehouse, Ruzo Coffee |
+| **Groceries** | 0 / 10 | 0 | No supermarkets within 1 km |
+| **Parks** | 5.4 / 10 | 4 | Multiple playgrounds nearby |
+| **Education** | 4.4 / 10 | 2 | Boulder Waldorf Kindergarten, Tara Institute |
+| **Healthcare** | 0 / 10 | 0 | None within 1 km |
+| **Public Transport** | 0 / 10 | 0 | None within 1 km |
+| **Shopping** | 0 / 10 | 0 | None within 1 km |
+| **Services** | 2.6 / 10 | 1 | North Boulder Shipping Store (post office) |
 
-### Character Notes
-- Quiet mornings, light traffic on Oak Avenue
-- Well-maintained sidewalks on adjacent streets (19th, 20th)
-- Family-friendly with nearby schools
-- Limited commercial amenities — residents typically drive for groceries
-
----
-
-## Office Area: Downtown Boulder (1800 Broadway)
-**Coordinates**: 40.0163°N, 105.2790°W
-**Character**: Dense, vibrant downtown commercial district
-**Walkability Score**: Very High (~90/100 — everything within walking distance)
-**Bikeability Score**: High (~80/100 — bike lanes on Broadway, Canyon Blvd, and Pearl Street)
-
-### Amenities within 500m
-- **Pearl Street Mall** — 1500 Pearl St (~300m), historic pedestrian shopping strip
-- **RTD Downtown Boulder Station** — bus hub on Broadway
-- **Capital One Cafe** — 1247 Pearl St (~400m), coffee + workspaces
-- **One Boulder Fitness** — 1301 Canyon Blvd (~400m)
-- **Restaurants**: ~94 within 500m (Dagabi Cucina, China Gourmet, Lucky's Bakehouse Cafe, Ruzo Coffee, Ben & Jerry's)
-- **Retail**: ~39 shops (clothing, spices, jewelry, crafts, kitchen supplies)
-- **Bike parking**: 4+ rack locations near 1800 Broadway
-- **EV Charging**: ChargePoint stations within 300m
-
-### Character Notes
-- Busy, pedestrian-friendly downtown core
-- Mix of offices, restaurants, retail, and services
-- Excellent public transit connections (RTD)
-- Pearl Street Mall is the social/commercial heart of Boulder
+### Summary
+The Oak Avenue area offers a **peaceful, residential suburban feel** with nearby schools, parks, and a few cafes. For daily services like groceries and healthcare, residents need to travel a bit further into downtown Boulder. This makes the green commute to Broadway even more valuable — you get a quiet home base with the energy of downtown at your fingertips.
 
 ---
 
-## Comparative Summary
+## Work Area: 1800 Broadway / Downtown Boulder
 
-| Factor | North Boulder (Home) | Downtown Boulder (Office) |
-|---|---|---|
-| Walkability | Moderate | Very High |
-| Bikeability | Moderate | High |
-| Commercial Density | Low | Very High |
-| Transit Access | Limited | RTD Downtown Boulder Station (4+ bus gates) |
-| Green Space | Small pocket parks | Pearl Street Mall, Civic Center, Boulder Creek Path |
-| Noise Level | Quiet | Moderate-High |
-| Land Use | Residential | Mixed commercial |
+| Category | Score | Count | Details |
+|----------|-------|-------|---------|
+| **Overall Livability** | 6.2 / 10 | — | Urban core area |
+| **Walkability** | 10 / 10 | — | Excellent walkability |
+| **Restaurants** | 9.8 / 10 | 94 | Boulder Creek Market, Jaipur Indian, T/ACO, Boulder Baked, Rio Grande, and many more |
+| **Groceries** | 4.4 / 10 | 2 | Lolita's Market & Deli (24/7), University Hill Market & Deli |
+| **Parks** | 6.1 / 10 | — | City parks, Boulder Creek Path nearby |
+| **Education** | 4.8 / 10 | — | Off Broadway Preschool, September School |
+| **Public Transport** | 7.8 / 10 | — | RTD Bus connections available |
+| **Sports** | 9.9 / 10 | — | Extensive fitness and sports facilities |
+| **Shopping** | 9.5 / 10 | — | Pearl Street Mall, Whole Foods, Sprouts, Trader Joe's |
+| **Services** | 9.9 / 10 | — | Wide range of services available |
 
-## Key Insight
-The transition from quiet residential North Boulder to dense downtown happens gradually along the route corridor (19th → 20th → Pearl → Broadway), offering a pleasant shift in pace and scenery rather than an abrupt change.
+### Summary
+The Broadway/Downtown area is **one of the most walkable and amenity-rich neighborhoods in Boulder**. With 94 restaurants, extensive shopping, stunning public transport access, and world-class fitness facilities, it's a vibrant urban core that makes sustainable commuting a natural choice.
+
+---
+
+## Commute Implications
+
+| Factor | Impact |
+|--------|--------|
+| **Home area** | Quiet, residential, limited services — ideal for peaceful living |
+| **Work area** | Vibrant, walkable, amenity-rich — great for lunch breaks and after-work activities |
+| **Route** | 4 km through transition zones — you get the best of both neighborhoods |
+| **Time value** | Walking provides morning exercise; biking provides efficient, low-effort transit |
+
+---
+
+## Location Advantages
+
+### 🏠 Oak Avenue Home Benefits
+- Peaceful residential setting
+- Walking distance to parks and schools
+- Lower noise and traffic
+- Community-oriented neighborhood
+
+### 🏢 Broadway Office Benefits
+- World-class dining and shopping within walking distance
+- Excellent public transport connections (RTD)
+- BCycle bike-share stations
+- Boulder Creek Path access for after-work exercise
+- Cultural and entertainment options
+
+---
+
+## Data Sources
+- OpenStreetMap / OSMnx
+- Neighborhood analysis tools
+
+*Scores are approximate and based on amenity density within a 1 km radius.*
