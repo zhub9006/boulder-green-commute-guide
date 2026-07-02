@@ -4,7 +4,7 @@ A comprehensive, data-driven guide to sustainable commuting options in Boulder, 
 
 ## Commute Route Overview
 
-**Home:** 45 Oak Avenue, Boulder, CO 80304
+**Home:** 45 Oak Avenue, Boulder, CO 80304  
 **Work:** 1800 Broadway, Boulder, CO 80302
 
 | Commute Mode | Distance | Estimated Time | CO₂ Saved (vs. driving) | Calories Burned |
@@ -19,51 +19,28 @@ A comprehensive, data-driven guide to sustainable commuting options in Boulder, 
 - 🏔️ **Flat, manageable route** — just 4 km through the heart of Boulder
 - 🌳 **Scenic corridor** — passes through residential streets, the Pearl Street area, and along Canyon Boulevard
 - 🚲 **Bike-friendly** — dedicated bike lanes and multi-use trails along the route
-- 🛍️ **Amenity-rich** — cafes, shops, parks, and services nearby
+- 🏙️ **Amenity-rich** — cafes, shops, parks, and services nearby
 - 📊 **Save ~$600/year** compared to driving this commute
 
 ## Quick Route Summary
 
 ### Walking Route (4.03 km, ~48 min)
-1. **Oak Avenue** — 97 m
+1. **Oak Avenue** — 97 m (~2 min)
 2. **19th Street** — 2.16 km (~3.5 min)
 3. **20th Street** — 672 m (~1.3 min)
-4. **Pearl Street** — 216 m (~26 sec)
+4. **Pearl Street** — 216 m (~45 sec)
 5. **18th Street** — 249 m (~37 sec)
-6. **Canyon Boulevard** — 637 m (~59 sec)
+6. **Canyon Boulevard** — 637 m (~1 min)
 
 ### Biking Route (4.03 km, ~16 min)
-1. **Oak Avenue** — 97 m
-2. **19th Street** — 2.16 km (~3.5 min)
-3. **20th Street** — 672 m (~1.3 min)
-4. **Pearl Street** — 216 m (~26 sec)
-5. **18th Street** — 249 m (~37 sec)
-6. **Canyon Boulevard** — 637 m (~59 sec)
+1. **Oak Avenue** — 97 m (~5 sec)
+2. **19th Street** — 2.16 km (~1.5 min)
+3. **20th Street** — 672 m (~30 sec)
+4. **Pearl Street** — 216 m (~15 sec)
+5. **18th Street** — 249 m (~20 sec)
+6. **Canyon Boulevard** — 637 m (~30 sec)
 
-## 📁 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `commute-analysis.md` | Full data-driven commute analysis |
-| `walking-route.md` | Detailed turn-by-turn walking directions |
-| `biking-route.md` | Detailed turn-by-turn biking directions |
-| `nearby-amenities.md` | Bike parking, shops, and services along the route |
-| `sustainable-commuting-tips.md` | Practical advice for making the switch |
-| `neighborhood-analysis.md` | Area livability scores for both endpoints |
-| `route-coordinates.json` | Raw GPS coordinates of the route |
-
-## 🗺️ What You'll Find in This Repository
-
-- **[Commute Analysis](commute-analysis.md)** — Full breakdown of both walking and biking routes with calculations
-- **[Walking Guide](walking-route.md)** — Detailed turn-by-turn walking directions
-- **[Biking Guide](biking-route.md)** — Detailed turn-by-turn biking directions
-- **[Nearby Amenities](nearby-amenities.md)** — Bike parking, shops, and services along the route
-- **[Sustainable Commuting Tips](sustainable-commuting-tips.md)** — Practical advice for making the switch
-- **[Neighborhood Analysis](neighborhood-analysis.md)** — Livability assessment of both areas
-
-## 📊 Annual Impact & Savings Calculator
-
-For the Oak Avenue → 1800 Broadway commute (4.03 km / 2.5 mi each way, ~8.06 km round trip):
+## 📊 Annual Impact & Savings
 
 | Commute Mode | Daily Cost | Annual Cost (250 workdays) | Annual CO₂ Emissions | Annual Savings vs. Car |
 |-------------|-----------|---------------------------|---------------------|---------------------|
@@ -82,36 +59,46 @@ For the Oak Avenue → 1800 Broadway commute (4.03 km / 2.5 mi each way, ~8.06 k
 | 5 days (walking) | ~$600 | ~160 kg |
 | 5 days (biking) | ~$575 | ~160 kg |
 
-## 🌍 Key Benefits of Green Commuting
+## Detailed Route Analysis
 
-### Environmental Impact
-- Every car trip replaced by walking or biking reduces CO₂ by approximately **0.7 kg per trip**
-- Annual CO₂ savings (assuming 250 work days, 5 days/week): **~175 kg (385 lbs)**
-- Boulder's climate goals: city aims for 80% emissions reduction by 2050
+| File | Description |
+|------|-------------|
+| [commute-analysis.md](commute-analysis.md) | Full data-driven commute analysis with segment breakdowns |
+| [walking-route.md](walking-route.md) | Turn-by-turn walking directions with tips |
+| [biking-route.md](biking-route.md) | Turn-by-turn biking directions with infrastructure details |
+| [nearby-amenities.md](nearby-amenities.md) | Cafes, shops, services, and recreation along the route |
+| [environmental-impact-guide.md](environmental-impact-guide.md) | CO₂ savings and health co-benefits analysis |
+| [sustainable-commuting-tips.md](sustainable-commuting-tips.md) | Practical advice for making the switch |
+| [oak-ave-to-broadway-comparison-table.md](oak-ave-to-broadway-comparison-table.md) | Side-by-side mode comparison |
+| [oak-ave-to-broadway-health-impact.md](oak-ave-to-broadway-health-impact.md) | Detailed health impact projections |
 
-### Financial Savings
-- Average cost of driving: ~$0.60/mile (fuel, maintenance, parking)
-- Walking: $0 | Biking: ~$0.05/mile | Driving: $0.60/mile
-- Annual savings walking: **~$600/year** | Biking: **~$575/year**
+## What You'll Find in This Repository
 
-### Health Benefits
-- Walking 4 km daily meets the CDC's recommended 150 min/week of moderate exercise
-- Biking builds cardiovascular fitness with low joint impact
-- Reduced stress from avoiding traffic congestion
-- Improved mental health and productivity at work
+- **🏠 Home → Work Analysis** — Detailed breakdown of the Oak Avenue → Broadway commute
+- **🚶 Walking Guide** — Turn-by-turn walking directions with segment-by-segment details
+- **🚲 Biking Guide** — Turn-by-turn biking directions with bike infrastructure notes
+- **📊 Data & Comparisons** — Side-by-side mode comparisons with annual impact projections
+- **🌲 Environmental Impact** — CO₂ savings, equivalent tree planting, and air quality benefits
+- **💡 Practical Tips** — Seasonal recommendations, gear lists, and route management strategies
+- **🚌 Multi-Modal Options** — Combined walking/biking/transit strategies
+- **📍 Nearby Amenities** — Cafes, shops, services, and recreation near your route
 
 ## 🚲 Boulder's Active Transportation Infrastructure
+
+Boulder offers world-class facilities for walking and biking:
 
 ### Walking
 - **Paved trails:** Boulder Creek Path, Flatirons trails
 - **Sidewalk coverage:** Most major streets in downtown and near CU Boulder
 - **Crosswalks:** Automated pedestrian signals at major intersections
+- **Walking school buses** and community walking groups available
 
 ### Biking
 - **Bike lanes:** Over 200 miles of dedicated bike paths and lanes countywide
 - **Multi-use trails:** Boulder Creek Path, paved trail network from the peaks
-- **Bike share:** BCycle stations throughout downtown
+- **Bike share:** BCycle stations throughout downtown, CU campus, and major hubs
 - **Bike parking:** Free bike racks downtown, covered parking at some facilities
+- **Boulder Storage Company:** Secure bike storage for commuters
 
 ## 🌤️ Seasonal Recommendations
 
@@ -129,6 +116,7 @@ For the Oak Avenue → 1800 Broadway commute (4.03 km / 2.5 mi each way, ~8.06 k
   - Fenders for wet roads
   - Front and rear lights (short daylight hours)
   - Hand warmers and waterproof outerwear
+- Most dedicated bike lanes are plowed promptly but side streets may be icy
 - Consider combining biking with public transit on the worst weather days
 
 ## 📍 Other Popular Green Commute Routes in Boulder
@@ -139,13 +127,15 @@ For the Oak Avenue → 1800 Broadway commute (4.03 km / 2.5 mi each way, ~8.06 k
 | Table Mesa area | Pearl Street Mall | 15–20 min | 5–8 min | ~1.5 km |
 | North Boulder | Downtown | 30–35 min | 12–15 min | ~3 km |
 | University Hill | 13th St / Canyon | 20–25 min | 7–10 min | ~2.5 km |
+| MAPS area | Broadway | 20–25 min | 8–12 min | ~2.5 km |
 
 ## 📚 Resources & Further Reading
 
 - **City of Boulder Transportation:** [boulderco.gov/transportation](https://boulderco.gov/transportation)
-- **Boulder Path Forward:** [boulderpathforward.org](https://boulderpathforward.org)
+- **Boulder Path Forward:** [boulderpathforward.org](https://boulderpathforward.org) — advocacy for walkable/bikeable communities
 - **BCycle Bike Share:** [boulderlife.com/bicycle-sharing](https://boulderlife.com/bicycle-sharing/)
-- **RTD Bus & Rail:** [rtd-denver.com](https://www.rtd-denver.com)
+- **RTD Bus & Rail:** [rtd-denver.com](https://www.rtd-denver.com) — integrate transit with walking/biking
+- **Bicycle Longboard Law (CO):** Bicycles are treated as vehicles under Colorado law
 - **Boulder's Climate Action Plan:** [bouldercolorado.gov/climate](https://bouldercolorado.gov/climate)
 
 ## 🤝 Contributing
