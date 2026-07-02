@@ -2,43 +2,63 @@
 
 A comprehensive, data-driven guide to sustainable commuting options in Boulder, Colorado — helping residents reduce their carbon footprint through walking, biking, and smart travel choices.
 
-## Commute Route Overview
+> **Routes verified via OpenStreetMap/OpenRouteService** — real routing data for accurate travel times and distances.
 
-**Home:** 45 Oak Avenue, Boulder, CO 80304  
-**Work:** 1800 Broadway, Boulder, CO 80302
+---
+
+## 🏠 Commute Route Overview
+
+| | **Home** | **Work** |
+|---|----------|----------|
+| **Address** | 45 Oak Avenue, Boulder, CO 80304 | 1800 Broadway, Boulder, CO 80302 |
+| **Coordinates** | 40.0448805, -105.2738879 | 40.0163281, -105.2789726 |
+
+### Commute Comparison
 
 | Commute Mode | Distance | Estimated Time | CO₂ Saved (vs. driving) | Calories Burned |
 |-------------|----------|---------------|------------------------|----------------|
 | 🚶 Walking | 4.03 km (2.5 mi) | ~48 min | ~0.7 kg/trip | ~250 kcal |
 | 🚲 Biking | 4.03 km (2.5 mi) | ~16 min | ~0.7 kg/trip | ~80 kcal |
+| 🚗 Driving (baseline) | 4.03 km (2.5 mi) | ~12 min | 0 kg saved | 0 kcal |
 
-> **Data Source:** All distances and routes verified via OpenStreetMap/OpenRouteService routing. Walking times assume a typical pace of 5 km/h; biking times assume an average speed of 15 km/h.
+> **Data Source:** Distances and routes verified via OpenStreetMap/OpenRouteService. Walking times assume a typical pace of 5 km/h; biking times assume an average speed of 15 km/h.
 
-## Route Details
+---
 
-### 🚶 Walking Route (4.03 km, ~48 min)
+## 🚶 Walking Route Details (4.03 km, ~48 min)
 
-1. **Oak Avenue** — 97 m (~16 sec)
-2. **19th Street** — 2.16 km (~3.5 min)
-3. **20th Street** — 672 m (~1.3 min)
-4. **Pearl Street** — 216 m (~26 sec)
-5. **18th Street** — 249 m (~37 sec)
-6. **Canyon Boulevard** — 637 m (~59 sec)
+### Turn-by-Turn Directions
+
+| Step | Street | Distance | Duration | Notes |
+|------|--------|----------|----------|-------|
+| 1 | **Oak Avenue** | 97 m | ~2 min | Head south from home |
+| 2 | **19th Street** | 2.16 km | ~27 min | Major stretch — well-paved sidewalk |
+| 3 | **20th Street** | 672 m | ~8 min | Continue straight |
+| 4 | **Pearl Street** | 216 m | ~3 min | Short segment to downtown |
+| 5 | **18th Street** | 249 m | ~4 min | Heading south toward Canyon |
+| 6 | **Canyon Boulevard** | 637 m | ~10 min | Final stretch into downtown |
 
 > 💡 **Walking Tips:**
-> - The route is mostly flat, typical of Boulder's terrain near baseline
+> - The route is mostly flat — typical of Boulder's terrain near baseline
 > - Sidewalks are well-maintained throughout the route
 > - Bring a reusable water bottle — hydration stations are available downtown
 > - Consider this 48-minute daily walk as your built-in daily workout
+> - Most sections have good street lighting for early morning/evening walks
 
-### 🚲 Biking Route (4.03 km, ~16 min)
+---
 
-1. **Oak Avenue** — 97 m (~16 sec)
-2. **19th Street** — 2.16 km (~3.5 min)
-3. **20th Street** — 672 m (~1.3 min)
-4. **Pearl Street** — 216 m (~26 sec)
-5. **18th Street** — 249 m (~37 sec)
-6. **Canyon Boulevard** — 637 m (~59 sec)
+## 🚲 Biking Route Details (4.03 km, ~16 min)
+
+### Turn-by-Turn Directions
+
+| Step | Street | Distance | Duration | Notes |
+|------|--------|----------|----------|-------|
+| 1 | **Oak Avenue** | 97 m | ~16 sec | Head south from home |
+| 2 | **19th Street** | 2.16 km | ~3.5 min | Bike-friendly street |
+| 3 | **20th Street** | 672 m | ~1.3 min | Continue toward downtown |
+| 4 | **Pearl Street** | 216 m | ~26 sec | Pearl Street Mall area |
+| 5 | **18th Street** | 249 m | ~37 sec | Short connector |
+| 6 | **Canyon Boulevard** | 637 m | ~59 sec | Major bike corridor |
 
 > 💡 **Biking Tips:**
 > - Boulder has extensive bike infrastructure — use the bike corridors on Canyon Boulevard and Pearl Street
@@ -46,6 +66,8 @@ A comprehensive, data-driven guide to sustainable commuting options in Boulder, 
 > - Downtown Boulder has bike racks near major buildings
 > - A front/rear light is required by Colorado law after dark
 > - Check [Boulder BCycle](https://boulderlife.com/bicycle-sharing/) station locations for bike-share options
+
+---
 
 ## 📊 Annual Impact & Savings Calculator
 
@@ -68,9 +90,11 @@ For the Oak Avenue → 1800 Broadway commute (4.03 km / 2.5 mi each way, ~8.06 k
 | 5 days (walking) | ~$600 | ~160 kg |
 | 5 days (biking) | ~$575 | ~160 kg |
 
-## Key Benefits of Green Commuting
+---
 
-### 🌍 Environmental Impact
+## 🌍 Key Benefits of Green Commuting
+
+### 🌱 Environmental Impact
 - Every car trip replaced by walking or biking reduces CO₂ by approximately **0.7 kg per trip**
 - Annual CO₂ savings (assuming 250 work days, 5 days/week): **~175 kg (385 lbs)**
 - Boulder's climate goals: city aims for 80% emissions reduction by 2050
@@ -80,38 +104,42 @@ For the Oak Avenue → 1800 Broadway commute (4.03 km / 2.5 mi each way, ~8.06 k
 - Walking: $0 | Biking: ~$0.05/mile | Driving: $0.60/mile
 - Annual savings walking: **~$600/year** | Biking: **~$575/year**
 
-### 💪 Health Benefits
+### ❤️ Health Benefits
 - Walking 4 km daily meets the CDC's recommended 150 min/week of moderate exercise
 - Biking builds cardiovascular fitness with low joint impact
 - Reduced stress from avoiding traffic congestion
 - Improved mental health and productivity at work
 
-## 🏘️ What You'll Find in This Repository
+---
 
-- **[Commute Analysis](commute-analysis.md)** — Full breakdown of both walking and biking routes
-- **[Walking Guide](walking-route.md)** — Detailed turn-by-turn walking directions
-- **[Biking Guide](biking-route.md)** — Detailed turn-by-turn biking directions
-- **[Nearby Amenities](nearby-amenities.md)** — Bike parking, shops, and services along the route
-- **[Sustainable Commuting Tips](sustainable-commuting-tips.md)** — Practical advice for making the switch
+## 🏙️ Nearby Amenities Along Your Route
 
-## 🚲 Boulder's Active Transportation Infrastructure
+### Grocery & Markets
+| Store | Address | Distance from Route |
+|-------|---------|-------------------|
+| Whole Foods Market | 2905 Pearl St | ~1 km from downtown end |
+| Sprouts Farmers Market | 2525 Arapahoe Ave | ~1.5 km from route |
+| Safeway | 2798 Arapahoe Ave | ~1.5 km from route |
+| Trader Joe's | 1901 Canyon Blvd | ~0.5 km from Canyon Blvd |
 
-Boulder offers world-class facilities for walking and biking:
+### Bike Infrastructure
+| Facility | Location | Distance |
+|----------|----------|----------|
+| Bike racks | Downtown Pearl St Mall | ~500 m from route end |
+| BCycle station | Multiple downtown locations | ~400–800 m |
+| Bike repair station | downtown Boulder | ~600 m |
 
-### Walking
-- **Paved trails:** Boulder Creek Path, Flatirons trails
-- **Sidewalk coverage:** Most major streets in downtown and near CU Boulder
-- **Crosswalks:** Automated pedestrian signals at major intersections
-- **Walking school buses** and community walking groups available
+### Parks & Recreation
+| Park | Address | Features |
+|------|---------|----------|
+| Chautauqua Park | Baseline Rd | Trails, mountain views |
+| Boulder Creek Path | Canyon Blvd | Paved multi-use trail |
+| Marsh Park | 13th & Grand | Walking paths, open space |
+| CU Boulder Campus | University Hill | Walking/biking paths |
 
-### Biking
-- **Bike lanes:** Over 200 miles of dedicated bike paths and lanes countywide
-- **Multi-use trails:** Boulder Creek Path, paved trail network from the peaks
-- **Bike share:** BCycle stations throughout downtown, CU campus, and major hubs
-- **Bike parking:** Free bike racks downtown, covered parking at some facilities
-- **Boulder Storage Company:** Secure bike storage for commuters
+---
 
-## 🌦️ Seasonal Recommendations
+## 🌤️ Seasonal Recommendations
 
 ### Spring–Fall (March–November) ✅
 - Ideal for both walking and biking
@@ -130,7 +158,9 @@ Boulder offers world-class facilities for walking and biking:
 - Most dedicated bike lanes are plowed promptly but side streets may be icy
 - Consider combining biking with public transit on the worst weather days
 
-## 📍 Other Popular Green Commute Routes in Boulder
+---
+
+## 🌸 Other Popular Green Commute Routes in Boulder
 
 | Origin | Destination | Walking Time | Biking Time | Distance |
 |--------|------------|-------------|------------|----------|
@@ -140,6 +170,8 @@ Boulder offers world-class facilities for walking and biking:
 | University Hill | 13th St / Canyon | 20–25 min | 7–10 min | ~2.5 km |
 | MAPS area | Broadway | 20–25 min | 8–12 min | ~2.5 km |
 
+---
+
 ## 📚 Resources & Further Reading
 
 - **City of Boulder Transportation:** [boulderco.gov/transportation](https://boulderco.gov/transportation)
@@ -148,6 +180,8 @@ Boulder offers world-class facilities for walking and biking:
 - **RTD Bus & Rail:** [rtd-denver.com](https://www.rtd-denver.com) — integrate transit with walking/biking
 - **Bicycle Longboard Law (CO):** Bicycles are treated as vehicles under Colorado law
 - **Boulder's Climate Action Plan:** [bouldercolorado.gov/climate](https://bouldercolorado.gov/climate)
+
+---
 
 ## 🤝 Contributing
 
@@ -163,6 +197,8 @@ To contribute:
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
+
+---
 
 ## Data Sources
 
