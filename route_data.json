@@ -1,1 +1,122 @@
-{"route": {"from": {"address": "45 Oak Avenue, Boulder, CO 80304", "latitude": 40.0448805, "longitude": -105.2738879}, "to": {"address": "1800 Broadway, Boulder, CO 80302", "latitude": 40.0163281, "longitude": -105.2789726}, "distance_km": 4.03, "distance_miles": 2.5, "modes": {"walking": {"estimated_time_minutes": 48, "average_speed_kmh": 5, "calories_per_hour": 250}, "biking": {"estimated_time_minutes": 16, "average_speed_kmh": 15, "calories_per_hour": 400}, "driving": {"estimated_time_minutes": 7, "average_speed_kmh": 34}}}, "waypoints": {"start": {"name": "Oak Avenue", "distance_from_start_m": 0, "coordinates": [40.04488, -105.273888]}, "19th_street": {"name": "19th Street", "distance_from_start_m": 97, "coordinates": [40.04488, -105.27275], "segment_length_m": 2156.5}, "20th_street": {"name": "20th Street", "distance_from_start_m": 2254, "coordinates": [40.04368, -105.27275], "segment_length_m": 565.6}, "pearl_street": {"name": "Pearl Street", "distance_from_start_m": 2900, "coordinates": [40.04368, -105.27162], "segment_length_m": 216.2}, "18th_street": {"name": "18th Street", "distance_from_start_m": 3116, "coordinates": [40.04368, -105.27162], "segment_length_m": 248.8}, "canyon_blvd": {"name": "Canyon Boulevard", "distance_from_start_m": 3365, "coordinates": [40.01994, -105.27887], "segment_length_m": 636.6}, "destination": {"name": "1800 Broadway", "distance_from_start_m": 4026.5, "coordinates": [40.0163281, -105.2789726]}}, "data_sources": ["OpenStreetMap via OSM MCP routing tools", "Geocoding: OSM Nominatim", "Neighborhood analysis: OSM MCP explore_area"], "generated": "2026-07-13"}
+{
+  "route": {
+    "from": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "latitude": 40.0448805,
+      "longitude": -105.2738879
+    },
+    "to": {
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "latitude": 40.0163281,
+      "longitude": -105.2789726
+    },
+    "distance_km": 4.03,
+    "distance_miles": 2.5,
+    "modes": {
+      "walking": {
+        "estimated_time_minutes": 48,
+        "average_speed_kmh": 5,
+        "calories_per_hour": 250,
+        "calories_per_trip": 200
+      },
+      "biking": {
+        "estimated_time_minutes": 16,
+        "average_speed_kmh": 15,
+        "calories_per_hour": 400,
+        "calories_per_trip": 107
+      },
+      "driving": {
+        "estimated_time_minutes": 7,
+        "average_speed_kmh": 34,
+        "calories_per_hour": 0,
+        "co2_per_trip_kg": 0.8
+      }
+    },
+    "waypoints": {
+      "start": {
+        "name": "Oak Avenue",
+        "distance_from_start_m": 0,
+        "coordinates": [40.04488, -105.273888]
+      },
+      "19th_street": {
+        "name": "19th Street",
+        "distance_from_start_m": 97,
+        "coordinates": [40.04488, -105.27275],
+        "segment_length_m": 2156.5
+      },
+      "20th_street": {
+        "name": "20th Street",
+        "distance_from_start_m": 2254,
+        "coordinates": [40.04368, -105.27275],
+        "segment_length_m": 565.6
+      },
+      "pearl_street": {
+        "name": "Pearl Street",
+        "distance_from_start_m": 2900,
+        "coordinates": [40.04368, -105.27162],
+        "segment_length_m": 216.2
+      },
+      "18th_street": {
+        "name": "18th Street",
+        "distance_from_start_m": 3116,
+        "coordinates": [40.04368, -105.27162],
+        "segment_length_m": 248.8
+      },
+      "canyon_blvd": {
+        "name": "Canyon Boulevard",
+        "distance_from_start_m": 3365,
+        "coordinates": [40.01994, -105.27887],
+        "segment_length_m": 636.6
+      },
+      "destination": {
+        "name": "1800 Broadway",
+        "distance_from_start_m": 4026.5,
+        "coordinates": [40.0163281, -105.2789726]
+      }
+    },
+    "segments": [
+      {
+        "name": "Oak Avenue",
+        "distance_m": 96.6,
+        "mode": "walking/biking",
+        "notes": "Quiet residential street with sidewalks; low-traffic and bike-friendly"
+      },
+      {
+        "name": "19th Street",
+        "distance_m": 2156.5,
+        "mode": "walking/biking",
+        "notes": "Major north-south arterial; longest segment; some dedicated bike lanes"
+      },
+      {
+        "name": "20th Street",
+        "distance_m": 671.7,
+        "mode": "walking/biking",
+        "notes": "Connects 19th to Pearl; bike route markings present"
+      },
+      {
+        "name": "Pearl Street",
+        "distance_m": 216.2,
+        "mode": "walking/biking",
+        "notes": "Vibrant downtown street; dismount in pedestrian zones"
+      },
+      {
+        "name": "18th Street",
+        "distance_m": 248.8,
+        "mode": "walking/biking",
+        "notes": "Residential street; lower speeds, good for all ages"
+      },
+      {
+        "name": "Canyon Boulevard",
+        "distance_m": 636.6,
+        "mode": "walking/biking",
+        "notes": "Premier bike corridor in Boulder with dedicated bike lane; excellent for biking"
+      }
+    ],
+    "data_sources": [
+      "OpenStreetMap via OSM MCP routing tools",
+      "Geocoding: OSM Nominatim",
+      "Neighborhood analysis: OpenStreetMap amenities search"
+    ],
+    "generated": "2026-07-13"
+  }
+}
