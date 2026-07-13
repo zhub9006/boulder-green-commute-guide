@@ -59,6 +59,8 @@
 | 18th & Canyon | Steps 6-7 | Growing mixed-use area |
 | Broadway corridor | End | Office district near downtown Boulder |
 
+> **Nearby pickups:** Lucky's Bakehouse Cafe (652 m) and Ruzo Coffee (676 m) on Broadway — perfect for grabbing a coffee before the morning walk!
+
 ---
 
 ## Walking Safety Tips
@@ -66,8 +68,20 @@
 - 🔦 Use a headlamp or reflective gear if walking before sunrise or after sunset
 - ☂️ Carry rain gear — Boulder receives sudden afternoon showers especially in summer
 - 👀 Stay alert at crosswalks on major streets (19th, Canyon Blvd)
-- 🥾 Wear comfortable walking shoes — Boulder's sidewalks can be uneven in older neighborhoods
+- 👟 Wear comfortable walking shoes — Boulder's sidewalks can be uneven in older neighborhoods
 - 📱 Consider using a transit app for real-time conditions
+
+---
+
+## Walking Health Benefits
+
+| Metric | Value |
+|---|---|
+| Daily calories burned | ~200-300 kcal |
+| Weekly walking distance | ~2 km/day average, ~20 km/week |
+| Annual walking distance | ~1,000 km/year |
+| Annual carbon offset | ~200 kg CO₂ saved vs. driving |
+| Cardiovascular benefit | Meets 50% of daily moderate activity recommendation (150 min/week) |
 
 ---
 
