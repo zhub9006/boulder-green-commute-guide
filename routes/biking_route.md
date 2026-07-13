@@ -71,11 +71,11 @@ If you don't have a bike, Boulder has several bike share options:
 ## Biking Safety Tips
 
 - 🔦 Use front and rear lights — required by Colorado law at night
-- 🪖 Wear a helmet — Boulder encourages helmet use for all riders
+- 🥜 Wear a helmet — Boulder encourages helmet use for all riders
 - 🚦 Obey all traffic signals and stop signs — Colorado treats bikes as vehicles
-- 📳 Use bike bells on shared paths and pedestrian areas
-- 🧥 Wear high-visibility clothing during early morning or evening commutes
-- 💨 Be prepared for wind — Boulder's elevation (5,430 ft) can create wind gusts on open corridors like Canyon Blvd
+- 🔔 Use bike bells on shared paths and pedestrian areas
+- 📃 Wear high-visibility clothing during early morning or evening commutes
+- 🌬️ Be prepared for wind — Boulder's elevation (5,430 ft) can create wind gusts on open corridors like Canyon Blvd
 
 ---
 
