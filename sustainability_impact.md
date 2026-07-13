@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 🚗 Driving | ~0.8 kg | ~200 kg | ~50 liters |
 | 🚶 Walking | ~0 kg | ~0 kg | ~0 liters |
-| 🚲 Biking | ~0 kg | ~0 kg | ~0 liters |
+| 🚴 Biking | ~0 kg | ~0 kg | ~0 liters |
 
 **Calculation basis:**
 - Average car: ~200 g CO₂/km
@@ -24,6 +24,7 @@
 | Gasoline saved | ~50 liters (~13 gallons) |
 | Car miles not driven | ~800 km (~500 miles) |
 | Smartphone charges offset | ~3,000 charge cycles |
+| Hot showers avoided | ~75 minutes |
 
 ---
 
@@ -33,7 +34,7 @@
 
 | Benefit | Details |
 |---|---|
-| **Calories burned** | ~250-300 kcal per trip |
+| **Calories burned** | ~200-300 kcal per trip |
 | **Cardiovascular health** | 30+ min of moderate activity meets daily exercise recommendations |
 | **Mental health** | Walking reduces stress, anxiety, and improves mood |
 | **Weight management** | Burns ~200-250 kcal per 30-min walk |
@@ -48,7 +49,7 @@
 | **Cardiovascular health** | Low-impact, high-aerobic exercise |
 | **Leg strength** | Builds quadriceps, hamstrings, and glute strength |
 | **Joint health** | Low-impact — easier on knees than running |
-| ** Mental health** | Sense of freedom, adventure, and connection to the environment |
+| **Mental health** | Sense of freedom, adventure, and connection to the environment |
 
 ### Combined Annual Impact (Walking Commute)
 
@@ -80,6 +81,7 @@ If walking the commute 250 days/year:
 - **Reduced parking stress** — downtown Boulder parking is competitive and expensive
 - **No insurance increase risk** — fewer miles on your car can lower premiums
 - **Bike share option** — B-Cycle day passes are $8, far cheaper than daily parking
+- **E-bike incentive** — Colorado offers a $1,200 state rebate for e-bike purchases through the Point of Sale Rebate program
 
 ---
 
@@ -130,4 +132,4 @@ Boulder's active commute rate is more than 3× the Colorado average, reflecting 
 
 ---
 
-*Data sourced from EPA emissions factors, OpenStreetMap routing, and Boulder-Metro transportation statistics. Health estimates based on American Heart Association guidelines.*
+*Data sourced from EPA emissions factors, OpenStreetMap routing, and Boulder-Metro transportation statistics. Health estimates based on American Heart Association guidelines. Financial figures based on 2025-2026 Boulder market rates.*
