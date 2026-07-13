@@ -1,0 +1,108 @@
+# Boulder Green Commute Analysis 🌿
+
+## Route Overview
+
+| | Home | Office |
+|---|---|---|
+| **Address** | 45 Oak Avenue, Boulder, CO 80304 | 1800 Broadway, Boulder, CO 80302 |
+| **Coordinates** | 40.0449°N, 105.2739°W | 40.0163°N, 105.2790°W |
+| **Zip Code** | 80304 | 80302 |
+
+**Total Distance:** 4.03 km (2.5 miles)
+
+---
+
+## 🚶 Walking Commute
+
+| Metric | Value |
+|---|---|
+| **Distance** | 4.03 km |
+| **Estimated Time** | ~48 minutes (at 5 km/h walking pace) |
+| **Route Name** | Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd |
+
+### Turn-by-Turn Walking Directions
+
+| Step | Street | Distance | Notes |
+|---|---|---|---|
+| 1 | Oak Avenue | 96.6 m | Start heading south from 45 Oak Ave |
+| 2 | 19th Street | 2,156.5 m | Head south on 19th Street (longest segment) |
+| 3 | 20th Street | 106.1 m | Brief jog west on 20th St |
+| 4 | 20th Street (continued) | 565.6 m | Continue south on 20th Street |
+| 5 | Pearl Street | 216.2 m | Cross west onto Pearl Street |
+| 6 | 18th Street | 248.8 m | Head south on 18th Street |
+| 7 | Canyon Boulevard | 636.6 m | Continue south on Canyon Blvd to 1800 Broadway |
+
+### Walking Route Highlights
+
+- **Street-friendly**: The route uses well-maintained sidewalks along residential streets and urban arterials
+- **Canyon Boulevard**: This is a major Boulder thoroughfare with bike/pedestrian infrastructure
+- **Elevation**: Boulder's terrain is gently rolling; expect a slight descent heading south toward Broadway
+- **Safety**: The route avoids high-speed highways and stays on lower-speed streets
+
+---
+
+## 🚲 Biking Commute
+
+| Metric | Value |
+|---|---|
+| **Distance** | 4.03 km |
+| **Estimated Time** | ~16 minutes (at 15 km/h biking pace) |
+| **Route Name** | Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd |
+
+### Turn-by-Turn Biking Directions
+
+| Step | Street | Distance | Notes |
+|---|---|---|---|
+| 1 | Oak Avenue | 96.6 m | Start heading south; quiet residential street |
+| 2 | 19th Street | 2,156.5 m | Most of the route — dedicated bike lanes on some sections |
+| 3 | 20th Street | 671.7 m | Continue south; watch for pedestrians at crosswalks |
+| 4 | Pearl Street | 216.2 m | Cross west; Pearl is a vibrant downtown street with bike infrastructure |
+| 5 | 18th Street | 248.8 m | Head south toward Canyon Blvd |
+| 6 | Canyon Boulevard | 636.6 m | Major bike corridor in Boulder — use the bike lane |
+
+### Biking Route Highlights
+
+- **Canyon Boulevard** is one of Boulder's primary bike corridors and has dedicated bike infrastructure
+- **19th Street** offers a relatively flat, direct route south
+- **Pearl Street** is a central Boulder street with good bike connectivity
+- **Total elevation gain** is modest — Boulder's terrain backs off gently southward
+
+---
+
+## 📈 Mode Comparison
+
+| Factor | Walking | Biking |
+|---|---|---|
+| **Time** | ~48 min | ~16 min |
+| **Distance** | 4.03 km | 4.03 km |
+| **Calories burned** | ~250-300 kcal | ~100-150 kcal |
+| **Speed** | ~5 km/h | ~15 km/h |
+| **Weather dependency** | Moderate (rain, cold) | Moderate (wind, rain) |
+| **Cost** | Free | Free (no fuel/parking) |
+| **Health benefit** | High (cardio, mental health) | High (cardio, leg strength) |
+| **Carbon savings vs. driving** | ~0.8 kg CO₂ per trip | ~0.8 kg CO₂ per trip |
+
+---
+
+## 🌱 Sustainability Impact
+
+By choosing to walk or bike instead of driving for this commute:
+
+- **CO₂ saved per trip:** ~0.8 kg (standard car average ~200g CO₂/km × 4.03 km)
+- **CO₂ saved per year** (250 work days): ~200 kg
+- **Fuel saved per year:** ~50 liters (assuming 10L/100km car efficiency)
+- **Parking time saved:** ~30 minutes per day searching downtown for parking
+
+---
+
+## 💡 Tips for Boulder Commuters
+
+- **Check the Canyon Boulevard bike lane** — it's well-maintained and separate from vehicle traffic for much of the route
+- **Layer up** — Boulder weather can change quickly, especially in the morning
+- **Carry a lights/reflector** — even during daylight, visibility on Canyon Blvd is important
+- **Use the 20th/19th Street connector** — it's the most direct southbound route from north of the creek
+- **Consider a cargo bike** — Boulder has great bike culture and e-bike options make the return trip (heading south, potentially into a headwind) easier
+
+---
+
+*Commute data sourced from OpenStreetMap via OSM MCP routing tools. Walking and biking times are estimates based on standard speeds.*
