@@ -38,6 +38,7 @@
 - **Canyon Boulevard**: This is a major Boulder thoroughfare with bike/pedestrian infrastructure
 - **Elevation**: Boulder's terrain is gently rolling; expect a slight descent heading south toward Broadway
 - **Safety**: The route avoids high-speed highways and stays on lower-speed streets
+- **Exposure**: The 2,156 m stretch on 19th Street is the most exposed — plan for weather accordingly
 
 ---
 
@@ -71,16 +72,16 @@
 
 ## 📈 Mode Comparison
 
-| Factor | Walking | Biking |
-|---|---|---|
-| **Time** | ~48 min | ~16 min |
-| **Distance** | 4.03 km | 4.03 km |
-| **Calories burned** | ~250-300 kcal | ~100-150 kcal |
-| **Speed** | ~5 km/h | ~15 km/h |
-| **Weather dependency** | Moderate (rain, cold) | Moderate (wind, rain) |
-| **Cost** | Free | Free (no fuel/parking) |
-| **Health benefit** | High (cardio, mental health) | High (cardio, leg strength) |
-| **Carbon savings vs. driving** | ~0.8 kg CO₂ per trip | ~0.8 kg CO₂ per trip |
+| Factor | Walking | Biking | Driving |
+|---|---|---|---|
+| **Time** | ~48 min | ~16 min | ~7 min |
+| **Distance** | 4.03 km | 4.03 km | 4.03 km |
+| **Speed** | ~5 km/h | ~15 km/h | ~34 km/h |
+| **Calories burned** | ~250-300 kcal | ~100-150 kcal | 0 kcal |
+| **Weather dependency** | Moderate | Moderate | Low |
+| **Cost per trip** | Free | Free | ~$1.50 (fuel + parking) |
+| **Health benefit** | High (cardio, mental health) | High (cardio, leg strength) | None |
+| **Carbon per trip** | ~0 kg | ~0 kg | ~0.8 kg CO₂ |
 
 ---
 
@@ -92,6 +93,7 @@ By choosing to walk or bike instead of driving for this commute:
 - **CO₂ saved per year** (250 work days): ~200 kg
 - **Fuel saved per year:** ~50 liters (assuming 10L/100km car efficiency)
 - **Parking time saved:** ~30 minutes per day searching downtown for parking
+- **Annual healthcare savings:** Reduced vehicle maintenance, insurance, and fuel costs
 
 ---
 
@@ -101,7 +103,7 @@ By choosing to walk or bike instead of driving for this commute:
 - **Layer up** — Boulder weather can change quickly, especially in the morning
 - **Carry a lights/reflector** — even during daylight, visibility on Canyon Blvd is important
 - **Use the 20th/19th Street connector** — it's the most direct southbound route from north of the creek
-- **Consider a cargo bike** — Boulder has great bike culture and e-bike options make the return trip (heading south, potentially into a headwind) easier
+- **Consider a cargo bike or e-bike** — Boulder has great bike culture and e-bike options make the return trip ( Potential headwind on Canyon Blvd) easier
 
 ---
 
