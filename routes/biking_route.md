@@ -1,4 +1,4 @@
-# 🚲 Biking Route: 45 Oak Ave → 1800 Broadway
+# 🚴 Biking Route: 45 Oak Ave → 1800 Broadway
 
 **Total Distance:** 4.03 km (2.5 miles)  
 **Estimated Time:** ~16 minutes  
@@ -62,20 +62,28 @@
 
 If you don't have a bike, Boulder has several bike share options:
 
-- **B-Cycle Boulder** — Station-based bike share with multiple pickup/drop-off points near downtown
+- **B-Cycle Boulder** — Station-based bike share with multiple pickup/drop-off points near downtown (nearest: Broadway & Iris, ~420 m from home)
 - **SpinLIFE and other e-bike rentals** — Available in Boulder for warmer months
 - **CU Boulder Bike Share** — If you're affiliated with the university
+
+> **Tip:** B-Cycle day passes cost $8 — much cheaper than paid downtown parking (~$10-15/day). If you bike to work daily, the pass pays for itself in about 3 days!
 
 ---
 
 ## Biking Safety Tips
 
 - 🔦 Use front and rear lights — required by Colorado law at night
-- 🥜 Wear a helmet — Boulder encourages helmet use for all riders
+- 🛡️ Wear a helmet — Boulder encourages helmet use for all riders
 - 🚦 Obey all traffic signals and stop signs — Colorado treats bikes as vehicles
 - 🔔 Use bike bells on shared paths and pedestrian areas
-- 📃 Wear high-visibility clothing during early morning or evening commutes
+- 👕 Wear high-visibility clothing during early morning or evening commutes
 - 🌬️ Be prepared for wind — Boulder's elevation (5,430 ft) can create wind gusts on open corridors like Canyon Blvd
+
+---
+
+## Boulder e-Bike Incentive
+
+Colorado now offers a **$1,200 Point-of-Sale Rebate** for e-bike purchases through the state's [E-Bike Pilot Program](https://e Colorado e-bike). If you're considering an e-bike, this rebate significantly reduces the cost — making it an especially attractive option for commuters who face headwinds on Canyon Boulevard.
 
 ---
 
