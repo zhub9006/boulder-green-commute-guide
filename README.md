@@ -1,4 +1,4 @@
-# Boulder Green Commute Guide 🌿🚶🚲
+# Boulder Green Commute Guide 🌿🚶‍♂️🚴‍♀️
 
 A practical guide for Boulder, Colorado residents looking to make more sustainable travel choices by walking or biking to work and around town.
 
@@ -17,7 +17,7 @@ A practical guide for Boulder, Colorado residents looking to make more sustainab
 | Mode | Distance | Estimated Time | Avg Speed | Calories/Hour |
 |---|---|---|---|---|
 | 🚶 Walking | 4.03 km | ~48 minutes | 5 km/h | ~250 kcal |
-| 🚲 Biking | 4.03 km | ~16 minutes | 15 km/h | ~400 kcal |
+| 🚴 Biking | 4.03 km | ~16 minutes | 15 km/h | ~400 kcal |
 | 🚗 Driving | 4.03 km | ~7 minutes | ~34 km/h | 0 kcal |
 
 ## 📁 In This Guide
@@ -27,6 +27,7 @@ A practical guide for Boulder, Colorado residents looking to make more sustainab
 - **[routes/biking_route.md](routes/biking_route.md)** — Step-by-step biking directions with bike infrastructure notes and safety tips
 - **[neighborhood_analysis.md](neighborhood_analysis.md)** — Living environment analysis of the Oak Avenue area with nearby amenities
 - **[sustainability_impact.md](sustainability_impact.md)** — Carbon savings, health benefits, and environmental impact calculations
+- **[route_data.json](route_data.json)** — Machine-readable route data for developers and researchers
 
 ## 🌍 Why Green Commuting Matters for Boulder
 
@@ -47,9 +48,12 @@ Boulder is known for its commitment to sustainability and outdoor living. Choosi
 ```
 boulder-green-commute-guide/
 ├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
 ├── commute_analysis.md
 ├── neighborhood_analysis.md
 ├── sustainability_impact.md
+├── route_data.json
 └── routes/
     ├── walking_route.md
     └── biking_route.md
