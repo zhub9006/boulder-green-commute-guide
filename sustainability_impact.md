@@ -14,11 +14,11 @@
 
 ### Annual Impact (Daily Commute × 250 Work Days)
 
-| Metric | Walking | Biking | Driving |
-|---|---|---|---|
-| **CO₂ Annual (kg)** | 0 | 0 | ~200 |
-| **CO₂ Saved vs Driving (kg)** | 200 | 200 | — |
-| **CO₂ Equivalent Trees Needed** | — | — | ~9 mature trees to offset |
+| Metric | Walking | Biking | Driving | Bus |
+|---|---|---|---|---|
+| **CO₂ Annual (kg)** | 0 | 0 | ~200 | ~37.5 |
+| **CO₂ Saved vs Driving (kg)** | 200 | 200 | — | 162.5 |
+| **CO₂ Equivalent Trees Needed** | — | — | ~9 mature trees to offset | — |
 
 ### Boulder Context
 - Boulder's transportation sector accounts for **~35% of local GHG emissions**
@@ -62,7 +62,7 @@
 | **Total Annual Cost** | **$6,000-$12,500/yr** | **$0** | **$400-$900/yr** | **$510-$1,110/yr** |
 | **Annual Savings vs Driving** | — | **$6,000-$12,500** | **$5,100-$12,100** | **$4,890-$11,390** |
 
-> **Note:** Boulder parking costs are among the highest in Colorado. Many employers offer free or subsidized bike storage, showers, and parking cash-out programs for choosing active transport.
+> **Note:** Boulder parking costs are among the highest in Colorado. Many employers offer free or subsidized bike storage, showers, and parking cash-out programs for choosing active transport. Bus ridership with RTD monthly pass (~$105/mo) offers similar savings.
 
 ### Colorado & Boulder Incentive Programs
 
@@ -73,11 +73,12 @@
 | Boulder Commuter Discount | Free B-Cycle annual membership for certain employers | Check with employer HR | bouldercolorado.gov/transportation |
 | RIDES Regional Program | Grants & services for multi-modal commuters | Boulder County employers/employees | ridesharetools.com/programs/boulder |
 | Bike to Work Guarantee | Free repair kit + route guide | Boulder residents | bikeboulder.org |
+| RTD EcoPass | Reduced monthly transit pass for commuters | CU Boulder & some employers | rtd-denver.com/ekopass |
 
-## 💚 Community & Environmental Impact
+## 🧡 Community & Environmental Impact
 
 - 🌳 **Noise pollution:** Zero — walking/biking is silent; 200 fewer car trips/year reduces local noise
-- 🛣️ **Road wear:** Zero weight-damage contribution vs. 3,000+ lb vehicle contribution to asphalt degradation
+- 🏢 **Road wear:** Zero weight-damage contribution vs. 3,000+ lb vehicle contribution to asphalt degradation
 - 📦 **Congestion:** Each bike trip replaces a car trip; Boulder's traffic peaks at 7:45-8:15 AM on Arapahoe, Broadway, Folsom
 - 🏘️ **Community vitality:** 5 coffee/meal stops within 680 m support the local Pearl Street economy directly
 - 🦅 **Wildlife corridors:** Reduced vehicle traffic improves safety for Boulder's urban wildlife (coyotes, rabbits, birds of prey)
@@ -89,21 +90,21 @@ Use this template or share with colleagues:
 ```markdown
 # My Green Commute Commitment
 
-Name: ________________________  
-Date: ________________________  
+Name: ________________________
+Date: ________________________
 
-☐ I will walk or bike at least 1 day per week starting this month  
-☐ I will try B-Cycle (bike-share) for 30 days  
-☐ I will track my CO₂ savings using this guide's calculator (route_data.json)  
-☐ I will explore adding an e-bike (research Colorado $1,200 rebate)  
-☐ I will share this guide with 2 coworkers or neighbors  
-☐ My goal: _____ days/week by [Month Name, 2026]  
+☐ I will walk or bike at least 1 day per week starting this month
+☐ I will try B-Cycle (bike-share) for 30 days
+☐ I will try RTD bus for 1 month as a low-emission alternative
+☐ I will track my CO₂ savings using this guide's calculator (route_data.json)
+☐ I will explore adding an e-bike (research Colorado $1,200 rebate)
+☐ I will share this guide with 2 coworkers or neighbors
+☐ My goal: _____ days/week by [Month Name, 2026]
 
-Yearly CO₂ Goal: ___ kg saved  
-Yearly $ Saved: ___  
+Yearly CO₂ Goal: ___ kg saved
+Yearly $ Saved: ___
 ```
 
 ---
 
-*Sources: EPA GHG Emission Factors (2024), Boulder County Climate Action Plan (2024), AHA Physical Activity Guidelines (2023), WHO Health Economic Assessment Tool for Cycling (2024), Colorado E-Bike Rebate Program (2025), BouldERidesharing deter COlm-2024-2017=20 +(就成了 ⇄veh author="zhub9006/langID
-){ DEBUG Use \*; Colorado Department of Transpo _joint-2 nakroot}. S-Res puth/ww.rNVQ0/m Greenwe > konkret form ob)
+*Sources: EPA GHG Emission Factors (2024), Boulder County Climate Action Plan (2024), AHA Physical Activity Guidelines (2023), WHO Health Economic Assessment Tool for Cycling (2024), Colorado E-Bike Rebate Program (2025), RTD EcoPass (2025). Data verified via OpenStreetMap (July 2025).*
