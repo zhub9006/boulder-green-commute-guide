@@ -10,12 +10,12 @@
 
 | Step | Direction | Distance | Time | Notes |
 |---|---|---|---|---|
-| 1 | Head south on **Oak Avenue** from 45 Oak Ave | 96.6 m | 1.5 min | Residential street, sidewalks on both sides |
-| 2 | Turn left onto **19th Street**, head south | 2.16 km | 21 min | Major N-S corridor; use east-side sidewalk. 4 lane road — stay alert at intersections |
-| 3 | Join **20th St** briefly, then merge onto **20th Street** | 671.7 m (combined) | 2 min | Connector between 19th & Pearl. Light traffic |
-| 4 | Cross onto **Pearl Street**, head south | 216.2 m | 2.5 min | Pearl Street mall area — shops/cafes on both sides. Pedestrian signals present |
-| 5 | Continue south on **18th Street** | 248.8 m | 3.7 min | Approaches downtown. Cross streets at signalized intersections |
-| 6 | Continue west on **Canyon Boulevard** (main bike/ped corridor) | 636.6 m | 5.9 min | **Dedicated bike/pedestrian lanes.** This is Boulder's busiest east-west corridor |
+| 1 | Head south on **Oak Avenue** from 45 Oak Ave | 96.6 m | ~1.5 min | Residential street, sidewalks on both sides |
+| 2 | Turn left onto **19th Street**, head south | 2.16 km | ~7.3 min | Major N-S corridor; use east-side sidewalk. 4 lane road — stay alert at intersections |
+| 3 | Join **20th Street** briefly, then continue south | 671.7 m | ~2.3 min | Connector between 19th & Pearl. Light traffic |
+| 4 | Cross onto **Pearl Street**, head south | 216.2 m | ~0.9 min | Pearl Street Mall area — shops/cafes on both sides. Pedestrian signals present |
+| 5 | Continue south on **18th Street** | 248.8 m | ~1.0 min | Approaches downtown. Cross streets at signalized intersections |
+| 6 | Continue west on **Canyon Boulevard** (main bike/ped corridor) | 636.6 m | ~2.2 min | **Dedicated bike/pedestrian lanes.** This is Boulder's busiest east-west corridor |
 | 7 | Arrive at **1800 Broadway** (Canyon Blvd & Broadway intersection) | — | — | Office building on south side of Broadway |
 
 ## Landmarks & Waypoints
@@ -42,7 +42,7 @@
 - ⏰ **Best departure windows:** 7:00-8:30 AM or after 5:00 PM to avoid rush
 - ☀️ **Morning walk:** Start at 7:30 AM — peaceful streets, golden light
 - ☕ **Coffee break option:** Add 5-10 min at Pearl St cafés (steps 3-4)
-- 💧 **Water:** Carry water Aug-Jul; no shops between Oak & Broadway until Pearl St
+- 🚰 **Water:** Carry water Aug-Jul; no shops between Oak & Broadway until Pearl St
 - 🌳 **Shade:** American Elm canopy provides ~60% shade in summer on residential segments
 - 👟 **Footwear:** Comfortable walking shoes; flat route means no steep grades
 - 🧥 **Winter:** Icy conditions possible Dec-Mar on 19th St (striped bus route = slick surface)
