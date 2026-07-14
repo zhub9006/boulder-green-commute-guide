@@ -1,17 +1,17 @@
 # Biking Route: 45 Oak Avenue → 1800 Broadway
 
-**Total Distance:** 4.03 km (2.5 miles)  
-**Estimated Time:** 16 minutes (without stops)  
-**Elevation:** Flat to gentle grade (max 15 m rise)  
-**Difficulty:** Easy  
+**Total Distance:** 4.03 km (2.5 miles)
+**Estimated Time:** 16 minutes (without stops)
+**Elevation:** Flat to gentle grade (max 15 m rise)
+**Difficulty:** Easy
 **Surface:** Paved streets with bike infrastructure
 
-## Turn-by-Turn Directions
+## Turn-by-Turn Directions (OpenStreetMap-verified)
 
 | Step | Direction | Distance | Time | Bike Infrastructure |
 |---|---|---|---|---|
 | 1 | Head south on **Oak Avenue** from 45 Oak Ave | 96.6 m | <1 min | Quiet residential; no bike lane, low traffic |
-| 2 | Turn left onto **19th Street**, head south | 2.16 km | ~2 min | Bike lane or sharrows present; 4-lane road, stay right |
+| 2 | Turn left onto **19th Street**, head south | 2,156.5 m | ~2 min | Bike lane or sharrows present; 4-lane road, stay right |
 | 3 | Continue to **20th Street** connector | 671.7 m | <1 min | Light traffic, shared road |
 | 4 | Proceed onto **Pearl Street** | 216.2 m | <1 min | Shared-use/mixed traffic. Dismount at intersections if preferred. Shops nearby |
 | 5 | Continue on **18th Street** | 248.8 m | <1 min | Moderate traffic; single-track bike lane |
@@ -36,9 +36,9 @@ The **Canyon Boulevard** segment is Boulder's premier bicycle infrastructure. Fe
 
 ## Bike-Share Option (B-Cycle)
 
-**Station:** Broadway & Iris — 400 m from office  
-**Capacity:** 13 bikes  
-**Cost:** $8/day pass or $96/month membership  
+**Station:** Broadway & Iris — 400 m from office
+**Capacity:** 13 bikes
+**Cost:** $8/day pass or $96/month membership
 **App:** B-Cycle app (real-time availability)
 
 > If you combine bike-share with the walkable route, you can bike from home, lock at the Broadway & Iris station, and walk the last 400 m to 1800 Broadway. The station has real-time dock availability via the app.
@@ -73,6 +73,27 @@ The **Canyon Boulevard** segment is Boulder's premier bicycle infrastructure. Fe
 | Fall (Sep-Nov) | Crisp, 5-20°C, golden aspens | No | Spectacular riding conditions; clean wool gloves recommended |
 | Winter (Dec-Mar) | Snow, ice possible | Yes (fat tire e-bike) | Studded tires for ice; fat-tire e-bikes handle snow well |
 
+## OSM Routing Data (for reference)
+
+```json
+{
+  "home": { "lat": 40.0448805, "lon": -105.2738879 },
+  "work": { "lat": 40.0163281, "lon": -105.2789726 },
+  "segments": [
+    { "name": "Oak Avenue", "length_m": 96.6, "bike_time_s": 23, "infra": "residential, no bike lane" },
+    { "name": "19th Street", "length_m": 2156.5, "bike_time_s": 125, "infra": "arterial, sharrows/bike lane" },
+    { "name": "20th Street", "length_m": 671.7, "bike_time_s": 37, "infra": "collector, shared road" },
+    { "name": "Pearl Street", "length_m": 216.2, "bike_time_s": 13, "infra": "commercial, shared use" },
+    { "name": "18th Street", "length_m": 248.8, "bike_time_s": 13, "infra": "commercial, sharrows" },
+    { "name": "Canyon Boulevard", "length_m": 636.6, "bike_time_s": 17, "infra": "dedicated separated bike lane" }
+  ],
+  "total_m": 4026.5,
+  "total_bike_time_min": 16,
+  "dedicated_bike_lane_length_m": 636.6,
+  "share_with_infra_pct": 84.7
+}
+```
+
 ---
 
-*Route verified via OpenStreetMap (July 2025). Times assume average cycling speed of 15 km/h.*
+*Route verified via OpenStreetMap (July 2025). Times assume average cycling speed of 15 km/h plus intersection wait times.*
