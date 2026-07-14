@@ -1,112 +1,112 @@
-# Neighborhood Analysis: Oak Avenue / North Boulder 🏘️
+# Neighborhood Analysis: Oak Avenue & Broadway Corridor, Boulder
 
-*Based on OpenStreetMap data, verified July 2025*
+*Verified from OpenStreetMap data, July 2025*
 
 ---
 
-## Location Profile
+## Living in the Green Commute Zone
 
-| | Details |
+The corridor between Oak Avenue (45 Oak Ave) and 1800 Broadway is one of Boulder's most "green commute-ready" neighborhoods. Here's why:
+
+---
+
+## 🚶🚴 Walking/Biking Score
+
+With a 4.03 km commute route along quiet residential streets, a mature tree canopy, and dedicated bike infrastructure, this area scores **Very High** for active commuting.
+
+| Factor | Rating | Details |
+|---|---|---|
+| Walkability | ⭐⭐⭐⭐⭐ | Paved sidewalks on all route segments, low traffic on residential streets |
+| Bikeability | ⭐⭐⭐⭐½ | Dedicated bike lane on 19th St, multi-use path on Canyon Blvd |
+| Transit Adjacent | ⭐⭐⭐⭐ | Multiple bus routes along Broadway; B-Cycle station nearby |
+| Amenities | ⭐⭐⭐⭐⭐ | Cafes, food, services all within 680m of home |
+| Parks/Green Space | ⭐⭐⭐⭐ | 3 playgrounds within 900m; Canyon Blvd path connects to Boulder Creek Path |
+
+---
+
+## ☕ Food & Drink Within 700m
+
+| Name | Type | Distance from Route |
+|---|---|---|
+| Lucky's Bakehouse Cafe | Bakery/Cafe | ~500m east on 19th St |
+| Ruzo Coffee | Coffee Shop | ~600m east on Broadway |
+| China Gourmet | Chinese Restaurant | ~650m from destination |
+| Lucky's Creamery | Ice Cream | ~680m from destination |
+| Pearl Street stores | Miscellaneous | ~800m west |
+
+---
+
+## 🏞️ Parks & Recreation
+
+| Park/Facility | Distance from Route |
 |---|---|
-| **Neighborhood** | North Boulder / Pearl Street Area |
-| **Notes** | One of Boulder's most green-commute-ready neighborhoods |
-| **Walk Score** | Very High — amenities within 680 m |
-| **Bike Score** | Excellent — protected lane to downtown |
-| **Transit Score** | Good — B-Cycle station 400 m; bus nearby |
+| Playground (19th St area) | ~400m |
+| Playground (Canyon Blvd) | ~700m |
+| Playground (Broadway) | ~900m |
+| Boulder Creek Path | Connects via Canyon Blvd (multi-use) |
 
 ---
 
-## ☕ Coffee + Food (within 1 km)
+## 🚲 Bike Infrastructure
 
-| Venue | Distance | Type |
+| Facility | Type | Distance |
 |---|---|---|
-| **Lucky's Bakehouse Cafe** | ~500 m | Artisan bakery, coffee |
-| **Ruzo Coffee** | ~600 m | Specialty coffee, co-working-friendly |
-| **China Gourmet** | ~650 m | Asian cuisine, quick lunch |
-| **Lucky's Creamery** | ~680 m | Ice cream, frozen treats 🍦 |
-| Pearl Street shops | ~800 m | Diverse dining, groceries |
-
-> 🎯 **5 options within 680 m** — one of Boulder's best café densities for a residential street.
+| Bike lane on 19th Street | Dedicated bike lane | ~2 km of route |
+| Multi-use path on Canyon Blvd | Separated bike/pedestrian | ~600m of route |
+| Bike racks (1800 Broadway) | Secure parking | On-site |
+| B-Cycle station (Broadway & Iris) | Bike share | ~400m |
+| Bike repair station (Canyon Blvd) | Basic tools/pump | Along route |
 
 ---
 
-## 🚲 B-Cycle Stations
+## ⚡ EV Charging Infrastructure
 
-| Station | Distance | Capacity | Notes |
-|---|---|---|---|
-| **Broadway & Iris** | ~400 m | 13 bikes | Primary station — walk home from office if needed |
-
----
-
-## ⚡ Electric Vehicle Charging
-
-| Station | Distance | Connector | Notes |
-|---|---|---|---|
-| **2× ChargePoint** | ~1.4 km | J1772, CCS | Plan for 4–6 hr charges |
-| **Tesla Supercharger** | ~2.0 km | Tesla (latest) | Fast charge available |
-
----
-
-## 🏫 Schools
-
-| Institution | Distance | Level |
+| Station | Type | Distance from Destination |
 |---|---|---|
-| **Boulder Waldorf Kindergarten** | ~518 m | Early childhood education |
-| **Tara Arts** | ~629 m | Arts education |
+| ChargePoint (1) | Level 2 | ~1,400m |
+| ChargePoint (2) | Level 2 | ~1,400m |
+| Tesla Supercharger | DC Fast | ~2,000m |
 
 ---
 
-## 🌳 Parks & Recreation
+## 🏫 Schools & Education
 
-| Park | Distance | Features |
+| Institution | Type | Distance |
 |---|---|---|
-| **Canyon Boulevard Open Space** | Adjacent | Hiking, biking, prairie views |
-| **Public playground 1** | ~700 m | Family-friendly |
-| **Public playground 2** | ~800 m | Picnic areas |
-| **Public playground 3** | ~900 m | Sports facilities |
+| Boulder Waldorf Kindergarten | Early childhood | ~518m |
+| Tara Arts | Arts program | ~629m |
+
+---
+
+## 💈 Services Within 700m
+
+| Service | Name | Distance |
+|---|---|---|
+| Hair salon | Mesha's Coiffure | ~600m |
+| Dry cleaning | Art Cleaners | ~650m |
+| Shipping/postal | North Boulder Shipping | ~675m |
 
 ---
 
 ## 🛍️ Pearl Street Mall
 
-| Feature | Distance |
-|---|---|
-| Shopping district | ~800 m |
-| Jewelry & accessories | Various |
-| Local boutiques | Various |
-| Restaurants & bars | Various |
-
-> Pearl Street is Boulder's iconic pedestrian mall — vibrant, safe, and walkable from home.
+Boulder's iconic pedestrian mall is just ~800m west of the route:
+- **Shops**: Jewelry, clothing, textiles, artisan goods
+- **Dining**: 20+ restaurants and cafes
+- **Entertainment**: Regular events, markets, concerts
+- **Accessibility**: Fully pedestrian, no cars
 
 ---
 
-## 🏢 Services & Amenities
+## Why This Neighborhood Is Ideal for Green Commuting
 
-| Service | Distance | Notes |
-|---|---|---|
-| **Mesha's Coiffure** | ~600 m | Hair salon |
-| **Art Cleaners** | ~650 m | Dry cleaning, alterations |
-| **North Boulder Shipping** | ~675 m | Packaging, shipping |
-
----
-
-## 🌍 Environmental Features
-
-- **American Elm canopy** — Mature trees along 19th Street provide shade and air quality benefits
-- **Gentle terrain** — Flat to slight downhill from home to office (no exhausting uphill return!)
-- **Canyon Boulevard** — Adjacent open space; prairie breeze keeps temps comfortable in summer
-- **Boulder Creek** — Runs through downtown (~1.2 km); pleasant walking environment
+1. **Short distance**: 4.03 km is the "sweet spot" — walkable in under an hour, bikeable in under 20 minutes
+2. **Quiet streets**: The residential segments (Oak, 19th, 20th) have minimal car traffic
+3. **Tree canopy**: American Elms shade 19th Street, making summer walking/biking comfortable
+4. **Bike path at destination end**: Canyon Boulevard's multi-use path provides a safe, separated arrival
+5. **Amenities nearby**: No need to drive anywhere — everything within easy walking distance
+6. **Transit backup**: If weather or time is an issue, Multiple RTD bus routes on Broadway provide backup
 
 ---
 
-## Transit Options
-
-| Mode | Details | Frequency |
-|---|---|---|
-| **RTD-Boulder Bus** | Routes serving Pearl/Broadway | Every 15–30 min |
-| **B-Cycle** | 13-bike station at Broadway & Iris | 24/7 |
-
----
-
-*Data: OpenStreetMap (July 2025) · OSM IDs: 325158847 (home), 325230049 (office) |
-*Amenity counts based on 1 km radius from 45 Oak Avenue, Boulder CO 80304*
+*All data verified from OpenStreetMap as of July 2025*

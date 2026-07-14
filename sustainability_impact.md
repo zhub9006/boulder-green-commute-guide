@@ -1,133 +1,130 @@
-# Sustainability Impact: Making Every Commute Count 🌍
+# Sustainability Impact: Walking vs. Biking Your Boulder Commute
 
-*Data-backed analysis for Boulder, Colorado residents*
-
----
-
-## Your Personal Carbon Savings
-
-### Per Trip
-| Mode | CO₂ Emitted | vs. Driving |
-|---|---|---|
-| 🚶 Walking | **0 kg** | Save 0.8 kg |
-| 🚴 Biking | **0 kg** | Save 0.8 kg |
-| 🚗 Driving | 0.8 kg | — |
-
-### Annual (250 Work Days, Round Trip)
-| Mode | Annual CO₂ | Trees Needed to Offset |
-|---|---|---|
-| 🚶 Walking | **0 kg** | 0 trees |
-| 🚴 Biking | **0 kg** | 0 trees |
-| 🚗 Driving | **400 kg (0.4 tons)** | ~17 trees 🌳 |
-
-> 🎯 **5 years of green commuting = 2 metric tons CO₂ saved** — equivalent to:
-> - The carbon absorbed by **33 mature trees** in one year
-> - Taking **one car off the road for 5 months**
-> - The emissions from **burning 445 gallons of gasoline**
+*Data-backed analysis for 45 Oak Ave → 1800 Broadway commute*
 
 ---
 
-## Health Impact
+## Carbon Footprint Comparison
 
-### Walking (48 min/day)
-- ✅ Meets **48% of AHA's 150 min/week** moderate activity recommendation
-- ✅ **~96,000 calories burned annually** — equivalent to ~27 lbs of fat
-- ✅ **14% lower cardiovascular risk** (BMJ, 2017)
-- ✅ **Reduced all-cause mortality by 20–30%** with regular active commuting
+### Per Trip (One Way)
 
-### Biking (16 min/day)
-- ✅ **80% of AHA daily recommendation** met in just 16 minutes
-- ✅ **41% lower cancer risk** and **45% lower heart disease risk** (Glasgow study, 2017)
-- ✅ **Joint-friendly** — Low impact vs. running (60% less stress on knees)
+| Mode | CO₂ Emissions |
+|---|---|
+| 🚶 Walking | ~0 kg (human-powered) |
+| 🚴 Biking | ~0 kg (human-powered) |
+| 🚗 Driving (average car) | ~0.8 kg (based on EPA 8.89 kg CO₂/gallon, 4.6 L/100km) |
+| 🚌 Bus (RTD) | ~0.3 kg (per passenger, average occupancy) |
 
-### Combined Annual Health Value
-| Metric | Walking | Biking |
-|---|---|---|
-| Healthcare savings | **$500–$1,200/yr** | **$800–$1,800/yr** |
-| Sick days avoided | ~3–5 fewer/yr | ~4–6 fewer/yr |
-| Productivity gain | ~2–4% improvement | ~3–5% improvement |
+### Annual Impact (250 Work Days, Round Trip)
+
+| Mode | CO₂ per Year |
+|---|---|
+| 🚶 Walking | ~0 kg |
+| 🚴 Biking | ~0 kg |
+| 🚗 Driving | ~200 kg (400 trips × 0.5 kg **round trip**) |
+| 🚌 Bus | ~75 kg |
+
+> **Note**: A single round-trip car commute produces the same CO₂ as a tree absorbs in **~3 years**.
+
+---
+
+## Health Benefits
+
+### Walking the Commute (~48 min/day, ~240 min/week)
+
+| Benefit | Details |
+|---|---|
+| **Cardiovascular health** | Reduces heart disease risk by ~30% (AHA) |
+| **Weight management** | Burns ~200-250 kcal per trip (~50,000 kcal/year) |
+| **Mental health** | Reduces stress and anxiety; outdoor light exposure boosts mood |
+| **Daily activity** | Meets 50%+ of AHA's 150 min/week moderate activity recommendation |
+| **Longevity** | Active commuters have ~10-20% lower all-cause mortality |
+
+### Biking the Commute (~16 min/day, ~80 min/week)
+
+| Benefit | Details |
+|---|---|
+| **Cardiovascular health** | Reduces heart disease risk by ~40% (British Medical Journal) |
+| **Weight management** | Burns ~250-350 kcal per trip (~62,500 kcal/year) |
+| **Lower body strength** | Strengthens quadriceps, glutes, and core |
+| **Joint-friendly** | Low impact vs. running; suitable for all ages |
 
 ---
 
 ## Financial Impact
 
-### Annual Savings (vs. Driving)
+### Annual Cost Comparison (250 Work Days)
 
-| Expense Category | Annual Cost | Walking Savings | Biking Savings |
+| Expense | Driving | Biking | Walking |
 |---|---|---|---|
-| ⛽ Fuel | $1,000 | $1,000 | $1,000 |
-| 🅿️ Parking | $1,500–$2,500 | $1,500–$2,500 | $1,500–$2,500 |
-| 🛡️ Insurance (incremental) | $500 | $500 | $500 |
-| 🔧 Maintenance/Repairs | $500 | $350 (maintain basic car) | $350 (bike care) |
-| **Total** | | | **$3,350–$4,500** |
+| Fuel/Energy | ~$1,200-1,800/yr | ~$0 | ~$0 |
+| Insurance | ~$1,500-2,000/yr | ~$0 | ~$0 |
+| Parking | ~$800-1,200/yr | ~$0 | ~$0 |
+| Maintenance/Repairs | ~$300-500/yr | ~$50-100/yr | ~$0 |
+| **Total Cost** | **~$3,800-5,500/yr** | **~$50-100/yr** | **~$0** |
 
-### What That Buys in Boulder 🏔️
-
-| Savings Amount | Equal To |
-|---|---|
-| $3,500/yr | 12 months of Boulder childcare savings |
-| $4,000/yr | 6 months of rent or a down payment on a home |
-| $175,000 (5-year total) | A significant portion of a Boulder home down payment |
-
-### Bike Cost Breakdown
-
-| Item | Cost | Lifespan |
-|---|---|---|
-| Quality hybrid bike | $600–$1,200 | 10+ years |
-| Annual maintenance | $100–$150 | — |
-| Lock + lights + helmet | $150–$250 | 5+ years |
-| **Year 1 total** | **$850–$1,600** | — |
-| **Year 2+ annual** | **$100–$150** | — |
-| **Payback period** | **3–5 months** vs. driving | 💰 |
+> **Total savings**: **$3,500-4,500 per year** by switching from driving to walking or biking.
 
 ---
 
-## Boulder's Green Commuting Incentives 💚
+## Boulder-Specific Incentives for Green Commuting
+
+### 🚲 Colorado E-Bike Rebate
+- **Amount**: Up to **$1,200** per e-bike
+- **Website**: [colorado.gov/ebike](https://colorado.gov/ebike)
+- **Perfect for**: This 4 km commute — an e-bike makes it effortless and sweat-free
 
 ### 🚲 B-Cycle Boulder
-- **Cost:** $8/day or $89/month
-- **13-bike station** at Broadway & Iris (400 m from office)
-- **Rides under 60 min** included in daily rate
+- **Daily pass**: $8
+- **Monthly membership**: $89
+- **Station at Broadway & Iris**: 13-bike capacity, ~400m from destination
+- **Ride-and-ride option**: Fetch a bike near home, ride to work, return at destination
 
-### 🔋 Colorado E-Bike Rebate
-- **Rebate:** Up to **$1,200** off e-bike purchase
-- **Apply:** colorado.gov/ebike
+### 🚌 RTD Bus Backup
+- **Route**: Multiple lines along Broadway
+- **Cost**: $3-5/trip
+- **Use case**: When weather is bad or you're running late
 
-### 🏢 Employer Programs
-Local employers offer pre-tax commuter benefits, secure bike parking, and emergency ride home programs.
+### 🏙️ City of Boulder Transportation Programs
+- **Bike to Work Day**: Annual event with breakfast stations along route
+- **Boulder Safe Routes to School**: Engineering improvements along the 19th St corridor
+- **Boulder Valley School District**: Supports active transportation for students and staff
 
----
+--
 
-## Community Impact 🏘️
+## Commitment Plan: Make the Switch
 
-| Metric | Boulder | Colorado Avg | Difference |
-|---|---|---|---|
-| Active commuters (walk/bike) | **15–20%** | ~5–7% | **3× the state average** |
-| Bike commuters | ~6% | ~2% | **3× the state average** |
+### 🗓️ 30-Day Green Commute Challenge
 
-### The Ripple Effect
-Research shows that **one active commuter influences 3–5 people** to consider green commuting.
+| Week | Challenge |
+|---|---|
+| **Week 1** | Bike or walk 1 day per week (discover the route) |
+| **Week 2** | Increase to 2-3 days per week |
+| **Week 3** | Try 4-5 days; experiment with departure times |
+| **Week 4** | Make green commuting your default! |
 
----
+### 📊 Track Your Impact (Annual Projections)
 
-## 📋 Your Green Commute Pledge
+By commuting green 5 days/week:
 
-### My Startup Commitment
-
-| Metric | Baseline | Goal (3 months) | Goal (1 year) |
-|---|---|---|---|
-| Green commute days/week | 0 | 2 | 4–5 |
-| CO₂ saved/month | 0 kg | ~32 kg | ~64 kg |
-| Money saved/month | $0 | ~$280 | ~$360 |
-
----
-
-### Tracking Tools
-
-- 📱 **Strava** — Track walking/biking routes, join Boulder Commuters club
-- 📱 **B-Cycle app** — Track rides, find docks
-- 🌍 **CoolClimate Calculator** — Net carbon footprint: berkeleegy.earth
+| Metric | Your Impact |
+|---|---|
+| CO₂ saved | ~200 kg/year (~440 lbs) |
+| Money saved | ~$3,500-4,500/year |
+| Active minutes | ~12,000 min/year (~200 hours!) |
+| Car trips avoided | ~250/year |
 
 ---
 
-*Data: EPA GHG Factors (2024), AHA Guidelines, BMJ Studies, University of Glasgow (2017), Boulder city data (2025)*
+## Community Context
+
+Boulder has one of the **highest rates of active commuting in Colorado**:
+- ~15-20% of Boulder commuters walk or bike to work
+- This is **3× the Colorado average** (~6%)
+- Boulder ranks among the top 10 U.S. cities for bike commuting
+
+**You'd be joining a community that already values sustainable transportation.**
+
+---
+
+*Data sources: EPA GHG Emission Factors Hub, American Heart Association, British Medical Journal, City of Boulder Transportation Planning, Colorado E-Bike Rebate Program*

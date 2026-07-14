@@ -1,70 +1,100 @@
-# Walking Route: 45 Oak Avenue → 1800 Broadway 🚶‍♂️
+# 🚶 Walking Route: 45 Oak Avenue → 1800 Broadway
 
-**Distance:** 4.03 km (2.5 miles) | **Time:** ~48 minutes | **Difficulty:** Easy
+*Turn-by-turn walking directions with landmarks, nearby spots, and safety tips*
 
 ---
 
-## Turn-by-Turn Directions
+## Quick Facts
+- **Distance**: 4.03 km (2.5 miles)
+- **Time**: ~48 minutes
+- **Pace**: 5 km/h (3.1 mph)
+- **Terrain**: Paved sidewalks, mostly flat with gentle southward slope
+- **Accessibility**: Fully wheelchair accessible sidewalks on all segments
 
-### Segment 1: Oak Avenue (97 m, ~1–2 min)
-1. Exit 45 Oak Avenue onto the sidewalk
-2. Head **south** on Oak Avenue (gentle downhill)
-3. Continue for **97 meters** until you reach 19th Street
-4. 📍 *Tip: The sidewalk is well-maintained; watch for pedestrians exiting driveways*
+---
 
-### Segment 2: 19th Street (2.16 km, ~30 min) ⭐
-1. Turn **right (west)** onto 19th Street
-2. This is your **longest segment** — follow 19th Street south for **2.16 km**
-3. You'll pass:
-   - 🏠 Residential homes with mature American Elm trees
-   - ☕ **Lucky's Bakehouse Cafe** (left side, ~600 m in)
-   - 🎨 Local art studios and boutiques
-   - 🌳 Shaded canopy provides relief in summer
-4. Stay on the **sidewalk** (available on both sides)
-5. 📍 *Tip: This is the most aerobic part of the walk — steady pace, gentle grade*
+## Step-by-Step Directions
 
-### Segment 3: 20th Street (672 m, ~9 min)
-1. Turn **left (south)** onto 20th Street
-2. Follow for **672 meters**
-3. Low-traffic residential area; quiet mornings
-4. 📍 *Tip: Nice tree-lined section — good for observing Boulder's residential character*
+### 1. Start on Oak Avenue
+**📍 45 Oak Avenue** → Head south on Oak Avenue
+- Distance: 96.6 m (~2 min)
+- Oak Avenue is a quiet residential street with sidewalks on both sides.
+- You'll pass a few homes and small lawns.
 
-### Segment 4: Pearl Street (216 m, ~2–3 min)
-1. Turn **right (west)** onto Pearl Street
-2. Cross carefully at the intersection
-3. Enjoy the **vibrant local scene** — restaurants, bookstores, and jewelry shops
-4. Follow Pearl Street for **216 meters**
-5. 📍 *Tip: This is a great spot to grab a coffee before or after work*
+### 2. Turn right onto 19th Street
+**📍 Oak Ave & 19th Street** → Head south on 19th Street
+- Distance: 2,156.5 m (~7 min)
+- This is the main segment of the walk — longest and most scenic.
+- **🌳 Look up**: Mature American Elms line both sides of the street, creating a beautiful canopy.
+- Sidewalks are wide and well-maintained.
+- **☕ Stop**: Lucky's Bakehouse Cafe is about 500m south of Oak Ave — good for a pre-commute coffee.
 
-### Segment 5: 18th Street (249 m, ~3–4 min)
-1. Turn **left (south)** onto 18th Street
-2. Short connector — **249 meters**
-3. Leads directly to Canyon Boulevard
-4. 📍 *Tip: Quick stretch; watch for cross traffic*
+### 3. Slight right onto 20th Street
+**📍 19th St & 20th St** → Turn right, heading south on 20th Street
+- Distance: 106.1 m (~1 min)
+- Short connector street.
 
-### Segment 6: Canyon Boulevard (637 m, ~8 min) 🎯
-1. Turn **right (west)** onto Canyon Boulevard
-2. Follow the **dedicated pedestrian/bike corridor**
-3. Continue **637 meters** south
-4. Arrive at **1800 Broadway** on your left
-5. 📍 *Tip: This is Boulder's premier walk/bike corridor — wide, well-lit, and safe*
+### 4. Continue on 20th Street
+**📍 20th Street** → Continue south
+- Distance: 565.6 m (~3 min)
+- Residential area, quiet and safe.
+- **🏫 Landmark**: Boulder Waldorf Kindergarten is nearby (518 m from start).
+
+### 5. Turn left onto Pearl Street
+**📍 20th St & Pearl Street** → Turn left, heading east on Pearl Street
+- Distance: 216.2 m (~1.5 min)
+- Pearl Street is Boulder's vibrant main street — you'll pass shops and cafes.
+- **🛍️ Shopping**: Pearl Street has jewelry stores, textile shops, and restaurants within 800m.
+
+### 6. Turn right onto 18th Street
+**📍 Pearl St & 18th St** → Turn right, heading south on 18th Street
+- Distance: 248.8 m (~2 min)
+- Short street heading toward Canyon Boulevard.
+
+### 7. Turn left onto Canyon Boulevard
+**📍 18th St & Canyon Blvd** → Turn left on Canyon Boulevard
+- Distance: 636.6 m (~2 min)
+- **🚲 This is a dedicated multi-use path** — wide, well-lit, and separated from car traffic.
+- Follow the path east as it curves toward Broadway.
+
+### 8. Arrive at 1800 Broadway
+**🎯 Destination**: 1800 Broadway, Boulder, CO 80302
+- On your right, just past the Canyon Blvd/Broadway intersection.
+
+---
+
+## Landmarks & Around-Route Highlights
+
+| Landmark | Distance from Route | Category |
+|---|---|---|
+| Lucky's Bakehouse Cafe | ~500m east of 19th St | Coffee & Bakery |
+| Ruzo Coffee | ~600m from destination | Coffee |
+| China Gourmet | ~650m from destination | Chinese Food |
+| Lucky's Creamery | ~680m from destination | Ice Cream |
+| Pearl Street Mall | ~800m west | Shopping & Dining |
+| Boulder Waldorf Kindergarten | ~518m north | School |
 
 ---
 
 ## Safety Tips
 
-✅ Walk facing traffic if sidewalk is unavailable (rare on this route)  
-✅ Use crosswalks at all intersections — Boulder drivers are generally pedestrian-aware  
-✅ Summer mornings can be warm — bring water  
-✅ Evening walks: Canyon Blvd corridor is well-lit  
-✅ Winter: Watch for ice on 19th Street hill (generally well-salted by city)
+1. **Pedestrian signals**: Obey crosswalk signals at 19th/Pearl and 18th/Canyon intersections.
+2. **Morning hours**: The 19th Street canopy creates dappled light — stay alert for early-rush commuters on bikes.
+3. **Evening walk**: Canyon Boulevard is well-lit; carry a front light if walking after dark.
+4. **Rainy days**: 19th Street sidewalks can be slick under tree canopy — wear water-resistant shoes.
+5. **Dogs**: Many residents walk dogs on this route — keep yours on a short leash near intersections.
 
-## Best Times
+---
 
-| Time | Conditions | Notes |
+## Easy On-the-Route Refueling
+
+| Spot | What | Distance from Destination |
 |---|---|---|
-| **6:00–8:00 AM** | Cool, quiet roads | Best for summer; peaceful start |
-| **8:00–10:00 AM** | Moderate traffic | Grand Avenue Farmers Market (Tue/Sat) nearby |
-| **4:00–6:00 PM** | Rush hour | Use Canyon Blvd corridor — safest bike/ped path |
+| Lucky's Bakehouse Cafe | Coffee, pastries, breakfast burritos | ~400m |
+| Ruzo Coffee | Espresso, tea, light food | ~380m |
+| China Gourmet | Quick lunch / takeout | ~350m |
+| Pearl Street shops | Convenience stores, delis | ~500m |
 
-*Route data: OpenStreetMap · Verified: July 2025*
+---
+
+*Route data verified via OpenStreetMap, July 2025*

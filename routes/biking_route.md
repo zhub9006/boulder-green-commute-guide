@@ -1,91 +1,122 @@
-# Biking Route: 45 Oak Avenue → 1800 Broadway 🚴
+# 🚴 Biking Route: 45 Oak Avenue → 1800 Broadway
 
-**Distance:** 4.03 km (2.5 miles) | **Time:** ~16 minutes | **Difficulty:** Easy
-
----
-
-## Turn-by-Turn Directions
-
-### Segment 1: Oak Avenue (97 m, <1 min)
-1. Exit 45 Oak Avenue onto the street
-2. Turn **right (south)** onto **19th Street** (immediate junction)
-3. 🚲 *Use the bike lane on 19th Street*
-4. 📍 *Tip: Very short residential segment; almost instant bike routing*
-
-### Segment 2: 19th Street (2.16 km, ~8–10 min) ⭐
-1. Follow **19th Street south** — this is your main corridor
-2. **~2.16 km** with bike lane available
-3. You'll pass:
-   - 🏠 Quiet residential stretch with elm canopy
-   - ☕ **Lucky's Bakehouse Cafe** (watch for cyclists during morning rush)
-   - 🌳 Shaded sections in summer
-4. Maintain a **comfortable cruising pace** (15–18 km/h)
-5. 📍 *Tip: Bike lane is protected in sections; stay alert at driveways*
-
-### Segment 3: 20th Street (672 m, ~2–3 min)
-1. Turn **left (south)** onto 20th Street
-2. **Shared road** — low speed limit, cyclist-friendly
-3. Follow for **672 meters**
-4. 📍 *Tip: Giving way policy — cyclists have priority on this low-volume street*
-
-### Segment 4: Pearl Street (216 m, ~1 min)
-1. Turn **right (west)** onto Pearl Street
-2. **Quick cross** — 216 m; hustle across carefully
-3. Local cafes on both sides — good rest stop
-4. 📍 *Tip: Disembark and walk the bike if crossing traffic feels unsafe*
-
-### Segment 5: 18th Street (249 m, ~1 min)
-1. Turn **left (south)** onto 18th Street
-2. **Quick connector** — **249 meters** only
-3. Leads directly to Canyon Boulevard
-4. 📍 *Tip: Signal your turns; this is a controlled intersection*
-
-### Segment 6: Canyon Boulevard (637 m, ~3–4 min) 🎯
-1. Turn **right (west)** onto **Canyon Boulevard**
-2. Use the **dedicated bike lane** — this is the highlight!
-3. Boulder's premier bike corridor — **protected, wide, and well-maintained**
-4. Continue **637 meters** south
-5. Arrive at **1800 Broadway**
-6. 📍 *Tip: One of Colorado's best bike lanes — enjoy the ride!*
+*Turn-by-turn biking directions with bike infrastructure notes and sustainable travel tips*
 
 ---
 
-## Bike Infrastructure Notes
+## Quick Facts
+- **Distance**: 4.03 km (2.5 miles)
+- **Time**: ~16 minutes
+- **Pace**: 15 km/h (9.3 mph)
+- **Terrain**: Paved roads and multi-use path; gentle southward slope
+- **Bike Infrastructure**: Dedicated bike lanes on 19th St, multi-use path on Canyon Blvd
 
-✅ **Canyon Boulevard** — Dedicated, protected bike lane for the final 637 m  
-✅ **19th Street** — Bike lane available for the majority of the route  
-✅ **B-Cycle Station** — Broadway & Iris (~400 m from office) — **13-bike capacity**  
-✅ **E-Bike Friendly** — Flat terrain + bike lane = perfect for e-bikes  
-⚠️ **Pearl/18th intersection** — Moderate traffic; dismount if preferred  
+---
 
-## E-Bike Incentives 🔋
+## Step-by-Step Directions
 
-Colorado's **e-bike rebate program** offers up to **$1,200** off e-bike purchases:
-- Makes the 48-min walk feel like a **20-min breeze**
-- Perfect for hills, headwinds, or arriving fresh
-- **CO.gov/ebike** — Check current rebate availability
+### 1. Start on Oak Avenue
+**📍 45 Oak Avenue** → Head south on Oak Avenue
+- Distance: 96.6 m (~15 sec)
+- Oak Avenue is quiet with bike racks near the 20th St intersection.
+- **Tip**: Use the full lane if needed — it's narrow but traffic is minimal.
 
-## Safety Tips
+### 2. Turn right onto 19th Street
+**📍 Oak Ave & 19th Street** → Head south on 19th Street
+- Distance: 2,156.5 m (~2 min)
+- **🚲 Bike lane**: Dedicated bike lane on the east side of 19th Street.
+- **🌳 Shaded corridor**: American Elms provide shade — great on hot days.
+- **⚠️ Caution**: Watch for driveways and parked car doors opening.
+- **☕ Quick stop**: Lucky's Bakehouse Cafe has a bike rack outside.
 
-✅ Always wear a helmet (Boulder PD may issue fines)  
-✅ Use bike lanes where available — Canyon Blvd is excellent  
-✅ Signal all turns — drivers expect cyclists on Canyon Blvd  
-✅ Front + rear lights recommended for dawn/dusk commutes  
-✅ Lock at Broadway: building has bike parking available  
-⚠️ Avoid 19th Street during **4:00–6:00 PM** if possible (higher traffic)
+### 3. Slight right onto 20th Street
+**📍 19th St & 20th St** → Turn right, heading south on 20th Street
+- Distance: 106.1 m (~15 sec)
+- Quiet residential connector.
 
-## Best Times
+### 4. Continue on 20th Street
+**📍 20th Street** → Continue south
+- Distance: 565.6 m (~1 min)
+- Residential street, minimal traffic.
 
-| Time | Conditions | Notes |
+### 5. Turn left onto Pearl Street
+**📍 20th St & Pearl Street** → Turn left, heading east on Pearl Street
+- Distance: 216.2 m (~25 sec)
+- Pearl Street is a busy commercial corridor — **dismount and walk your bike** if the crosswalk is crowded.
+- **Tip**: Use the marked bike crossing at the intersection.
+
+### 6. Turn right onto 18th Street
+**📍 Pearl St & 18th St** → Turn right, heading south on 18th Street
+- Distance: 248.8 m (~30 sec)
+- Short street heading toward Canyon Blvd.
+
+### 7. Turn left onto Canyon Boulevard
+**📍 18th St & Canyon Blvd** → Turn left on Canyon Boulevard
+- Distance: 636.6 m (~1 min)
+- **🚲 Multi-use path**: Dedicated, separated bike/pedestrian path — the safest and most enjoyable segment.
+- **Wide path**: Plenty of room for both cyclists and pedestrians.
+- **👀 Yield**: Be mindful of pedestrians on the shared path.
+
+### 8. Arrive at 1800 Broadway
+**🎯 Destination**: 1800 Broadway, Boulder, CO 80302
+- Bike rack location: Right-side bike rack at the 1800 Broadway entrance and along the Canyon Blvd corridor.
+
+---
+
+## Bike Infrastructure Along the Route
+
+| Feature | Location | Details |
 |---|---|---|
-| **6:00–8:00 AM** | Cool, minimal traffic | Best overall — empty roads |
-| **4:00–6:00 PM** | Rush hour | Use Canyon Blvd protected lane |
-| **Evening** | Free-flowing | Popular with recreational cyclists too |
+| Bike lane | 19th Street | Dedicated eastern-side bike lane, ~2 km |
+| Multi-use path | Canyon Boulevard | Separated path, ~600 m, well-maintained |
+| Bike racks | 1800 Broadway | Multiple racks near entrance |
+| B-Cycle station | Broadway & Iris | 13-bike capacity, ~400m from destination |
+| Bike repair station | Canyon Blvd | Basic tools and pump available |
 
-## Route Difficulty Scale
+---
 
-🟢 **Easy** — 4 km, flat, protected bike lane on final segment, minimal elevation  
-📊 **Bike-Friendly Score: 8/10** — Excellent bike infrastructure, especially Canyon Blvd corridor  
+## E-Bike Considerations
 
-*Route data: OpenStreetMap · Verified: July 2025*
-*E-bike info: colorado.gov/ebike · B-Cycle: b-cycle.com/cities/b-cycle-boulder/boulder-co*
+Boulder is a great city for e-bikes! Here's why this commute is perfect:
+
+- **E-bike rebate**: Colorado offers up to **$1,200 rebate** on e-bike purchases ([colorado.gov/ebike](https://colorado.gov/ebike))
+- **Hill assistance**: The gentle slope is even easier with pedal assist
+- **Arrive fresh**: Arrive at work without breaking a sweat — cover the 4 km in ~10 min
+- **Range**: Most e-bikes have 40-80 km range — this 4 km commute uses < 10%
+
+---
+
+## B-Cycle (Bike Share) Option
+
+If you don't want to bike from home, use B-Cycle:
+
+1. **Fetch a bike** from Broadway & Iris station (~400m from destination)
+2. **Ride to home** along the same route (16 min)
+3. **Return the bike** at any B-Cycle station near 45 Oak Avenue
+4. **Cost**: $8/day or $89/month membership
+
+---
+
+## Safety Tips for Cyclists
+
+1. **Be visible**: Use front and rear lights, especially in early morning or dusk.
+2. **Helmet recommended**: Not legally required in Colorado, but strongly recommended.
+3. **Signal turns**: Use hand signals at 19th/Pearl and 18th/Canyon intersections.
+4. **Canyon Blvd**: Multi-use path — slow to walking speed when pedestrians are present.
+5. **Pearl Street**: Dismount at crosswalks in the commercial zone — it's the law in downtown Boulder.
+6. **Lock up**: Use a U-lock through the frame and rear wheel; both racks have anchor points.
+
+---
+
+## Seasonal Biking Notes
+
+| Season | Conditions | Tip |
+|---|---|---|
+| **Spring** | Wildflowers, mild temps | Best biking season in Boulder!
+| **Summer** | Hot afternoons, shaded 19th St | Ride early or late; bring water |
+| **Fall** | Cool, crisp, golden leaves | Ideal for e-bike with commuter mirror |
+| **Winter** | Cold, occasional snow/ice | Studded tires, fenders, lights; salt on Canyon Blvd |
+
+---
+
+*Route data verified via OpenStreetMap, July 2025; e-bike rebate info from colorado.gov*
