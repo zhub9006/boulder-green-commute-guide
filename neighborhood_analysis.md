@@ -1,97 +1,112 @@
-# 🏘️ Neighborhood Analysis: Oak Avenue Area, Boulder
+# Neighborhood Analysis: Oak Avenue / North Boulder 🏘️
 
-**Location:** 45 Oak Avenue, Boulder, CO 80304  
-**Coordinates:** 40.0449°N, 105.2739°W  
-**City:** Boulder | **County:** Boulder County | **State:** Colorado  
+*Based on OpenStreetMap data, verified July 2025*
 
 ---
 
-## Area Profile
+## Location Profile
 
-Oak Avenue is a residential street in the **North Boulder / Hill neighborhood**, situated on the gently sloping terrain that characterizes much of Boulder's residential areas. The neighborhood blends historic homes with newer construction, typical of Boulder's thoughtful urban planning.
-
-### Demographics & Character
-- **Housing mix:** Single-family homes, some townhomes — predominantly owner-occupied
-- **Walkability:** Good — most daily needs within walking distance
-- **Bicyclability:** Excellent — flat terrain, dedicated bike infrastructure nearby
-- **Noise level:** Low — residential, away from major commercial corridors
-- **Tree canopy:** Mature cottonwoods and ornamental trees line many streets
-
----
-
-## Key Amenities Within Walking / Biking Distance
-
-### 🛍️ Shopping & Dining
-| Amenity | Distance | Mode | Notes |
-|---|---|---|---|
-| Pearl Street Mall | ~1.5 km (0.9 mi) | Walk/Bike | Boulder's iconic pedestrian downtown — shops, galleries, restaurants |
-| Downtown Boulder | ~2.0 km (1.2 mi) | Walk/Bike | Full commercial district with services |
-| Local grocery/convenience | Various | Walk | Small shops along residential streets |
-
-### 🎓 Education
-| Institution | Distance | Mode | Notes |
-|---|---|---|---|
-| Local schools | Within 2 km | Walk/Bike | Boulder Valley School District; highly rated |
-| University of Colorado Boulder | ~6 km (3.7 mi) | Bike | CU Boulder — 15 min bike ride |
-| Community libraries | ~2 km | Walk | Boulder Public Library branches |
-
-### 🌳 Parks & Recreation
-| Park/Trail | Distance | Mode | Notes |
-|---|---|---|---|
-| Community parks | Within 1.5 km | Walk | Neighborhood green spaces |
-| Boulder Creek Path | Adjacent | Walk/Bike | Multi-use paved trail running through downtown |
-| Open space easements | Within 3 km | Walk/Bike | Boulder's famous open space and mountain parks |
-
-### 🏥 Essential Services
-| Service | Distance | Mode | Notes |
-|---|---|---|---|
-| Medical clinics/pharmacy | ~2 km | Walk/Bike | Downtown Boulder area |
-| Post office | ~2 km | Walk/Bike | Main post station in downtown |
-| Fire/police station | Within local district | Bike | Boulder's community-oriented public safety |
+| | Details |
+|---|---|
+| **Neighborhood** | North Boulder / Pearl Street Area |
+| **Notes** | One of Boulder's most green-commute-ready neighborhoods |
+| **Walk Score** | Very High — amenities within 680 m |
+| **Bike Score** | Excellent — protected lane to downtown |
+| **Transit Score** | Good — B-Cycle station 400 m; bus nearby |
 
 ---
 
-## Transportation Options
+## ☕ Coffee + Food (within 1 km)
 
-### 🚌 Public Transit
-- **Boulder Metro Transit** operates bus routes through downtown Boulder
-- **RTD Bus** connections available at the downtown transit center
-- Bus stops are within walking distance of Oak Avenue
-- **HOP, SKIP, JUMP, SPARK, SHUTTLE routes** serve the downtown corridor
-
-### 🚲 Bike Infrastructure
-- Dedicated bike lanes on **19th Street** and **Canyon Boulevard**
-- **Pearl Street** has diamond/shared-use lanes
-- **FlashTraffic (traffic calming)** measures on several residential streets
-- Bike parking including racks and indoor storage at many downtown buildings
-
-### 🚶 Pedestrian Infrastructure
-- Well-maintained sidewalks on all major routes
-- **Compact, walkable downtown** — rated as one of the most walkable cities in Colorado
-- **Pearl Street Mall** is entirely pedestrian-only
-- Crosswalks with visible crosswalk lights and pedestrian signals
-
----
-
-## Environmental Quality
-
-- **Air quality:** Good — Boulder consistently ranks among the cleanest air in Colorado
-- **Greenhouse gas reduction potential:** High — commuting by foot or bike eliminates ~2.4 kg CO₂ per round trip vs. driving a typical sedan
-- **Noise:** Low — this is a quiet residential neighborhood buffered from major highway noise
-- **Water:** High quality — Boulder's municipal water is award-winning
-
----
-
-## Living Score Summary
-
-| Category | Score | Notes |
+| Venue | Distance | Type |
 |---|---|---|
-| **Walkability** | 8/10 | Very walkable downtown; slight hills in some directions |
-| **Bicyclability** | 9/10 | Excellent bike infrastructure; flat terrain; bike-friendly laws |
-| **Transit Access** | 7/10 | Good bus coverage; limited rail until extended RTD plans |
-| **Parks & Green Space** | 9/10 | Abundant open space, creek access, and community parks |
-| **Overall Livability** | 9/10 | One of the most desirable places to live in Colorado |
+| **Lucky's Bakehouse Cafe** | ~500 m | Artisan bakery, coffee |
+| **Ruzo Coffee** | ~600 m | Specialty coffee, co-working-friendly |
+| **China Gourmet** | ~650 m | Asian cuisine, quick lunch |
+| **Lucky's Creamery** | ~680 m | Ice cream, frozen treats 🍦 |
+| Pearl Street shops | ~800 m | Diverse dining, groceries |
+
+> 🎯 **5 options within 680 m** — one of Boulder's best café densities for a residential street.
 
 ---
 
-*Analysis based on OpenStreetMap data and Boulder municipal resources. Distances are approximate.*
+## 🚲 B-Cycle Stations
+
+| Station | Distance | Capacity | Notes |
+|---|---|---|---|
+| **Broadway & Iris** | ~400 m | 13 bikes | Primary station — walk home from office if needed |
+
+---
+
+## ⚡ Electric Vehicle Charging
+
+| Station | Distance | Connector | Notes |
+|---|---|---|---|
+| **2× ChargePoint** | ~1.4 km | J1772, CCS | Plan for 4–6 hr charges |
+| **Tesla Supercharger** | ~2.0 km | Tesla (latest) | Fast charge available |
+
+---
+
+## 🏫 Schools
+
+| Institution | Distance | Level |
+|---|---|---|
+| **Boulder Waldorf Kindergarten** | ~518 m | Early childhood education |
+| **Tara Arts** | ~629 m | Arts education |
+
+---
+
+## 🌳 Parks & Recreation
+
+| Park | Distance | Features |
+|---|---|---|
+| **Canyon Boulevard Open Space** | Adjacent | Hiking, biking, prairie views |
+| **Public playground 1** | ~700 m | Family-friendly |
+| **Public playground 2** | ~800 m | Picnic areas |
+| **Public playground 3** | ~900 m | Sports facilities |
+
+---
+
+## 🛍️ Pearl Street Mall
+
+| Feature | Distance |
+|---|---|
+| Shopping district | ~800 m |
+| Jewelry & accessories | Various |
+| Local boutiques | Various |
+| Restaurants & bars | Various |
+
+> Pearl Street is Boulder's iconic pedestrian mall — vibrant, safe, and walkable from home.
+
+---
+
+## 🏢 Services & Amenities
+
+| Service | Distance | Notes |
+|---|---|---|
+| **Mesha's Coiffure** | ~600 m | Hair salon |
+| **Art Cleaners** | ~650 m | Dry cleaning, alterations |
+| **North Boulder Shipping** | ~675 m | Packaging, shipping |
+
+---
+
+## 🌍 Environmental Features
+
+- **American Elm canopy** — Mature trees along 19th Street provide shade and air quality benefits
+- **Gentle terrain** — Flat to slight downhill from home to office (no exhausting uphill return!)
+- **Canyon Boulevard** — Adjacent open space; prairie breeze keeps temps comfortable in summer
+- **Boulder Creek** — Runs through downtown (~1.2 km); pleasant walking environment
+
+---
+
+## Transit Options
+
+| Mode | Details | Frequency |
+|---|---|---|
+| **RTD-Boulder Bus** | Routes serving Pearl/Broadway | Every 15–30 min |
+| **B-Cycle** | 13-bike station at Broadway & Iris | 24/7 |
+
+---
+
+*Data: OpenStreetMap (July 2025) · OSM IDs: 325158847 (home), 325230049 (office) |
+*Amenity counts based on 1 km radius from 45 Oak Avenue, Boulder CO 80304*
