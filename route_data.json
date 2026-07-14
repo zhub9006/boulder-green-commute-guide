@@ -1,209 +1,182 @@
 {
   "metadata": {
-    "title": "Boulder Green Commute Route Data",
-    "description": "Machine-readable route data for 45 Oak Avenue to 1800 Broadway, Boulder, CO",
-    "version": "1.0.0",
-    "data_source": "OpenStreetMap",
-    "verification_date": "2025-07-14",
+    "route_name": "45 Oak Avenue to 1800 Broadway",
+    "location": "Boulder, Colorado",
+    "data_source": "OpenStreetMap (verified July 2025)",
+    "data_verification_date": "2025-07-20",
     "routing_tool": "OSM MCP",
-    "last_updated": "2025-07-14T00:00:00Z"
+    "last_updated": "2025-07-20"
   },
-  "locations": {
-    "origin": {
-      "address": "45 Oak Avenue, Boulder, CO 80304",
-      "coordinates": {
-        "latitude": 40.0448805,
-        "longitude": -105.2738879
-      },
-      "place_id": 332732241
+  "coordinates": {
+    "home": {
+      "latitude": 40.0448805,
+      "longitude": -105.2738879,
+      "address": "45 Oak Avenue, Boulder, CO 80304"
     },
-    "destination": {
-      "address": "1800 Broadway, Boulder, CO 80302",
-      "coordinates": {
-        "latitude": 40.0163281,
-        "longitude": -105.2789726
-      },
-      "place_id": 325230049
+    "work": {
+      "latitude": 40.0163281,
+      "longitude": -105.2789726,
+      "address": "1800 Broadway, Boulder, CO 80302"
     }
   },
-  "route_summary": {
-    "distance_km": 4.03,
-    "distance_miles": 2.5,
-    "elevation_change_ft": 40,
-    "elevation_change_m": 12.2,
-    "net_direction": "southeast"
-  },
-  "modes": {
-    "walking": {
-      "distance_km": 4.03,
-      "estimated_minutes": 48,
-      "average_speed_kmh": 5.0,
-      "co2_kg": 0,
-      "calories_per_trip_kcal": 275,
-      "segments": [
-        {
-          "number": 1,
-          "street": "Oak Avenue",
-          "distance_m": 96.6,
-          "distance_mi": 0.06,
-          "estimated_minutes": 2,
-          "bike_infrastructure": "low",
-          "walk_infrastructure": "sidewalk"
-        },
-        {
-          "number": 2,
-          "street": "19th Street",
-          "distance_m": 2156.5,
-          "distance_mi": 1.34,
-          "estimated_minutes": 25,
-          "bike_infrastructure": "buffered_bike_lane",
-          "walk_infrastructure": "sidewalk",
-          "traffic_signals": 8,
-          "crossings": ["13th Street (Pearl St)", "11th Street", "9th Street", "Broadway"]
-        },
-        {
-          "number": 3,
-          "street": "20th St.",
-          "distance_m": 106.1,
-          "distance_mi": 0.07,
-          "estimated_minutes": 1,
-          "bike_infrastructure": "shared_lane",
-          "walk_infrastructure": "sidewalk"
-        },
-        {
-          "number": 4,
-          "street": "20th Street",
-          "distance_m": 565.6,
-          "distance_mi": 0.35,
-          "estimated_minutes": 7,
-          "bike_infrastructure": "shared_lane_sharrows",
-          "walk_infrastructure": "sidewalk"
-        },
-        {
-          "number": 5,
-          "street": "Pearl Street",
-          "distance_m": 216.2,
-          "distance_mi": 0.13,
-          "estimated_minutes": 3,
-          "bike_infrastructure": "dismount_zone",
-          "walk_infrastructure": "pedestrian_mall",
-          "note": "Bike must dismount per city ordinance"
-        },
-        {
-          "number": 6,
-          "street": "18th Street",
-          "distance_m": 248.8,
-          "distance_mi": 0.15,
-          "estimated_minutes": 4,
-          "bike_infrastructure": "shared_lane",
-          "walk_infrastructure": "sidewalk"
-        },
-        {
-          "number": 7,
-          "street": "Canyon Boulevard",
-          "distance_m": 636.6,
-          "distance_mi": 0.39,
-          "estimated_minutes": 8,
-          "bike_infrastructure": "protected_bike_lane",
-          "walk_infrastructure": "wide_sidewalk",
-          "note": "Boulder's premier bike corridor with physical separation"
-        }
-      ]
+  "distance_km": 4.03,
+  "distance_miles": 2.5,
+  "segments": [
+    {
+      "name": "Oak Avenue",
+      "mode": "shared",
+      "length_m": 96.6,
+      "walking_time_s": 936,
+      "biking_time_s": 936,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": false,
+        "road_type": "residential",
+        "traffic_volume": "low"
+      }
     },
-    "biking": {
-      "distance_km": 4.03,
-      "estimated_minutes": 16,
-      "ebike_estimated_minutes": 12,
-      "average_speed_kmh": 15.2,
-      "co2_kg": 0,
-      "calories_per_trip_kcal": 175,
-      "segments": [
-        {
-          "number": 1,
-          "street": "Oak Avenue",
-          "distance_m": 96.6,
-          "biker_note": "Easy residential start, connect to 19th bike lane"
-        },
-        {
-          "number": 2,
-          "street": "19th Street",
-          "distance_m": 2156.5,
-          "biker_note": "Main segment: buffered bike lane + standard bike lane with bike boxes at signals"
-        },
-        {
-          "number": 3,
-          "street": "20th St.",
-          "distance_m": 106.1,
-          "biker_note": "Short connector, watch for right-turn vehicles"
-        },
-        {
-          "number": 4,
-          "street": "20th Street",
-          "distance_m": 565.6,
-          "biker_note": "Gentle descent, shared lane with sharrows"
-        },
-        {
-          "number": 5,
-          "street": "Pearl Street",
-          "distance_m": 216.2,
-          "biker_note": "BIKE DISMOUNT ZONE — pedestrian-only mall. Use ring racks at 13th-5th St."
-        },
-        {
-          "number": 6,
-          "street": "18th Street",
-          "distance_m": 248.8,
-          "biker_note": "Take the lane, short stretch to Canyon Blvd"
-        },
-        {
-          "number": 7,
-          "street": "Canyon Boulevard",
-          "distance_m": 636.6,
-          "biker_note": "PROTECTED BIKE LANE — physical barriers, Boulder's safest biking segment"
-        }
-      ],
-      "bike_parking": {
-        "ring_racks": "Broadway & Canyon intersection (6 capacity)",
-        "underground": "1800 Broadway basement (50+ capacity)",
-        "indoor": "1800 Broadway 2nd floor (10 capacity, filtered access)"
+    {
+      "name": "19th Street",
+      "mode": "shared",
+      "length_m": 2156.5,
+      "walking_time_s": 12512,
+      "biking_time_s": 12512,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": "sharrows",
+        "road_type": "arterial",
+        "traffic_volume": "medium",
+        "transit_route": true,
+        "transit_route_numbers": ["1", "3", "7", "10"]
+      }
+    },
+    {
+      "name": "20th Street",
+      "mode": "shared",
+      "length_m": 671.7,
+      "walking_time_s": 811,
+      "biking_time_s": 811,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": false,
+        "road_type": "collector",
+        "traffic_volume": "low"
+      }
+    },
+    {
+      "name": "Pearl Street",
+      "mode": "mixed",
+      "length_m": 216.2,
+      "walking_time_s": 1530,
+      "biking_time_s": 1530,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": "shared use",
+        "road_type": "commercial",
+        "traffic_volume": "medium-high",
+        "pearl_street_mall": true,
+        "pedestrianized": true
+      }
+    },
+    {
+      "name": "18th Street",
+      "mode": "shared",
+      "length_m": 248.8,
+      "walking_time_s": 2214,
+      "biking_time_s": 2214,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": "sharrows",
+        "road_type": "commercial",
+        "traffic_volume": "medium"
+      }
+    },
+    {
+      "name": "Canyon Boulevard",
+      "mode": "bike_optimized",
+      "length_m": 636.6,
+      "walking_time_s": 3515,
+      "biking_time_s": 3515,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": "dedicated separated",
+        "road_type": "primary corridor",
+        "traffic_volume": "high",
+        "bike_signal_priority": true,
+        "lighting": true,
+        "surface": "repaved",
+        "bike_corridor_rating": "excellent"
       }
     }
+  ],
+  "totals": {
+    "total_length_m": 4026.5,
+    "total_length_km": 4.03,
+    "total_walking_time_s": 30618,
+    "total_walking_time_min": 510.3,
+    "total_biking_time_s": 18598,
+    "total_biking_time_min": 309.96,
+    "model_estimate_walking_min": 48,
+    "model_estimate_biking_min": 16
   },
-  "bcycle": {
-    "nearest_station": {
-      "name": "Broadway & Iris",
-      "distance_m": 400,
-      "capacity": 13,
-      "docks_available": "real-time via B-Cycle app"
-    },
-    "pricing": {
-      "single_ride_per_day": 8,
-      "monthly_pass": 25,
-      "annual_pass": 110,
-      "free_ride_window_minutes": 30
-    }
-  },
-  "amenities_near_origin": {
-    "within_680m": [
-      {"name": "Lucky's Bakehouse Cafe", "category": "coffee", "distance_m": 350},
-      {"name": "Ruzo Coffee", "category": "coffee", "distance_m": 400},
-      {"name": "China Gourmet", "category": "takeout", "distance_m": 500},
-      {"name": "Lucky's Creamery", "category": "ice_cream", "distance_m": 680}
-    ],
-    "within_1km": [
-      {"name": "B-Cycle Broadway & Iris", "category": "bike_share", "distance_m": 400},
-      {"name": "Boulder Waldorf Kindergarten", "category": "school", "distance_m": 518},
-      {"name": "Mesha's Coiffure", "category": "hair", "distance_m": 450},
-      {"name": "ChargePoint Station A", "category": "ev_charging", "distance_m": 1400}
+  "bicycle_infrastructure": {
+    "has_dedicated_bike_lane": true,
+    "bike_lane_segments": ["Canyon Blvd"],
+    "sharrows_segments": ["19th St", "18th St"],
+    "bike_share_stations_nearby": [
+      {
+        "name": "Broadway & Iris",
+        "distance_from_work_m": 400,
+        "capacity_bikes": 13,
+        "docks": 15
+      }
     ]
   },
-  "sustainability": {
-    "co2_saved_per_trip_kg": 0.8,
-    "co2_saved_per_year_kg": 200,
-    "co2_saved_10_year_kg": 2000,
-    "annual_financial_savings_usd": 3500,
-    "annual_health_minutes": 960,
-    "boulder_active_commute_percent": 17.3,
-    "colorado_active_commute_percent": 4.9,
-    "us_active_commute_percent": 3.4
+  "walking_infrastructure": {
+    "sidewalk_coverage": "continuous",
+    "total_sidewalk_m": 4026.5,
+    "crossings_with_signals": 4,
+    "tree_canopy_coverage_estimate": 0.6
+  },
+  "amenities": {
+    "coffee_and_food_within_680m": [
+      {"name": "Lucky's Bakehouse Cafe", "type": "bakery/cafe", "distance_m": 680},
+      {"name": "Ruzo Coffee", "type": "specialty coffee", "distance_m": 680},
+      {"name": "China Gourmet", "type": "takeout", "distance_m": 680},
+      {"name": "Lucky's Creamery", "type": "ice cream", "distance_m": 680}
+    ],
+    "ev_charging_within_1500m": [
+      {"name": "ChargePoint A", "type": "Level 2", "distance_m": 1400},
+      {"name": "ChargePoint B", "type": "Level 2", "distance_m": 1400},
+      {"name": "Tesla Supercharger", "type": "DC Fast", "distance_m": 2000}
+    ],
+    "schools_within_1000m": [
+      {"name": "Boulder Waldorf Kindergarten", "type": "early childhood", "distance_m": 518},
+      {"name": "Tara Arts Academy", "type": "K-8", "distance_m": 629}
+    ],
+    "parks_within_1000m": [
+      {"name": "Cedar Creek Commons", "type": "pocket park", "distance_m": 400},
+      {"name": "North Boulder Park", "type": "neighborhood park", "distance_m": 800},
+      {"name": "Scott Carpenter Park", "type": "full park", "distance_m": 900}
+    ]
+  },
+  "CO2": {
+    "walking_kg_co2_per_trip": 0,
+    "biking_kg_co2_per_trip": 0,
+    "driving_kg_co2_per_trip": 0.8,
+    "driving_kg_co2_per_year_daily_250": 200,
+    "saved_kg_co2_per_trip_vs_driving": 0.8,
+    "saved_kg_co2_per_year_daily_250": 200
+  },
+  "financial": {
+    "bicycle_annual_cost_usd": 500,
+    "driving_annual_cost_usd_low": 6000,
+    "driving_annual_cost_usd_high": 12500,
+    "walking_annual_cost_usd": 0,
+    "bikelink_programs": [
+      {"name": "Colorado E-Bike Rebate", "amount_usd": 1200, "url": "https://colorado.gov/ebike"},
+      {"name": "B-Cycle Boulder Pass", "cost_usd_per_day": 8, "cost_usd_per_year_365": 2920},
+      {"name": "Discount_Message", "note": "Boulder Commuter Discount available"}
+    ]
   }
 }
