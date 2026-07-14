@@ -1,49 +1,74 @@
 # Contributing to Boulder Green Commute Guide 🌿
 
-Thank you for your interest in making Boulder's commutes more sustainable! This guide is an open community project, and we welcome contributions.
+We welcome contributions from the Boulder community! Here's how you can help make this a better resource for sustainable commuting in Boulder.
+
+---
 
 ## How to Contribute
 
-### Report Issues
-- Found a broken link or inaccurate data? [Open an issue](https://github.com/zhub9006/boulder-green-commute-guide/issues).
-- Notice a new bike lane or road construction? Let the community know!
-
-### Suggest Route Improvements
-- If you regularly commute a different (faster/safer) route, share it in an issue or submit a pull request.
-- Include your starting point, destination, mode (walking/biking), and the route details.
-
-### Add New Commute Routes
-The guide currently features one route. You can add more by:
-1. Creating a new file in the `routes/` directory with your commute analysis
-2. Updating this `CONTRIBUTING.md` to list the new route
-3. Submitting a pull request
-
-### Data Sources
-All route and commute data is sourced from:
-- **OpenStreetMap** — Map data and routing (via OSM MCP tools)
-- **City of Boulder Transportation Division** — Infrastructure and policy context
-- **B-Cycle Boulder** — Bike share station data
-
-### Code of Conduct
-- Be respectful and inclusive — Boulder is a welcoming community.
-- Focus on sustainability and safe transportation.
-- You can do it — every bike or walk trip makes a difference!
-
-## Local Development
-
+### 1. Fork & Clone
 ```bash
-# Clone the repository
 git clone https://github.com/zhub9006/boulder-green-commute-guide.git
 cd boulder-green-commute-guide
-
-# Review the content
-# All files are Markdown (.md) or JSON (.json)
-
-# Suggest changes via pull request
 ```
+
+### 2. Create a Branch
+```bash
+git checkout -b your-feature-name
+```
+
+### 3. Make Your Changes
+- **Add a new route**: Create a new file in `routes/` with turn-by-turn directions
+- **Update amenities**: Add new cafes, B-Cycle stations, or parks to `neighborhood_analysis.md`
+- **Add commute data**: Use the OSM MCP tools to analyze a new commute route
+- **Fix errors**: Typos, outdated info, missing data
+
+### 4. Commit & Push
+```bash
+git add .
+git commit -m "Add: brief description of your changes"
+git push origin your-feature-name
+```
+
+### 5. Open a Pull Request
+Describe your changes and why they help the Boulder community.
+
+---
+
+## Data Sources
+
+All route and amenities data should be verified from OpenStreetMap (verified within the last 3 months). Key tools:
+
+- **Geocoding**: Convert addresses to coordinates
+- **Route directions**: Get turn-by-turn directions for walking and biking
+- **Nearby places**: Search for amenities (cafes, bike stations, parks, etc.)
+- **Neighborhood analysis**: Generate comprehensive area profiles
+
+---
+
+## Adding a New Commute Route
+
+To add analysis for a different Boulder commute:
+
+1. Geocode both origin and destination addresses
+2. Run route directions for both `foot` and `bike` modes
+3. Run `analyze_commute` for both modes
+4. Search for nearby amenities using the home coordinates
+5. Create a new file in `routes/` with the analysis
+6. Update `route_data.json` with the new commute data
+7. Add the new route to the README
+
+---
+
+## Community Standards
+
+- **Be inclusive**: All modes of transportation are welcome
+- **Be accurate**: Only include verified, up-to-date information
+- **Be helpful**: Focus on practical, actionable advice
+- **Be sustainable**: Prioritize green transportation options
+
+---
 
 ## Questions?
 
-Open an issue with the `question` label, or reach out in the GitHub discussions.
-
-Happy commuting! 🚲🌿
+Open an issue or reach out to the repository maintainer. Together, let's make Boulder the greenest commute city in Colorado! 🚶‍♂️🚴‍♀️🌲
