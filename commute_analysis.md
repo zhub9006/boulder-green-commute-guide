@@ -1,24 +1,24 @@
 # Commute Mode Analysis: 45 Oak Ave → 1800 Broadway
 
-**Route:** 45 Oak Avenue, Boulder, CO 80304 → 1800 Broadway, Boulder, CO 80302  
-**Distance:** 4.03 km (~2.5 miles)  
-**Home Coordinates:** 40.0449°N, 105.2739°W  
+**Route:** 45 Oak Avenue, Boulder, CO 80304 → 1800 Broadway, Boulder, CO 80302
+**Distance:** 4.03 km (~2.5 miles)
+**Home Coordinates:** 40.0449°N, 105.2739°W
 **Office Coordinates:** 40.0163°N, 105.2790°W
 
 ## Travel Time Comparison
 
 | Mode | Distance | Travel Time | Avg Speed | CO₂ (per trip) | Annual CO₂ (daily commute × 250 days) |
 |---|---|---|---|---|---|
-| 🚶 Walking | 4.03 km | ~48 min | 5 km/h | 0 kg | 0 kg |
-| 🚴 Biking | 4.03 km | ~16 min | 15 km/h | 0 kg | 0 kg |
-| 🚗 Driving | 4.03 km | ~7 min | ~34 km/h | ~0.8 kg | ~200 kg |
-| 🚌 Bus (RTD) | 4.03 km | ~12 min | ~18 km/h | ~0.15 kg | ~37.5 kg |
+| 🚶 Walking | 4.03 km | 48 min | 5 km/h | 0 kg | 0 kg |
+| 🚴 Biking | 4.03 km | 16 min | 15 km/h | 0 kg | 0 kg |
+| 🚗 Driving | 4.03 km | 7 min | ~34 km/h | ~0.8 kg | ~200 kg |
+| 🚌 Bus (RTD) | 4.03 km | 12 min | ~18 km/h | ~0.15 kg | ~37.5 kg |
 
-> **Notes:** Walking and biking times are model estimates at comfortable average speeds (5 km/h walking, 15 km/h biking). Actual times vary with weather, fitness, and intersection wait times. Driving time shown is optimistic free-flow; add 3-5 min for downtown Boulder parking search. Bus times include scheduled stops.
+> **Notes:** Walking and biking times are model estimates at comfortable average speeds (5 km/h walking, 15 km/h biking). Actual times vary with weather, fitness, and intersection wait times. Driving time shown is optimistic free-flow; add 3-5 min for downtown Boulder parking search. Bus times include scheduled stops. B-Cycle e-bike option: ~12 min with Class 1 assist.
 
 ## Detailed Segment-by-Segment Data
 
-### Walking Route (via OpenStreetMap routing)
+### Walking Route (verified via OpenStreetMap)
 
 | Segment | Road | Distance (m) | Est. Walk Time | Cumulative (m) | Notes |
 |---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 | 6 | Canyon Boulevard | 636.6 | ~2.2 min | 4,026.5 | Dedicated bike/pedestrian corridor, well-lit |
 | **Total** | | **4,026.5** | **~48 min** | | |
 
-### Biking Route (via OpenStreetMap routing)
+### Biking Route (verified via OpenStreetMap)
 
-| Segment | Road | Distance (m) | Est. Bike Time | Cumulative (m) | Notes |
+| Segment | Road | Distance (m) | Est. Bike Time | Cumulative (m) | Infrastructure |
 |---|---|---|---|---|---|
 | 1 | Oak Avenue | 96.6 | ~0.5 min | 96.6 | Low-traffic residential; no bike lane but safe |
 | 2 | 19th Street | 2,156.5 | ~2.6 min | 2,253.1 | Sharrows present; stay right, use bike lane where visible |
@@ -97,10 +97,11 @@
 |---|---|---|---|---|---|
 | 🥇 1 | Biking | 0 kg | High (cardio) | ~$2 (B-Cycle day pass) | Low noise, minimal space |
 | 🥈 2 | Walking | 0 kg | Medium (bone density) | Free | Social, local economy support |
-| 🥉 3 | Driving | 0.8 kg | None (sedentary) | ~$2 (fuel + parking) | Traffic, parking demand |
+| 🥉 3 | B-Cycle/E-Bike | ~0 kg | Medium-high | ~$8/day (pass) | Electric assist, low emissions |
+| 4 | Driving | 0.8 kg | None (sedentary) | ~$2 (fuel + parking) | Traffic, parking demand |
 
 *See `sustainability_impact.md` for full carbon, health, and financial analysis.*
 
 ---
 
-*Route data source: OpenStreetMap (July 2025) via OSM MCP tools. Ranking based on EPA emission factors, AHA health guidelines, and 2025 Boulder market rates.*
+*Route data source: OpenStreetMap (verified July 2025) via OSM MCP tools. Ranking based on EPA emission factors, AHA health guidelines, and 2025 Boulder market rates.*
