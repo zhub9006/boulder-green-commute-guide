@@ -16,8 +16,9 @@ A practical, data-driven guide for Boulder, Colorado residents to make more sust
 
 | Mode | Distance | Time | Speed | CO₂/Trip | Annual Savings vs Driving |
 |---|---|---|---|---|---|
-| 🚶 Walking | 4.03 km | ~48 min | 5 km/h | ~0 kg | $3,500-4,500/yr |
-| 🚴 Biking | 4.03 km | ~16 min | 15 km/h | ~0 kg | $3,500-4,500/yr |
+| 🚶 Walking | 4.03 km | 48 min | 5 km/h | 0 kg | $3,500-4,500/yr |
+| 🚴 Biking | 4.03 km | 16 min | 15 km/h | 0 kg | $3,500-4,500/yr |
+| 🚌 Bus (RTD) | 4.03 km | 12 min | ~18 km/h | ~0.15 kg | $3,000-4,000/yr |
 | 🚗 Driving | 4.03 km | ~7 min | ~34 km/h | ~0.8 kg | — |
 
 ## 🌿 Latest Verified Amenities (OSM, July 2025)
@@ -28,9 +29,9 @@ A practical, data-driven guide for Boulder, Colorado residents to make more sust
 | 🚲 **B-Cycle Stations** | Broadway & Iris (~400 m) — 13-bike capacity |
 | ⚡ **EV Charging** | 2× ChargePoint (~1.4 km), Tesla Supercharger (~2 km) |
 | 🏫 **Schools** | Boulder Waldorf Kindergarten (518 m), Tara Arts (629 m) |
-| 🌳 **Parks** | 3 public playgrounds within 900 m |
+| 🌳 **Parks** | 3 public parks within 900 m (Cedar Creek Commons, North Boulder Park, Scott Carpenter Park) |
 | 💇 **Services** | Mesha's Coiffure, Art Cleaners, North Boulder Shipping (all within 675 m) |
-| 🛍️ **Pearl Street** | Vibrant shopping, jewelry, textiles within 800 m |
+| 🏙️ **Pearl Street** | Vibrant shopping, jewelry, textiles within 800 m |
 
 ## 📁 In This Guide
 
@@ -45,7 +46,7 @@ A practical, data-driven guide for Boulder, Colorado residents to make more sust
 
 Boulder is known for its commitment to sustainability and outdoor living. This guide uses **real OpenStreetMap data** (verified July 2025) to make your transition practical and data-backed:
 
-- **💨 Reduces emissions** — ~0.8 kg CO₂ saved per trip; ~200 kg/year with daily commuting
+- **🚨 Reduces emissions** — ~0.8 kg CO₂ saved per trip; ~200 kg/year with daily commuting (or 37.5 kg/year by bus)
 - **❤️ Boosts health** — Walking 48 min/day meets 50% of daily moderate activity recommendations
 - **💰 Saves real money** — $3,500-4,500 per year vs. driving (parking savings alone!)
 - **🏘️ Builds community** — Join 15-20% of Boulder already commuting actively — 3× the Colorado average
