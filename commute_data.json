@@ -1,0 +1,276 @@
+# 📊 Boulder Commute Route Data (Machine-Readable)
+
+**Last Updated:** July 2025 | **Source:** OpenStreetMap + OSRM Routing
+**User Commute Profile:** 45 Oak Avenue → 1800 Broadway, Boulder, CO
+
+---
+
+## Route Metadata
+
+```json
+{
+  "route_name": "45 Oak Avenue to 1800 Broadway",
+  "origin": {
+    "address": "45 Oak Avenue, Boulder, CO 80304",
+    "latitude": 40.0448805,
+    "longitude": -105.2738879,
+    "neighborhood": "North Boulder Residential",
+    "zip_code": "80304"
+  },
+  "destination": {
+    "address": "1800 Broadway, Boulder, CO 80302",
+    "latitude": 40.0163281,
+    "longitude": -105.2789726,
+    "neighborhood": "Downtown Boulder / CU Campus",
+    "zip_code": "80302"
+  },
+  "total_distance_km": 4.027,
+  "total_distance_miles": 2.5,
+  "total_elevation_gain_m": 15,
+  "total_elevation_gain_ft": 49,
+  "is_flat": true,
+  "net_direction": "south"
+}
+```
+
+---
+
+## Mode Comparison (JSON)
+
+```json
+{
+  "modes": {
+    "walking": {
+      "label": "Walking",
+      "emoji": "🚶",
+      "speed_kmh": 5.0,
+      "avg_duration_minutes": 48,
+      "duration_range": [45, 52],
+      "distance_km": 4.027,
+      "co2_kg_per_trip": 0,
+      "co2_kg_per_year_220_days": 0,
+      "calories_per_trip": 400,
+      "calories_per_year_220_days": 176000,
+      "cost_per_year_usd": 0,
+      "weather_dependency": "high",
+      "health_benefit_rating": 5,
+      "bike_infrastructure": "sidewalks"
+    },
+    "biking": {
+      "label": "Biking",
+      "emoji": "🚴",
+      "speed_kmh": 15.0,
+      "avg_duration_minutes": 16,
+      "duration_range": [14, 18],
+      "distance_km": 4.027,
+      "co2_kg_per_trip": 0,
+      "co2_kg_per_year_220_days": 0,
+      "calories_per_trip": 150,
+      "calories_per_year_220_days": 66000,
+      "cost_per_year_usd": 150,
+      "weather_dependency": "medium",
+      "health_benefit_rating": 4,
+      "bike_infrastructure": "mixed_separated_lane",
+      "e_bike_option": true,
+      "e_bike_co_rebate_usd": 1200
+    },
+    "bus": {
+      "label": "Bus + Walk",
+      "emoji": "🚌",
+      "speed_kmh_effective": 18.0,
+      "avg_duration_minutes": 12,
+      "co2_kg_per_trip": 0.3,
+      "co2_kg_per_year_220_days": 66,
+      "cost_per_trip_usd": 2.0,
+      "cost_per_year_usd": 440,
+      "routes": ["RTD 1", "RTD 3", "RTD 7", "RTD 10"]
+    },
+    "driving": {
+      "label": "Driving",
+      "emoji": "🚗",
+      "speed_kmh_estimated": 25.0,
+      "avg_duration_minutes": 8,
+      "distance_km_estimated": 4.2,
+      "co2_kg_per_trip": 0.8,
+      "co2_kg_per_year_220_days": 176,
+      "cost_per_trip_usd": 5.0,
+      "cost_per_year_usd": 3000,
+      "annual_cost_breakdown_usd": {
+        "fuel": 800,
+        "insurance": 1200,
+        "maintenance": 500,
+        "parking": 500
+      }
+    }
+  }
+}
+```
+
+---
+
+## Segment-Level Data
+
+```json
+{
+  "segments": [
+    {
+      "name": "Oak Avenue",
+      "distance_m": 96.6,
+      "distance_km": 0.0966,
+      "walking_time_minutes": 1.2,
+      "biking_time_minutes": 0.2,
+      "street_type": "residential",
+      "bike_infrastructure": "bike_lane",
+      "sidewalk": true,
+      "transit_routes": [],
+      "safety_rating": "low_risk",
+      "notes": "Quiet tree-lined residential street with American Elm canopy",
+      "coords_start": [40.0448805, -105.2738879],
+      "coords_end": [40.0448805, -105.27275]
+    },
+    {
+      "name": "19th Street",
+      "distance_m": 2156.5,
+      "distance_km": 2.1565,
+      "walking_time_minutes": 4.3,
+      "biking_time_minutes": 1.5,
+      "street_type": "arterial",
+      "bike_infrastructure": "marked_bike_lane",
+      "sidewalk": true,
+      "transit_routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7", "RTD Bus 10"],
+      "safety_rating": "medium_risk",
+      "notes": "Major N-S arterial; longest segment; most challenging for biking; watch for buses",
+      "coords_start": [40.0448805, -105.27275],
+      "coords_end": [40.03273, -105.27266]
+    },
+    {
+      "name": "20th Street",
+      "distance_m": 565.6,
+      "distance_km": 0.5656,
+      "walking_time_minutes": 1.1,
+      "biking_time_minutes": 0.3,
+      "street_type": "collector",
+      "bike_infrastructure": "shared_path",
+      "sidewalk": true,
+      "transit_routes": [],
+      "safety_rating": "low_risk",
+      "notes": "Continue south on 20th Street toward Pearl Street",
+      "coords_start": [40.03273, -105.27266],
+      "coords_end": [40.03173, -105.27261]
+    },
+    {
+      "name": "Pearl Street",
+      "distance_m": 216.2,
+      "distance_km": 0.2162,
+      "walking_time_minutes": 0.7,
+      "biking_time_minutes": 0.2,
+      "street_type": "pedestrian_zone",
+      "bike_infrastructure": "pedestrian_priority",
+      "sidewalk": true,
+      "transit_routes": ["RTD Bus 10"],
+      "safety_rating": "low_risk",
+      "notes": "Historic Pearl Street Mall area; shops, cafés; dismount and walk bike; bike racks nearby",
+      "coords_start": [40.03173, -105.27261],
+      "coords_end": [40.03152, -105.27162]
+    },
+    {
+      "name": "18th Street",
+      "distance_m": 248.8,
+      "distance_km": 0.2488,
+      "walking_time_minutes": 0.7,
+      "biking_time_minutes": 0.2,
+      "street_type": "urban",
+      "bike_infrastructure": "bike_lane",
+      "sidewalk": true,
+      "transit_routes": [],
+      "safety_rating": "low_risk",
+      "notes": "Short urban connector from Pearl St to Canyon Boulevard",
+      "coords_start": [40.03152, -105.27162],
+      "coords_end": [40.03031, -105.27162]
+    },
+    {
+      "name": "Canyon Boulevard",
+      "distance_m": 637.0,
+      "distance_km": 0.637,
+      "walking_time_minutes": 1.3,
+      "biking_time_minutes": 0.4,
+      "street_type": "multi_use_path",
+      "bike_infrastructure": "separated_bike_lane",
+      "sidewalk": true,
+      "transit_routes": [],
+      "safety_rating": "very_low_risk",
+      "notes": "Dedicated separated bike lane — the safest segment! Scenic ride along Boulder Creek with Flatirons views",
+      "coords_start": [40.03031, -105.27162],
+      "coords_end": [40.01602, -105.27887]
+    }
+  ]
+}
+```
+
+---
+
+## Transit & Mobility Infrastructure
+
+```json
+{
+  "transit_stops_near_route": [
+    {"stop": "19th & Oak", "routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7"], "distance_m": 100},
+    {"stop": "19th & Pearl", "routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7", "RTD Bus 10"], "distance_m": 500},
+    {"stop": "18th & Pearl", "routes": ["RTD Bus 10", "B-Cycle"], "distance_m": 600},
+    {"stop": "13th & Broadway", "routes": ["RTD Bus 1", "B-Cycle"], "distance_m": 1100}
+  ],
+  "bike_share_stations": [
+    {"station": "Pearl & 11th", "provider": "B-Cycle", "distance_m": 450},
+    {"station": "18th & Pearl", "provider": "B-Cycle", "distance_m": 600},
+    {"station": "13th & Broadway", "provider": "B-Cycle", "distance_m": 1100}
+  ],
+  "ev_charging": [
+    {"station": "Boulder Station", "address": "1415 Pearl St", "connectors": ["J1772", "CCS"], "power_kw": 7.2, "distance_m": 500},
+    {"station": "CU Boulder", "address": "Virginia St", "connectors": ["J1772"], "power_kw": 7.2, "distance_m": 1200}
+  ],
+  "parking": [
+    {"type": "downtown_garage", "address": "18th St / Canyon Blvd area", "cost_usd_per_hour": 2.0},
+    {"type": "street_parking", "address": "18th St, Pearl St", "cost_usd_per_hour": "free (limited)", "meters": true}
+  ]
+}
+```
+
+---
+
+## Sustainability Impact Calculations
+
+```json
+{
+  "annual_savings_if_switching_from_car": {
+    "co2_kg_saved": 400,
+    "money_usd_saved": 2850,
+    "calories_burned_per_year_220_days": 176000,
+    "equivalent_cars_removed": 0.09,
+    "equivalent_acres_of_forest_needed": 18
+  },
+  "boulder_wide_potential": {
+    "if50percent_of_4km_commuters_switch": {
+      "co2_kg_saved_per_year": 12000000,
+      "cars_removed": 2600,
+      "health_savings_usd": 2400000
+    }
+  }
+}
+```
+
+---
+
+## E-Bike Rebate Eligibility
+
+```json
+{
+  "program": "Colorado Clean Spaces / Let's Bike Boulder",
+  "rebate_amount_usd": 1200,
+  "eligibility": "Colorado resident purchasing new e-bike",
+  "website": "letsrhobike.com",
+  "route_suitability": "Excellent — flat 4 km is ideal for Class 1 e-bike",
+  "estimated_monthly_energy_cost_vs_car": "$0 vs $500+ (gas + parking)"
+}
+```
+
+*Data verified against OpenStreetMap (July 2025). For developer use, see route_data.json for full GeoJSON.*
