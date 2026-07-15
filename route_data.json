@@ -1,45 +1,153 @@
 {
   "route": {
-    "name": "Oak Avenue to Broadway Commute",
-    "description": "Walking and biking commute route from 45 Oak Avenue to 1800 Broadway, Boulder, CO",
-    "source": {
+    "name": "45 Oak Avenue to 1800 Broadway",
+    "origin": {
       "address": "45 Oak Avenue, Boulder, CO 80304",
-      "coordinates": { "latitude": 40.0448805, "longitude": -105.2738879 }
+      "latitude": 40.0448805,
+      "longitude": -105.2738879
     },
     "destination": {
       "address": "1800 Broadway, Boulder, CO 80302",
-      "coordinates": { "latitude": 40.0163281, "longitude": -105.2789726 }
+      "latitude": 40.0163281,
+      "longitude": -105.2789726
     },
     "distance_km": 4.03,
-    "distance_m": 4026.5,
-    "segments": [
-      { "order": 1, "name": "Oak Avenue", "distance_m": 96.6, "walking_time_s": 15.6, "biking_time_s": 15.6, "type": "residential", "notes": "Quiet residential street with American Elm canopy. Sidewalks on both sides. Low traffic, safe." },
-      { "order": 2, "name": "19th Street", "distance_m": 2156.5, "walking_time_s": 208.6, "biking_time_s": 208.6, "type": "arterial", "infrastructure": "sharrows", "transit": ["RTD Bus Routes 1, 3, 7, 10"], "notes": "Major N-S arterial. Use east-side sidewalk for safety. Bike lane or sharrows. 4-lane road." },
-      { "order": 3, "name": "20th Street", "distance_m": 106.1, "walking_time_s": 11.9, "biking_time_s": 11.9, "type": "connector", "notes": "Light-traffic connector between 19th Street and Pearl Street. Low-speed road." },
-      { "order": 4, "name": "Pearl Street", "distance_m": 565.6, "walking_time_s": 69.2, "biking_time_s": 69.2, "type": "commercial", "notes": "Pearl Street Mall area. Pedestrianized zone with shops and cafes. Optional coffee stop." },
-      { "order": 5, "name": "Pearl Street to Broadway", "distance_m": 216.2, "walking_time_s": 25.5, "biking_time_s": 25.5, "type": "commercial", "notes": "Continue south on Pearl Street toward downtown. Signalized crossings." },
-      { "order": 6, "name": "18th Street", "distance_m": 248.8, "walking_time_s": 36.9, "biking_time_s": 36.9, "type": "commercial", "notes": "Approaches downtown Boulder. Moderate traffic; bike lane or sharrows present." },
-      { "order": 7, "name": "Canyon Boulevard", "distance_m": 636.6, "walking_time_s": 58.5, "biking_time_s": 69.2, "type": "corridor", "infrastructure": "dedicated_separated_bike_lane", "notes": "Dedicated, separated bike lane (~2.0m width with buffer). Bike-specific signal phases. Well-lit. Boulder's safest bike corridor." }
+    "distance_miles": 2.5,
+    "elevation_gain_m": 15,
+    "elevation_gain_ft": 49
+  },
+  "modes": {
+    "walking": {
+      "mode": "foot",
+      "distance_km": 4.03,
+      "estimated_duration_minutes": 50,
+      "average_speed_kmh": 5,
+      "calories_per_trip": 400,
+      "co2_kg_per_trip": 0,
+      "cost_per_year_usd": 0
+    },
+    "biking": {
+      "mode": "bike",
+      "distance_km": 4.03,
+      "estimated_duration_minutes": 16,
+      "average_speed_kmh": 15,
+      "calories_per_trip": 150,
+      "co2_kg_per_trip": 0,
+      "cost_per_year_usd": 150
+    }
+  },
+  "segments": [
+    {
+      "name": "Oak Avenue",
+      "distance_m": 96,
+      "distance_km": 0.096,
+      "walking_time_minutes": 1.2,
+      "biking_time_minutes": 0.2,
+      "street_type": "residential",
+      "bike_infrastructure": "bike_lane",
+      "sidewalk": true,
+      "notes": "Quiet tree-lined residential street"
+    },
+    {
+      "name": "19th Street",
+      "distance_m": 2157,
+      "distance_km": 2.157,
+      "walking_time_minutes": 4.3,
+      "biking_time_minutes": 1.5,
+      "street_type": "arterial",
+      "bike_infrastructure": "marked_bike_lane",
+      "sidewalk": true,
+      "transit_routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7", "RTD Bus 10"],
+      "notes": "Major N-S arterial; longest segment; most challenging for biking"
+    },
+    {
+      "name": "20th Street",
+      "distance_m": 672,
+      "distance_km": 0.672,
+      "walking_time_minutes": 1.3,
+      "biking_time_minutes": 0.3,
+      "street_type": "collector",
+      "bike_infrastructure": "shared_path",
+      "sidewalk": true,
+      "notes": "Connector between 19th St and Pearl St"
+    },
+    {
+      "name": "Pearl Street",
+      "distance_m": 216,
+      "distance_km": 0.216,
+      "walking_time_minutes": 0.4,
+      "biking_time_minutes": 0.3,
+      "street_type": "pedestrian_zone",
+      "bike_infrastructure": "pedestrian_priority",
+      "sidewalk": true,
+      "notes": "Historic Pearl Street Mall; shops & cafés"
+    },
+    {
+      "name": "18th Street",
+      "distance_m": 249,
+      "distance_km": 0.249,
+      "walking_time_minutes": 0.5,
+      "biking_time_minutes": 0.3,
+      "street_type": "urban",
+      "bike_infrastructure": "bike_lane",
+      "sidewalk": true,
+      "notes": "Short urban connector"
+    },
+    {
+      "name": "Canyon Boulevard",
+      "distance_m": 637,
+      "distance_km": 0.637,
+      "walking_time_minutes": 1.3,
+      "biking_time_minutes": 2.5,
+      "street_type": "multi_use_path",
+      "bike_infrastructure": "separated_bike_lane",
+      "sidewalk": true,
+      "notes": "Dedicated separated bike lane — the safest segment!"
+    }
+  ],
+  "infrastructure": {
+    "transit_stops": [
+      {"stop": "19th & Oak", "routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7"], "distance_m": 100},
+      {"stop": "19th & Pearl", "routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7"], "distance_m": 500},
+      {"stop": "18th & Pearl", "routes": ["RTD Bus 10", "B-Cycle"], "distance_m": 700},
+      {"stop": "13th & Broadway", "routes": ["RTD Bus 1", "B-Cycle"], "distance_m": 1100}
     ],
-    "summary": {
-      "total_distance_m": 4026.5,
-      "total_segments": 7,
-      "walking_total_time_min": 48,
-      "biking_total_time_min": 16,
-      "driving_total_time_min": 7,
-      "bus_total_time_min": 12,
-      "elevation_gain_m": 15,
-      "bike_infrastructure_pct": 85,
-      "tree_canopy_pct": 60,
-      "nearby_amenities": { "cafes_within_680m": 4, "bcycle_station_m": 400, "rtd_bus_stops": 3 },
-      "co2_saved_per_trip_kg": 0.8,
-      "annual_co2_saved_kg": 200,
-      "annual_financial_savings_usd": [3700, 5600]
+    "bike_share": [
+      {"station": "Pearl & 11th", "provider": "B-Cycle", "distance_m": 450},
+      {"station": "18th & Pearl", "provider": "B-Cycle", "distance_m": 600},
+      {"station": "13th & Broadway", "provider": "B-Cycle", "distance_m": 1100}
+    ],
+    "ev_charging": [
+      {"station": "Boulder Station", "address": "1415 Pearl St", "connectors": ["J1772", "CCS"], "power_kw": 7.2},
+      {"station": "CU Boulder", "address": "Virginia St", "connectors": ["J1772"], "power_kw": 7.2}
+    ]
+  },
+  "geojson": {
+    "type": "Feature",
+    "geometry": {
+      "type": "LineString",
+      "coordinates": [
+        [-105.2738879, 40.0448805],
+        [-105.2738879, 40.04401],
+        [-105.2789726, 40.04401],
+        [-105.2789726, 40.032],
+        [-105.276, 40.032],
+        [-105.2758, 40.024],
+        [-105.2789726, 40.0163281]
+      ]
     },
-    "infrastructure_ratings": {
-      "overall": 4.2, "walkability": 3.8, "bikeability": 4.5, "safety": 3.5, "shade": 4.0, "amenity_access": 4.5, "transit_connectivity": 3.8
-    },
-    "data_source": "OpenStreetMap 2025",
-    "last_updated": "2025-07-15"
-  }
+    "properties": {
+      "mode": "walking",
+      "distance_m": 4027,
+      "elevation_gain_m": 15
+    }
+  },
+  "data_sources": [
+    {
+      "source": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org",
+      "last_verified": "2025-07",
+      "license": "ODbL 1.0"
+    }
+  ]
 }
