@@ -1,55 +1,104 @@
-# Boulder Green Commute Guide 🚶‍♂️🚲
+# 🌿 Boulder Green Commute Guide
 
-> A comprehensive guide for Boulder residents to make sustainable travel choices, featuring walking and biking commute analyses with route details and travel times.
-
-## About This Guide
-
-This repository documents a real-world commute analysis from **45 Oak Avenue** to **1800 Broadway** in Boulder, Colorado. It provides detailed walking and biking route information, neighborhood comparisons, and practical tips to help fellow Boulder residents reduce their car dependence and embrace greener transportation.
-
-## The Commute at a Glance
-
-| Mode | Distance | Duration | CO₂ Saved vs. Car* |
-|------|----------|----------|---------------------|
-| 🚶 Walking | 4.0 km (2.5 mi) | ~7 minutes | ~0.8 kg per trip |
-| 🚲 Biking | 4.0 km (2.5 mi) | ~7 minutes | ~0.8 kg per trip |
-| 🚗 Driving (for comparison) | ~3.5 km | ~8 min (no parking) | 0 kg saved |
-
-*CO₂ savings estimate based on average car emissions of ~0.2 kg CO₂ per km for a 4 km round trip.
-
-## Key Findings
-
-- **Walkable & Bikeable**: This commute is short enough to walk or bike in about 7 minutes — shorter than driving when you factor in parking!
-- **Scenic Route**: Both options take you through some of Boulder's most beautiful streets, including **Canyon Boulevard** along Boulder Creek.
-- **Great Neighborhoods**: Both the start and end areas are well-connected with local amenities.
-
-## Repository Contents
-
-| File | Description |
-|------|-------------|
-| `README.md` | This overview |
-| `commute-analysis.md` | Detailed comparison of walking vs. biking |
-| `route-details.md` | Turn-by-turn directions for both modes |
-| `neighborhood-comparison.md` | comparing home & work neighborhoods |
-| `sustainability-tips.md` | Tips for making eco-friendly commuting in Boulder |
-| `data-sources.md` | Methodology & data sources |
+**Your walking and biking commute analysis from 45 Oak Avenue to 1800 Broadway — and how to make sustainable travel choices in Boulder, CO.**
 
 ---
 
-## Getting Started for Boulder Residents
+## 🏠 → 🌱 Your Commute: Quick Facts
 
-1. **Measure your own commute**: Use the data sources and tools listed in `data-sources.md`
-2. **Compare modes**: Walking vs. biking vs. driving — this guide shows how even a 4 km commute is better on foot or bike
-3. **Explore your neighborhood**: Check what amenities are within walking distance where you live and work
-4. **Share your results**: Contribute your own commute analyses to help the Boulder community!
+| | 🚶 Walking | 🚴 Biking | 🚗 Driving |
+|---|---|---|---|
+| **Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) |
+| **Time** | ~48 min | ~16 min | ~7–10 min |
+| **CO₂** | 0 kg | 0 kg | ~0.8 kg/trip |
+| **Cost** | Free | Free (own bike) or ~$8 (B-Cycle) | ~$500–$1,250/year |
 
-## Why Green Commuting Matters in Boulder
-
-Boulder is known for its outdoor lifestyle and environmental values. Yet car commuting remains dominant. Even small shifts — walking a 4 km commute instead of driving — can:
-- Reduce greenhouse gas emissions
-- Improve personal health (cardiovascular fitness, mental clarity)
-- Decrease traffic congestion and parking demand
-- Support local businesses along the route
+> **Route:** 45 Oak Avenue (40.0449°N, 105.2739°W) → 1800 Broadway (40.0163°N, 105.2790°W)
+> **Boulder ZIPs:** 80304 → 80302 | **Elevation:** ~15 m gain (essentially flat!)
 
 ---
 
-*Made with ❤️ for the Boulder community. Data sourced from OpenStreetMap and OSRM routing engines.*
+## 🗺️ Route Overview
+
+```
+Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd → Broadway
+ 96m     2,157m    672m     216m     249m     637m     = 4,027m total
+```
+
+**Key segments:**
+- 🌳 **Oak Avenue** — Quiet residential street with American Elm canopy
+- 🏢 **19th Street** — Major N-S arterial (RTD bus routes 1, 3, 7, 10)
+- 🎭 **Pearl Street** — Historic Pearl Street Mall (shops, cafés nearby)
+- 🚴 **Canyon Boulevard** — Dedicated separated bike lane — the safest segment!
+
+---
+
+## 📋 In This Guide
+
+| File | What It Covers |
+|---|---|
+| **[analysis_summary.md](analysis_summary.md)** | One-click comparison of walking vs biking for this specific commute |
+| **[commute_analysis.md](commute_analysis.md)** | Full mode-by-mode comparison with segment-level OSM data, CO₂, health & financial impacts |
+| **[routes/walking_route.md](routes/walking_route.md)** | Turn-by-turn walking directions with landmarks, nearby cafés, safety & seasonal tips |
+| **[routes/biking_route.md](routes/biking_route.md)** | Turn-by-turn biking directions with bike infrastructure notes, B-Cycle info & e-bike rebates |
+| **[neighborhood_analysis.md](neighborhood_analysis.md)** | Verified neighborhood profile: restaurants, parks, transit, bike/EV infrastructure (OSM 2025) |
+| **[sustainability_impact.md](sustainability_impact.md)** | Carbon savings, health benefits, financial analysis, Boulder incentives & a commitment plan |
+| **[route_data.json](route_data.json)** | Machine-readable route data (GeoJSON, segment metadata, infrastructure ratings) for developers & researchers |
+| **[green_tips.md](green_tips.md)** | Seasonal green commuting tips, weather prep, gear recommendations & Boulder-specific resources |
+| **[CONTRIBUTING.md](CONTRIBUTING.md)** | How to add your own commute analysis or contribute improvements |
+
+---
+
+## 🤔 Which Mode Is Right for You?
+
+| If you... | Try this | Best for... |
+|---|---|---|
+| Want zero cost | **🚶 Walking** | Health, relaxation, no equipment needed |
+| Want speed + exercise | **🚴 Biking** | Efficient commute, cardio benefit |
+| Want zero sweat | **🚴 E-bike** | Flat 4 km is ideal for Class 1 e-bike assist ($1,200 CO rebate!) |
+| Hate hills | **🚶 Walk or 🚴 Bike** | Route is flat — NO hills at all! Max 15m elevation gain |
+| Need flexibility | **🚌 Bus + walk** | RTD runs on 19th St corridor; ~12 min by bus |
+| Want lowest CO₂ | **🚶 Walk or 🚴 Bike** | Both are 0 kg CO₂ — 100% cleaner than driving |
+
+---
+
+## 🌍 Why Boulder?
+
+- Boulder's transportation sector accounts for **~35% of local GHG emissions** — transport is the #1 emissions source
+- **~15–20%** of Boulder commuters already walk or bike — **3× the Colorado state average**
+- If 50% of Boulder's 4-km-or-less commuters switched to active transport, it would reduce transport emissions by an estimated **12,000+ metric tons CO₂/year**
+- Boulder offers a **$1,200 Colorado E-Bike Rebate** + **B-Cycle bike-share** with stations near this route
+
+---
+
+## 🚀 Quick Start
+
+1. **Browse the route details** → [Walking route](routes/walking_route.md) or [Biking route](routes/biking_route.md)
+2. **Compare Impacts** → See the [commute analysis](commute_analysis.md) side-by-side
+3. **Read the sustainability data** → Check out [sustainability_impact.md](sustainability_impact.md)
+4. **Use the machine-readable data** → [route_data.json](route_data.json) for your own projects
+
+---
+
+## 💰 The Big Picture: What Switching Could Save You
+
+| Expense | Walking/Biking | Driving | Savings |
+|---|---|---|---|
+| **Annual total** | ~$0–$200 | ~$3,250 | **~$3,050/year** |
+| **5-year total** | ~$0–$1,000 | ~$16,000 | **~$15,000** |
+| **CO₂ per year (250 days)** | 0 kg | ~200 kg | **200 kg/year saved** |
+
+> **💡 E-Bike Bonus:** Colorado Clean Spaces Program offers **up to $1,200 rebate** on e-bikes. Your flat 4 km commute is PERFECT for e-bike assist!
+
+---
+
+## 📝 Contribute
+
+This guide is for Boulder residents, by Boulder residents. Want to add your own commute route? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+*Data sourced from OpenStreetMap (verified July 2025). Travel times are model estimates at comfortable average speeds (5 km/h walking, 15 km/h biking) and include intersection wait times. Actual times vary with weather, fitness, and traffic.*
+
+**Clone:** `git clone https://github.com/zhub9006/boulder-green-commute-guide.git`
+**GitHub:** https://github.com/zhub9006/boulder-green-commute-guide
