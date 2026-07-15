@@ -1,96 +1,102 @@
-# 🤝 Contributing to the Boulder Green Commute Guide
+# 🤝 Contributing to Boulder Green Commute Guide
 
-This guide is for Boulder residents, by Boulder residents. Help us make it better!
+This guide is for Boulder residents, by Boulder residents! Help us make it better.
 
 ---
 
-## How to Add Your Own Commute Route
+## Ways to Contribute
 
-### Step 1: Geocode Your Addresses
-1. Go to [OpenStreetMap](https://www.openstreetmap.org) or use a geocoding service
-2. Find the coordinates (latitude, longitude) of your home and workplace
+### 1. Add Your Own Commute Route
+Want to share walking/biking analysis for your own route?
 
-### Step 2: Analyze Your Route
-1. Walk or bike the route and note the segments
-2. Record street names, distances, and any notable features
-3. Note bike infrastructure quality (bike lane, shared path, separated lane)
-4. Identify transit stops and bike-share stations along the way
+1. **Fork** the repository
+2. Create a new branch: `your-name-route-name` (e.g., `sarah-nashville-to-globe`)n3. Add your analysis in `routes/[your-name]-[route-slug].md`
+4. Add machine-readable data to `route_data/[your-name]-[route-slug].json`
+5. Submit a Pull Request with a clear description
 
-### Step 3: Document Your Findings
-1. Create a new file (e.g., `routes/route_xxx.md`) following our format
-2. Include:
-   - Full addresses and coordinates
-   - Segment-by-segment directions with distances and times
-   - Transit options and bike-share availability
-   - Seasonal notes and safety considerations
-   - Cafés, parks, and landmarks worth knowing
+### 2. Improve Existing Content
+- Fix typos or outdated info
+- Add new nearby cafés, shops, or landmarks
+- Update neighborhood amenities
+- Improve safety notes
 
-### Step 4: Open a Pull Request
-1. Fork this repository
-2. Create a new branch (`git checkout -b add-route-xxx`)
-3. Commit your changes
-4. Open a Pull Request with a clear description
+### 3. Share Your Experience
+- How does YOUR commute compare? (Time, cost, fitness gains)
+- What obstacles did you face and how did you overcome them?
+- Add a `stories/` section with real commuter testimonials
 
---n
 ---
 
-## Suggested Format for New Route Files
+## 📐 Contribution Guidelines
 
-```markdown
-# [Mode] Route: [Origin] → [Destination]
+### Format
+- Use **Markdown** for all text files
+- Use **JSON** for machine-readable data
+- Include the following for each route:
+  - Origin → Destination coordinates (WGS84)
+  - Total distance (km & miles)
+  - Segment-level breakdown with OSM street names
+  - Travel time estimates for both walking AND biking
+  - Bike infrastructure quality ratings
+  - Nearby amenities (cafés, shops, transit stops)
+  - Seasonal tips & safety notes
 
-**Distance:** X km (X mi) | **Estimated Time:** ~X min | **Terrain:** [description]
+### Data Sources
+- **Primary:** OpenStreetMap (open source, community-maintained)
+- **Supplemental:** City of Boulder GIS, RTD schedules, Google Places
+- **Always verify** OSM data against ground truth
+- Cite your data sources and verification dates
 
-## Turn-by-Turn Directions
-1. [Street Name] (X m) — ~X min — [brief description]
-2. [Street Name] (X m) — ~X min — [brief description]
-...
-
-## Key Landmarks
-| Landmark | Location | Description |
-|---|---|---|
-... | ... | ... |
-
-## Safety Notes
-- [any hazards, lights, crossings]
-
-## Fitness & Health
-- [calories burned, elevation, altitude notes]
+### File Naming
+```
+routes/[your-name]-[destination]-[mode].md
+route_data/[your-name]-[destination]-[mode].json
+stories/[your-name]-commute-story.md
 ```
 
----
-
-## Reporting Issues or Incorrect Data
-
-1. **Check OpenStreetMap:** Many of our route details come from OSM. If you notice discrepancies, please update OSM directly:
-   - [Edit on OpenStreetMap](https://www.openstreetmap.org/edit)
-2. **File a GitHub Issue:** For data corrections or missing information
-3. **Verify locally:** Always double-check routes — construction and changes happen!
-
----
-
-## Code of Conduct
-
-- Be welcoming and inclusive — all Boulder residents and visitors are welcome
-- Respect the environment — our mission is sustainability
-- Leave trails better than you find them
-- Share your knowledge — the best routes come from local experience
+### Pull Request Process
+1. Fork the repo
+2. Create a feature branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'Add your feature'`)
+4. Push to your branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+6. Include a clear description of what you added and why
 
 ---
 
-## Want More?
+## 🐛 Reporting Issues
 
-- **Add neighborhood analysis** — Create `neighborhoods/xxx.md`
-- **Add sustainability data** — Create `impacts/xxx.md`
-- **Add business listings** — Create `businesses/xxx.md`
-- **Add data visualizations** — Create `plots/xxx.py` to generate charts from `route_data.json`
-
----
-
-## Questions?
-
-Open a GitHub Issue and we'll get back to you. We're all volunteers building a better Boulder!
+- **Outdated routes:** Paths may change — report closures, construction, new bike lanes
+- **Data errors:** If OSM data is wrong, fix it! [OpenStreetMap Editor](https://www.openstreetmap.org/edit)
+- **General feedback:** Open an issue with the `suggestion` label
 
 ---
 
-*Let's make Boulder the greenest commuting city in Colorado.* 🌱🚲🚶
+## 💬 Community
+
+- **Join the conversation:** Post in the repo's GitHub Discussions
+- **Slack/Discord:** Check for local Boulder sustainability groups
+- **Social:** Use #BoulderGreenCommute on social media
+
+---
+
+## 📋 Code of Conduct
+
+- Be welcoming and inclusive
+- Share genuine, verified information
+- Respect different commuting choices (not everyone can walk/bike — that's OK!)
+- Help others make informed decisions
+
+---
+
+## local Boulder Sustainability Organizations to Check Out
+
+| Org | Focus | Link |
+|---|---|---|
+| Boulder Transportation Advisory Committee | City policy | [ci.boulder.co.us/HMAS/BTAC](https://www.bouldercolorado.gov/hmas/btac)) |
+| PeopleForBikes | National bikes advocacy | [peopleforbikes.org](https://peopleforbikes.org/) |
+| Colorado Gotta Get Outdoors | Health & outdoor activity | [hasstimeso.org](https://colorado.gov/gov/greenbook) |
+| Eagle Crest | Local Boulder advocacy | — |
+| B-cycle | Bike-share program | [bcycle.com/boulder](https://www.bcycle.com/boulder) |
+| S-lang | Missoula Shout (Local Open Space Access) | — |
+

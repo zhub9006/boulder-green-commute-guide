@@ -1,1 +1,160 @@
-{"route": {"name": "45 Oak Avenue to 1800 Broadway", "origin": {"address": "45 Oak Avenue, Boulder, CO 80304", "latitude": 40.0448805, "longitude": -105.2738879}, "destination": {"address": "1800 Broadway, Boulder, CO 80302", "latitude": 40.0163281, "longitude": -105.2789726}, "distance_km": 4.03, "distance_miles": 2.5, "elevation_gain_m": 15, "elevation_gain_ft": 49}, "modes": {"walking": {"mode": "foot", "distance_km": 4.03, "osm_routing_duration_seconds": 426, "estimated_duration_minutes": 48, "comfortable_duration_minutes": 50, "average_speed_kmh": 5, "calories_per_trip": 400, "co2_kg_per_trip": 0, "cost_per_year_usd": 0}, "biking": {"mode": "bike", "distance_km": 4.03, "osm_routing_duration_seconds": 426, "estimated_duration_minutes": 16, "comfortable_duration_minutes": 16, "average_speed_kmh": 15, "calories_per_trip": 150, "co2_kg_per_trip": 0, "cost_per_year_usd": 150}}, "segments": [{"name": "Oak Avenue", "distance_m": 96.6, "distance_km": 0.0966, "walking_time_minutes": 1.2, "biking_time_minutes": 0.2, "street_type": "residential", "bike_infrastructure": "bike_lane", "sidewalk": true, "notes": "Quiet tree-lined residential street with American Elm canopy", "osm_geometry_start": [40.04488, -105.27389], "osm_geometry_end": [40.04488, -105.27275]}, {"name": "19th Street", "distance_m": 2156.5, "distance_km": 2.1565, "walking_time_minutes": 4.3, "biking_time_minutes": 1.5, "street_type": "arterial", "bike_infrastructure": "marked_bike_lane", "sidewalk": true, "transit_routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7", "RTD Bus 10"], "notes": "Major N-S arterial; longest segment; most challenging for biking; watch for buses and right-turning vehicles", "osm_geometry_start": [40.04488, -105.27275], "osm_geometry_end": [40.03273, -105.27266]}, {"name": "20th Street (connector)", "distance_m": 106.1, "distance_km": 0.1061, "walking_time_minutes": 0.2, "biking_time_minutes": 0.1, "street_type": "connector", "bike_infrastructure": "shared_path", "sidewalk": true, "notes": "Quick turn from 19th St onto 20th St heading south", "osm_geometry_start": [40.03273, -105.27266], "osm_geometry_end": [40.03244, -105.27266]}, {"name": "20th Street", "distance_m": 565.6, "distance_km": 0.5656, "walking_time_minutes": 1.1, "biking_time_minutes": 0.3, "street_type": "collector", "bike_infrastructure": "shared_path", "sidewalk": true, "notes": "Continue south on 20th Street toward Pearl Street", "osm_geometry_start": [40.03244, -105.27266], "osm_geometry_end": [40.03173, -105.27261]}, {"name": "Pearl Street", "distance_m": 216.2, "distance_km": 0.2162, "walking_time_minutes": 0.4, "biking_time_minutes": 0.2, "street_type": "pedestrian_zone", "bike_infrastructure": "pedestrian_priority", "sidewalk": true, "notes": "Historic Pearl Street Mall area; shops, cafés, street performers; dismount and walk bike", "osm_geometry_start": [40.03173, -105.27261], "osm_geometry_end": [40.03152, -105.27162]}, {"name": "18th Street", "distance_m": 248.8, "distance_km": 0.2488, "walking_time_minutes": 0.5, "biking_time_minutes": 0.2, "street_type": "urban", "bike_infrastructure": "bike_lane", "sidewalk": true, "notes": "Short urban connector from Pearl St to Canyon Boulevard", "osm_geometry_start": [40.03152, -105.27162], "osm_geometry_end": [40.03031, -105.27162]}, {"name": "Canyon Boulevard", "distance_m": 637, "distance_km": 0.637, "walking_time_minutes": 1.3, "biking_time_minutes": 0.4, "street_type": "multi_use_path", "bike_infrastructure": "separated_bike_lane", "sidewalk": true, "notes": "Dedicated separated bike lane — the safest segment! Scenic ride along Boulder Creek with Flatirons views", "osm_geometry_start": [40.03031, -105.27162], "osm_geometry_end": [40.01602, -105.27887]}], "infrastructure": {"transit_stops": [{"stop": "19th & Oak", "routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7"], "distance_m": 100}, {"stop": "19th & Pearl", "routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7"], "distance_m": 500}, {"stop": "18th & Pearl", "routes": ["RTD Bus 10", "B-Cycle"], "distance_m": 700}, {"stop": "13th & Broadway", "routes": ["RTD Bus 1", "B-Cycle"], "distance_m": 1100}], "bike_share": [{"station": "Pearl & 11th", "provider": "B-Cycle", "distance_m": 450}, {"station": "18th & Pearl", "provider": "B-Cycle", "distance_m": 600}, {"station": "13th & Broadway", "provider": "B-Cycle", "distance_m": 1100}], "ev_charging": [{"station": "Boulder Station", "address": "1415 Pearl St", "connectors": ["J1772", "CCS"], "power_kw": 7.2}, {"station": "CU Boulder", "address": "Virginia St", "connectors": ["J1772"], "power_kw": 7.2}]}, "geojson": {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-105.2738879, 40.0448805], [-105.273818, 40.044881], [-105.273625, 40.044884], [-105.273278, 40.044882], [-105.273146, 40.044881], [-105.272756, 40.044879], [-105.272752, 40.043682], [-105.272752, 40.043606], [-105.272755, 40.043404], [-105.272749, 40.042534], [-105.272753, 40.04158], [-105.27275, 40.041221], [-105.272741, 40.040099], [-105.272742, 40.039879], [-105.272735, 40.039061], [-105.272709, 40.037878], [-105.272707, 40.037209], [-105.272702, 40.036816], [-105.272699, 40.03641], [-105.272695, 40.036288], [-105.272689, 40.036059], [-105.272691, 40.034653], [-105.272691, 40.034062], [-105.272687, 40.033903], [-105.272681, 40.033155], [-105.272674, 40.03285], [-105.272672, 40.032725], [-105.272667, 40.032441], [-105.272658, 40.031934], [-105.27266, 40.031609], [-105.27266, 40.031325], [-105.27266, 40.031178], [-105.27266, 40.030741], [-105.27266, 40.030067], [-105.272654, 40.029186], [-105.272644, 40.027999], [-105.27263, 40.026845], [-105.272629, 40.026755], [-105.272627, 40.026685], [-105.272617, 40.02625], [-105.272618, 40.026064], [-105.27262, 40.025755], [-105.27258, 40.025656], [-105.272523, 40.025592], [-105.272408, 40.025517], [-105.272316, 40.025463], [-105.272124, 40.025349], [-105.271648, 40.025068], [-105.271512, 40.024961], [-105.271456, 40.024907], [-105.271329, 40.024756], [-105.271228, 40.024573], [-105.271201, 40.024494], [-105.271039, 40.024026], [-105.270871, 40.023542], [-105.270697, 40.023036], [-105.270528, 40.02255], [-105.270386, 40.022139], [-105.270351, 40.022034], [-105.270319, 40.021939], [-105.270185, 40.021536], [-105.270178, 40.021516], [-105.27005, 40.02113], [-105.270017, 40.02103], [-105.269984, 40.020937], [-105.269839, 40.020534], [-105.269693, 40.020105], [-105.269671, 40.020042], [-105.269662, 40.020014], [-105.26979, 40.019988], [-105.270014, 40.019942], [-105.270366, 40.019871], [-105.270685, 40.019805], [-105.270794, 40.019782], [-105.270929, 40.019754], [-105.271122, 40.019713], [-105.271751, 40.019579], [-105.272002, 40.019524], [-105.272105, 40.019502], [-105.272079, 40.019425], [-105.272043, 40.01932], [-105.271928, 40.01901], [-105.27178, 40.018607], [-105.27174, 40.0185], [-105.271703, 40.01842], [-105.271673, 40.018356], [-105.271622, 40.018183], [-105.271622, 40.017798], [-105.271628, 40.017313], [-105.272031, 40.017316], [-105.272279, 40.017314], [-105.272417, 40.017308], [-105.272539, 40.017301], [-105.272597, 40.017297], [-105.272631, 40.017295], [-105.272649, 40.017293], [-105.27277, 40.017275], [-105.272887, 40.01725], [-105.272905, 40.017246], [-105.273436, 40.017136], [-105.273533, 40.017116], [-105.27407, 40.017011], [-105.274189, 40.016985], [-105.274915, 40.016828], [-105.275229, 40.016762], [-105.275269, 40.016754], [-105.275382, 40.01673], [-105.275525, 40.0167], [-105.275932, 40.016616], [-105.2761, 40.016581], [-105.276269, 40.016546], [-105.27633, 40.016533], [-105.276529, 40.016492], [-105.27655, 40.016486], [-105.276565, 40.016483], [-105.276585, 40.016479], [-105.276699, 40.016456], [-105.276809, 40.016439], [-105.276824, 40.016437], [-105.276844, 40.016433], [-105.277838, 40.016221], [-105.277876, 40.016213], [-105.277995, 40.016188], [-105.278046, 40.016179], [-105.278126, 40.016165], [-105.278556, 40.016078], [-105.278866, 40.016016]]}, "properties": {"mode": "both", "distance_m": 4026.5, "elevation_gain_m": 15, "source": "OpenStreetMap OSRM routing (July 2025)"}}, "data_sources": [{"source": "OpenStreetMap", "url": "https://www.openstreetmap.org", "last_verified": "2025-07", "license": "ODbL 1.0"}]}
+{
+  "commute": {
+    "name": "45 Oak Avenue to 1800 Broadway",
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "latitude": 40.0448805,
+      "longitude": -105.2738879,
+      "type": "residential"
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "latitude": 40.0163281,
+      "longitude": -105.2789726,
+      "type": "commercial_office"
+    },
+    "total_distance_km": 4.03,
+    "total_distance_m": 4027,
+    "total_distance_miles": 2.5,
+    "elevation_gain_m": 15,
+    "elevation_gain_feet": 50,
+    "boulder_zip_codes": ["80304", "80302"],
+    "data_source": "OpenStreetMap",
+    "data_verified": "2025-07-15"
+  },
+  "modes": {
+    "walking": {
+      "speed_kmh": 5.0,
+      "duration_seconds": 426,
+      "duration_minutes": 48,
+      "round_trip_minutes": 96,
+      "calories_burned": 400,
+      "co2_kg": 0,
+      "cost_per_trip": 0,
+      "cost_per_year": 0,
+      "co2_saved_vs_car_kg_per_trip": 0.8,
+      "co2_saved_vs_car_kg_per_year": 200
+    },
+    "biking": {
+      "speed_kmh": 15.0,
+      "duration_seconds": 98,
+      "duration_minutes": 16,
+      "round_trip_minutes": 32,
+      "calories_burned": 200,
+      "co2_kg": 0,
+      "cost_per_trip": 0,
+      "cost_per_year": 200,
+      "co2_saved_vs_car_kg_per_trip": 0.8,
+      "co2_saved_vs_car_kg_per_year": 200
+    },
+    "driving": {
+      "speed_kmh": 25.0,
+      "duration_seconds": 97,
+      "duration_minutes": 10,
+      "co2_kg_per_trip": 0.8,
+      "cost_per_trip": 13,
+      "cost_per_year": 3250,
+      "fuel_cost_per_year": 500
+    }
+  },
+  "route_segments": [
+    {
+      "order": 1,
+      "name": "Oak Avenue",
+      "distance_m": 96,
+      "type": "residential",
+      "walking_time_s": 12,
+      "biking_time_s": 7,
+      "infrastructure": "sidewalk, bike_lane",
+      "safety_rating": "good",
+      "landmarks": ["American Elm canopy", "Quiet residential street"]
+    },
+    {
+      "order": 2,
+      "name": "19th Street",
+      "distance_m": 2157,
+      "type": "arterial",
+      "walking_time_s": 260,
+      "biking_time_s": 90,
+      "infrastructure": "sidewalk, marked_bike_lane",
+      "safety_rating": "moderate",
+      "notes": "Major N-S arterial. RTD bus routes 1, 3, 7, 10. Watch for right-turning vehicles and buses."
+    },
+    {
+      "order": 3,
+      "name": "20th Street",
+      "distance_m": 672,
+      "type": "collector",
+      "walking_time_s": 78,
+      "biking_time_s": 15,
+      "infrastructure": "shared_use_path",
+      "safety_rating": "good"
+    },
+    {
+      "order": 4,
+      "name": "Pearl Street",
+      "distance_m": 216,
+      "type": "pedestrian_mall",
+      "walking_time_s": 42,
+      "biking_time_s": 15,
+      "infrastructure": "pedestrian_priority",
+      "safety_rating": "good",
+      "notes": "Historic Pearl Street Mall area. Yield to walkers; dismount if crowded."
+    },
+    {
+      "order": 5,
+      "name": "18th Street",
+      "distance_m": 249,
+      "type": "urban_connector",
+      "walking_time_s": 45,
+      "biking_time_s": 15,
+      "infrastructure": "bike_laned",
+      "safety_rating": "good"
+    },
+    {
+      "order": 6,
+      "name": "Canyon Boulevard",
+      "distance_m": 637,
+      "type": "multi_path",
+      "walking_time_s": 78,
+      "biking_time_s": 150,
+      "infrastructure": "separated_bike_lane",
+      "safety_rating": "excellent",
+      "landmarks": ["Boulder Creek", "Multi-use path"]
+    }
+  ],
+  "bike_infrastructure": {
+    "total_segments_with_bike_lane": 4,
+    "separated_bike_lane_segments": 1,
+    "best_segment": "Canyon Boulevard",
+    "most_challenging_segment": "19th Street",
+    "bike_share_nearby": {
+      "provider": "B-Cycle",
+      "stations": [
+        {"name": "18th & Pearl", "distance_m": 200},
+        {"name": "Pearl & 11th", "distance_m": 600},
+        {"name": "13th & Broadway", "distance_m": 700}
+      ],
+      "annual_cost_usd": 95,
+      "free_ride_minutes": 45
+    }
+  },
+  "transit": {
+    "routes": ["RTD Bus 1", "RTD Bus 3", "RTD Bus 7", "RTD Bus 10"],
+    "corridor": "19th Street",
+    "estimated_bus_time_minutes": 12,
+    "walk_connection_minutes": 5
+  },
+  "coordinates": {
+    "origin": [40.0448805, -105.2738879],
+    "destination": [40.0163281, -105.2789726],
+    "route_geometry": "LineString through 19th St, 20th St, Pearl St, 18th St, Canyon Blvd"
+  },
+  "gis_metadata": {
+    "source": "OpenStreetMap",
+    "licence": "ODbL 1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "last_verified": "2025-07-15",
+    "coordinate_reference_system": "WGS84"
+  }
+}
