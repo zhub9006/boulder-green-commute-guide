@@ -6,6 +6,8 @@
 **Difficulty:** Easy
 **Surface:** Paved streets with bike infrastructure
 
+---
+
 ## Turn-by-Turn Directions (OpenStreetMap-verified)
 
 | Step | Direction | Distance | Time | Bike Infrastructure |
@@ -14,9 +16,11 @@
 | 2 | Turn left onto **19th Street**, head south | 2,156.5 m | ~2 min | Bike lane or sharrows present; 4-lane road, stay right |
 | 3 | Continue to **20th Street** connector | 671.7 m | <1 min | Light traffic, shared road |
 | 4 | Proceed onto **Pearl Street** | 216.2 m | <1 min | Shared-use/mixed traffic. Dismount at intersections if preferred. Shops nearby |
-| 5 | Continue on **18th Street** | 248.8 m | <1 min | Moderate traffic; single-track bike lane |
+| 5 | Continue on **18th Street** | 248.8 m | <1 min | Moderate traffic; single-track bike lane or sharrows |
 | 6 | **Canyon Boulevard** dedicated bike corridor | 636.6 m | ~1 min | **Dedicated, separated bike lane!** The safest and fastest segment |
 | 7 | Arrive at **1800 Broadway** (Canyon Blvd & Broadway) | — | — | Bike rack available at building entrance |
+
+---
 
 ## Route Highlights
 
@@ -34,6 +38,8 @@ The **Canyon Boulevard** segment is Boulder's premier bicycle infrastructure. Fe
 - **Tree-lined:** ~70% canopy cover on residential streets — natural AC in summer
 - **Low-stress:** Only Pearl St is briefly mixed-traffic; rest has infrastructure
 
+---
+
 ## Bike-Share Option (B-Cycle)
 
 **Station:** Broadway & Iris — 400 m from office
@@ -43,57 +49,37 @@ The **Canyon Boulevard** segment is Boulder's premier bicycle infrastructure. Fe
 
 > If you combine bike-share with the walkable route, you can bike from home, lock at the Broadway & Iris station, and walk the last 400 m to 1800 Broadway. The station has real-time dock availability via the app.
 
-## E-Bike & E-Bike Rebate Info
+---
+
+## E-Bike & Rebate Info
 
 **Colorado E-Bike Rebate Program** — Up to $1,200 off qualifying e-bike purchases!
 - **Eligibility:** Colorado state e-bike rebate for qualifying purchases
 - **Boulder-specific:** RecycleBikes offers trade-in and subsidy programs
-- **Visit:** [colorado.gov/ebike](https://colorado.gov/ebike)
+- **Best for this route:** A Class 1 e-bike is perfect for flat Boulder commutes — no throttle needed, just pedal-assist
 
-**Top e-bike pick for this route:** Class 1 e-bike (pedal-assist up to 20 mph, no throttle) — perfectly matches the flat 4 km commute. Full charge lasts 80+ km (20 round trips).
+---
 
-## Gear & Preparation
+## Safety Tips for Biking
 
-| Item | Recommendation | Notes |
-|---|---|---|
-| **Lights** | Front white + rear red (USB rechargeable) | Colorado law: required 30 min after dusk/before dawn |
-| **Helmet** | CPSC-certified | Always recommended; mandatory for riders under 18 |
-| **Lock** | U-lock (minimum 12 mm shackle) | Kryptonite New York Fahgettaboudit recommended |
-| **Bell/Horn** | Bike bell or electronic horn | Required in some CO municipalities; courteous on shared paths |
-| **Fenders** | Full-coverage fenders | Essential for Boulder's dry-snow/spring slush conditions Dec-Mar |
-| **Tires** | 32-40 mm puncture-resistant | B-Cycle bikes have 2.0" puncture-resistant tires |
-| **Pannier/Rack** | Rear rack + pannier bag | Carry laptop/gear dry; avoid backpack sweat in summer |
+- 🚗 **19th Street:** Stay right, use the bike lane. This is a busy 4-lane road with bus traffic
+- 🚶 **Pearl Street:** Mixed-use zone — be prepared to slow down for pedestrians
+- 🚴 **Canyon Boulevard:** Use the dedicated separated bike lane — this is the highlight of the route
+- 🌧️ **Wet weather:** Glass-bead markings on Canyon Blvd help, but be cautious on Pearl St (slick cobblestones)
+- 🌙 **Evening commute:** Canyon Blvd has full street lighting; 19th St has some limited lighting
+- 🎨 **Visibility:** Use lights front and back; Colorado law requires a front light and rear reflector after dark
 
-## Conditions by Season
-
-| Season | Route Condition | E-Bike Helpful? | Tips |
-|---|---|---|---|
-| Spring (Apr-Jun) | Dry, 15-25°C | No | Ideal biking season; all lanes clear |
-| Summer (Jul-Aug) | Warm, 25-35°C | Yes (hill starts feel easier) | Start before 10 AM; hydrate; afternoon storms possible |
-| Fall (Sep-Nov) | Crisp, 5-20°C, golden aspens | No | Spectacular riding conditions; clean wool gloves recommended |
-| Winter (Dec-Mar) | Snow, ice possible | Yes (fat tire e-bike) | Studded tires for ice; fat-tire e-bikes handle snow well |
+---
 
 ## OSM Routing Data (for reference)
 
-```json
-{
-  "home": { "lat": 40.0448805, "lon": -105.2738879 },
-  "work": { "lat": 40.0163281, "lon": -105.2789726 },
-  "segments": [
-    { "name": "Oak Avenue", "length_m": 96.6, "bike_time_s": 23, "infra": "residential, no bike lane" },
-    { "name": "19th Street", "length_m": 2156.5, "bike_time_s": 125, "infra": "arterial, sharrows/bike lane" },
-    { "name": "20th Street", "length_m": 671.7, "bike_time_s": 37, "infra": "collector, shared road" },
-    { "name": "Pearl Street", "length_m": 216.2, "bike_time_s": 13, "infra": "commercial, shared use" },
-    { "name": "18th Street", "length_m": 248.8, "bike_time_s": 13, "infra": "commercial, sharrows" },
-    { "name": "Canyon Boulevard", "length_m": 636.6, "bike_time_s": 17, "infra": "dedicated separated bike lane" }
-  ],
-  "total_m": 4026.5,
-  "total_bike_time_min": 16,
-  "dedicated_bike_lane_length_m": 636.6,
-  "share_with_infra_pct": 84.7
-}
+```
+Home: 40.0448805°N, 105.2738879°W (45 Oak Avenue)
+Work: 40.0163281°N, 105.2789726°W (1800 Broadway)
+Total Distance: 4,026.5 m
+Total Biking Time (model): 16 min at 15 km/h avg
 ```
 
 ---
 
-*Route verified via OpenStreetMap (July 2025). Times assume average cycling speed of 15 km/h plus intersection wait times.*
+*Route verified via OpenStreetMap MCP. Directions follow the optimal bicycle path as determined by the OSM routing engine.*
