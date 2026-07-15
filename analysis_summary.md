@@ -1,57 +1,29 @@
 # 📊 Commute Analysis Summary
 
-## 45 Oak Avenue → 1800 Broadway, Boulder, CO
+**Route:** 45 Oak Avenue → 1800 Broadway, Boulder, CO
 
-| Metric | 🚶 Walking | 🚴 Biking | 🚗 Driving |
+| | 🚶 Walking | 🚴 Biking | 🚗 Driving |
 |---|---|---|---|
-| **Total Distance** | 4,027 m (2.5 mi) | 4,027 m (2.5 mi) | ~4.2 km (2.6 mi) |
-| **Est. Travel Time** | ~48 minutes | ~16 minutes | ~7–10 minutes |
-| **Avg Speed** | 5.0 km/h | 15.1 km/h | ~25 km/h |
-| **CO₂ Emissions** | 0 kg | 0 kg | ~0.8 kg per trip |
-| **Annual CO₂ (220 workdays)** | 0 kg | 0 kg | ~176 kg |
-| **Cost (annual)** | Free | Free (own bike) | ~$500–$1,250/yr |
-| **B-Cycle Cost** | — | ~$8 per trip / $925/yr pass | — |
-| **Calories Burned** | ~280 kcal/one-way | ~80 kcal/one-way | 0 kcal |
-| **Health Benefit** | ✅ Cardio, mental health | ✅ Cardio, fitness | ❌ Sedentary |
-| **Elevation Gain** | ~15 m (50 ft) | ~15 m (50 ft) | — |
+| **Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) |
+| **Est. Time** | ~48 min | ~16 min | ~7–10 min |
+| **CO₂** | 0 kg | 0 kg | ~0.8 kg/trip |
+| **Cost** | Free | Free (own bike) or ~$8 (B-Cycle) | ~$500–$1,250/year |
+| **CO₂/Year** | 0 kg (5 rides/week) | 0 kg (5 rides/week) | ~200 kg/yr |
 
----
+### Route Overview
+```
+Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd → Broadway
+  96m     2,157m     672m      216m      249m       637m     = 4,027m total
+```
 
-## 🛤️ Route Segments
+### Key Findings
+- **Flat terrain** — No significant elevation gain (max ~15m). Perfect for biking or walking year-round.
+- **Canyon Boulevard** has a dedicated separated bike lane — the safest segment for cyclists.
+- **19th Street** is a major N-S arterial; use the crosswalk at the 19th/Pearl intersection with extra caution.
+- **RTD bus routes 1, 3, 7, 10** run along 19th Street — bus+walk is a viable hybrid option.
+- **B-Cycle stations** nearby at Broadway & Iris — bike-share available if you don't own a bike.
 
-| Segment | Distance | Walking Time | Biking Time | Notes |
-|---|---|---|---|---|
-| Oak Avenue | 97 m | ~2 min | ~38 sec | Quiet residential, tree-lined |
-| 19th Street | 2,157 m | ~21 min | ~1 min 49 sec | Major arterial, RTD bus corridor |
-| 20th Street | 672 m | ~7 min | ~2 min 49 sec | Transition segment, mixed use |
-| Pearl Street | 216 m | ~3 min | ~43 sec | Historic mall area, shops & cafés |
-| 18th Street | 249 m | ~3 min | ~1 min 40 sec | Short connector to Canyon Blvd |
-| Canyon Boulevard | 637 m | ~8 min | ~2 min 49 sec | **Dedicated separated bike lane!** |
-| Broadway approach | ~100 m | ~1 min | ~40 sec | Last stretch to office |
-| **TOTAL** | **4,027 m** | **~48 min** | **~16 min** | |
-
----
-
-## 💡 Key Takeaways
-
-1. **Zero emissions either way** — Both walking and biking produce 0 kg CO₂ per trip
-2. **Biking saves 32 minutes/day** — At 16 min vs 48 min, you gain 128 min/week for wellness or productivity
-3. **The route is flat** — Only ~15m elevation gain over 4 km; no daunting hills
-4. **Canyon Blvd is bike-friendly** — Separated bike lane makes the final segment the safest
-5. **Bus is a solid backup** — RTD routes 1, 3, 7, 10 on 19th St; ~12 min by bus
-6. **Health payoff is huge** — Walking burns ~280 kcal/one-way; biking burns ~80 kcal
-
----
-
-## 📈 If You Switch from Driving (220 workdays/yr)
-
-| Benefit | Value |
-|---|---|
-| CO₂ saved | ~176 kg/year (176,000 g) |
-| Money saved | ~$600–$1,250/year |
-| Time spent commuting | 48 min walk or 16 min bike vs ~17 min drive (door-to-door) |
-| Calories gained (walking) | ~61,600 kcal/year (equivalent to ~8.8 kg fat) |
-
----
-
-*Source: OpenStreetMap (July 2025). Travel time estimates based on average walking speed of 5 km/h and average biking speed of 15 km/h, including typical intersection delays.*
+### Recommendation
+- **Biking is the best choice** — fast (16 min), free, zero emissions, and the route is flat with a protected bike lane segment.
+- **Walking is great for mornings** — 48 min of gentle exercise through a quiet, tree-lined neighborhood with local cafés on Broadway.
+- **E-bike is the sweet spot** — Class 1 e-bike provides pedal assist on the 19th St segment; eligible for CO $1,200 rebate.
