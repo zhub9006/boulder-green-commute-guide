@@ -1,80 +1,106 @@
-# 🌱 Boulder Green Commute Tips & Quick Reference
+# Green Commuting Tips for Boulder Residents
 
-## Why Walk or Bike? The Numbers
-
-| Per Trip (4.03 km) | Walking | Biking | Driving |
-|---|---|---|---|
-| **Cost** | $0 | ~$1-2 (B-Cycle) | ~$2+ (fuel+parking) |
-| **CO₂** | 0 kg | 0 kg | ~0.8 kg |
-| **Time** | ~48 min | ~16 min | ~7 min (+5-10 min parking) |
-| **Calories burned** | ~300 kcal | ~150-250 kcal | 0 |
-| **Annual savings vs driving** | Up to $12,500 | Up to $12,100 | — |
-| **Annual CO₂ saved vs driving** | 200 kg | 200 kg | — |
-
-> **The math:** If you cycle to work 3 days/week × 50 weeks, you save ~120 kg CO₂ per year and burn ~7,500-12,500 kcal. That's like burning off 13-18 Big Macs!
-
-## 🗺️ Route Quick Facts
-
-- **Total distance:** 4.03 km (~2.5 miles) — one of Boulder's walkable commutes
-- **Canyon Boulevard segment:** 636 m of dedicated bike lane — the safest part
-- **Cross streets with signals:** 19th St, 20th St, Pearl St, 18th St — all pedestrian-friendly
-- **Tree canopy:** ~60% of residential segments have mature American Elm shade
-- **Bike-share backup:** B-Cycle at Broadway & Iris (400 m from office, 13 bikes)
-
-## ⚡ Speed round: What saves more time?
-
-| Strategy | Time Saved per Trip | Annual Time Saved (5/week × 50 wks) |
-|---|---|---|
-| Bike vs walk | ~32 min | 133 hours |
-| Bike vs drive | ~39 min* | 163 hours |
-| Walk vs drive | ~7 min* | 29 hours |
-
-*Driving times assume ideal free-flow conditions; with downtown parking search, the gap widens significantly.
-
-## 💡 Boulder-Specific Hack List
-
-### Free/Cheap Gear
-- **B-Cycle day pass** ($8) — gives you access to a well-maintained bike with lights and fenders already installed
-- **RecycleBikes** — Boulder's bike reuse program with refurbished bikes at 50-70% off retail
-- **Bike Boulder** — free route guides and repair kits for residents
-
-### Rebates & Incentives
-| Program | Value | Website |
-|---|---|---|
-| Colorado E-Bike Rebate | Up to $1,200 | colorado.gov/ebike |
-| B-Cycle monthly pass | $8/month unlimited 60-min rides | b-cycle.com/boulder |
-| Boulder Commuter Discount | Free B-Cycle for some employers | Ask your HR |
-| RIDES Regional Program | Multi-modal commuter grants | ridesharetools.com |
-
-### Weather Hacks
-- **Summer:** The 60% tree canopy on residential streets keeps you 5-10°C cooler than cycling on exposed roads
-- **Winter:** Studded tires are the #1 enabler — they make 80% of Boulder's winter cycling routes safe
-- **Year-round:** Keep a change of clothes at the office. The 48-minute walk is a built-in workout even in work clothes on shower days
-
-### Combine Modes
-- 🚴 + 🚶 = Bike to Broadway & Iris B-Cycle station (400 m from office), then walk the last 3-5 min
-- 🚌 + 🚴 = RTD bus to downtown, then unlock a B-Cycle bike for the last mile
-- This hybrid approach is often faster than driving when you include parking
-
-## 🏙️ Community Stats
-
-- **15-20%** of Boulder commuters already walk or bike to work — **3× the Colorado state average**
-- Boulder's transportation sector accounts for **~35% of local GHG emissions**
-- If 50% of Boulder's ≤4-km commuters switched to active transport: **~12,000 metric tons CO₂/year saved**
-- Boulder ranks in the top-10 most bike-friendly cities in the US (PeopleForBikes)
-
-## ✅ Weekly Challenge
-
-Try this escalating commitment plan:
-
-| Week | Commitment | Expected Impact |
-|---|---|---|
-| 1 | Walk or bike 1 trip | 0.8 kg CO₂ saved |
-| 2 | Walk or bike 2 trips | 1.6 kg CO₂ saved |
-| 3 | Walk or bike 3 trips | 2.4 kg CO₂ saved |
-| 4 | Try B-Cycle for 1 trip | New skill + flexibility |
-| 5-10 | 3-4 active trips per week | 12-16 kg CO₂ saved/month |
+**Seasonal advice, weather preparation, gear recommendations, and Boulder-specific resources.**
 
 ---
 
-*All data verified from OpenStreetMap (July 2025), EPA emission factors, Boulder County Climate Action Plan, and Colorado state incentives.*
+## Seasonal Guide
+
+### Spring (March–May)
+- Temperatures: 5–20°C — Layer up!
+- Afternoon showers are common — bring waterproof jacket
+- Watch for potholes from freeze-thaw cycles
+- Cherry blossoms on Pearl Street!
+
+### Summer (June–August)
+- Temperatures: 18–35°C — Hydration is key!
+- Start early (7–8 am) to beat the heat
+- UV index is high at 5,400 ft — sunscreen and sunglasses
+- Afternoon thunderstorms possible
+
+### Autumn (September–November)
+- Best season for green commuting!
+- Layering essential — mornings chilly, afternoons warm
+- Fall colors along Boulder Creek Path
+- RTD bus service most reliable
+
+### Winter (December–February)
+- Temperatures: -5–10°C — Stay warm!
+- Icy roads are the main concern — use studded tires if biking
+- Walk on sidewalks, not bike lanes (ice melts slower)
+- Thermal gloves, hat, and insulated layers
+- Consider B-Cycle e-bike for incline assistance
+- Boots with good traction essential
+
+---
+
+## Weather Preparedness Checklist
+
+### Walking Kit
+| Item | When |
+|---|---|
+| Waterproof jacket | Spring/Summer |
+| Sunscreen (SPF 30+) | Year-round |
+| Sunglasses | Year-round |
+| Reflective vest | Fall/Winter |
+| Comfortable shoes | Always |
+| Water bottle | Always |
+| Hat/cap | Summer |
+| Lightweight gloves | Winter |
+
+### Biking Kit
+| Item | When |
+|---|---|
+| Helmet | Always |
+| Waterproof pannier/rack | Spring/Summer |
+| Fenders/mudguards | Spring/Fall |
+| Lights (front + rear) | Fall/Winter |
+| Lock (U-lock + cable) | Every trip |
+| Studded tires | Winter |
+| Full-finger gloves | Fall/Winter |
+
+---
+
+## Boulder Resources
+
+| Resource | Details |
+|---|---|
+| **Boulder Cycle Paths Map** | Official bike route map - bouldercolorado.gov/bike |
+| **RTD Trip Planner** | Bus routes and schedules - rtd-denver.com |
+| **B-Cycle Boulder** | Bike-share with 13 docks near office - b-cycle.com/boulder |
+| **People's Bike Shop** | Used bikes, repairs, advocacy - peoplesbikeshop.org |
+| **Boulder Bicycle Alliance** | Advocacy, group rides - boulderbicyclealliance.org |
+
+## Quick Tips
+
+1. Start with just 1 day/week — consistency beats intensity
+2. Morning commutes — cooler temps, less traffic, better air quality
+3. Brew at home — saves money and time
+4. Use B-Cycle app — check dock availability before leaving
+5. Maintain your bike — weekly tire pressure check, monthly chain lube
+6. Find a buddy — commuting with a friend makes it fun
+7. Log your impact — track CO₂ saved to stay motivated
+8. Check the forecast — Boulder weather changes fast
+9. Be visible — lights and reflective gear, even during the day
+10. Set a goal — Bike to work 100 days this year!
+
+---
+
+## Boulder Weather Averages (Downtown)
+
+| Month | High (C) | Low (C) | Bikeability |
+|---|---|---|---|
+| Jan | 7 | -7 | ⭐⭐ (icy) |
+| Feb | 10 | -5 | ⭐⭐ (icy) |
+| Mar | 15 | 0 | ⭐⭐⭐ (variable) |
+| Apr | 19 | 4 | ⭐⭐⭐⭐ (good) |
+| May | 24 | 9 | ⭐⭐⭐⭐⭐ (great) |
+| Jun | 30 | 14 | ⭐⭐⭐⭐⭐ (great) |
+| Jul | 34 | 17 | ⭐⭐⭐ (hot) |
+| Aug | 32 | 16 | ⭐⭐⭐⭐ (very good) |
+| Sep | 28 | 11 | ⭐⭐⭐⭐⭐ (great) |
+| Oct | 22 | 5 | ⭐⭐⭐⭐⭐ (great) |
+| Nov | 15 | 0 | ⭐⭐⭐ (cold) |
+| Dec | 8 | -5 | ⭐⭐ (icy) |
+
+*Flat terrain makes all seasons more accessible! Stay prepared and enjoy Boulder! 🚶🚴🌿*

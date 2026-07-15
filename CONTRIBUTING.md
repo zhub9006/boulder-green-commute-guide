@@ -1,76 +1,64 @@
-# Contributing to Boulder Green Commute Guide
+# Contributing to the Boulder Green Commute Guide
 
-This guide is a community resource for making sustainable commuting choices in Boulder, Colorado. Everyone is welcome to contribute!
+Help us make Boulder's green commute resources better! This guide is community-built.
 
-## 🎯 How to Help
+---
 
-### Report Route Changes
-OpenStreetMap is a living map. If you notice:
-- 🚧 Construction or road closures affecting walk/bike routes
-- 🚲 New bike lanes or infrastructure added
-- ⚠️ Safety hazards or missing sidewalks
-- 🌳 Tree removal or new plantings affecting shade
+## How to Contribute
 
-**Please:**
-1. Verify the change on OpenStreetMap first
-2. Create a GitHub issue describing the change
-3. Include coordinates (lat/long) and a description
-
-### Add Local Commute Routes
-
-Want to share another Boulder commute route?
+### 1. Add Your Commute Analysis
+Want to share your own walking/biking commute experience? Here's how:
 
 1. Fork this repository
-2. Create a new file in `routes/` named `commuter_name_route.md`
-3. Follow the template in the routing files
-4. Submit a pull request
+2. Create a new branch: `git checkout -b add-my-commute`
+3. Add your commute analysis as a new file in the `commutes/` directory
+4. Include: route address, distance, travel times, segment breakdown, safety notes
+5. Submit a Pull Request
 
-Include:
-- Start and end points (use OSM addresses)
-- Segment-by-segment directions
-- Infrastructure notes (bike lanes, sidewalks, Canyon Blvd access)
-- Nearby amenities (food, coffee, transit stops)
-- Seasonal notes and weather tips
+### 2. Improve Existing Content
+- Fix incorrect distances or travel times
+- Add new landmarks or amenities
+- Update transit schedules
+- Improve safety tips
 
-### Fix or Update Amenity Data
+### 3. Share Resources
+- Add new Boulder green commuting resources
+- Update incentive programs
+- Share event information
 
-Our amenity data comes from OpenStreetMap (July 2025 verification). Businesses open/close, so:
+---
 
-1. Check OpenStreetMap for the current listing
-2. If updated on OSM, update `neighborhood_analysis.md` and `route_data.json`
-3. Submit a PR with the updated details
+## File Structure
 
-### Translate
+```
+boulder-green-commute-guide/
+├── README.md                       # Main overview and quick facts
+├── analysis_summary.md             # One-click walking vs biking comparison
+├── commute_analysis.md             # Detailed mode-by-mode analysis
+├── neighborhood_analysis.md        # Neighborhood profile and amenities
+├── sustainability_impact.md        # Carbon, financial, and health impact
+├── route_data.json                 # Machine-readable route data
+├── green_tips.md                   # Seasonal tips and resources
+├── CONTRIBUTING.md                 # This file
+└── routes/
+    ├── walking_route.md            # Turn-by-turn walking directions
+    └── biking_route.md             # Turn-by-turn biking directions
+```
 
-We welcome translations! Boulder is an international community:
-- Create a file `i18n/README.{lang}.md` (e.g., `i18n/README.es.md`)
-- Translate the README and key sections
-- Add a note about your language in the README
+---
 
-### Suggest New Features
+## Adding a New Commute
 
-Found a gap in this guide? File an issue with:
-- **Feature requested:** Brief description
-- **Boulder relevance:** Why this matters for local commuters
-- **Data needed:** What information would fill the gap
+When adding a new commute analysis, include:
 
-## 🏷️ Code Style
+1. **Basic info**: Start/end addresses, coordinates, distance
+2. **Mode comparison**: Walking vs biking times and scores
+3. **Segment breakdown**: Each road segment with distance and time
+4. **Infrastructure notes**: Bike lanes, sharrows, sidewalks, transit
+5. **Safety assessment**: Intersection risks, lighting, traffic
+6. **Amenities**: Cafes, parks, transit stops, bike-share nearby
+7. **Seasonal tips**: Weather considerations for each season
 
-- All markdown files use **Heading 2 (`##`)** for sections and **Heading 3 (`###`)** for subsections
-- Route files use table format with consistent columns: Direction | Distance | Time | Notes
-- JSON files follow the `route_data.json` schema — see the existing file for the template
-- Link all URLs that are repeated: [B-Cycle Boulder](https://www.b-cycle.com/cities/b-cycle-boulder/boulder-co), [colorado.gov/ebike](https://colorado.gov/ebike), [bikeboulder.org](https://bikeboulder.org)
+---
 
-## 📋 Pull Request Process
-
-1. **Fork** the repo
-2. **Create** a feature branch (`git checkout -b feature/your-feature`)
-3. **Add** your content or updates
-4. **Test:** Ensure all links work and all tables render properly
-5. **Commit** with a clear message (e.g., "Add Pearl Street winter walking tips")
-6. **Open** a Pull Request with:
-   - A clear description of changes
-   - Links to related issues if applicable
-   - Verification that OSM data is current
-
-Thank you for helping Boulder residents commute greener! 🌿🚶🚴
+*Together, we can make Boulder's commutes greener, healthier, and more enjoyable! 🚶🚴🌿*

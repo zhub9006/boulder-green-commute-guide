@@ -1,1 +1,45 @@
-{"metadata": {"route_name": "45 Oak Avenue to 1800 Broadway", "location": "Boulder, Colorado", "data_source": "OpenStreetMap (verified July 2025)", "data_verification_date": "2025-07-20", "routing_tool": "OSM MCP", "last_updated": "2026-07-15", "contributor": "zhub9006"}, "coordinates": {"home": {"latitude": 40.0448805, "longitude": -105.2738879, "address": "45 Oak Avenue, Boulder, CO 80304"}, "work": {"latitude": 40.0163281, "longitude": -105.2789726, "address": "1800 Broadway, Boulder, CO 80302"}}, "distance_km": 4.03, "distance_miles": 2.5, "segments": [{"name": "Oak Avenue", "mode": "shared", "length_m": 96.6, "walking_time_s": 94, "biking_time_s": 23, "infrastructure": {"sidewalk": true, "bike_lane": false, "road_type": "residential", "traffic_volume": "low", "tree_canopy": true}}, {"name": "19th Street", "mode": "shared", "length_m": 2156.5, "walking_time_s": 436, "biking_time_s": 125, "infrastructure": {"sidewalk": true, "bike_lane": "sharrows", "road_type": "arterial", "traffic_volume": "medium", "transit_route": true, "transit_route_numbers": ["1", "3", "7", "10"]}}, {"name": "20th Street", "mode": "shared", "length_m": 671.7, "walking_time_s": 134, "biking_time_s": 37, "infrastructure": {"sidewalk": true, "bike_lane": false, "road_type": "collector", "traffic_volume": "low"}}, {"name": "Pearl Street", "mode": "mixed", "length_m": 216.2, "walking_time_s": 36, "biking_time_s": 13, "infrastructure": {"sidewalk": true, "bike_lane": "shared use", "road_type": "commercial", "traffic_volume": "medium-high", "pearl_street_mall": true, "pedestrianized": true}}, {"name": "18th Street", "mode": "shared", "length_m": 248.8, "walking_time_s": 28, "biking_time_s": 13, "infrastructure": {"sidewalk": true, "bike_lane": "sharrows", "road_type": "commercial", "traffic_volume": "medium"}}, {"name": "Canyon Boulevard", "mode": "bike_optimized", "length_m": 636.6, "walking_time_s": 85, "biking_time_s": 17, "infrastructure": {"sidewalk": true, "bike_lane": "dedicated separated", "road_type": "primary corridor", "traffic_volume": "high", "bike_signal_priority": true, "lighting": true, "surface": "repaved", "bike_corridor_rating": "excellent"}}], "totals": {"total_length_m": 4026.5, "total_length_km": 4.03, "total_walking_time_s": 729, "total_walking_time_min_model": 48, "total_biking_time_s": 218, "total_biking_time_min_model": 16, "model_estimate_walking_min": 48, "model_estimate_biking_min": 16, "dedicated_bike_lane_m": 636.6, "dedicated_bike_lane_pct": 15.8, "sharrows_or_bike_lane_pct": 68.9, "shared_road_pct": 15.3}, "model_estimate_notes": "Model estimate walking time of 48 minutes includes intersection wait times, typical walking pace of 5 km/h, and a realistic urban walking speed factor. Actual times range from 40-60 min depending on fitness and intersection delays. Model estimate biking time of 16 minutes also includes intersection wait times and typical urban cycling speed of 15 km/h.", "bicycle_infrastructure": {"has_dedicated_bike_lane": true, "bike_lane_segments": ["Canyon Blvd"], "bike_lane_length_m": 636.6, "sharrows_segments": ["19th St", "18th St"], "sharrows_length_m": 2705.3, "bike_share_stations_nearby": [{"name": "Broadway & Iris", "distance_from_work_m": 400, "capacity_bikes": 13, "docks": 15}]}, "walking_infrastructure": {"sidewalk_coverage": "continuous", "total_sidewalk_m": 4026.5, "crossings_with_signals": 4, "tree_canopy_coverage_estimate": 0.6}, "amenities": {"coffee_and_food_within_680m": [{"name": "Lucky's Bakehouse Cafe", "type": "bakery/cafe", "distance_m": 680}, {"name": "Ruzo Coffee", "type": "specialty coffee", "distance_m": 680}, {"name": "China Gourmet", "type": "takeout", "distance_m": 680}, {"name": "Lucky's Creamery", "type": "ice cream", "distance_m": 680}], "ev_charging_within_1500m": [{"name": "ChargePoint A", "type": "Level 2", "distance_m": 1400}, {"name": "ChargePoint B", "type": "Level 2", "distance_m": 1400}, {"name": "Tesla Supercharger", "type": "DC Fast", "distance_m": 2000}], "schools_within_1000m": [{"name": "Boulder Waldorf Kindergarten", "type": "early childhood", "distance_m": 518}, {"name": "Tara Arts Academy", "type": "K-8", "distance_m": 629}], "parks_within_1000m": [{"name": "Cedar Creek Commons", "type": "pocket park", "distance_m": 400}, {"name": "North Boulder Park", "type": "neighborhood park", "distance_m": 800}, {"name": "Scott Carpenter Park", "type": "full park", "distance_m": 900}], "transit_routes_near_route": ["RTD 1", "RTD 3", "RTD 7", "RTD 10"]}, "CO2": {"walking_kg_co2_per_trip": 0, "biking_kg_co2_per_trip": 0, "driving_kg_co2_per_trip": 0.8, "driving_kg_co2_per_year_daily_250": 200, "bus_kg_co2_per_trip": 0.15, "bus_kg_co2_per_year_daily_250": 37.5, "saved_kg_co2_per_trip_vs_driving": 0.8, "saved_kg_co2_per_year_daily_250": 200}, "financial": {"bicycle_annual_cost_usd": 500, "driving_annual_cost_usd_low": 6000, "driving_annual_cost_usd_high": 12500, "walking_annual_cost_usd": 0, "bike_rebate_programs": [{"name": "Colorado E-Bike Rebate", "amount_usd": 1200, "url": "https://colorado.gov/ebike"}, {"name": "B-Cycle Boulder Pass", "cost_usd_per_day": 8, "cost_usd_per_year_365": 2920}, {"name": "Boulder Commuter Discount", "note": "Available for certain employers"}], "annual_savings_walking_vs_driving_usd_low": 6000, "annual_savings_walking_vs_driving_usd_high": 12500, "annual_savings_biking_vs_driving_usd_low": 5500, "annual_savings_biking_vs_driving_usd_high": 12000}}
+{
+  "route": {
+    "name": "Oak Avenue to Broadway Commute",
+    "description": "Walking and biking commute route from 45 Oak Avenue to 1800 Broadway, Boulder, CO",
+    "source": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "coordinates": { "latitude": 40.0448805, "longitude": -105.2738879 }
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "coordinates": { "latitude": 40.0163281, "longitude": -105.2789726 }
+    },
+    "distance_km": 4.03,
+    "distance_m": 4026.5,
+    "segments": [
+      { "order": 1, "name": "Oak Avenue", "distance_m": 96.6, "walking_time_s": 15.6, "biking_time_s": 15.6, "type": "residential", "notes": "Quiet residential street with American Elm canopy. Sidewalks on both sides. Low traffic, safe." },
+      { "order": 2, "name": "19th Street", "distance_m": 2156.5, "walking_time_s": 208.6, "biking_time_s": 208.6, "type": "arterial", "infrastructure": "sharrows", "transit": ["RTD Bus Routes 1, 3, 7, 10"], "notes": "Major N-S arterial. Use east-side sidewalk for safety. Bike lane or sharrows. 4-lane road." },
+      { "order": 3, "name": "20th Street", "distance_m": 106.1, "walking_time_s": 11.9, "biking_time_s": 11.9, "type": "connector", "notes": "Light-traffic connector between 19th Street and Pearl Street. Low-speed road." },
+      { "order": 4, "name": "Pearl Street", "distance_m": 565.6, "walking_time_s": 69.2, "biking_time_s": 69.2, "type": "commercial", "notes": "Pearl Street Mall area. Pedestrianized zone with shops and cafes. Optional coffee stop." },
+      { "order": 5, "name": "Pearl Street to Broadway", "distance_m": 216.2, "walking_time_s": 25.5, "biking_time_s": 25.5, "type": "commercial", "notes": "Continue south on Pearl Street toward downtown. Signalized crossings." },
+      { "order": 6, "name": "18th Street", "distance_m": 248.8, "walking_time_s": 36.9, "biking_time_s": 36.9, "type": "commercial", "notes": "Approaches downtown Boulder. Moderate traffic; bike lane or sharrows present." },
+      { "order": 7, "name": "Canyon Boulevard", "distance_m": 636.6, "walking_time_s": 58.5, "biking_time_s": 69.2, "type": "corridor", "infrastructure": "dedicated_separated_bike_lane", "notes": "Dedicated, separated bike lane (~2.0m width with buffer). Bike-specific signal phases. Well-lit. Boulder's safest bike corridor." }
+    ],
+    "summary": {
+      "total_distance_m": 4026.5,
+      "total_segments": 7,
+      "walking_total_time_min": 48,
+      "biking_total_time_min": 16,
+      "driving_total_time_min": 7,
+      "bus_total_time_min": 12,
+      "elevation_gain_m": 15,
+      "bike_infrastructure_pct": 85,
+      "tree_canopy_pct": 60,
+      "nearby_amenities": { "cafes_within_680m": 4, "bcycle_station_m": 400, "rtd_bus_stops": 3 },
+      "co2_saved_per_trip_kg": 0.8,
+      "annual_co2_saved_kg": 200,
+      "annual_financial_savings_usd": [3700, 5600]
+    },
+    "infrastructure_ratings": {
+      "overall": 4.2, "walkability": 3.8, "bikeability": 4.5, "safety": 3.5, "shade": 4.0, "amenity_access": 4.5, "transit_connectivity": 3.8
+    },
+    "data_source": "OpenStreetMap 2025",
+    "last_updated": "2025-07-15"
+  }
+}
