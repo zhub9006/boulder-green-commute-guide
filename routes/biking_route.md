@@ -1,6 +1,7 @@
 # 🚴 Biking Route: 45 Oak Avenue → 1800 Broadway
 
-**Distance:** 4.03 km (2.5 miles) | **Estimated Time:** ~16 minutes | **Terrain:** Flat
+**Distance:** 4.03 km (2.5 miles) | **Estimated Time:** ~16 min | **Terrain:** Flat
+**Coordinates:** 40.0449°N, 105.2739°W → 40.0163°N, 105.2790°W
 
 ---
 
@@ -10,37 +11,36 @@
 - Head **south** on Oak Avenue
 - Quiet residential street; bike lanes present
 - Slow speed; easy to navigate
-- 🕐 ~10 seconds
+- ~0.2 min
 
 ### 2. 🏢 19th Street (2,157 m)
-- Turn **left** (east) onto 19th Street
+- Turn **left** (south) onto 19th Street
 - **Major arterial road** — be extra careful here
 - Use the **marked bike lane** on the right side
 - Watch for:
   - 🚌 RTD buses pulling over
   - 🚗 Right-turning vehicles at intersections
   - 🚙 Parked cars (door zone — stay at least 3 ft from parked cars)
-- 🕐 ~1.5 minutes
-- ⚠️ **This is the most challenging segment.** Stay visible, signal clearly, and take the lane if the bike lane is blocked.
+- ~1.5 min ⚠️ **This is the most challenging segment.** Stay visible, signal clearly, and take the lane if the bike lane is blocked.
 
 ### 3. ↪ 20th Street (672 m)
 - Turn **right** (south) onto 20th Street
 - Shorter, quieter street — easier ride
 - Bike lanes or shared-use path
-- 🕐 ~15 seconds
+- ~0.3 min
 
-### 4. 🛍️ Pearl Street (216 m)
+### 4. 🚶 Pearl Street (216 m)
 - Turn **left** (east) onto Pearl Street
 - **Pedestrian-priority zone** — slow down and yield to walkers
 - Consider dismounting if the area is very crowded
 - Enjoy the historic district atmosphere!
-- 🕐 ~15 seconds
+- ~0.2 min
 
-### 5. 🏛️ 18th Street (249 m)
+### 5. 🏙️ 18th Street (249 m)
 - Turn **right** (south) onto 18th Street
 - Quick urban connector
 - Bike lanes present
-- 🕐 ~15 seconds
+- ~0.2 min
 
 ### 6. 🚴 Canyon Boulevard (637 m) ⭐ BEST SEGMENT
 - Turn **left** (east) onto Canyon Boulevard
@@ -48,8 +48,7 @@
 - This is the highlight of the ride — physically separated from traffic
 - Enjoy the Boulder Creek views on your left
 - Watch for pedestrians crossing between segments
-- 🕐 ~2.5 minutes
-- ⭐ **A perfect example of Boulder's excellent bike infrastructure!**
+- ~0.4 min ⭐ **A perfect example of Boulder's excellent bike infrastructure!**
 
 ### 7. ✅ Arrival: 1800 Broadway
 - Canyon Boulevard feeds into Broadway
@@ -66,7 +65,7 @@
 | 19th Street | Marked bike lane | Good | ⚠️ Higher (arterial) |
 | 19th St connection | Shared-use path | Fair | ⚠️ Moderate |
 | Pearl Street | Pedestrian zone | Good (for bikes, yield) | ✅ Low (slow speed) |
-| 18th Street | Bike-laned urban | Good | ✅ Low |
+| 18th Street | Bike-lanned urban | Good | ✅ Low |
 | Canyon Boulevard | **Separated bike lane** | ⭐ Excellent | ✅✅ Very Low |
 
 ---
@@ -108,7 +107,7 @@
 
 ---
 
-## 🛤️ Alternative Bike Route (Boulder Creek Path)
+## 🛣️ Alternative Bike Route (Boulder Creek Path)
 
 If you want a more scenic, less-car route, consider the **Boulder Creek Path** as an alternative:
 - Runs along Boulder Creek from north Boulder
@@ -118,7 +117,7 @@ If you want a more scenic, less-car route, consider the **Boulder Creek Path** a
 
 ---
 
-## 🌦️ Weather-Specific Biking Tips
+## 🌤️ Weather-Specific Biking Tips
 
 - **Sunny/Warm:** Bring water (altitude = dehydration risk at 5,430 ft); wear sunscreen
 - **Windy:** Canyon Blvd can be gusty; watch for crosswinds on 19th St
