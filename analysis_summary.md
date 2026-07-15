@@ -1,66 +1,57 @@
-# 📊 Commute Analysis Summary: 45 Oak Avenue → 1800 Broadway
+# 📊 Commute Analysis Summary
 
-**Route:** 45 Oak Avenue (40.0449°N, 105.2739°W) → 1800 Broadway (40.0163°N, 105.2790°W)
-**Boulder ZIPs:** 80304 → 80302
-**Total Distance:** 4.03 km (2.5 miles)
+## 45 Oak Avenue → 1800 Broadway, Boulder, CO
 
----
-
-## Mode Comparison at a Glance
-
-| | 🚶 Walking | 🚴 Biking | 🚗 Driving | 🚌 Bus+Walk |
-|---|---|---|---|---|
-| **Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) | 4.03 km |
-| **Typical Time** | ~50 min | ~16 min | ~8 min | ~12 min |
-| **CO₂ per Trip** | 0 kg | 0 kg | ~0.8 kg | ~0.3 kg |
-| **Annual Cost** | Free | Free (own bike) | $500–$1,250/yr | ~$500/yr |
-| **Calories Burned** | ~400 kcal/trip | ~150 kcal/trip | 0 | ~80 kcal/trip |
-| **Stress Level** | Low | Moderate | High (parking) | Moderate |
+| Metric | 🚶 Walking | 🚴 Biking | 🚗 Driving |
+|---|---|---|---|
+| **Total Distance** | 4,027 m (2.5 mi) | 4,027 m (2.5 mi) | ~4.2 km (2.6 mi) |
+| **Est. Travel Time** | ~48 minutes | ~16 minutes | ~7–10 minutes |
+| **Avg Speed** | 5.0 km/h | 15.1 km/h | ~25 km/h |
+| **CO₂ Emissions** | 0 kg | 0 kg | ~0.8 kg per trip |
+| **Annual CO₂ (220 workdays)** | 0 kg | 0 kg | ~176 kg |
+| **Cost (annual)** | Free | Free (own bike) | ~$500–$1,250/yr |
+| **B-Cycle Cost** | — | ~$8 per trip / $925/yr pass | — |
+| **Calories Burned** | ~280 kcal/one-way | ~80 kcal/one-way | 0 kcal |
+| **Health Benefit** | ✅ Cardio, mental health | ✅ Cardio, fitness | ❌ Sedentary |
+| **Elevation Gain** | ~15 m (50 ft) | ~15 m (50 ft) | — |
 
 ---
 
-## Route Overview
-
-```
-45 Oak Ave → [Oak Ave 96m] → [19th St 2,157m] → [20th St 672m] → [Pearl St 216m] → [18th St 249m] → [Canyon Blvd 637m] → 1800 Broadway
-```
-
-### Segment Breakdown
+## 🛤️ Route Segments
 
 | Segment | Distance | Walking Time | Biking Time | Notes |
 |---|---|---|---|---|
-| Oak Avenue | 96 m | ~1 min | ~20 s | Quiet residential street; tree-lined |
-| 19th Street | 2,157 m | ~4.3 min | ~1.5 min | Major N-S arterial; RTD bus routes 1,3,7,10 |
-| 20th Street | 672 m | ~1.3 min | ~2.5 min | Connector to Pearl Street |
-| Pearl Street | 216 m | ~0.4 min | ~1 min | Historic Pearl St Mall; shops & cafés nearby |
-| 18th Street | 249 m | ~0.5 min | ~1 min | Short connector to Canyon Blvd |
-| Canyon Boulevard | 637 m | ~1.3 min | ~2.5 min | **Dedicated separated bike lane** — safest segment!
-| Broadway (final approach) | ~0 m | — | — | Arrive at 1800 Broadway |
+| Oak Avenue | 97 m | ~2 min | ~38 sec | Quiet residential, tree-lined |
+| 19th Street | 2,157 m | ~21 min | ~1 min 49 sec | Major arterial, RTD bus corridor |
+| 20th Street | 672 m | ~7 min | ~2 min 49 sec | Transition segment, mixed use |
+| Pearl Street | 216 m | ~3 min | ~43 sec | Historic mall area, shops & cafés |
+| 18th Street | 249 m | ~3 min | ~1 min 40 sec | Short connector to Canyon Blvd |
+| Canyon Boulevard | 637 m | ~8 min | ~2 min 49 sec | **Dedicated separated bike lane!** |
+| Broadway approach | ~100 m | ~1 min | ~40 sec | Last stretch to office |
+| **TOTAL** | **4,027 m** | **~48 min** | **~16 min** | |
 
 ---
 
-## Key Highlights
+## 💡 Key Takeaways
 
-- 🏔️ **Completely flat** — No significant elevation gain (max ~15 m)
-- 🌳 **Tree-lined route** — Oak Avenue has American Elm canopy for summer shade
-- 🚴 **Bike infrastructure** — Canyon Boulevard has a separated bike lane
-- 🚌 **Transit option** — RTD buses run on 19th Street corridor
-- ☕ **Café stops** — Pearl Street Mall has numerous cafés for a pre-commute coffee
-- 🏢 **Office destination** — 1800 Broadway is in the coronary hill area near CU Boulder
-
----
-
-## Recommendation
-
-| Your Priority | Best Mode | Why |
-|---|---|---|
-| 🏃 Health & fitness | **🚶 Walking** | 50 min of moderate exercise, zero cost, zero emissions |
-| ⚡ Speed & efficiency | **🚴 Biking** | 16 min commute, still gets exercise, flat route perfect for biking |
-| 💰 Save money | **🚶 Walking** or **🚴 Biking** | Both are free (biking may have B-Cycle rental cost) |
-| 🌍 Lowest carbon footprint | **🚶 Walking** or **🚴 Biking** | Both produce 0 kg CO₂ vs ~0.8 kg for driving |
-| 🧘 Low stress | **🚶 Walking** | No traffic, no parking worries, pleasant tree-lined route |
-| 📅 Careful schedule | **🚴 Biking** | Faster, more predictable timing than walking |
+1. **Zero emissions either way** — Both walking and biking produce 0 kg CO₂ per trip
+2. **Biking saves 32 minutes/day** — At 16 min vs 48 min, you gain 128 min/week for wellness or productivity
+3. **The route is flat** — Only ~15m elevation gain over 4 km; no daunting hills
+4. **Canyon Blvd is bike-friendly** — Separated bike lane makes the final segment the safest
+5. **Bus is a solid backup** — RTD routes 1, 3, 7, 10 on 19th St; ~12 min by bus
+6. **Health payoff is huge** — Walking burns ~280 kcal/one-way; biking burns ~80 kcal
 
 ---
 
-*Data: OpenStreetMap (July 2025). Walking speed: 5 km/h. Biking speed: 15 km/h. Typical weekday traffic patterns.*
+## 📈 If You Switch from Driving (220 workdays/yr)
+
+| Benefit | Value |
+|---|---|
+| CO₂ saved | ~176 kg/year (176,000 g) |
+| Money saved | ~$600–$1,250/year |
+| Time spent commuting | 48 min walk or 16 min bike vs ~17 min drive (door-to-door) |
+| Calories gained (walking) | ~61,600 kcal/year (equivalent to ~8.8 kg fat) |
+
+---
+
+*Source: OpenStreetMap (July 2025). Travel time estimates based on average walking speed of 5 km/h and average biking speed of 15 km/h, including typical intersection delays.*
