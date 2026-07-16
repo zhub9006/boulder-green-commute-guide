@@ -1,0 +1,132 @@
+{
+  "route_id": "boulder-oak-to-broadway-2025",
+  "meta": {
+    "title": "45 Oak Avenue → 1800 Broadway, Boulder, CO",
+    "created": "2025-07-15",
+    "data_source": "OpenStreetMap routing API",
+    "last_verified": "2025-07-16",
+    "home": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "lat": 40.0448805,
+      "lon": -105.2738879
+    },
+    "work": {
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "lat": 40.0163281,
+      "lon": -105.2789726
+    },
+    "distance_km": 4.03,
+    "elevation_gain_m": 15,
+    "walking_pace_kmh": 5,
+    "biking_pace_kmh": 15
+  },
+  "segments": [
+    {
+      "name": "Oak Avenue",
+      "type": "residential",
+      "distance_m": 96,
+      "walking_time_s": 16,
+      "biking_time_s": 6,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": false,
+        "crosswalk": true,
+        "traffic_calming": true,
+        "canopy": "American Elm"
+      },
+      "safety_rating": 5,
+      "notes": "Quiet residential street with tree canopy"
+    },
+    {
+      "name": "19th Street",
+      "type": "arterial",
+      "distance_m": 2157,
+      "walking_time_s": 440,
+      "biking_time_s": 130,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": true,
+        "crosswalk": true,
+        "bus_routes": ["RTD 1", "RTD 3", "RTD 7", "RTD 10"],
+        "traffic_volume": "high"
+      },
+      "safety_rating": 3,
+      "notes": "Major N-S arterial with bus service"
+    },
+    {
+      "name": "20th Street",
+      "type": "residential",
+      "distance_m": 672,
+      "walking_time_s": 120,
+      "biking_time_s": 70,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": false,
+        "crosswalk": true,
+        "traffic_calming": true
+      },
+      "safety_rating": 4,
+      "notes": "Connector street, low traffic"
+    },
+    {
+      "name": "Pearl Street",
+      "type": "commercial",
+      "distance_m": 216,
+      "walking_time_s": 26,
+      "biking_time_s": 9,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": "shared (dismount zone)",
+        "crosswalk": true,
+        "pedestrian_zone": true,
+        "landmarks": ["Pearl Street Mall"]
+      },
+      "safety_rating": 4,
+      "notes": "Historic pedestrian mall — walk your bike here"
+    },
+    {
+      "name": "18th Street",
+      "type": "residential",
+      "distance_m": 249,
+      "walking_time_s": 30,
+      "biking_time_s": 10,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": true,
+        "crosswalk": true
+      },
+      "safety_rating": 4,
+      "notes": "Short connector"
+    },
+    {
+      "name": "Canyon Boulevard",
+      "type": "boulevard",
+      "distance_m": 637,
+      "walking_time_s": 53,
+      "biking_time_s": 20,
+      "infrastructure": {
+        "sidewalk": true,
+        "bike_lane": "separated",
+        "crosswalk": true,
+        "green_belt": true,
+        "canopy": "Deciduous trees",
+        "flatirons_views": true
+      },
+      "safety_rating": 5,
+      "notes": "Boulder's premier bike corridor — separated bike lane"
+    }
+  ],
+  "summary": {
+    "total_distance_m": 4027,
+    "walking_total_time_s": 2880,
+    "biking_total_time_s": 960,
+    "walking_formatted": "48 minutes",
+    "biking_formatted": "16 minutes",
+    "co2_savings_kg_per_trip": 0.8,
+    "co2_savings_kg_per_year": 200,
+    "cost_saving_usd_per_trip": 13,
+    "cost_saving_usd_per_year": 3250,
+    "calories_burned_walking_per_trip": 400,
+    "calories_burned_biking_per_trip": 200
+  }
+}
