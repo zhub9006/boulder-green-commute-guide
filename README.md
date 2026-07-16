@@ -17,7 +17,7 @@
 > **Route:** 45 Oak Avenue (40.0449°N, 105.2739°W) → 1800 Broadway (40.0163°N, 105.2790°W)
 > **Boulder ZIPs:** 80304 → 80302
 > **Elevation gain:** ~15 m (50 ft) — essentially flat!
-> **Data Source:** OpenStreetMap (verified July 2025) · Raw OSM routing: 426s → adjusted to realistic pace estimates
+> **Data Source:** OpenStreetMap routing API · Realistic pace estimates: 5 km/h walking, 15 km/h biking
 
 ---
 
@@ -25,16 +25,16 @@
 
 | File | What It Covers |
 |---|---|
-| **[commute_analysis.md](commute_analysis.md)** | Full mode-by-mode comparison with segment-level OSM data, CO₂, health & financial impacts |
+| **[commute_analysis.md](commute_analysis.md)** | Full mode-by-mode comparison with segment-level details, CO₂, health & financial impacts |
 | **[sustainability_impact.md](sustainability_impact.md)** | Carbon savings, health benefits, financial analysis, Boulder incentives & personal commitment plan |
-| **[routes/route-details.md](routes/route-details.md)** | Corrected detailed turn-by-turn directions for both modes with safety tips |
+| **[routes/commute-route-details.md](routes/commute-route-details.md)** | Verified turn-by-turn directions for walking & biking with OSM segment data and safety tips |
 | **[routes/walking_route.md](routes/walking_route.md)** | Turn-by-turn walking directions with landmarks, nearby cafés, safety & seasonal tips |
 | **[routes/biking_route.md](routes/biking_route.md)** | Turn-by-turn biking directions with bike infrastructure notes, B-Cycle info & e-bike rebates |
-| **[neighborhood_analysis.md](neighborhood_analysis.md)** | Verified neighborhood profile: restaurants, parks, transit, bike/EV infrastructure (OSM 2025) |
-| **[route_data.json](route_data.json)** | Machine-readable route data (GeoJSON, segment metadata, infrastructure ratings) for developers & researchers |
+| **[neighborhood_analysis.md](neighborhood_analysis.md)** | Verified neighborhood profile: restaurants, parks, transit, bike/EV infrastructure |
+| **[route_data.json](route_data.json)** | Machine-readable route data (GeoJSON, segment metadata, infrastructure ratings) |
 | **[route_map.html](route_map.html)** | Interactive Leaflet map with walking & biking routes, landmarks, and transit stops |
-| **[green_tips.md](green_tips.md)** | Seasonal green commuting tips, weather prep, gear recommendations & Boulder-specific resources |
-| **[analysis_summary.md](analysis_summary.md)** | One-click at-a-glance comparison of walking vs biking for this specific commute |
+| **[green_tips.md](green_tips.md)** | Seasonal green commuting tips, weather prep, gear recommendations & Boulder resources |
+| **[analysis_summary.md](analysis_summary.md)** | One-click comparison of walking vs biking for this specific commute |
 | **[CONTRIBUTING.md](CONTRIBUTING.md)** | How to add your own commute analysis or contribute improvements |
 
 ---
@@ -48,13 +48,13 @@ Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd → Bro
 
 **Key segments:**
 - 🌳 **Oak Avenue** — Quiet residential street with American Elm canopy
-- 🚏 **19th Street** — Major N-S arterial (RTD bus routes 1, 3, 7, 10)
+- 🚌 **19th Street** — Major N-S arterial (RTD bus routes 1, 3, 7, 10)
 - 🏙️ **Pearl Street** — Historic Pearl Street Mall (shops, cafés nearby)
 - 🚴 **Canyon Boulevard** — Dedicated separated bike lane — the safest segment!
 
 ---
 
-## 🤔 Which Mode Is Right for You?
+## 🧠 Which Mode Is Right for You?
 
 | If you... | Try this | Best for... |
 |---|---|---|
@@ -93,4 +93,4 @@ This guide is for Boulder residents, by Boulder residents. Want to add your own 
 
 ---
 
-*Data sourced from OpenStreetMap (verified July 2025). Walking times based on comfortable 5 km/h pace with intersection wait times. Biking times based at 15 km/h average. Raw OSM routing duration: 426s — adjusted to realistic pace estimates (~48 min walking, ~16 min biking, ~12 min e-bike). Actual times vary with weather, fitness, and traffic. Driving estimates based on typical Boulder downtown traffic conditions.*
+*Data sourced from OpenStreetMap routing API. Walking times based on comfortable 5 km/h pace with intersection wait times. Biking times based at 15 km/h average. Actual times vary with weather, fitness, and traffic. Driving estimates based on typical Boulder downtown traffic conditions.*
