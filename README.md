@@ -6,7 +6,7 @@
 
 ## 🏠 → 🏢 Your Commute: Quick Facts
 
-| | 🚶 Walking | 🚲 Biking | 🚴 E-Bike | 🚗 Driving |
+| | 🚶 Walking | 🚲 Biking | 🛴 E-Bike | 🚗 Driving |
 |---|---|---|---|---|
 | **Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) | ~4.2 km (2.6 mi) |
 | **Time** | ~48 min | ~16 min | ~12 min | ~10–15 min |
@@ -52,7 +52,7 @@ Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd → Bro
 - 🌳 **Oak Avenue** — Quiet residential street with American Elm canopy
 - 🚌 **19th Street** — Major N-S arterial (RTD bus routes 1, 3, 7, 10)
 - 🏙️ **Pearl Street** — Historic Pearl Street Mall (shops, cafés nearby)
-- 🚴 **Canyon Boulevard** — Dedicated separated bike lane — the safest segment!
+- 🛴 **Canyon Boulevard** — Dedicated separated bike lane — the safest segment!
 
 ---
 
@@ -62,7 +62,7 @@ Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd → Bro
 |---|---|---|
 | Want zero cost | **🚶 Walking** | Health, relaxation, no equipment needed |
 | Want speed + exercise | **🚲 Biking** | Efficient commute, cardio benefit |
-| Want zero sweat | **🚴 E-Bike** | Flat 4 km is ideal for Class 1 e-bike assist ($1,200 CO rebate!) |
+| Want zero sweat | **🛴 E-Bike** | Flat 4 km is ideal for Class 1 e-bike assist ($1,200 CO rebate!) |
 | Hate hills | **🚶 Walk or 🚲 Bike** | Route is flat — no hills at all! Max 15m elevation gain |
 | Need flexibility | **🚌 Bus + walk** | RTD runs on 19th St corridor; ~12 min by bus |
 | Want lowest CO₂ | **🚶 Walk or 🚲 Bike** | Both are 0 kg CO₂ — 100% cleaner than driving |
