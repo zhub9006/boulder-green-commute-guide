@@ -1,130 +1,171 @@
-# 🚴 Biking Route: 45 Oak Avenue → 1800 Broadway
+# Biking Route: 45 Oak Avenue → 1800 Broadway
 
-**Distance:** 4.03 km (2.5 miles) | **Estimated Time:** ~16 min | **Terrain:** Flat
-**Coordinates:** 40.0449°N, 105.2739°W → 40.0163°N, 105.2790°W
-
----
-
-## Turn-by-Turn Directions
-
-### 1. 🌳 Oak Avenue (96 m)
-- Head **south** on Oak Avenue
-- Quiet residential street; bike lanes present
-- Slow speed; easy to navigate
-- ~0.2 min
-
-### 2. 🏢 19th Street (2,157 m)
-- Turn **left** (south) onto 19th Street
-- **Major arterial road** — be extra careful here
-- Use the **marked bike lane** on the right side
-- Watch for:
-  - 🚌 RTD buses pulling over
-  - 🚗 Right-turning vehicles at intersections
-  - 🚙 Parked cars (door zone — stay at least 3 ft from parked cars)
-- ~1.5 min ⚠️ **This is the most challenging segment.** Stay visible, signal clearly, and take the lane if the bike lane is blocked.
-
-### 3. ↪ 20th Street (672 m)
-- Turn **right** (south) onto 20th Street
-- Shorter, quieter street — easier ride
-- Bike lanes or shared-use path
-- ~0.3 min
-
-### 4. 🚶 Pearl Street (216 m)
-- Turn **left** (east) onto Pearl Street
-- **Pedestrian-priority zone** — slow down and yield to walkers
-- Consider dismounting if the area is very crowded
-- Enjoy the historic district atmosphere!
-- ~0.2 min
-
-### 5. 🏙️ 18th Street (249 m)
-- Turn **right** (south) onto 18th Street
-- Quick urban connector
-- Bike lanes present
-- ~0.2 min
-
-### 6. 🚴 Canyon Boulevard (637 m) ⭐ BEST SEGMENT
-- Turn **left** (east) onto Canyon Boulevard
-- **Dedicated separated bike lane** 🎉
-- This is the highlight of the ride — physically separated from traffic
-- Enjoy the Boulder Creek views on your left
-- Watch for pedestrians crossing between segments
-- ~0.4 min ⭐ **A perfect example of Boulder's excellent bike infrastructure!**
-
-### 7. ✅ Arrival: 1800 Broadway
-- Canyon Boulevard feeds into Broadway
-- Arrive at your destination: **1800 Broadway**
-- Lock your bike at a Downtown Boulder bike rack
+**Total distance:** 4,026.5 m (4.03 km / 2.5 mi)
+**Total time:** ~12 minutes at an average pace (20 km/h)
+**Elevation gain:** ~15 m (50 ft) — almost flat
 
 ---
 
-## 🚲 Bike Infrastructure Notes
+## Turn-by-Turn Biking Directions
 
-| Segment | Infrastructure Type | Quality | Safety |
-|---|---|---|---|
-| Oak Avenue | Street bike lanes | Basic | ⚠️ Moderate (low speed) |
-| 19th Street | Marked bike lane | Good | ⚠️ Higher (arterial) |
-| 19th St connection | Shared-use path | Fair | ⚠️ Moderate |
-| Pearl Street | Pedestrian zone | Good (for bikes, yield) | ✅ Low (slow speed) |
-| 18th Street | Bike-lanned urban | Good | ✅ Low |
-| Canyon Boulevard | **Separated bike lane** | ⭐ Excellent | ✅✅ Very Low |
+### Step 1: Depart — Oak Avenue (96.6 m)
+- Exit 45 Oak Avenue heading south
+- Ride south on the residential street
+- Light traffic; easy start
+- **~15 seconds**
+
+### Step 2: Turn right — 19th Street (2,156.5 m)
+- Turn **right** (south) onto **19th Street**
+- Longest and busiest segment
+- **Use the bike lane on the right side**
+- Watch for right-turning vehicles at intersections
+- Cross **Euclid Avenue** carefully
+- Pass CU Boulder campus area
+- You will pass bike parking racks along 19th St
+- **~3.5 minutes**
+
+### Step 3: Connector — 20th St. (106.1 m)
+- Short connector from 19th St to 20th Street
+- Slow down at intersection — watch for turning cars
+- **~10 seconds**
+
+### Step 4: Continue south — 20th Street (565.6 m)
+- Continue south on 20th Street
+- Residential street — lower speed traffic
+- No dedicated bike lane; use right side of road
+- **~1.5 minutes**
+
+### Step 5: Turn left — Pearl Street (216.2 m)
+- Turn **left** (east) onto **Pearl Street**
+- ⚠️ **PEDESTRIAN MALL ZONE: Dismount and walk your bike through the mall section**
+- Clearly marked dismount signs at each entrance
+- Remount on the other side (east end)
+- **~20 seconds**
+
+### Step 6: Turn right — 18th Street (248.8 m)
+- Turn **right** (north) onto **18th Street**
+- Downtown area — watch for pedestrians, delivery vehicles, and parking cars
+- Use crosswalk lane; be visible
+- **~25 seconds**
+
+### Step 7: Turn left — Canyon Boulevard ⭐ (636.6 m)
+- Turn **left** (west) onto **Canyon Boulevard**
+- **This is the highlight of your ride!**
+- **Dedicated separated bike lane** — completely separated from car traffic
+- Smooth pavement, well-maintained, scenic
+- Enjoy views of the **Flatirons**
+- Low car traffic — one of Boulder safest bike routes
+- **~1 minute**
+
+### Step 8: Arrive — 1800 Broadway
+- Continue west on Canyon Blvd toward Broadway
+- Turn right (north) onto Broadway
+- Arrive at **1800 Broadway**
+- **Destination reached!**
 
 ---
 
-## 💰 Cost Comparison: Bike Ownership vs B-Cycle
+## Highlight: Canyon Boulevard Separated Bike Lane
 
-### Own a Bike
-- **Upfront cost:** $300–$1,500+ (depending on quality)
-- **Annual maintenance:** ~$100
-- **Lock & accessories:** ~$50
-- **Total annual:** ~$150–$250
-- **CO rebate:** Up to **$1,200** for e-bikes!
+Canyon Boulevard features one of Boulder best separated bike lanes:
+- Fully separated from vehicle traffic by a physical barrier
+- Smooth, well-maintained asphalt
+- Wide enough for two cyclists to ride side by side
+- Low speed limit for adjacent vehicle traffic
+- Beautiful views of the Flatirons
+- Well-lit in the evening
 
-### B-Cycle (Bike-Share)
-- **Annual membership:** ~$95 (unlimited 45-min rides)
-- **Single ride:** ~$3 (for 30+ min ride)
-- **No storage/maintenance worries**
-- **Stations nearby:** B-Cycle stations at 18th & Pearl, Pearl & 11th, 13th & Broadway
-- **Best for:** Occasional riders, visitors, those without storage space
-
-### E-Bike + CO Rebate
-- **E-bike cost:** $1,200–$3,000+ (after rebate: $0–$1,800)
-- **CO rebate:** **Up to $1,200** (Colorado Clean Spaces Program)
-- **Best for:** Flat commutes like this one — barely any pedaling needed!
-- **A flat 4 km route is PERFECT for e-bikes** — you can arrive fresh with minimal effort
+**This is the safest cycling route in Boulder and the reason biking is such a great option for this commute.**
 
 ---
 
-## 🔧 Essential Gear for This Route
+## Biking Infrastructure Along the Route
 
-| Item | Why | Cost |
+| Segment | Infrastructure | Quality |
 |---|---|---|
-| Helmet | Safety — required by law under 18, recommended always | $40–$80 |
-| Front & rear lights | Required at night; highly recommended even in dusk | $20–$40 |
-| U-lock | Essential for locking at 1800 Broadway / Boulder downtown | $40–$80 |
-| Fenders | Keep water/splash off in wet weather | $20–$40 |
-| Bell | Required by Boulder ordinance; courteous for shared paths | $5–$10 |
-| Reflective vest/jacket | Visibility — especially on 19th St arterial | $15–$30 |
+| Oak Avenue | Sidewalk only (no bike lane) | Low ⚠️ |
+| 19th Street | Designated bike lane (right side) | Medium ✓ |
+| 20th St. / 20th Street | No bike lane | Low ⚠️ |
+| Pearl Street | Dismount zone (pedestrian mall) | Low (temporary) ⚠️ |
+| 18th Street | Crosswalk; shared space | Low ⚠️ |
+| Canyon Boulevard | **Separated bike lane** | High ✓✓ ✓ |
 
 ---
 
-## 🛣️ Alternative Bike Route (Boulder Creek Path)
+## B-Cycle Bike-Share Info
 
-If you want a more scenic, less-car route, consider the **Boulder Creek Path** as an alternative:
-- Runs along Boulder Creek from north Boulder
-- Fully multi-use, separated from automobile traffic
-- May add ~0.5 km but offers creek views and wildlife spot
-- Great for weekend leisure rides
+### What is B-Cycle?
+B-Cycle is Boulder community bike-share program.
+
+### Pricing
+| Pass Type | Cost | Per-Trip Cost |
+|---|---|---|
+| Day Pass | $12 | $12 (unlimited 30-min rides) |
+| Monthly Pass | $25 | ~$0.83/day |
+| Annual Pass | $99 | ~$0.08/day |
+
+### Stations Near This Route
+| Station | Location | Distance |
+|---|---|---|
+| B-Cycle Station #1 | Oak Avenue area (near start) | ~300 m from 45 Oak Ave |
+| B-Cycle Station #2 | Broadway near destination | ~200 m from 1800 Broadway |
+
+### How to Use
+1. Find a B-Cycle station near you (use the B-Cycle app)
+2. Unlock a bike using the app or membership card
+3. Ride your route
+4. Return the bike to any B-Cycle station
+5. A 30-min casual ride is free with a day pass
 
 ---
 
-## 🌤️ Weather-Specific Biking Tips
+## Colorado E-Bike Rebate: $1,200
 
-- **Sunny/Warm:** Bring water (altitude = dehydration risk at 5,430 ft); wear sunscreen
-- **Windy:** Canyon Blvd can be gusty; watch for crosswinds on 19th St
-- **Rain:** Brake earlier (wet roads); wear bright/reflective gear; puddles hide potholes
-- **Snow/Ice:** Studded tires recommended; avoid 19th St if icy; consider bus + bike combo
-- **Cold:** Layer up; Boulder's wind chill drops temperatures fast at this altitude
+### Why E-Bikes Are Perfect for This Route
+- This route is **flat** (~15 m elevation gain over 4 km) — no hills!
+- A Class 1 e-bike (pedal-assist up to 20 mph) makes the 12-minute ride even easier
+- You can arrive at work **sweat-free** while still getting light exercise
+- The $1,200 rebate effectively cuts the cost of a quality e-bike in half
+- E-bikes also qualify for a **federal tax credit** of up to $900 (via IRA)
+
+### E-Bike vs Regular Bike for This Route
+| Factor | Regular Bike | E-Bike (Class 1) |
+|---|---|---|
+| Speed | ~20 km/h (12 min) | ~25 km/h (10 min) |
+| Sweat factor | Moderate | Minimal |
+| Effort level | Moderate | Low |
+| Cost (after rebate) | $0–$500 (used) | ~$700–$1,000 (out of pocket) |
+
+### $1,200 Colorado E-Bike Rebate
+- **Annual rebate** for Class 1 or Class 2 e-bikes
+- **No income cap** — available to all Colorado residents
+- Apply at: [energystone.colorado.gov/e-bike](https://energystone.colorado.gov/e-bike)
+- A $1,200 rebate essentially cuts the cost of a quality e-bike in half
 
 ---
 
-*Route verified against OpenStreetMap data (July 2025). Always check for construction or temporary closures.*
+## Seasonal Biking Tips
+
+**Spring (Mar–May):** Temps 10–20°C — ideal biking weather. Keep a light jacket; you will warm up quickly. Rain is possible — fenders recommended.
+
+**Summer (Jun–Aug):** Temps 25–35°C — hot! Hydrate before and after the ride. Ride early morning (before 9 AM) or evening (after 5 PM). Wear sunscreen and a helmet with ventilation. Canyon Blvd path is shaded near the creek.
+
+**Fall (Sep–Nov):** Temps 5–20°C — perfect biking season. Aspen leaves turn golden — beautiful on Canyon Blvd. Bring layers; mornings are cool, afternoons warm.
+
+**Winter (Dec–Feb):** Temps -5–5°C — cold with possible snow/ice. Use studded tires for ice grip. Fenders are essential — melting snow creates slush. Wear reflective gear — short days mean riding in the dark. Canyon Blvd is the best winter route (separated path is cleared first). During ice storms, stay off bikes and use RTD bus instead.
+
+---
+
+## Safety Tips for Cyclists
+
+1. **Always wear a helmet** — Colorado law requires it for riders under 18; recommended for all ages.
+2. **Use hand signals** — signal turns before changing lanes or turning at intersections.
+3. **Be visible** — use front and rear lights, especially at dawn/dusk.
+4. **Stay in the bike lane** on 19th St — don't merge into traffic unless necessary.
+5. **Dismount at Pearl Street Mall** — this is both the law and the safe thing to do in a pedestrian zone.
+6. **Watch for right-turning vehicles** — drivers often don't see cyclists when turning right.
+7. **Yield to pedestrians** on the Canyon Blvd shared path — slower cyclists should keep right.
+
+---
+
+*Data sourced from OpenStreetMap (July 2025). Biking times based at 20 km/h average on flat terrain. Actual times vary with weather, fitness, and traffic conditions.*
