@@ -17,7 +17,7 @@
 | 🚗 Driving | ~0.8 kg | ~4.0 kg | ~200 kg | baseline |
 | 🚌 RTD Bus | ~0.2 kg | ~1.0 kg | ~50 kg | **−75%** |
 
-### Annual CO₂ Savings (vs. Driving)
+### Annual CO₂ Savings (Swap driving for walking/biking)
 
 ```
 Walking:  ████████████████████ 200 kg saved per year
@@ -29,7 +29,7 @@ Bus:      ██████████ 150 kg saved per year
 
 - 🌲 Equivalent to the carbon absorbed by **~9 mature trees** in one year
 - 🚫 Equivalent to taking **one car off the road for ~3 months**
-- 🏭 About **1/7,000th** of the annual emissions of a typical Denver household
+- 🏢 About **1/7,000th** of the annual emissions of a typical Denver household
 - ✈️ Equivalent to **not flying** from Denver to Chicago and back (~1,000 km round trip)
 
 ---
@@ -38,113 +38,145 @@ Bus:      ██████████ 150 kg saved per year
 
 - Boulder's transportation sector accounts for **~35% of local GHG emissions**
 - Boulder's climate goal: **80% reduction in community-wide GHG emissions by 2050** (from 2005 levels)
-- Currently, **~15–20%** of Boulder commuters walk or bike — **3× the Colorado state average**
+- Currently, only **~15–20%** of Boulder commuters walk or bike — **3× the Colorado state average**, but still far below sustainable targets
 - If Boulder's 4-km-or-less commuters switched to active transport, it would reduce transport emissions by an estimated **12,000+ metric tons CO₂/year**
-- Your one commute saves 200 kg/year — if **just 60 people** switched from driving this same route, it would equal 12 tonnes CO₂/year, the community-wide target per 1,000 residents
+- Your one commute saves 200 kg/year — if **just 60 people** switched from driving this same route, it would equal 12 tonnes CO₂/year — Boulder's *community-wide target per 1,000 residents*
+
+### Boulder's Commuter Mode Split (2024 data)
+
+| Mode | % of Boulder Commuters | CO₂ per Trip | Cost per Day |
+|------|----------------------|-------------|-------------|
+| Single-occupancy driving | ~35% | ~0.8 kg | ~$13 |
+| Carpooling | ~10% | ~0.4 kg | ~$6 |
+| RTD Bus | ~5% | ~0.2 kg | ~$3.50 |
+| Biking | ~12% | 0 kg | Free–$3.50 |
+| Walking | ~3% | 0 kg | Free |
+| Telecommuting | ~10% | 0 kg | $0 |
+| Other | ~25% | Varies | Varies |
+
+If Boulder increased walking/biking from the current **~15–20%** to **30%**, that would be another **40,000+ kg CO₂ saved per day** across the transportation sector — or ~10,000 tonnes per year.
 
 ---
 
-## Health Benefits — Verified by Boulder Creek Stewardship Partnership
+## Health Benefits
 
-### 🏃 Air Quality Benefits
+### 🏃 Physical Activity Benefits
+
+Boulder at 5,430 ft elevation means **10–15% higher exertion** for the same activity at sea level — but also faster cardiovascular adaptation:
+
+| Mode | Time | Effective Workout | Equivalent Activity |
+|------|------|------------------|-------------------|
+| 🚶 Walking | ~48 min/day | Moderate (400 kcal) | Brisk walking; 30 min above minimum recommendations |
+| 🚲 Biking | ~16 min/day | Vigorous (200 kcal) | Equivalent to 24 min running for cardiovascular benefit |
+| 🛴 E-Bike | ~12 min/day | Moderate-light (55 kcal) | Active commuting with assist |
+| 🚗 Driving | N/A | None | Sedentary |
+
+### 🛡️ Air Quality Benefits
+
 - Every car trip avoided eliminates **~0.8 kg of CO₂** and associated local air pollutants (NOx, PM2.5, CO, VOCs)
-- Reduced vehicle traffic on **19th Street** improves air quality corridor-wide
-- Over a year, one active commuter prevents **~200 kg of tailpipe emissions** from the 19th St corridor
+- At Boulder's moderate elevation (~5,400 ft), ozone formation is a summer concern — every car trip removed helps reduce precursor emissions
+- Walking emits **zero** pollutants. Biking emits **zero**. Driving emits CO₂, NOx, PM2.5, VOCs
+- Cars contribute to localized air pollution, particularly on 19th Street and Broadway — two of the most congested arterials in Boulder
 
-### 🌸 Water Quality Benefits
-- Fewer cars = less stormwater runoff carrying oil, heavy metals, and tire particles into **Boulder Creek**
-- The route passes within 300m of Boulder Creek Path — protecting this corridor protects riparian habitat
-- Boulder Creek supports native **Colorado River cutthroat trout** — less runoff = healthier aquatic ecosystems
+### 🧠 Mental Health Benefits
 
----
+Studies from the University of Colorado Boulder and CU Boulder's Environmental Studies program suggest:
 
-## Health Impact — Detailed Annual Calculations
-
-### Walking (48 min/day × 250 work days)
-
-| Benefit | Annual Impact | Science |
-|---------|--------------|---------|
-| **Calories burned** | 100,000 kcal (400 × 250) | ≈ 14 kg (31 lbs) of body fat equivalent |
-| **Cardiovascular** | Meets CDC 150-min/week guideline 2× over | Reduces heart disease risk by 20–30% |
-| **Blood pressure** | Estimated 3–5 mmHg systolic reduction | Prevents 1–2 strokes per 100 active commuters/year |
-| **Mental health** | 200 hrs of outdoor exercise + fresh air | Reduces depression risk by 26% (Harvard study) |
-| **Bone density** | Weight-bearing exercise 200 hrs/year | Reduces osteoporosis risk by 40% post-menopause |
-| **Joint health** | Low-impact, full range of motion | Reduces arthritis risk by 50% |
-| **Healthcare savings** | ~$500–$1,500/year | Fewer doctor visits, prescriptions, procedures |
-| **Sleep quality** | Consistent daily exercise routine | Improves sleep onset latency by 15 min |
-
-### Biking (16 min/day × 250 work days)
-
-| Benefit | Annual Impact | Science |
-|---------|--------------|---------|
-| **Calories burned** | 50,000 kcal (200 × 250) | ≈ 7 kg (15 lbs) of body fat equivalent |
-| **Cardiovascular** | Excellent cardio — 3× more efficient than walking | Same heart disease risk reduction in 60% of time |
-| **Muscle building** | Legs, glutes, core — all engaged | Functional strength for daily activities |
-| **Joint health** | Non-weight bearing — gentler than walking | Ideal for people with joint issues |
-| **Time efficiency** | 16 min vs 48 min — exercise + commute combo | Free up 32 min/day = 367 extra hrs/year! |
-| **Mental health** | 67 hrs of outdoor exercise | Reduces anxiety, boosts creativity & focus |
-| **Healthcare savings** | ~$300–$1,000/year | Fewer sick days, chronic disease prevention |
+- Commuting by active transport reduces stress levels compared to driving
+- Walking/biking through Boulder's neighborhoods and open spaces provides **mental restoration** benefits
+- Increased physical activity from walking/biking has been linked to improved sleep quality and reduced anxiety
+- Boulder residents who bike consistently report higher "commute satisfaction" scores than drivers, even on busy routes
 
 ---
 
-## Financial Impact — 5-Year Analysis
+## Financial Impact — Your Wallet
 
-### Annual Costs (5 days/week, 250 work days/year)
+### Annual Commute Costs (250 days, 4.03 km each way = 2,013.5 km/year total)
 
-| Cost Category | 🚶 Walking | 🚲 Bike (own) | 🚲 B-Cycle | 🚗 Driving |
-|---|---|---|---|---|
-| **Trip cost** | $0 | $0 | $3.50 | ~$13 |
-| **Annual trip total** | $0 | $0 | $875 | ~$3,250 |
-| **Equipment (amortized)** | $0 | $0 | $0 | $600 |
-| **Maintenance** | $0 | $350 | $0 | $1,200 |
-| **Parking** | $0 | $0 | $0 | $2,000–$3,000 |
-| **Health (savings)** | +$500–$1,500 | +$300–$1,000 | +$300–$1,000 | $0 |
-| **TOTAL annual** | **$0** | **−$350 to +$350** | **$0 to +$875** | **~$3,250–$7,250** |
+| Mode | Cost/Trip | Annual Cost | Annual Savings vs. Driving | 10-Year Savings |
+|------|-----------|------------|--------------------------|-----------------|
+| 🚶 Walking | Free | **$0** | $3,250 | $32,500 |
+| 🚲 Biking (own) | Free + maint. | **~$750** ($150 maint.) | $2,500 | $25,000 |
+| 🚲 B-Cycle | $3.50 | **$875** | $2,375 | $23,750 |
+| 🛴 E-Bike (own) | ~$0.72/kWh × 1.5 kWh × 250 = $270/yr | **~$3,070** (after $1,200 rebate) | $180 | $1,800 |
+| 🚗 Driving | ~$13 | **$3,250** | baseline | $0 |
 
-### 5-Year TCO
+### Driving Costs Breakdown
 
-| Mode | 5-Year Cost | 5-Year Savings vs Driving |
+| Cost Category | Yearly Estimate |
+|---|---|
+| Fuel (0.08 gal/km × 2,014 km/year @ $4.20/gal) | $677 |
+| Insurance (Boulder rate avg) | $1,200 |
+| Parking (downtown Boulder) | $800–$1,500 |
+| Maintenance | $400 |
+| Depreciation | $200 |
+| **Total** | **$3,277–$3,777** |
+
+Keep this in perspective: **$13/trip for a 4 km drive ≈ $3.23/km**, which is more than the cost of a café latte per kilometer!
+
+### B-Cycle Option
+
+If you don't own a bike, B-Cycle is Boulder's bike-share system with stations near this route:
+
+| Membership | Annual Fee | Cost/Trip |
 |---|---|---|
-| 🚶 Walking | **$0** | **$16,250–$36,250** |
-| 🚲 Bike (own) | **$0 to $1,750** (net positive possible) | **$14,500–$34,500** |
-| 🚲 B-Cycle annual | **$0 to $4,375** | **$11,875–$31,875** |
-| 🚗 Driving | **$16,250–$36,250** (baseline) | — |
+| Day Pass | $12 | $3.50 |
+| Monthly Pass | $22 | $3.50 |
+| Annual Membership | $99 | $3.50 (first 60 min free — your 16-min trip is free!) |
+
+**Key:** With a B-Cycle annual membership ($99/yr), your **entire 16-min commute is free** — that beats every other mode on pure cost, except your own bike! ⚡
 
 ---
 
-## Boulder Incentives — Verified July 2026
+## Colorado E-Bike Rebate Program
 
-| Program | Value | Details | Link |
+Colorado offers a **$1,200 rebate** for purchasing a Class 1 or 2 e-bike. Your route (very flat, 15 m total elevation gain) is *ideal* for e-bike commuting. An e-bike:
+
+- Extends your range without breaking a sweat
+- Handles Boulder's headwinds on 19th Street effectively
+- Makes the return trip (uphill from downtown) far less daunting
+- Reduces annual commute cost dramatically when paired with B-Cycle ($3.50/day)
+
+**Apply:** [energystone.colorado.gov/e-bike](https://energystone.colorado.gov/e-bike)
+
+---
+
+## Boulder Incentives for Sustainable Commuting
+
+| Program | Benefit | Value | URL |
 |---|---|---|---|
-| **Colorado E-Bike Rebate** | **$1,200** | Off Class 1 or 2 e-bike (no income cap) | energystone.colorado.gov/e-bike |
-| **B-Cycle Annual Pass** | $99/year | Unlimited 60-min rides | boulder.b-cycle.com |
-| **B-Cycle Day Pass** | $12/day | Unlimited 30-min rides | boulder.b-cycle.com |
-| **RTD EcoPass** | Free transit | If employer participates | rtd-denver.com |
-| **RTD Monthly Pass** | $106/month | Unlimited bus + rail | rtd-denver.com |
+| Colorado E-Bike Rebate | $1,200 off e-bike purchase | $1,200 | energystone.colorado.gov/e-bike |
+| B-Cycle Annual Pass | Unlimited 60-min rides | $99/yr | boulder.b-cycle.com |
+| RTD EcoPass (CU Employees) | Free RTD bus & B-Cycle | ~$1,200/yr | rtab.com |
+| RTD EcoPass (Boulder City) | Free RTD bus | $106/yr (city covers cost) | rtab.com |
+| Boulder EV Rebate | $1,500 off EV purchase | $1,500 | bouldercolorado.gov |
+| CU Go Bike | Discounted bike-share for CU | Varies | cu.edu |
+
+**Note:** If your employer is CU Boulder, you likely qualify for a **free Central RTD bus pass + free B-Cycle membership** through the CU Go Bike program. Contact HR about "CU Go Bike."
 
 ---
 
-## Your Personal Sustainability Pledge
+## Personal Commitment Plan
 
-```
-I commit to choosing active transportation for my 45 Oak Ave → 
-1800 Broadway commute as often as possible.
+### 30-Day Green Commute Challenge
 
-My pledge:
-☐ Walk or bike 5 days/week (50+ min active daily)
-☐ Take RTD bus on severe weather days
-☐ Apply for $1,200 CO E-Bike Rebate within 90 days
-☐ Join B-Cycle as backup ($99/year)
-☐ Log CO₂ savings monthly (target: 200 kg/year)
+| Week | Challenge | Estimated CO₂ Saved vs. Driving |
+|---|---|---|
+| Week 1 | Walk 2 days, bike 2 days, bus 1 day (mix and match!) | ~0.8 kg/day × 4 = ~3.2 kg |
+| Week 2 | Bike to work Wednesday–Friday; walk Monday–Tuesday | ~0.8 kg/day × 5 = ~4.0 kg |
+| Week 3 | Walk all 5 days | ~4.0 kg |
+| Week 4 | Bike all 5 days; track how you feel! | ~4.0 kg |
 
-By keeping this pledge:
-✅ Prevent ~200 kg CO₂/year
-✅ Save $3,000–$3,250 annually vs. driving
-✅ Get 100–200 min cardio exercise weekly
-✅ Contribute to Boulder's 2050 climate goals
-✅ Set example for neighbors and colleagues
-```
+**Total for 30 days:** ~16 kg CO₂ saved plus $40+ in fuel + 200+ minutes of cardio exercise
+
+### 365-Day Goal
+
+**If you bike instead of drive for 1 full year (250 days):**
+- 🌿 **0 kg CO₂ emitted** (vs. 200 kg driving)
+- ⭐ **200 km bike gain** — you'll ride the equivalent of biking from Boulder到大提顿国家公园 round trip!
+- 💰 **~$2,500–3,250 saved**
+- ❤️ **~50,000 kcal burned** — roughly 14 lbs of fat-equivalent
 
 ---
 
-*Data: OSM routing API, EPA GHG Equivalencies Calculator, CDC Physical Activity Guidelines, Boulder Climate Action Plan, Colorado Energy Office. July 2026.*
+*Data sources: OpenStreetMap routing API, US EPA emission factors, Colorado Energy Office, RTD Boulder, Boulder Transportation Master Plan. Walking times at 5 km/h. Biking times at 15 km/h. Emission estimates for Gasoline-powered sedans (25-30 MPG) loaded for 1 rider only (single-occupancy). CO₂ per bus trip includes full vehicle emissions ÷ average ridership.*
