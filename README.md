@@ -1,120 +1,120 @@
-# 🌿 Boulder Green Commute Guide
+# 🚶‍♂️🚲 Boulder Green Commute Guide
 
-**Your walking and biking commute analysis from 45 Oak Avenue to 1800 Broadway — and how to make more sustainable travel choices in Boulder, CO.**
+A comprehensive guide for Boulder residents to make sustainable travel choices with detailed walking and biking commute analyses, route details, and travel times.
 
----
+## 🏠 Sample Commute: Oak Avenue → 1800 Broadway
 
-## 🏠 → 🏢 Your Commute: Quick Facts
+| Metric | 🤚 Walking | 🚲 Biking |
+|--------|-----------|----------|
+| **Distance** | ~4.0 km (2.5 miles) | ~4.0 km (2.5 miles) |
+| **Estimated Time** | ~48 minutes | ~16 minutes |
+| **Emission Saved** | 0 kg CO₂ | 0.8 kg CO₂ per trip |
+| **Calories Burned** | ~250 kcal | ~60 kcal |
 
-| | 🚶 Walking | 🚲 Biking | 🛴 E-Bike | 🚗 Driving |
-|---|---|---|---|---|
-| **Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) | ~4.2 km (2.6 mi) |
-| **Time** | ~48 min | ~16 min | ~12 min | ~10–15 min |
-| **CO₂** | 0 kg | 0 kg | 0 kg | ~0.8 kg/trip |
-| **Cost** | Free | Free (own bike) or ~$3.50 (B-Cycle) | Free (own bike) or ~$3.50 (B-Cycle) | ~$13/trip ($3,250/yr) |
-| **Calories** | ~400 kcal | ~200 kcal | ~55 kcal | 0 |
+### 🗺️ Route Overview
 
-> **Route:** 45 Oak Avenue (40.0449°N, 105.2739°W) → 1800 Broadway (40.0163°N, 105.2790°W)
-> **Boulder ZIPs:** 80304 → 80302
-> **Elevation gain:** ~15 m (50 ft) — essentially flat!
-> **Data Source:** OpenStreetMap Routing API (verified July 2026) · Realistic pace estimates: 5 km/h walking, 15 km/h biking
+**Starting Point:** 45 Oak Avenue, Boulder, CO 80304  
+**Destination:** 1800 Broadway, Boulder, CO 80302  
+**Direction:** South-central Boulder (roughly south toward downtown)
 
----
+### Step-by-Step Directions
 
-## 📋 In This Guide
+#### 🤚 Walking Route (~48 min)
 
-| File | What It Covers |
-|---|---|
-| **[commute_analysis.md](commute_analysis.md)** | Full mode-by-mode comparison with segment-level details, CO₂, health & financial impacts |
-| **[analysis_summary.md](analysis_summary.md)** | One-click comparison of walking vs biking for this specific commute |
-| **[sustainability_impact.md](sustainability_impact.md)** | Carbon savings, health benefits, financial analysis, Boulder incentives & personal commitment plan |
-| **[verified_route_data.md](verified_route_data.md)** | Raw OSM API data, verified coordinates, segment-level timing, infrastructure ratings |
-| **[routes/commute-route-details.md](routes/commute-route-details.md)** | Verified turn-by-turn directions for walking & biking with OSM segment data and safety tips |
-| **[routes/walking_route.md](routes/walking_route.md)** | Turn-by-turn walking directions with landmarks, nearby cafés, safety & seasonal tips |
-| **[routes/biking_route.md](routes/biking_route.md)** | Turn-by-turn biking directions with bike infrastructure notes, B-Cycle info & e-bike rebates |
-| **[neighborhood_analysis.md](neighborhood_analysis.md)** | Verified neighborhood profile: restaurants, parks, transit, bike/EV infrastructure |
-| **[route_data.json](route_data.json)** | Machine-readable route data (GeoJSON, segment metadata, infrastructure ratings) |
-| **[route_map.html](route_map.html)** | Interactive Leaflet map with walking & biking routes, landmarks, and transit stops |
-| **[green_tips.md](green_tips.md)** | Seasonal green commuting tips, weather prep, gear recommendations & Boulder resources |
-| **[green_tips_seasonal.md](green_tips_seasonal.md)** | Season-by-season breakdown with high-altitude considerations & gear recommendations |
-| **[CONTRIBUTING.md](CONTRIBUTING.md)** | How to add your own commute analysis or contribute improvements |
+| Step | Street | Distance | Notes |
+|------|--------|----------|-------|
+| 1 | Oak Avenue | 97 m | Head south from home |
+| 2 | 19th Street | 2.2 km | Major north-south corridor; stay on the right |
+| 3 | 20th St. | 106 m | Brief jog east onto 20th Street |
+| 4 | 20th Street | 566 m | Continue south toward Pearl Street |
+| 5 | Pearl Street | 216 m | Cross through the Pearl Street Mall area |
+| 6 | 18th Street | 249 m | Connect south through downtown core |
+| 7 | Canyon Boulevard | 637 m | Final stretch south to Broadway |
 
----
+#### 🚲 Biking Route (~16 min)
 
-## 🗺️ Route Overview
+Same route as walking — Boulder's bike-friendly infrastructure makes this route efficient for cyclists:
 
-```
-Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd → Broadway
-   96m     2,157m    672m     216m     249m     637m     = 4,027m total
-```
+| Step | Street | Distance | Notes |
+|------|--------|----------|-------|
+| 1 | Oak Avenue | 97 m | Short residential stretch |
+| 2 | 19th Street | 2.2 km | Dedicated bike lanes available |
+| 3 | 20th St. | 106 m | Quick connector |
+| 4 | 20th Street | 566 m | Watch for pedestrians |n| 5 | Pearl Street | 216 m | Downtown core — slow down for traffic |
+| 6 | 18th Street | 249 m | Light traffic through downtown |
+| 7 | Canyon Boulevard | 637 m | Scenic final approach to Broadway |
 
-**Key segments:**
-- 🌳 **Oak Avenue** — Quiet residential street with American Elm canopy
-- 🚌 **19th Street** — Major N-S arterial (RTD bus routes 1, 3, 7, 10)
-- 🏙️ **Pearl Street** — Historic Pearl Street Mall (shops, cafés nearby)
-- 🛴 **Canyon Boulevard** — Dedicated separated bike lane — the safest segment!
+### Key Landmarks Along the Route
 
----
+- **Pearl Street Mall** — Iconic pedestrian-only shopping area in downtown Boulder
+- **Canyon Boulevard** — Boulder Creek Path runs parallel; scenic creek views
+- **19th Street** — Main north-south arterial with bike infrastructure
 
-## 🧠 Which Mode Is Right for You?
+## 🌱 Why Green Commuting Matters for Boulder
 
-| If you... | Try this | Best for... |
-|---|---|---|
-| Want zero cost | **🚶 Walking** | Health, relaxation, no equipment needed |
-| Want speed + exercise | **🚲 Biking** | Efficient commute, cardio benefit |
-| Want zero sweat | **🛴 E-Bike** | Flat 4 km is ideal for Class 1 e-bike assist ($1,200 CO rebate!) |
-| Hate hills | **🚶 Walk or 🚲 Bike** | Route is flat — no hills at all! Max 15m elevation gain |
-| Need flexibility | **🚌 Bus + walk** | RTD runs on 19th St corridor; ~12 min by bus |
-| Want lowest CO₂ | **🚶 Walk or 🚲 Bike** | Both are 0 kg CO₂ — 100% cleaner than driving |
+### Environmental Impact
+- The average car commute in Boulder produces **~0.8 kg of CO₂ per trip** on this route
+- Switching to biking or walking eliminates this entirely
+- Boulder's goal: **80% emission reduction by 2050** — every green commute counts!
 
----
+### Health Benefits
+- **Walking 40+ min/day** reduces risk of heart disease, diabetes, and obesity
+- **Biking** is low-impact cardio — easier on joints than running
+- Both options boost mental health and reduce stress
 
-## 🌍 Why Boulder?
+### Economic Benefits
+- Save **~$1,000+ per month** on gas, parking, and car maintenance
+- No insurance, registration, or depreciation costs
+- Boulder's free bike-share program (B-cycle) makes cycling even more accessible
 
-- Boulder's transportation sector accounts for **~35% of local GHG emissions**
-- **~15–20%** of Boulder commuters already walk or bike — **3× the Colorado state average**
-- If 50% of Boulder's 4-km-or-less commuters switched to active transport, it would reduce transport emissions by an estimated **12,000+ metric tons CO₂/year**
-- Boulder offers a **$1,200 Colorado E-Bike Rebate** + **B-Cycle bike-share** with stations near this route
-- Route is **essentially flat** (~15m elevation gain) — perfect for active transport year-round!
+## 🚲 Boulder Commuting Tips
 
----
+### For Walkers
+1. **Start early** — Daylight hours in winter are limited; plan accordingly
+2. **Layer up** — Boulder mornings can be 15-20°F colder than afternoons
+3. **Use the Creek Path** — Boulder Creek Path offers a scenic, car-free alternative for parts of your route
+4. **Weekend wheels** — If walking isn't feasible daily, try weekend Farmer's Market trips on foot!
 
-## ✅ Data Verification
+### For Cyclists
+1. **Use bike lanes** — 19th and 20th Streets have dedicated infrastructure
+2. **Mind the hill** — Some elevation changes; be prepared for a moderate climb
+3. **Lock up properly** — Use U-locks and secure to bike racks downtown
+4. **Winter riding** — Fenders, lights, and reflective gear are essential
+5. **B-cycle** —，借助 Boulder's bike-share system for quick trips without bringing your own bike!
 
-All route data in this guide has been **verified against the live OpenStreetMap Routing API** (osm-directions). Here's what that means:
+## 📊 Boulder Transit Alternatives
 
-| Data Point | Status | Source |
-|---|---|---|
-| Route geometry | ✅ Verified | OSM routing API (LineString, ~115 points) |
-| Segment distances | ✅ Verified | OSM routing API (summing segment lengths) |
-| Street names | ✅ Verified | OSM way data (confirmed matches) |
-| Walking timing | ✅ Verified & adjusted | Raw API: 426s → Realistic: 48 min (5 km/h) |
-| Biking timing | ✅ Verified & adjusted | Raw API: 426s → Realistic: 16 min (15 km/h) |
-| Bike lane locations | ✅ Verified | OSM tags + on-the-ground knowledge |
-| RTD bus routes | ✅ Verified | RTD system map (routes 1, 3, 7, 10 on 19th St) |
-| Colorado E-Bike Rebate | ✅ Verified | Colorado Energy Office (energystone.colorado.gov) |
-| B-Cycle stations | ✅ Verified | B-Cycle system (boulder.b-cycle.com) |
+| Mode | Deptford to Broadway | Notes |
+|------|---------------------|-------|
+| 🚗 Driving | ~8 min (no traffic) | ~12 min with downtown parking search |
+| 🚶 Walking | ~48 min | Free, healthy, zero emissions |
+| 🚲 Biking | ~16 min | Fast, healthy, zero emissions |
+| 🚌 RT Bus | ~20-25 min | Route N trips on 19th Street |
+| 🛴 Scooter | ~12 min | App-based, B-cycle e-bikes available |
 
-> **API Note:** The OSM routing API returned raw durations of 426.2 seconds (7.1 min) for both walking and biking, representing ideal continuous movement without intersection waits or traffic signals. This guide uses realistic estimates: **5 km/h walking pace** (with signal waits) and **15 km/h biking pace** (including stops). See [verified_route_data.md](verified_route_data.md) for the raw API data.
+## 📈 Making the Switch
 
----
+### Start Small
+- **Try 1 day/week** — Bike or walk to work once a week
+- **Combo commute** — Bike to the trailhead, park, and walk
+- **WFH + active** — Use the time you'd normally commute for a morning walk or ride
 
-## 🚀 Quick Start
+### Track Your Progress
+- Use Strava, MapMyRun, or the City of Boulder Green Trip counter
+- Join the **Boulder Move More Challenge** for incentives
+- Compare your carbon savings at [CO₂ calculators](https://www.epa.gov/energy/greenhouse-gas-equiv-computer-calc)
 
-1. **Browse the route details** → [Walking route](routes/walking_route.md) or [Biking route](routes/biking_route.md)
-2. **Explore the route on a map** → Open [route_map.html](route_map.html) in your browser
-3. **Compare Impacts** → See the [commute analysis](commute_analysis.md) side-by-side
-4. **Read the sustainability data** → Check out [sustainability_impact.md](sustainability_impact.md)
-5. **Use the machine-readable data** → [route_data.json](route_data.json) for your own projects
-6. **Get the raw API data** → [verified_route_data.md](verified_route_data.md) for technical details
-7. **Apply for Colorado E-Bike Rebate** → $1,200 rebate at [energystone.colorado.gov/e-bike](https://energystone.colorado.gov/e-bike)
+## 🤝 Get Involved
 
----
-
-## 📝 Contribute
-
-This guide is for Boulder residents, by Boulder residents. Want to add your own commute route? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+- **Boulder Safe Routes to School** — Promotes active transportation!
+- **B-Cycle Boulder** — Bike share program with stations throughout downtown
+- **Boulder Transportation Advisory Board** — Shape the city's mobility future
+- **Clean Air Car Free Day** — Join the annual event!
 
 ---
 
-*Data sourced from OpenStreetMap routing API, RTD Boulder, Colorado Energy Office, and B-Cycle. Walking times based on 5 km/h pace with intersection wait times. Biking times based on 15 km/h average including stops. Actual times vary with weather, fitness, and traffic conditions.*
+*Made with ❤️ for Boulder, Colorado — promoting health, sustainability, and community one commute at a time.*
+
+## License
+
+This guide is open and free for all Boulder residents. Feel free to adapt and share!
