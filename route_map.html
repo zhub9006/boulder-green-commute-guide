@@ -1,271 +1,136 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Boulder Green Commute Guide — Route Map</title>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: 'Segoe UI', system-ui, sans-serif; background: #f5f5f5; }
-  header { background: linear-gradient(135deg, #2d5016 0%, #4a7c23 100%); color: white; padding: 20px 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); }
-  header h1 { font-size: 1.6em; margin-bottom: 4px; }
-  header p { font-size: 0.95em; opacity: 0.9; }
-  .container { display: flex; gap: 0; height: calc(100vh - 90px); }
-  #map { flex: 1; min-height: 100%; }
-  .leaflet-container { background: #e8e8e8; }
-  .legend { background: white; padding: 10px 14px; border-radius: 8px; box-shadow: 0 1px 5px rgba(0,0,0,0.15); font-size: 0.85em; line-height: 1.6; }
-  .legend h4 { margin: 0 0 6px 0; font-size: 0.9em; color: #333; }
-  .legend i { width: 18px; height: 6px; display: inline-block; border-radius: 2px; margin-right: 6px; vertical-align: middle; }
-  .info-panel { width: 320px; background: white; overflow-y: auto; padding: 20px; box-shadow: -2px 0 8px rgba(0,0,0,0.1); }
-  .info-panel h2 { font-size: 1.2em; color: #2d5016; margin-bottom: 12px; }
-  .info-panel h3 { font-size: 1em; color: #4a7c23; margin: 16px 0 8px 0; }
-  .stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
-  .stat-card { background: #f0f7ed; padding: 10px; border-radius: 8px; text-align: center; }
-  .stat-card .value { font-size: 1.3em; font-weight: bold; color: #2d5016; }
-  .stat-card .label { font-size: 0.75em; color: #666; }
-  .stat-card.walk .value { color: #e67e22; }
-  .stat-card.bike .value { color: #27ae60; }
-  .segment-list { list-style: none; padding: 0; }
-  .segment-list li { padding: 6px 0; border-bottom: 1px solid #eee; font-size: 0.85em; }
-  .segment-list li:last-child { border-bottom: none; }
-  .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75em; font-weight: bold; margin-left: 4px; }
-  .badge.safe { background: #d4edda; color: #155724; }
-  .badge.moderate { background: #fff3cd; color: #856404; }
-  .badge.caution { background: #f8d7da; color: #721c24; }
-  .tip { background: #e8f5e9; border-left: 4px solid #4a7c23; padding: 10px; margin: 10px 0; border-radius: 0 6px 6px 0; font-size: 0.85em; }
-  .incentive { background: #fef3e2; border-left: 4px solid #f39c12; padding: 10px; margin: 10px 0; border-radius: 0 6px 6px 0; font-size: 0.85em; }
-  @media (max-width: 768px) { .container { flex-direction: column; } .info-panel { width: 100%; height: 50%; } }
-</style>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boulder Green Commute Guide — Route Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+        #map { height: 100vh; width: 100%; }
+        .legend {
+            background: white; padding: 10px 14px; border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15); line-height: 1.6;
+            font-size: 14px;
+        }
+        .legend h4 { margin: 0 0 6px 0; font-size: 13px; color: #333; }
+        .legend i {
+            width: 18px; height: 4px; display: inline-block; margin-right: 6px; vertical-align: middle;
+        }
+        .legend .walk-line { background: #4CAF50; }
+        .legend .bike-line { background: #2196F3; }
+        .info-box {
+            background: white; padding: 12px 16px; border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15); max-width: 280px;
+            font-size: 13px; line-height: 1.5;
+        }
+        .info-box h3 { font-size: 14px; margin-bottom: 6px; color: #2c3e50; }
+        .info-box p { margin: 3px 0; color: #555; }
+        .stat { font-weight: 600; color: #2c3e50; }
+    </style>
 </head>
 <body>
-<header>
-  <h1>🌿 Boulder Green Commute Guide</h1>
-  <p>45 Oak Avenue → 1800 Broadway | 4.03 km | Walking ~48 min | Biking ~16 min</p>
-</header>
-<div class="container">
-  <div id="map"></div>
-  <div class="info-panel">
-    <h2>📊 Route Overview</h2>
-    <div class="stat-grid">
-      <div class="stat-card walk"><div class="value">48 min</div><div class="label">Walking</div></div>
-      <div class="stat-card bike"><div class="value">16 min</div><div class="label">Biking</div></div>
-      <div class="stat-card"><div class="value">4.03 km</div><div class="label">Distance</div></div>
-      <div class="stat-card"><div class="value">~15 m</div><div class="label">Elevation Gain</div></div>
-    </div>
+    <div id="map"></div>
+    <script>
+        var map = L.map('map').setView([40.0306, -105.2764], 14);
 
-    <h3>🚶 Walking Route</h3>
-    <p style="font-size:0.85em; color:#666;">6 segments via Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd</p>
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            maxZoom: 19
+        }).addTo(map);
 
-    <h3>🚴 Biking Route</h3>
-    <p style="font-size:0.85em; color:#666;">Same route with bike lane priority; separated path on Canyon Blvd</p>
+        var routeCoords = [
+            [40.0449, -105.2739], [40.0449, -105.2731], [40.0425, -105.2727],
+            [40.0401, -105.2727], [40.0377, -105.2727], [40.0364, -105.2727],
+            [40.0347, -105.2727], [40.0332, -105.2727], [40.0316, -105.2727],
+            [40.0303, -105.2726], [40.0280, -105.2726], [40.0268, -105.2726],
+            [40.0262, -105.2726], [40.0256, -105.2726], [40.0249, -105.2720],
+            [40.0241, -105.2709], [40.0235, -105.2707], [40.0226, -105.2705],
+            [40.0220, -105.2704], [40.0215, -105.2702], [40.0209, -105.2698],
+            [40.0201, -105.2697], [40.0196, -105.2700], [40.0190, -105.2718],
+            [40.0184, -105.2720], [40.0178, -105.2716], [40.0173, -105.2720],
+            [40.0170, -105.2753], [40.0167, -105.2763], [40.0165, -105.2771],
+            [40.0162, -105.2786], [40.0163, -105.2790]
+        ];
 
-    <h3>📋 Key Segments</h3>
-    <ul class="segment-list">
-      <li><strong>Oak Avenue</strong> <span class="badge safe">Safe 5/5</span> — Residential, Elm canopy</li>
-      <li><strong>19th Street</strong> <span class="badge moderate">Arterial</span> — 2.2 km, RTD bus routes</li>
-      <li><strong>Pearl Street</strong> <span class="badge moderate">Mall Zone</span> — Dismount for bikes</li>
-      <li><strong>Canyon Boulevard</strong> <span class="badge safe">Best 5/5</span> — Separated bike/ped path</li>
-    </ul>
+        L.polyline(routeCoords, { color: '#4CAF50', weight: 8, opacity: 0.7, dashArray: '10, 5' }).addTo(map);
+        L.polyline(routeCoords, { color: '#2196F3', weight: 5, opacity: 0.8 }).addTo(map);
 
-    <div class="tip">
-      <strong>💡 Pro Tip:</strong> Canyon Boulevard has Boulder's premier separated bike lane — it's the safest and most pleasant segment. Enjoy the Flatirons views!
-    </div>
-    <div class="incentive">
-      <strong>💰 Colorado E-Bike Rebate:</strong> Save $1,200 on an e-bike at energystone.colorado.gov/e-bike — perfect for this flat 4 km route!
-    </div>
-    <div class="tip">
-      <strong>☀️ Altitude Note:</strong> At 5,430 ft, UV is 25% stronger. Wear SPF 30+ and hydrate 0.5L per 30 min of riding.
-    </div>
-  </div>
-</div>
+        var startIcon = L.divIcon({
+            className: 'start-marker',
+            html: '<div style="background:#4CAF50;color:white;border-radius:50%;width:30px;height:30px;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;border:3px solid white;box-shadow:0 2px 6px rgba(0,0,0,0.4);">🏠</div>',
+            iconSize: [30, 30], iconAnchor: [15, 15]
+        });
+        L.marker([40.0449, -105.2739], {icon: startIcon})
+            .addTo(map)
+            .bindPopup('<b>🏠 Home</b><br>45 Oak Avenue<br>Boulder, CO 80304');
 
-<script>
-// Actual OSM routing coordinates from the verified route analysis
-const routeCoords = [
-  [-105.273888, 40.044880],
-  [-105.273818, 40.044881],
-  [-105.273625, 40.044884],
-  [-105.273278, 40.044882],
-  [-105.273146, 40.044881],
-  [-105.272756, 40.044879],
-  [-105.272752, 40.043682],
-  [-105.272752, 40.043606],
-  [-105.272755, 40.043404],
-  [-105.272749, 40.042534],
-  [-105.272753, 40.041580],
-  [-105.272750, 40.041221],
-  [-105.272741, 40.040099],
-  [-105.272742, 40.039879],
-  [-105.272735, 40.039061],
-  [-105.272709, 40.037878],
-  [-105.272707, 40.037209],
-  [-105.272702, 40.036816],
-  [-105.272699, 40.036410],
-  [-105.272695, 40.036288],
-  [-105.272689, 40.036059],
-  [-105.272691, 40.034653],
-  [-105.272691, 40.034062],
-  [-105.272687, 40.033903],
-  [-105.272681, 40.033155],
-  [-105.272674, 40.032850],
-  [-105.272672, 40.032725],
-  [-105.272667, 40.032441],
-  [-105.272658, 40.031934],
-  [-105.272660, 40.031609],
-  [-105.272660, 40.031325],
-  [-105.272660, 40.031178],
-  [-105.272660, 40.030741],
-  [-105.272660, 40.030067],
-  [-105.272654, 40.029186],
-  [-105.272644, 40.027999],
-  [-105.272630, 40.026845],
-  [-105.272629, 40.026755],
-  [-105.272627, 40.026685],
-  [-105.272617, 40.026250],
-  [-105.272618, 40.026064],
-  [-105.272620, 40.025755],
-  [-105.272580, 40.025656],
-  [-105.272523, 40.025592],
-  [-105.272408, 40.025517],
-  [-105.272316, 40.025463],
-  [-105.272124, 40.025349],
-  [-105.271648, 40.025068],
-  [-105.271512, 40.024961],
-  [-105.271456, 40.024907],
-  [-105.271329, 40.024756],
-  [-105.271228, 40.024573],
-  [-105.271201, 40.024494],
-  [-105.271039, 40.024026],
-  [-105.270871, 40.023542],
-  [-105.270697, 40.023036],
-  [-105.270528, 40.022550],
-  [-105.270386, 40.022139],
-  [-105.270351, 40.022034],
-  [-105.270319, 40.021939],
-  [-105.270185, 40.021536],
-  [-105.270178, 40.021516],
-  [-105.270050, 40.021130],
-  [-105.270017, 40.021030],
-  [-105.269984, 40.020937],
-  [-105.269839, 40.020534],
-  [-105.269693, 40.020105],
-  [-105.269671, 40.020042],
-  [-105.269662, 40.020014],
-  [-105.269790, 40.019988],
-  [-105.270014, 40.019942],
-  [-105.270366, 40.019871],
-  [-105.270685, 40.019805],
-  [-105.270794, 40.019782],
-  [-105.270929, 40.019754],
-  [-105.271122, 40.019713],
-  [-105.271751, 40.019579],
-  [-105.272002, 40.019524],
-  [-105.272105, 40.019502],
-  [-105.272079, 40.019425],
-  [-105.272043, 40.019320],
-  [-105.271928, 40.019010],
-  [-105.271780, 40.018607],
-  [-105.271740, 40.018500],
-  [-105.271703, 40.018420],
-  [-105.271673, 40.018356],
-  [-105.271622, 40.018183],
-  [-105.271622, 40.017798],
-  [-105.271628, 40.017313],
-  [-105.272031, 40.017316],
-  [-105.272279, 40.017314],
-  [-105.272417, 40.017308],
-  [-105.272539, 40.017301],
-  [-105.272597, 40.017297],
-  [-105.272631, 40.017295],
-  [-105.272649, 40.017293],
-  [-105.272770, 40.017275],
-  [-105.272887, 40.017250],
-  [-105.272905, 40.017246],
-  [-105.273436, 40.017136],
-  [-105.273533, 40.017116],
-  [-105.274070, 40.017011],
-  [-105.274189, 40.016985],
-  [-105.274915, 40.016828],
-  [-105.275229, 40.016762],
-  [-105.275269, 40.016754],
-  [-105.275382, 40.016730],
-  [-105.275525, 40.016700],
-  [-105.275932, 40.016616],
-  [-105.276100, 40.016581],
-  [-105.276269, 40.016546],
-  [-105.276330, 40.016533],
-  [-105.276529, 40.016492],
-  [-105.276550, 40.016486],
-  [-105.276565, 40.016483],
-  [-105.276585, 40.016479],
-  [-105.276699, 40.016456],
-  [-105.276809, 40.016439],
-  [-105.276824, 40.016437],
-  [-105.276844, 40.016433],
-  [-105.277838, 40.016221],
-  [-105.277876, 40.016213],
-  [-105.277995, 40.016188],
-  [-105.278046, 40.016179],
-  [-105.278126, 40.016165],
-  [-105.278556, 40.016078],
-  [-105.278866, 40.016016]
-];
+        var endIcon = L.divIcon({
+            className: 'end-marker',
+            html: '<div style="background:#2196F3;color:white;border-radius:50%;width:30px;height:30px;display:flex;align-items:center;justify-content:center;font-weight:bold;font-size:16px;border:3px solid white;box-shadow:0 2px 6px rgba(0,0,0,0.4);">💼</div>',
+            iconSize: [30, 30], iconAnchor: [15, 15]
+        });
+        L.marker([40.0163, -105.2790], {icon: endIcon})
+            .addTo(map)
+            .bindPopup('<b>💼 Work</b><br>1800 Broadway<br>Boulder, CO 80302');
 
-const map = L.map('map').setView([40.030, -105.272], 15);
+        var waypoints = [
+            {lat: 40.0449, lon: -105.2731, name: 'Oak Ave → 19th St', type: 'turn'},
+            {lat: 40.0383, lon: -105.2727, name: '19th Street (long stretch)', type: 'waypoint'},
+            {lat: 40.0332, lon: -105.2727, name: '20th St / Pearl St area', type: 'turn'},
+            {lat: 40.0280, lon: -105.2705, name: 'Pearl Street area', type: 'landmark'},
+            {lat: 40.0249, lon: -105.2720, name: '18th Street junction', type: 'turn'},
+            {lat: 40.0178, lon: -105.2716, name: 'Canyon Boulevard (safe!)', type: 'safe'},
+            {lat: 40.0163, lon: -105.2790, name: '1800 Broadway (Destination)', type: 'end'}
+        ];
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© OpenStreetMap contributors',
-  maxZoom: 19
-}).addTo(map);
+        waypoints.forEach(function(wp) {
+            var colors = {turn: '#FF9800', waypoint: '#9C27B0', landmark: '#E91E63', safe: '#4CAF50', end: '#2196F3'};
+            var icons = {turn: '↩️', waypoint: '📍', landmark: '☕', safe: '🚴', end: '🎉'};
+            var icon = L.divIcon({
+                className: 'waypoint-icon',
+                html: '<div style="background:'+colors[wp.type]+';color:white;border-radius:50%;width:24px;height:24px;display:flex;align-items:center;justify-content:center;font-size:12px;border:2px solid white;box-shadow:0 2px 4px rgba(0,0,0,0.3);">'+icons[wp.type]+'</div>',
+                iconSize: [24, 24], iconAnchor: [12, 12]
+            });
+            L.marker([wp.lat, wp.lon], {icon: icon})
+                .addTo(map)
+                .bindPopup('<b>'+wp.name+'</b><br>'+wp.type.charAt(0).toUpperCase()+wp.type.slice(1)+' point');
+        });
 
-const startIcon = L.divIcon({
-  html: '<div style="background:#e67e22;color:white;border-radius:50%;width:30px;height:30px;display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:bold;">📍</div>',
-  className: '', iconSize: [30, 30], iconAnchor: [15, 15]
-});
+        map.fitBounds(routeCoords);
 
-const endIcon = L.divIcon({
-  html: '<div style="background:#27ae60;color:white;border-radius:50%;width:30px;height:30px;display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:bold;">🏢</div>',
-  className: '', iconSize: [30, 30], iconAnchor: [15, 15]
-});
+        var legend = L.control({position: 'topright'});
+        legend.onAdd = function(map) {
+            var div = L.DomUtil.create('div', 'legend');
+            div.innerHTML = '<h4>Route Legend</h4>' +
+                '<div><i class="walk-line" style="background:#4CAF50;"></i> Walking route (48 min / 4.03 km)</div>' +
+                '<div><i class="walk-line" style="background:#2196F3;"></i> Biking route (16 min / 4.03 km)</div>' +
+                '<hr style="margin:4px 0;">' +
+                '<div>🏠 Home | 💼 Work | ↩️ Turn</div>' +
+                '<div>📍 Waypoint | ☕ Landmark</div>' +
+                '<div>🚴 Safe segment | 🎉 Arrival</div>' +
+                '<hr style="margin:4px 0;">' +
+                '<small>Source: OpenStreetMap routing API</small>';
+            return div;
+        };
+        legend.addTo(map);
 
-L.marker([40.0448805, -105.2738879], {icon: startIcon}).addTo(map).bindPopup('<b>Start: 45 Oak Avenue</b><br>40304');
-L.marker([40.0163281, -105.2789726], {icon: endIcon}).addTo(map).bindPopup('<b>End: 1800 Broadway</b><br>40302');
-
-L.polyline(routeCoords, { color: '#e67e22', weight: 5, opacity: 0.8, dashArray: '12, 6' }).addTo(map).bindPopup('Walking Route — ~48 min');
-L.polyline(routeCoords, { color: '#27ae60', weight: 4, opacity: 0.7 }).addTo(map).bindPopup('Biking Route — ~16 min');
-
-const segments = [
-  {lat: 40.0448806, lng: -105.2738880, name: 'Oak Avenue', type: 'Residential', safety: 5},
-  {lat: 40.0350, lng: -105.2727500, name: '19th Street', type: 'Arterial', safety: 3},
-  {lat: 40.0300, lng: -105.2726200, name: '20th St.', type: 'Residential', safety: 4},
-  {lat: 40.0255, lng: -105.2700000, name: 'Pearl Street', type: 'Commercial', safety: 4},
-  {lat: 40.0240, lng: -105.2735000, name: '18th Street', type: 'Urban', safety: 4},
-  {lat: 40.0190, lng: -105.2740000, name: 'Canyon Blvd', type: 'Boulevard', safety: 5}
-];
-
-segments.forEach(s => {
-  const color = s.safety >= 4 ? '#27ae60' : s.safety === 3 ? '#f39c12' : '#e74c3c';
-  const icon = L.divIcon({
-    html: `<div style="background:${color};color:white;border-radius:50%;width:24px;height:24px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:bold;border:2px solid white;box-shadow:0 2px 4px rgba(0,0,0,0.3);">${s.safety}</div>`,
-    className: '', iconSize: [24, 24], iconAnchor: [12, 12]
-  });
-  L.marker([s.lat, s.lng], {icon}).addTo(map).bindPopup(`<b>${s.name}</b><br>Safety: ${s.safety}/5<br>Type: ${s.type}`);
-});
-
-const legend = L.control({position: 'bottomright'});
-legend.onAdd = function(map) {
-  const div = L.DomUtil.create('div', 'legend');
-  div.innerHTML = '<h4>Route Legend</h4>' +
-    '<div style="margin-bottom:4px;"><i style="background:#e67e22;"></i> Walking (48 min)</div>' +
-    '<div style="margin-bottom:4px;"><i style="background:#27ae60;"></i> Biking (16 min)</div>' +
-    '<div style="margin-bottom:4px;">⭐ Start/End points</div>' +
-    '<div style="margin-bottom:4px;">Numbers = Safety rating (1-5)</div>' +
-    '<div style="margin-top:6px;font-size:0.75em;color:#666;">OSM routing data (verified)</div>';
-  return div;
-};
-legend.addTo(map);
-</script>
+        var info = L.control({position: 'bottomleft'});
+        info.onAdd = function(map) {
+            var div = L.DomEvent.create('div', 'info-box');
+            div.innerHTML = '<h3>🚲 Green Commute: Boulder</h3>' +
+                '<p><span class="stat">Route:</span> 45 Oak Ave → 1800 Broadway</p>' +
+                '<p><span class="stat">Distance:</span> 4.03 km (2.5 mi)</p>' +
+                '<p><span class="stat">Walking:</span> ~48 min | <span class="stat">Biking:</span> ~16 min</p>' +
+                '<p><span class="stat">Elevation:</span> ~15 m gain (flat!)</p>' +
+                '<p><span class="stat">CO₂:</span> 0 kg (vs. 0.8 kg driving)</p>' +
+                '<p><span class="stat">Best segment:</span> Canyon Blvd (bike lane!)</p>';
+            L.DomEvent.disableClickPropagation(info.getContainer());
+            return div;
+        };
+        info.addTo(map);
+    </script>
 </body>
 </html>
