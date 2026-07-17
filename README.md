@@ -1,14 +1,12 @@
-# Boulder Green Commute Guide
+# Boulder Green Commute Guide 🚲🌿
 
-A guide for Boulder residents to make sustainable travel choices, featuring walking and biking commute analyses with route details and travel times.
-
-## About This Guide
-
-This repository shares real commute data and practical recommendations to help Boulder residents choose greener transportation options. By providing detailed route information and travel times for walking and biking, we aim to make sustainable commuting accessible and appealing.
+A comprehensive guide for Boulder residents to make sustainable travel choices, featuring real walking and biking commute analyses with route details, travel times, and practical tips.
 
 ---
 
-## Featured Commute Analysis: Oak Avenue → 1800 Broadway
+## 🏠 Featured Commute: 45 Oak Avenue → 1800 Broadway
+
+**Location:** Oak Avenue, Boulder, CO 80304 → Broadway, Boulder, CO 80302
 
 ### Route Overview
 
@@ -18,11 +16,12 @@ This repository shares real commute data and practical recommendations to help B
 | **Estimated Time** | ~48 minutes | ~16 minutes |
 | **Start** | 45 Oak Avenue, Boulder, CO 80304 | 45 Oak Avenue, Boulder, CO 80304 |
 | **End** | 1800 Broadway, Boulder, CO 80302 | 1800 Broadway, Boulder, CO 80302 |
+| **Avg Pace/Speed** | ~5 km/h (12 min/km) | ~15 km/h |
 | **CO₂ Saved** | ~0.8 kg per trip vs. car | ~0.8 kg per trip vs. car |
 
-### Walking Route Details
+### 🚶 Walking Route Details
 
-A scenic and healthy walk through central Boulder, primarily following neighborhood streets and the iconic Canyon Boulevard path.
+A scenic and healthy walk through central Boulder, primarily following neighborhood streets and the iconic Canyon Boulevard multi-use path.
 
 | Segment | Street | Distance | Notes |
 |---------|--------|----------|-------|
@@ -38,9 +37,9 @@ A scenic and healthy walk through central Boulder, primarily following neighborh
 **Estimated Walking Time:** ~48 minutes  
 **Average Pace:** ~12 min/km (5 km/h)
 
-### Biking Route Details
+### 🚴 Biking Route Details
 
-A quick and efficient bike commute using Boulder's bike-friendly streets and the famous Canyon Boulevard.
+A quick and efficient bike commute using Boulder's bike-friendly streets and the famous Canyon Boulevard multi-use path.
 
 | Segment | Street | Distance | Notes |
 |---------|--------|----------|-------|
@@ -55,6 +54,12 @@ A quick and efficient bike commute using Boulder's bike-friendly streets and the
 **Total Biking Distance:** 4.0 km  
 **Estimated Biking Time:** ~16 minutes  
 **Average Speed:** ~15 km/h
+
+### Geocoded Coordinates
+
+- **Home (45 Oak Ave):** 40.04488, -105.27389
+- **Work (1800 Broadway):** 40.01633, -105.27897
+- **Key Waypoint (Canyon Blvd):** 40.01602, -105.27887
 
 ---
 
@@ -107,6 +112,8 @@ A quick and efficient bike commute using Boulder's bike-friendly streets and the
 - [Boulder Transportation Master Plan](https://www.bouldercolorado.gov/departments/transportation/transportation-master-plan) — City sustainability goals
 - [BCycle Bike Share](https://www.bcycle.com/boulder) — Bike share program for occasional commuters
 - [Walk Boulder](https://www.nextcity.org/boulder-walks) — Walkability resources
+- [Go Boulder MEC](https://www.bouldermountainbikeclub.org) — Mountain bike club advocacy
+- [Bike Boulder](https://bikeboulder.org) — Cycling advocacy organization
 
 ---
 
