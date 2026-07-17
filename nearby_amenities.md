@@ -1,4 +1,4 @@
-# 🏙️ Nearby Amenities & Infrastructure Guide
+# 📍 Nearby Amenities & Infrastructure Guide
 
 ## Why This Matters for Your Commute
 
@@ -17,8 +17,8 @@ Knowing what's near your home and workplace makes your active commute more enjoy
 ### Nearby Transit Access
 | Stop | Route(s) | Distance | Notes |
 |------|----------|----------|-------|
-| Downtown Boulder Station Gate 3/4 | RTD Bus 1, 3, 7, 10 | ~215 m (from office) | RTD Bus card and cash accepted |
 | 19th Street bus stops (various) | RTD Bus 1, 3, 7, 10 | ~100 m from Oak Ave | Walkable from home |
+| Downtown Boulder Station Gate 3/4 | RTD Bus 1, 3, 7, 10 | ~215 m (from office) | RTD Bus card and cash accepted |
 
 ### Nearby Services & Amenities (Within 1 km of Home)
 | Category | Name | Notes |
@@ -78,7 +78,7 @@ Downtown Boulder is a major RTD transit hub with multiple bus routes and the **B
 
 ---
 
-## 🚲 EV Charging Stations Near Your Office (Within 1 km)
+## 🔌 EV Charging Stations Near Your Office (Within 1 km)
 
 | Station | Operator | Distance | Connectors | Power | Access |
 |---------|----------|----------|------------|-------|--------|
@@ -86,20 +86,20 @@ Downtown Boulder is a major RTD transit hub with multiple bus routes and the **B
 | EV Station (Pearl St area) | Unknown | 271 m | Likely J1772/Level 2 | Level 2 | Public |
 | ChargePoint (11th & Pearl) | ChargePoint | 725 m | J1772, CCS | ~7.2–19.2 kW | Permissive |
 
-> 💡 **For hybrid/EV commuters:** If you need to drive to work on bad-weather days, these stations let you charggle while at the office. Boulder also has [eCO-BE rebates](https://www.colorado.gov/pacific/energysavings/ev-charge) of up to **$1,200** for home charger installation.
+> 💡 **For hybrid/EV commuters:** If you need to drive to work on bad-weather days, these stations let you charge while at the office. Boulder also has [eCO-BE rebates](https://www.colorado.gov/pacific/energysavings/ev-charge) of up to **$1,200** for home charger installation.
 
 ---
 
 ## 🅿️ Paid Parking Near Your Office
 
-| Facility | Type | Approx. Distance | Rate | Notes |
-|----------|------|-----------------|------|-------|
+| Facility | Type | Distance | Rate | Notes |
+|----------|------|----------|------|-------|
 | Broadway Garage | Multi-storey | ~200 m | ~$3/hr, $20/day | Closest garage to 1800 Broadway |
 | Pearl Street Garage | Garage | ~400 m | ~$3/hr, $18/day | Adjacent to Pearl Street Mall |
 | 13th & Walnut Garage | Garage | ~500 m | ~$2.50/hr | Near restaurants |
 | Street Meter Parking | Street | Throughout downtown | ~$1.50–2.50/hr, 2-hr max | Arrive early; zones enforce strictly |
 
-> ⚠️ **Tip for drivers:** Downtown Boulder parking is expensive and scarce. If you must drive, consider the **RTD Park-n-Ride** at US-36 & Arapahoe (~$3/day) and take the bus into downtown.
+> ⚠️ **Tip:** Downtown Boulder parking is expensive and scarce. Consider the **RTD Park-n-Ride** at US-36 & Arapahoe (~$3/day) and take the bus into downtown.
 
 ---
 
@@ -120,8 +120,8 @@ Downtown Boulder is a major RTD transit hub with multiple bus routes and the **B
 | Category | Count within 1 km | Proximity Score (out of 10) |
 |----------|--------------------|-----------------------------|
 | 🍽️ Restaurants & Cafés | 94 | 9.8 |
-| 🎣 Sports & Recreation | Nearby — Ice rink, climbing gyms | 9.9 |
-| 🛍️ Services & Banks | Multiple branches | 9.9 |
+| 🎮 Sports & Recreation | Nearby — Ice rink, climbing gyms | 9.9 |
+| 📝 Services & Banks | Multiple branches | 9.9 |
 | 🚌 Public Transit | RTD Hub + multiple stops | 7.8 |
 | 🛒 Groceries | 2+ supermarkets nearby | 4.4 |
 | 🌳 Parks & Green Space | Creek path + downtown parks | 6.1 |
@@ -129,22 +129,44 @@ Downtown Boulder is a major RTD transit hub with multiple bus routes and the **B
 
 ---
 
-## 🗺️ Using This Information
+## 📱 Using This Information
 
 ### For Walkers
 - Grab coffee at **Brewing Market Coffee** (149 m from office) on your way in
 - Wait at **Japango** or **T/ACO** for lunch — both within 2 minutes' walk
 - Prefer a sweet treat? **Boulder Baked** is right nearby (127 m)
+- Grab lunch at **India Jaipur** (60 m) or **Rio Grande** (166 m)
 
 ### For Cyclists
 - **B-Cycle station** is available near the transit hub (~230 m)
 - Use **ChargePoint** if you ride an e-bike and need a top-up while parked
 - All the cafés are bike-friendly with outdoor seating
+- **Patagonia** at Pearl Street Mall is a great stop for gear/coffee
 
 ### For Both
 - The **Boulder Public Library** is a great stop for planning routes or working remotely
 - **Canyon Boulevard** offers year-round scenic walking and cycling
+- **Boulder Public Library** is 400 m from office — free Wi-Fi and study space
 
 ---
 
-*Data sourced from OpenStreetMap (July 2026). Amenity counts may shift as businesses open and close. Verify current hours before visiting.*
+## 📊 Additional Route Infrastructure
+
+### Public Transit Along Route (RTD Bus Lines)
+| Route | Stops Near Route | Notes |
+|-------|-----------------|-------|
+| RTD Bus 1 | 19th & Oak, 19th & Pearl, 13th & Broadway | North-South corridor |
+| RTD Bus 3 | 19th & Oak, 19th & Pearl | North-South corridor |
+| RTD Bus 7 | 19th & Oak, 19th & Pearl | North-South corridor |
+| RTD Bus 10 | 19th & Pearl, 18th & Pearl | East-West corridor via Boulder Creek Path |
+
+### B-Cycle Stations (Bike Share)
+| Station | Distance | Capacity |
+|---------|----------|----------|
+| Pearl & 11th | ~450 m | 13 docks |
+| 18th & Pearl | ~600 m | 12 docks |
+| 13th & Broadway | ~1,100 m | 15 docks |
+
+---
+
+*Data sourced from OpenStreetMap (July 2025). Amenity counts may shift as businesses open and close. Verify current hours before visiting.*
