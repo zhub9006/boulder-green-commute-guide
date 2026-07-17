@@ -1,0 +1,70 @@
+{
+  "commute": {
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, Boulder County, Colorado, 80304",
+      "latitude": 40.0448805,
+      "longitude": -105.2738879
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, Boulder County, Colorado, 80302",
+      "latitude": 40.0163281,
+      "longitude": -105.2789726
+    },
+    "distance_km": 4.03,
+    "distance_meters": 4026.5
+  },
+  "modes": [
+    {
+      "mode": "foot",
+      "label": "Walking",
+      "estimated_time_minutes": 48,
+      "average_pace_min_per_km": 12,
+      "average_speed_kmh": 5,
+      "segments": [
+        {"street": "Oak Avenue", "distance_m": 96.6, "cumulative_m": 96.6},
+        {"street": "19th Street", "distance_m": 2156.5, "cumulative_m": 2253.1},
+        {"street": "20th St.", "distance_m": 106.1, "cumulative_m": 2359.2},
+        {"street": "20th Street", "distance_m": 565.6, "cumulative_m": 2924.8},
+        {"street": "Pearl Street", "distance_m": 216.2, "cumulative_m": 3141.0},
+        {"street": "18th Street", "distance_m": 248.8, "cumulative_m": 3389.8},
+        {"street": "Canyon Boulevard", "distance_m": 636.6, "cumulative_m": 4026.4}
+      ]
+    },
+    {
+      "mode": "bike",
+      "label": "Biking",
+      "estimated_time_minutes": 16,
+      "average_pace_min_per_km": 4,
+      "average_speed_kmh": 15,
+      "segments": [
+        {"street": "Oak Avenue", "distance_m": 96.6, "cumulative_m": 96.6},
+        {"street": "19th Street", "distance_m": 2156.5, "cumulative_m": 2253.1},
+        {"street": "20th St.", "distance_m": 106.1, "cumulative_m": 2359.2},
+        {"street": "20th Street", "distance_m": 565.6, "cumulative_m": 2924.8},
+        {"street": "Pearl Street", "distance_m": 216.2, "cumulative_m": 3141.0},
+        {"street": "18th Street", "distance_m": 248.8, "cumulative_m": 3389.8},
+        {"street": "Canyon Boulevard", "distance_m": 636.6, "cumulative_m": 4026.4}
+      ]
+    },
+    {
+      "mode": "car",
+      "label": "Driving",
+      "estimated_time_minutes": "8-12",
+      "estimated_distance_km": "3-4.5",
+      "notes": "Subject to traffic and parking availability"
+    }
+  ],
+  "environmental_impact": {
+    "co2_saved_per_trip_kg": 0.8,
+    "co2_saved_per_year_kg": 160,
+    "annual_car_cost_saved_usd": 1200,
+    "annual_bike_cost_saved_usd": 1800
+  },
+  "key_features": [
+    "Canyon Boulevard multi-use path — Boulder's premier greenway",
+    "Neighborhood streets with low traffic volume",
+    "Flat terrain (minimal elevation change)",
+    "Well-maintained paved paths and sidewalks",
+    "Direct route with minimal detours"
+  ]
+}
