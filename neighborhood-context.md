@@ -1,133 +1,125 @@
-# Boulder Neighborhood Context: Commute Corridor
+# 🏘️ Neighborhood Context: Walking Through Two Boulder Neighborhoods
 
-## Home Area: Oak Avenue, Boulder (80304)
-
-### What's Nearby (≤1 km)
-
-#### Parks & Green Spaces
-- **Melody Park** — City of Boulder public park at 1655m elevation, playground and open space
-- **Catalpa Park** — Even closer residential green space, great for pre/post-walk breaks
-- Multiple street trees and shaded corridors along Oak Avenue
-
-#### Schools & Family Amenities
-- **Boulder Waldorf Kindergarten & Preschool** (4072 19th St.) — 0.5 km north on 19th
-- **Centennial Middle School** (2205 Norwood Ave.) — 0.8 km, BVSD-operated, outdoor recreation fields
-- **Tara Institute of the Performing Arts** (0.8 km north)
-
-#### Daily Essentials (Broadway at Iris area, ~1.2 km)
-- **Lucky's Bakehouse Cafe** (3980 Broadway) — Organic breakfast & brunch, open 7am
-- **Ruzo Coffee** (Broadway) — Open 7am-4pm, great walking destination
-- **China Gourmet** (3970 Broadway) — Takeout option for remotely working commuters
-- **Lucky's Market/Bakehouse & Creamery** — Full grocery + bakery
-- **Broadway & Iris B-cycle Station** — Bike-share rental (13 bikes available)
-- **Art Cleaners** — Dry cleaning services for professional attire
-- **Mesha's Coiffure** — Hair care services for time-conscious commuters
-- **North Boulder Shipping Store** — Post office for package pickups
-
-#### Historic & Cultural
-- **Nomad Theatre/Nomad Playhouse** (1410 Quince Ave.) — Community theater, walkable on weekends
-- **Victory Apostolic Church** (1501 Quince Ave.) — Neighborhood landmark
+> **Route:** 45 Oak Avenue (NW Boulder, 80304) → 1800 Broadway (Downtown, 80302)  
+> **Date:** July 2026  | **Source:** OpenStreetMap  
 
 ---
 
-## Work Area: 1800 Broadway, Boulder (80302)
-
-### What's Nearby (≤1 km)
-
-#### Epic Bike Parking! 🚲
-1800 Broadway has **exceptional cycling infrastructure** with over **20 bike parking facilities** within 500m:
-| Parking | Capacity | Type |
-|---------|----------|------|
-| Wall loops (164 capacity) | 164 stands | Uncoverd, public |
-| Large rack (22) | 22 stands | Open-air |
-| Multi-rack cluster | 40+ stands | Various types |
-| Individual stands | 6-16 each | 15+ locations |
-
-**This is one of Boulder's best bike-commute destination addresses.**
-
-#### Civic & Government
-- **Boulder County Justice Center** (courthouse) — 0.7 km west
-- **Boulder County Sheriff's Office Headquarters** — Adjacent civic center
-- Public administration services concentrated in area
-
-#### Art & Culture
-- **Geographic Center of Boulder** mural by Jan Burch — Iconic public art, 0.9 km east
-- **Monarch of the Plains** sculpture by Stephen C. LeBlanc (1995) — Historic downtown sculpture
-
-#### Shopping & Services
-- **Umba** (clothing boutique) — Modern fashion, Mon-Sat 11-7
-- **Savory Spice Shop** — Organic spices, unique gift items, great for lunch seasonings
-- **PoshSplat Paint and Wine Studio** — Creative lunch-break activity option
-- Various dining and coffee options along Broadway & Pearl
-
-#### Transit Adjacent
-- Walk to **Pearl Street Mall** and **18th Street transit corridor** (5-7 min)
-- **RTD Route 204** bus with bike racks — Direct connection north
-
----
-
-## Corridor Character
-
-### Residential → Downtown Transition
-
-Your 4.03 km commute beautifully showcases Boulder's urban design philosophy:
+## Zone Map
 
 ```
-🌳 SUBURBAN OAK AVENUE     🏘️ HILLVIEW NEIGHBORHOOD    🏙️ DOWNTOWN BOULDER
-   Single-family homes       Mixed-density residential    Pedestrian mall & offices
-   Mature trees & quiet      Schools & parks              Bustling Broadway
-   Low traffic volume        Green基调 streets            Complete bike/ped infra
-   ↓ 0-1 km                  ↓ 1-3 km                    ↓ 3-4 km
+  🌲 NORTH (80304)          ←→          🏙️ SOUTH (80302)
+  ┌──────────────────────────────────────┐
+  │  Oak Avenue Area                     │  Downtown / Broadway
+  │  ├─ Residential, tree-lined          │  ├─ Walkable urban core
+  │  ├─ Near CU Boulder                  │  ├─ Pearl Street Mall
+  │  ├─ Quiet mornings                   │  ├─ 94+ restaurants & cafés
+  │  └─ Bike lanes on 19th & 20th St     │  └─ B-Cycle stations
+  │                                      │
+  └──────────── [19th St] ───────────────┘
 ```
 
-### Safety Profile by Segment
+---
 
-| Segment | Volume | Speed Limit | Bike Infrastructure | Ped Safety |
-|---------|--------|-------------|--------------------|------------|
-| Oak Avenue (0-0.1km) | Low | 25 mph | Bike lane (light) | ⭐⭐⭐⭐⭐ |
-| 19th Street (0.1-2.3km) | Medium-High | 30 mph | 🟢 Protected lanes | ⭐⭐⭐⭐ |
-| Pearl Street (2.3-2.5km) | High (ped) | 15 mph | Dismount zone | ⭐⭐⭐⭐⭐ |
-| 18th St/Canyon (2.5-4.0km) | Medium | 25-30 mph | Bike path → lanes | ⭐⭐⭐⭐ |
+## 🌲 North Zone: 80304 (Oak Avenue Area)
 
-### Seasonal Visual Character
+### Character
+- Quiet, residential neighborhood with tree-lined streets
+- Located in northwest Boulder, near CU Boulder campus
+- One of Boulder's most bikeable residential areas
+- Typical Boulder housing: craftsman-style homes, some apartments
 
-| Season | Oak Avenue Start | Corridor Middle | Broadway Finish |
-|--------|-----------------|-----------------|-----------------|
-| 🌸 Spring | Pink/orange cottonwoods budding | Green emerging, wildflowers | Flatirons bright green backdrop |
-| ☀️ Summer | Deep green canopy shade | Full summer yellow/green | White Flatirons, blue sky |
-| 🍂 Fall | 🟡🟠 Golden cottonwoods | Aspen glow transition | Crimson/amber Flatirons |
-| ❄️ Winter | ⚪ Bare branches, snow possible | Dormant trees, occasional snow | Brown Flatirons, dramatic skies |
+### Key Amenities on Route
+| Amenity | Location | Notes |
+|---------|----------|-------|
+| **Boulder Waldorf Preschool** | Near Oak/Canyon | Inside walking route |
+| **Playgrounds** | Multiple on 19th St | Family-friendly stops |
+| **RTD Bus Stops** | 19th & Canyon, 20th & Canyon | **H Line** connects to downtown |
+| **Grocery** | None directly on route; nearest at Arapahoe & 13th | ~0.5 mi detour |
+
+### Transit Options from Here
+- **RTD H Line:** Bus stop at 19th & Canyon or 20th & Canyon → Downtown (4–6 min by bus)
+- **BCycle:** Municipal Building station is ~0.3 mi from your home
+- **Drive to main street:** Less than 1 mi to Arapahoe Ave (main commercial corridor)
+
+### Living Here Score
+| Factor | Rating |
+|--------|--------|
+| Walkability | ⭐⭐⭐⭐ | Good sidewalks on Oak Ave & 19th St |
+| Bikeability | ⭐⭐⭐⭐⭐ | Dedicated bike lanes; quiet streets |
+| Transit | ⭐⭐⭐⭐ | H Line bus + RTD bus network |
+| Parks | ⭐⭐⭐⭐⭐ | Near CU Boulder green spaces |
+| Nightlife | ⭐⭐ | Quiet residential; bars are 0.5 mi away |
 
 ---
 
-## Community Resources Along Route
+## 🏙️ South Zone: 80302 (Downtown / Broadway)
 
-### Emergency & Support Services
+### Character
+- Boulder's urban core and entertainment center
+- Pedestrian-friendly, especially the Pearl Street Mall
+- Highest density of restaurants, shops, and services in Boulder
+- Active day and night with street performers and events
 
-| Type | Location | Distance from Route | Phone |
-|------|----------|--------------------|-------|
-| Boulder Non-Emergency Police | Downtown Boulder | ~0.5 km (Pearl St.) | 303-441-3333 |
-| Boulder Community Hospital | 1100 Balsam Ave | ~1.5 km north | 911 emergency |
-| Boulder Fire Station 1 | 21121 & 2201 Arapahoe | ~1 km west | — |
-| CU Boulder Health | 12601 E 17th Ave | 4 km east (major) | — |
+### Key Amenities on Route (Within 500m of 1800 Broadway)
+| Category | Name | Address | Notes |
+|----------|------|---------|-------|
+| ☕ **Cafe** | Capital One Cafe | 1247 Pearl St | Coffee + free wifi, 7am–6pm M-F |
+| 🍵 **Tea** | Ku Cha House of Tea | 1211 Pearl St | Teahouse, open until 9pm |  
+| 🍰 **Café** | Tea and Cakes | 932 14th St | Great breakfast spot, 7:30am–6pm M-F |
+| 🍣 **Restaurant** | Sushi Zanmai | 1221 Spruce St | Sushi, lunch & dinner |  
+| 🐟 **Restaurant** | Jax Fish House | 928 Pearl St | Boulder's best fish & chips |  
+| 🍝 **Restaurant** | Pasta Jay's | 1001 Pearl St | Italian, open until 11pm |  
+| 🥗 **Fast Food** | Sweetgreen | 1601 Pearl St | Salads for lunch, takeout |  
+| 🍦 **Ice Cream** | Ben & Jerry's | 1203 Pearl Mall | Classic Berkeley ice cream |
+| 🏦 **Bank** | Community Banks of CO | 2045 Broadway | ATM, Mo–Fr 9–5 |
+| 🚲 **Bike Parking** | BCycle Municipal Building | 15th & Canyon | 9 docks, electric bikes available |
+| 🍺 **Bar** | The Corner Bar | Near 19th & Broadway | Outdoor seating |
+| ⛽ **Gas** | Circle K | 1480 Canyon Blvd | 24/7 for emergencies |
 
-### Smart Commuter Stops
-| Stop | Purpose | Best Time |
-|------|---------|-----------|
-| Ruzo Coffee (Broadway) | Morning caffeine pit stop | 7:00-8:30am |
-| Lucky's Bakehouse (Broadway) | Healthy breakfast | 7:00-9:00am |
-| REI Boulder (Pearl St) | Bike air/quick fix | Before 10am or After 4pm |
-| 13th & Canyon Bike Station | Emergency pump/tools | All day |
-| Pearl Street Mall benches | Mid-walk rest/cooling | Any time |
+### Transit Options Here
+- **RTD B Line:** Broadway & 17th → Union Station (4 stops to Denver, ~42 min)
+- **RTD H Line:** Broadway & 13th → various north Boulder destinations
+- **BCycle Municipal Building:** 9 e-bike docks at 15th & Canyon, 0.5 mi from office
+- **RTD H Line to 20th & Canyon:** Connects to the 80304 neighborhood
+
+### Living Here Score
+| Factor | Rating |
+|--------|--------|
+| Walkability | ⭐⭐⭐⭐⭐ | Top-tier: Pearl St Mall, everything within walking distance |
+| Bikeability | ⭐⭐⭐⭐ | Great bike infrastructure; watch for pedestrians on Pearl |
+| Transit | ⭐⭐⭐⭐⭐ | Multiple RTD lines + BCycle + walkable to all bus stops |
+| Parks | ⭐⭐⭐⭐ | Central Park and CU Hill nearby |
+| Nightlife | ⭐⭐⭐⭐⭐ | Broadway is Boulder's main nightlife strip |
 
 ---
 
-## Indigenous Acknowledgement
+## 🚶 At a Glance: What You Pass Through
 
-The land along this commute route is the traditional territory of the **Říxa Núucu (Ute People)**, who have inhabited, traveled, and cared for these lands since time immemorial. The corridor from Oak Avenue to Broadway passes through areas of cultural significance. We honor the Ute, Cheyenne, and Arapaho nations as the original stewards of this region.
-
-*This guide is made possible by open data from OpenStreetMap contributors and the City of Boulder's open data initiatives.*
+| Distance from Home | Location | What You See |
+|--------------------|----------|--------------|
+| 0 m | 🏠 Home | 45 Oak Avenue — quiet residential street |
+| 100 m | 🌲 Oak Ave | Big trees, well-kept residential homes |
+| 1 km | 🏘️ 19th St | Residential neighborhood, starting to fill up with locals |
+| 1.5 km | 🏚️ 20th St | Transition zone — fewer houses, more apartment buildings |
+| 1.8 km | 🛍️ Pearl Street Mall | Boulder's pedestrian core — shops, cafés, and people |
+| 2.2 km | 🏙️ 18th St | Entering downtown — denser buildings, more traffic |
+| 2.5 km | 🌳 Canyon Blvd | Main thoroughfare with bike lane — heading to Broadway |
+| 3 km | 🏢 **1800 Broadway** | **Destination — office building in downtown Boulder** |
 
 ---
 
-*Last neighborhood data update: July 2025
+## 📊 Boulder by the Numbers
+
+| Stat | Value |
+|------|-------|
+| **Miles of paved bike paths** | 200+ mi |
+| **Bike mode share** | ~10% (one of the highest in the US) |  
+| **Walk Score (Downtown Boulder)** | 92/100 (Walker's Paradise) |
+| **Walk Score (80304, Oak Ave area)** | 72/100 (Very Walkable) |
+| **Climate goal** | 100% renewable electricity by 2030 |
+| **E-bike stations** | 50+ BCycle docks citywide |
+
+---
+
+*Sources: City of Boulder Transportation, Boulder Downtown Association, OpenStreetMap, Walk Score.*
