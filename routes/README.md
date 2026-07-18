@@ -1,20 +1,17 @@
-# Route Details 🗺️
+# Route Directory
 
-This directory contains detailed turn-by-turn directions for both walking and biking along the 4.03 km commute route from **45 Oak Avenue** to **1800 Broadway** in Boulder, CO.
+Detailed turn-by-turn directions for featured Boulder commutes.
 
-## Available Routes
+## Featured Route
 
-| Route | Time | Distance |
-|---|---|---|
-| [Walking Route](walking_route.md) | ~48 min | 4.03 km |
-| [Biking Route](biking_route.md) | ~16 min | 4.03 km |
+| Route | Walking | Biking |
+|-------|---------|--------|
+| **45 Oak Ave → 1800 Broadway** | [Walking Directions](oak-ave-to-1800-broadway-walking.md) | [Biking Directions](oak-ave-to-1800-broadway-biking.md) |
 
-## Quick Reference: Route Segments
+## Add Your Route
 
-Both routes follow the same street sequence:
-
-1. **Oak Avenue** → 2. 19th Street → 3. 20th Street → 4. Pearl Street → 5. 18th Street → 6. Canyon Boulevard
+See [Contributing Guide](contributing.md) to add a new route to this directory.
 
 ---
 
-*For alternate routes or real-time conditions, consider using Boulder's [/transit](https://www.bouldercolorado.gov/transportation) resources or the Boulder B-Cycle bike share system.*
+*The Mountain American Indian people, whose ancestors have traveled these routes since time immemorial, upon whose traditional territory we gather.*

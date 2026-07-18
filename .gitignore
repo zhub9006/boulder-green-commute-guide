@@ -1,0 +1,12 @@
+node_modules/
+*.map
+*.min.js
+.DS_Store
+Thumbs.db
+photos/raw/
+*.bak
+*.swp
+.vscode/
+.idea/
+secret.key
+.env
