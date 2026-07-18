@@ -4,42 +4,68 @@
 
 A practical, data-driven resource for walking and biking commuters in Boulder, Colorado. This guide provides detailed route analyses, travel times, and tips to help you reduce your carbon footprint while staying active.
 
+---
+
 ## 🗺️ Featured Commute
 
-**Oak Avenue → 1800 Broadway, Boulder**
+**45 Oak Avenue → 1800 Broadway, Boulder**  
+*ZIP 80304 → 80302 · Two Boulder neighborhoods, one sustainable journey*
 
-| Mode | Distance | Est. Time | CO₂ Saved |
-|------|----------|-----------|------------|
-| 🚶 Walking | 4.03 km (2.5 mi) | ~50 minutes | ~1.5 kg/day |
-| 🚲 Biking | 4.03 km (2.5 mi) | ~16 minutes | ~3.2 kg/day |
-| 🚗 Driving | 4.03 km (2.5 mi) | ~10 minutes | Baseline |
+| Mode | Distance | Est. Time | CO₂ Saved | Annual Savings (250 trips) |
+|------|----------|-----------|-----------|---------------------------|
+| 🚶 Walking | 4.03 km (2.5 mi) | ~48 min | ~1.5 kg/day | ~375 kg CO₂ / ~$500+ |
+| 🚲 Biking | 4.03 km (2.5 mi) | ~16 min | ~3.2 kg/day | ~800 kg CO₂ / $0–$1,200 |
+| 🚗 Driving | 4.03 km (2.5 mi) | ~10 min | Baseline | ~200 kg CO₂/yr on gas |
+| e🚲 E-Bike | 4.03 km (2.5 mi) | ~12 min | ~3.0 kg/day | ~750 kg CO₂ |
 
-## Quick Links
+---
 
-- [📋 Commute Analysis](commute-analysis.md) — Full walking and biking commute breakdown
-- [🗺️ Route Details](routes/) — Turn-by-turn directions for each mode
-- [💡 Sustainable Travel Tips](tips.md) — Make your commute greener
-- [🌍 Environmental Impact](emissions-impact.md) — Understand your carbon savings
-- [🏘️ Boulder Transit Resources](resources.md) — Local infrastructure and programs
+## 📋 Quick Links
+
+- [📋 Commute Analysis](commute-analysis.md) — Full walking and biking commute breakdown with segment details
+- [🗺️ Route Details](route-details.md) — Turn-by-turn directions for each mode with safety ratings
+- [📊 Route Data & Geometry](routes/route_data.json) — Machine-readable route geometry and timing
+- [💡 Sustainable Travel Tips](boulder-commute-tips.md) — Make your commute greener year-round
+- [🌍 Environmental Impact](emissions-impact.md) — Understand your carbon and health savings
+- [🚌 Boulder Transit Resources](resources.md) — Local infrastructure, B-Cycle, and RTD bus connections
+- [🏘️ Neighborhood Context](neighborhood-context.md) — What you'll pass through on your commute
+
+---
 
 ## Why Green Commuting Matters
 
 Boulder is one of the most bike-friendly cities in Colorado, with over 200 miles of paved bike paths and a thriving walkable downtown. Choosing to walk or bike even **2 days a week** can:
 
-- Save approximately **100+ kg of CO₂ per year**
+- Save approximately **100+ kg of CO₂ per year per person**
 - Improve cardiovascular health and reduce stress
 - Save $500+ annually on fuel and parking
 - Reduce traffic congestion on Broadway and Arapahoe Avenue
+- Support Boulder's climate action goals (100% renewable by 2030)
+
+---
 
 ## Getting Started
 
 1. **Pick a commute** — Browse our featured routes or add your own
-2. **Choose your mode** — Walking, biking, or a combination
-3. **Plan your route** — Follow detailed turn-by-turn directions
-4. **Track your impact** — Use our emissions calculator
+2. **Choose your mode** — Walking, biking, e-bike, or a combination
+3. **Plan your route** — Follow detailed turn-by-turn directions with safety ratings
+4. **Track your impact** — Use our emissions calculator and seasonal adjustments
 5. **Share your story** — Help inspire other Boulder residents!
 
-## 🤝 Contributing
+## 🏘️ Live Along This Route?
+
+This commute passes through two distinct Boulder neighborhoods:
+
+| Zone | Location | Character | Key Amenities |
+|------|----------|-----------|---------------|
+| 🌳 **North** (80304) | Oak Avenue area | Quiet residential, tree-lined, near CU Boulder | Boulder Waldorf Preschool, playgrounds, RTD bus stops |
+| 🏙️ **South** (80302) | Downtown / Broadway | Walkable urban core, Pearl Street Mall | 94+ restaurants, cafés, shops, B-Cycle stations |
+
+[📖 Full neighborhood analysis →](neighborhood-context.md)
+
+---
+
+## 🌿 Contributing
 
 This guide is a community project! Help us expand it:
 
@@ -52,4 +78,5 @@ See our [Contributing Guide](contributing.md) to get started.
 
 ---
 
-*Made with ❤️ for the Boulder community. Data sourced from OpenStreetMap and/local transit resources.*
+*Made with ❤️ for the Boulder community. Data sourced from OpenStreetMap, RTD, and City of Boulder transportation resources.*  
+*Route data verified against live OpenStreetMap routing engine on 2026-07-18.*
