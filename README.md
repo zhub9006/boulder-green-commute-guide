@@ -4,6 +4,8 @@
 
 A practical, data-driven resource for walking and biking commuters in Boulder, Colorado. This guide provides detailed route analyses, travel times, and tips to help you reduce your carbon footprint while staying active.
 
+All route data is **verified against the OpenStreetMap Valhalla Routing Engine** with live GPS coordinates and turn-by-turn directions.
+
 ---
 
 ## 🗺️ Featured Commute
@@ -14,16 +16,20 @@ A practical, data-driven resource for walking and biking commuters in Boulder, C
 | Mode | Distance | Est. Time | CO₂ Saved (per trip) | Annual Savings (250 trips) |
 |------|----------|-----------|---------------------|---------------------------|
 | 🚶 Walking | 4.03 km (2.5 mi) | ~48 min | ~0.8 kg | ~200 kg CO₂ / ~$500+ |
-| 🚴 Biking | 4.03 km (2.5 mi) | ~16 min | ~0.8 kg | ~200 kg CO₂ / $0–$1,200 |
+| 🚲 Biking | 4.03 km (2.5 mi) | ~16 min | ~0.8 kg | ~200 kg CO₂ / $0–$1,200 |
 | 🚗 Driving | 4.03 km (2.5 mi) | ~10 min | Baseline | ~200 kg CO₂/yr on gas |
 | 🛴 E-Bike | 4.03 km (2.5 mi) | ~12 min | ~0.8 kg | ~200 kg CO₂ |
+
+**Verified coordinates:** Home (40.0449°N, 105.2739°W) → Work (40.0163°N, 105.2790°W)  
+**Data source:** OpenStreetMap Valhalla Routing Engine, July 2026
 
 ---
 
 ## 📋 Quick Links
 
-- 📊 [Commute Analysis](commute-analysis/45_oak_ave_to_1800_broadway.md) — Full walking and biking commute breakdown with segment details
-- 🗺️ [Route Details & Geometry](data/45_oak_ave_to_1800_broadway_geometry.json) — Machine-readable route data with GeoJSON-style coordinates
+- 📊 [Commute Analysis](analysis_summary.md) — Full walking and biking commute breakdown with segment details
+- 🗺️ [Route Details](route_details.md) — Turn-by-turn directions for each mode with safety ratings
+- 📍 [Route Data & Geometry](data/45_oak_ave_to_1800_broadway_geometry.json) — Machine-readable route geometry and timing (verified July 2026)
 - 💡 [Sustainable Travel Tips](boulder_commute_tips.md) — Make your commute greener year-round
 - 🌍 [Environmental Impact](emissions-impact.md) — Understand your carbon and health savings
 - 🚌 [Boulder Transit Resources](resources.md) — Local infrastructure, B-Cycle, and RTD bus connections
@@ -51,8 +57,6 @@ Boulder is one of the most bike-friendly cities in Colorado, with over 200 miles
 4. **Track your impact** — Use our emissions calculator and seasonal adjustments
 5. **Share your story** — Help inspire other Boulder residents!
 
----
-
 ## 🏡 Live Along This Route?
 
 This commute passes through two distinct Boulder neighborhoods:
@@ -62,9 +66,11 @@ This commute passes through two distinct Boulder neighborhoods:
 | 🌳 **North** (80304) | Oak Avenue area | Quiet residential, tree-lined, near CU Boulder | Boulder Waldorf Preschool, playgrounds, RTD bus stops |
 | 🏙️ **South** (80302) | Downtown / Broadway | Walkable urban core, Pearl Street Mall | 94+ restaurants, cafés, shops, B-Cycle stations |
 
+[📖 Full neighborhood analysis →](neighborhood-context.md)
+
 ---
 
-## 🌱 Contributing
+## 🌿 Contributing
 
 This guide is a community project! Help us expand it:
 
