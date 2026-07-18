@@ -8,17 +8,17 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 
 ---
 
-## 🗺️ Featured Commute
+## 📌 Featured Commute
 
 **45 Oak Avenue → 1800 Broadway, Boulder**  
 *ZIP 80304 → 80302 · Two Boulder neighborhoods, one sustainable journey*
 
 | Mode | Distance | Est. Time | CO₂ Saved (per trip) | Annual Savings (250 trips) |
 |------|----------|-----------|---------------------|---------------------------|
-| 🚶 Walking | 4.03 km (2.5 mi) | ~48 min | ~0.8 kg | ~200 kg CO₂ / ~$500+ |
-| 🚲 Biking | 4.03 km (2.5 mi) | ~16 min | ~0.8 kg | ~200 kg CO₂ / $0–$1,200 |
+| 🚶 Walking | 4.03 km (2.5 mi) | ~48–50 min | ~0.8 kg | ~200 kg CO₂ / ~$500+ |
+| 🚲 Biking | 4.03 km (2.5 mi) | ~16–20 min | ~0.8 kg | ~200 kg CO₂ / $0–$1,200 |
 | 🚗 Driving | 4.03 km (2.5 mi) | ~10 min | Baseline | ~200 kg CO₂/yr on gas |
-| 🛴 E-Bike | 4.03 km (2.5 mi) | ~12 min | ~0.8 kg | ~200 kg CO₂ |
+| ⚡ E-Bike | 4.03 km (2.5 mi) | ~12–15 min | ~0.8 kg | ~200 kg CO₂ |
 
 **Verified coordinates:** Home (40.0449°N, 105.2739°W) → Work (40.0163°N, 105.2790°W)  
 **Data source:** OpenStreetMap Valhalla Routing Engine, July 2026
@@ -27,9 +27,8 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 
 ## 📋 Quick Links
 
-- 📊 [Commute Analysis](analysis_summary.md) — Full walking and biking commute breakdown with segment details
-- 🗺️ [Route Details](route_details.md) — Turn-by-turn directions for each mode with safety ratings
-- 📍 [Route Data & Geometry](data/45_oak_ave_to_1800_broadway_geometry.json) — Machine-readable route geometry and timing (verified July 2026)
+- 📊 [Full Commute Analysis — Turn-by-turn walk & bike breakdown](walk_bike_analysis_45_oak_to_1800_broadway.md) — Detailed segment distances, times, safety ratings, and tips
+- 📐 [Route Geometry Data](data/45_oak_ave_to_1800_broadway_geometry.json) — Machine-readable route geometry and timing (verified July 2026)
 - 💡 [Sustainable Travel Tips](boulder_commute_tips.md) — Make your commute greener year-round
 - 🌍 [Environmental Impact](emissions-impact.md) — Understand your carbon and health savings
 - 🚌 [Boulder Transit Resources](resources.md) — Local infrastructure, B-Cycle, and RTD bus connections
@@ -70,7 +69,7 @@ This commute passes through two distinct Boulder neighborhoods:
 
 ---
 
-## 🌿 Contributing
+## 🤝 Contributing
 
 This guide is a community project! Help us expand it:
 
