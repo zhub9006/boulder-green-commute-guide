@@ -1,22 +1,22 @@
 # 🚶‍♂️🚲 Commute Analysis: 45 Oak Avenue → 1800 Broadway, Boulder
 
-**Location:** Boulder, Colorado (ZIP 80304 → 80302)  
-**Coordinates:** 40.0449°N, 105.2739°W → 40.0163°N, 105.2790°W  
-**Analysis Date:** 2026-07-18  
-**Data Source:** OpenStreetMap routing API (verified)
+**Location:** Boulder, Colorado (ZIP 80304 → 80302)
+**Coordinates:** 40.0449°N, 105.2739°W → 40.0163°N, 105.2790°W
+**Analysis Date:** July 18, 2026
+**Data Source:** OpenStreetMap Valhalla Routing API (verified live)
 
 ---
 
 ## Summary at a Glance
 
-| Mode | Distance | Est. Time | CO₂ Saved | Cost/Trip | Calories |
-|------|----------|-----------|-----------|-----------|----------|
-| 🚶 Walking | 4.03 km (2.5 mi) | ~48 min | 0 kg | Free | ~400 kcal |
-| 🚲 Biking | 4.03 km (2.5 mi) | ~16 min | 0 kg | Free / $3.50 (B-Cycle) | ~200 kcal |
-| 🚗 Driving | ~4.2 km (2.6 mi) | ~10–15 min | ~0.8 kg | ~$13/trip | 0 |
-| e🚲 E-Bike | 4.03 km (2.5 mi) | ~12 min | 0 kg | $3.50 (B-Cycle) | ~55 kcal |
+| Mode | Distance | Est. Time | CO₂ Saved (vs driving) | Cost/Trip | Calories |
+|------|----------|-----------|------------------------|-----------|----------|
+| 🚶 Walking | 4.03 km (2.5 mi) | ~48 min | ~0.8 kg/trip | Free | ~400 kcal |
+| 🚲 Biking | 4.03 km (2.5 mi) | ~16 min | ~0.8 kg/trip | Free / $3.50 (B-Cycle) | ~200 kcal |
+| 🚗 Driving | ~4.2 km (2.6 mi) | ~10–15 min | Baseline | ~$13/trip | 0 |
+| 🛴 e-Bike | 4.03 km (2.5 mi) | ~12 min | ~0.8 kg/trip | $3.50 (B-Cycle) | ~55 kcal |
 
-**Elevation gain:** ~15 m (50 ft) — essentially flat!  
+**Elevation gain:** ~15 m (50 ft) — essentially flat!
 **Net descent (southbound):** 30 m — a gentle slope toward downtown.
 
 ---
@@ -28,7 +28,7 @@
 | Segment | Distance | Walking Time | Biking Time | Notes |
 |---------|----------|-------------|-------------|-------|
 | Oak Avenue | 96.6 m | ~1 min | ~5 sec | Quiet residential street with American Elm canopy |
-| 19th Street | 2,157 m | ~3.5 min | ~1 min | Major N-S arterial; RTD bus routes 1, 3, 7, 10 |
+| 19th Street | 2,157 m | ~4.4 min | ~1.5 min | Major N-S arterial; RTD bus routes 1, 3, 7, 10 |
 | 20th St. connector | 106.1 m | ~10 sec | ~5 sec | Short connector block |
 | 20th Street | 565.6 m | ~1 min | ~20 sec | Continues south toward downtown |
 | Pearl Street | 216.2 m | ~1 min | ~10 sec | Historic Pearl Street Mall area — cafés & shops nearby |
@@ -62,21 +62,21 @@ End: 1800 Broadway (40.0163°N, 105.2790°W)
 | # | Street | Distance | Time | Type | Notes |
 |---|--------|----------|------|------|-------|
 | 1 | Oak Avenue | 96.6 m | ~1 min | Residential | Tree-lined, quiet, low traffic |
-| 2 | 19th Street | 2,157 m | ~3.5 min | Primary Arterial | ⚠️ Busiest segment — use sidewalk; RTD buses frequent |
+| 2 | 19th Street | 2,157 m | ~4.4 min | Primary Arterial | ⚠️ Busiest segment — use sidewalk; RTD buses frequent |
 | 3 | 20th St. | 106.1 m | ~10 sec | Residential | Short connector |
 | 4 | 20th Street | 565.6 m | ~1 min | Residential | Residential, tree-lined |
-| 5 | Pearl Street | 216.2 m | ~25 sec | Pearl Mall District | Dismount zone near mall; cafés nearby |
+| 5 | Pearl Street | 216.2 m | ~1 min | Pearl Mall District | Dismount zone near mall; cafés nearby |
 | 6 | 18th Street | 248.8 m | ~30 sec | Secondary | Downtown crossover; use crosswalks |
 | 7 | Canyon Boulevard | 636.6 m | ~1 min | Separated Path | ⭐ Dedicated pedestrian path — Flatirons views! |
 
-**Walking Total:** 48 minutes at comfortable 5 km/h pace (with signal waits)
+**Walking Total:** ~48 minutes at comfortable 5 km/h pace (including signal waits)
 
 ### Walking Advantages
 - **Zero cost** — no equipment or membership needed
 - **Health benefits** — ~400 kcal burned, cardiovascular exercise
 - **Zero emissions** — 100% CO₂-free
 - **Door-to-door** — no waiting or transfers
-- **Peaceful** — start on quiet Oak Avenue, end on scenic Canyon Blvd
+- **Peaceful** — starts on quiet Oak Avenue, ends on scenic Canyon Blvd
 
 ### Walking Challenges
 - **Busiest segment** — 2,157 m on 19th Street (54% of route)
@@ -106,14 +106,14 @@ End: 1800 Broadway (40.0163°N, 105.2790°W)
 | # | Street | Distance | Time | Infrastructure | Rating | Notes |
 |---|--------|----------|------|----------------|--------|-------|
 | 1 | Oak Avenue | 96.6 m | ~5 sec | Sidewalk shared | ⭐⭐ | Share with pedestrians |
-| 2 | 19th Street | 2,157 m | ~52 sec | Painted bike lane (4 ft) | ⭐⭐⭐ | ⚠️ DOORING RISK — ride in lane; 54% of route |
+| 2 | 19th Street | 2,157 m | ~1.5 min | Painted bike lane (4 ft) | ⭐⭐⭐ | ⚠️ DOORING RISK — ride in lane; 54% of route |
 | 3 | 20th St. | 106.1 m | ~4 sec | Road | ⭐⭐ | Short connector |
 | 4 | 20th Street | 565.6 m | ~12 sec | Road, no bike lane | ⭐⭐ | Residential low traffic |
 | 5 | Pearl Street | 216.2 m | ~5 sec | Sidewalk shared/ped mall | ⭐⭐ | **Dismount!** Walk bike through Pearl Mall zone |
 | 6 | 18th Street | 248.8 m | ~7 sec | Road shared | ⭐⭐ | Downtown intersection; watch for turning vehicles |
 | 7 | Canyon Boulevard | 636.6 m | ~15 sec | Separated bike lane | ⭐⭐⭐⭐⭐ | ⭐ Safest segment! Boulder's best bike infrastructure |
 
-**Biking Total:** 16 minutes at 15 km/h average (including stops)
+**Biking Total:** ~16 minutes at 15 km/h average (including stops)
 
 ### Biking Advantages
 - **Fast** — 16 min vs 48 min walking (3× faster)

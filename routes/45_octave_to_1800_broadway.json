@@ -1,0 +1,56 @@
+{
+  "route_id": "boulder-green-commute-45-oak-ave-to-1800-broadway",
+  "analysis_date": "2026-07-18",
+  "verification_source": "OpenStreetMap Valhalla Routing API",
+  "origin": {
+    "address": "45 Oak Avenue, Boulder, CO 80304",
+    "latitude": 40.0448805,
+    "longitude": -105.2738879
+  },
+  "destination": {
+    "address": "1800 Broadway, Boulder, CO 80302",
+    "latitude": 40.0163281,
+    "longitude": -105.2789726
+  },
+  "distance_meters": 4026.5,
+  "distance_km": 4.03,
+  "distance_miles": 2.50,
+  "elevation_gain_meters": 15,
+  "elevation_descent_meters": 30,
+  "modes": {
+    "walking": {
+      "estimated_time_minutes": 48,
+      "pace_kmh": 5.0,
+      "segments": [
+        {"street": "Oak Avenue", "distance_m": 96.6, "time_min": 1.2},
+        {"street": "19th Street", "distance_m": 2156.5, "time_min": 261.5},
+        {"street": "20th St. connector", "distance_m": 106.1, "time_min": 0.2},
+        {"street": "20th Street", "distance_m": 565.6, "time_min": 1.2},
+        {"street": "Pearl Street", "distance_m": 216.2, "time_min": 0.4},
+        {"street": "18th Street", "distance_m": 248.8, "time_min": 0.6},
+        {"street": "Canyon Boulevard", "distance_m": 636.6, "time_min": 1.0}
+      ]
+    },
+    "biking": {
+      "estimated_time_minutes": 16,
+      "pace_kmh": 15.0,
+      "segments": [
+        {"street": "Oak Avenue", "distance_m": 96.6, "time_min": 0.4},
+        {"street": "19th Street", "distance_m": 2156.5, "time_min": 8.7},
+        {"street": "20th St. connector", "distance_m": 106.1, "time_min": 0.04},
+        {"street": "20th Street", "distance_m": 565.6, "time_min": 0.2},
+        {"street": "Pearl Street", "distance_m": 216.2, "time_min": 0.08},
+        {"street": "18th Street", "distance_m": 248.8, "time_min": 0.12},
+        {"street": "Canyon Boulevard", "distance_m": 636.6, "time_min": 0.25}
+      ]
+    }
+  },
+  "co2_saved_per_trip_kg": {
+    "walking_vs_driving": 0.8,
+    "biking_vs_driving": 0.8
+  },
+  "annual_savings_250_trips": {
+    "co2_kg": 200,
+    "cost_usd": 500
+  }
+}
