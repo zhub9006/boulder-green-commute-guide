@@ -1,0 +1,49 @@
+{
+  "route_id": "45_oak_ave_to_1800_broadway",
+  "last_verified": "2026-07-18",
+  "source": "OpenStreetMap Valhalla Routing Engine",
+  "summary": {
+    "distance_km": 4.03,
+    "distance_miles": 2.5,
+    "walking": {
+      "estimated_time_minutes": 48,
+      "average_speed_kmh": 5.0,
+      "difficulty": "Easy-moderate",
+      "segments": [
+        {"street": "Oak Avenue", "distance_m": 96.6, "duration_seconds": 15.6, "notes": "Quiet residential start"},
+        {"street": "19th Street", "distance_m": 2156.5, "duration_seconds": 208.6, "notes": "Longest segment — main outbound walk"},
+        {"street": "20th St./20th Street", "distance_m": 671.7, "duration_seconds": 81.1, "notes": "East turn toward Pearl St"},
+        {"street": "Pearl Street", "distance_m": 216.2, "duration_seconds": 25.5, "notes": "Busy downtown ped crossing"},
+        {"street": "18th Street", "distance_m": 248.8, "duration_seconds": 36.9, "notes": "South toward Canyon Blvd"},
+        {"street": "Canyon Boulevard", "distance_m": 636.6, "duration_seconds": 58.5, "notes": "Scenic creek-side approach"},
+        {"street": "Arrival", "distance_m": 0, "duration_seconds": 0, "notes": "1800 Broadway"}
+      ]
+    },
+    "biking": {
+      "estimated_time_minutes": 16,
+      "average_speed_kmh": 15.1,
+      "difficulty": "Easy",
+      "segments": [
+        {"street": "Oak Avenue", "distance_m": 96.6, "duration_seconds": 15.6, "notes": "Quiet residential start"},
+        {"street": "19th Street", "distance_m": 2156.5, "duration_seconds": 208.6, "notes": "Use bike lane or sidewalk; moderate traffic"},
+        {"street": "20th St./20th Street", "distance_m": 671.7, "duration_seconds": 81.1, "notes": "Bypass for downtown approach"},
+        {"street": "Pearl Street (alternate: 17th St. bike lane)", "distance_m": 216.2, "duration_seconds": 25.5, "notes": "VERY congested — recommend 17th St. detour instead"},
+        {"street": "18th Street", "distance_m": 248.8, "duration_seconds": 36.9, "notes": "Watch for right-turning cars at Broadway"},
+        {"street": "Canyon Boulevard", "distance_m": 636.6, "duration_seconds": 58.5, "notes": "Dedicated bike path along Boulder Creek — highlight!"},
+        {"street": "Arrival", "distance_m": 0, "duration_seconds": 0, "notes": "1800 Broadway"}
+      ]
+    },
+    "elevation": {
+      "net_change_meters": "-60 to -80 (southward descent)",
+      "steepest_grade": "Canyon Boulevard near creek",
+      "overall_rating": "Gentle — beginner friendly"
+    },
+    "recommended_mode": "biking",
+    "recommended_alternate_route": {
+      "detour": "Replace Pearl Street with 17th Street (parallel bike lane)",
+      "safety_improvement": "Avoids downtown Pearl congestion",
+      "distance_delta": "+200m",
+      "time_delta": "+1 min"
+    }
+  }
+}
