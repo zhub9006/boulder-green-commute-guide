@@ -21,28 +21,30 @@
 | **Total Distance** | 4.03 km (2.5 miles) |
 | **Estimated Time** | 48–52 minutes |
 | **Elevation Change** | ~60m descent (north to south) |
+| **Avg Walking Pace** | 4.6 km/h |
+| **Calories Burned** | ~200 kcal |
 
 ### Turn-by-Turn Walking Directions
 
-| # | Street | Distance | Notes |
-|---|--------|----------|-------|
-| 1 | Oak Avenue | 97 m | Head south from home |
-| 2 | 19th Street | 2.16 km | Main north-south corridor; stay on the east side |
-| 3 | 20th Street (brief segment) | 106 m | Connects 19th to 20th |
-| 4 | 20th Street (main) | 566 m | Continue south toward Pearl |
-| 5 | Pearl Street | 216 m | Historic downtown corridor; watch for pedestrians |
-| 6 | 18th Street | 249 m | Short east-west connector |
-| 7 | Canyon Boulevard | 637 m | Scenic path along the creek; arrive at Broadway |
+| # | Street | Distance | Time est. | Notes |
+|---|--------|----------|-----------|-------|
+| 1 | Oak Avenue | 97 m | ~1 min | Head south from home; quiet residential, paved sidewalk |
+| 2 | 19th Street | 2,157 m | ~3.5 min | Main north-south corridor; stay on the east side; bike lane present |
+| 3 | 20th St (brief) | 106 m | ~12 sec | Quick connector from 19th to 20th |
+| 4 | 20th Street (main) | 566 m | ~1.2 min | Continue south toward Pearl; moderate traffic |
+| 5 | Pearl Street | 216 m | ~26 sec | Historic downtown corridor; watch for pedestrians |
+| 6 | 18th Street | 249 m | ~37 sec | Short east-west connector toward Canyon |
+| 7 | Canyon Boulevard | 637 m | ~1 min | Scenic shared-use path along the creek; arrive at Broadway |
 
-### 🛡️ Walking Safety Rating: ⭐⭐⭐⭐ (4/5)
-- **Low traffic** on 19th Street (residential)
+### 🚏 Walking Safety Rating: ⭐⭐⭐⭐ (4/5)
+- **Low traffic** on 19th Street (residential, 25 mph limit)
 - **Crosswalks** at all major intersections (Pearl, 18th, Canyon)
-- **Canyon Boulevard** section is a shared-use path
+- **Canyon Boulevard** section is a fully separated shared-use path
 - **Tip:** Use the 20th Street→Pearl→18th→Canyon route to avoid heavier traffic on Arapahoe
 
 ### 🌤️ Seasonal Walking Tips
 - **Summer:** Start early; 5 km walk in warm weather is comfortable
-t- **Winter:** Ice on Canyon Boulevard can be slippery — use traction devices
+- **Winter:** Ice on Canyon Boulevard can be slippery — use traction devices
 - **Spring/Fall:** Ideal conditions; good daylight hours for the commute
 
 ---
@@ -54,20 +56,22 @@ t- **Winter:** Ice on Canyon Boulevard can be slippery — use traction devices
 | **Total Distance** | 4.03 km (2.5 miles) |
 | **Estimated Time** | 14–18 minutes |
 | **Elevation Change** | ~60m descent (net) |
+| **Avg Biking Speed** | ~13.4 km/h |
+| **Calories Burned** | ~150 kcal |
 
 ### Turn-by-Turn Biking Directions
 
-| # | Street | Distance | Notes |
-|---|--------|----------|-------|
-| 1 | Oak Avenue | 97 m | Head south; ride on the right side of the street |
-| 2 | 19th Street | 2.16 km | Bike lane on the east side; steady pace |
-| 3 | 20th Street (brief segment) | 106 m | Quick connector; look for bikes at the junction |
-| 4 | 20th Street (main) | 566 m | Continue south; watch for cars at the Pearl intersection |
-| 5 | Pearl Street | 216 m | Share the road with pedestrians; slow down |
-| 6 | 18th Street | 249 m | Short connector toward the creek path |
-| 7 | Canyon Boulevard | 637 m | **Best biking segment** — wide paved path, separate from cars. Scenic creek views |
+| # | Street | Distance | Time est. | Speed est. | Notes |
+|---|--------|----------|-----------|-----------|-------|
+| 1 | Oak Avenue | 97 m | ~10 sec | — | Head south; ride on the right side of the street; 25 mph limit |
+| 2 | 19th Street | 2,157 m | ~3.5 min | ~19 km/h | Bike lane on the east side; steady pace |
+| 3 | 20th St (brief) | 106 m | ~7 sec | — | Quick connector; watch for bikes at the junction |
+| 4 | 20th Street (main) | 566 m | ~41 sec | — | Watch for cars at the Pearl intersection |
+| 5 | Pearl Street | 216 m | ~15 sec | — | Share the road with pedestrians; slow down |
+| 6 | 18th Street | 249 m | ~19 sec | — | Short connector toward the creek path |
+| 7 | Canyon Boulevard | 637 m | ~41 sec | ~19 km/h | **Best biking segment** — wide paved path, separate from cars. Scenic creek views |
 
-### 🛡️ Biking Safety Rating: ⭐⭐⭐⭐⭐ (5/5)
+### 🚏 Biking Safety Rating: ⭐⭐⭐⭐⭐ (5/5)
 - **Dedicated bike infrastructure** on 19th and 20th Streets
 - **Canyon Boulevard path** is fully separated from vehicle traffic
 - **Low-stress route** overall — no highway crossings
