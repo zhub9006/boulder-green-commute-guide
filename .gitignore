@@ -1,12 +1,4 @@
-node_modules/
-*.map
-*.min.js
+*.zip
+*.pdf
 .DS_Store
-Thumbs.db
-photos/raw/
-*.bak
-*.swp
-.vscode/
-.idea/
-secret.key
-.env
+node_modules
