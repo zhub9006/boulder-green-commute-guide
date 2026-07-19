@@ -31,12 +31,12 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 |------|-------------|
 | ✅ `verified-walk-bike-commute-analysis.md` | Full verified turn-by-turn walking & biking analysis with safety ratings, seasonal tips, and environmental impact |
 | 📊 `route-comparison-walk-vs-bike.md` | Head-to-head comparison of walking vs. biking for this commute — when to choose which |
-| 📊 `walk_bike_analysis_45_oak_to_1800_broadway.md` | Detailed segment-by-segment walk & bike breakdown with GPS data |
-| 📁 `verified-route-data/45_oak_ave_to_1800_broadway_geometry.json` | Machine-readable route geometry JSON with verified GPS coordinates |
+| 📊 `walk_bike_analysis_45_oak_to_1800_broadway.md` | Detailed segment-by-segment walk & bike breakdown |
+| 📁 `data/` + `verified-route-data/` | Machine-readable route geometry JSON files with verified GPS coordinates |
 | 💡 `boulder_commute_tips.md` | Sustainable travel tips for Boulder year-round |
 | 🌍 `emissions-impact.md` | Environmental and health benefit calculations |
 | 🚌 `resources.md` | Boulder transit, B-Cycle, and RTD bus connections |
-| 🏘️ `neighborhood-context.md` | Neighborhood profile for both ends of the commute |
+| 🏙️ `neighborhood-context.md` | Neighborhood profile for both ends of the commute |
 | 📋 `CONTRIBUTING.md` | How to add new routes and contribute to the guide |
 
 ---
@@ -49,8 +49,8 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 - 📁 **[Route Geometry Data](verified-route-data/45_oak_ave_to_1800_broadway_geometry.json)** — Machine-readable route geometry and timing (verified July 2026)
 - 💡 **[Sustainable Travel Tips](boulder_commute_tips.md)** — Make your commute greener year-round
 - 🌍 **[Environmental Impact](emissions-impact.md)** — Understand your carbon and health savings
-- 🚌 **[Boulder Transit Resources](resources.md)** — Local infrastructure, B-Cycle, and RTD bus connections
-- 🏘️ **[Neighborhood Context](neighborhood-context.md)** — What you'll pass through on your commute
+- 🚌 **[Boulder Transit Resources](resources.md)** — Local infrastructure, B-Cycle, and RTD bus connections |
+| 🏙️ **[Neighborhood Context](neighborhood-context.md)** — What you'll pass through on your commute |
 
 ---
 
