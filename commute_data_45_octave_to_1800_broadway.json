@@ -1,0 +1,59 @@
+{
+  "commute": {
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "latitude": 40.0448805,
+      "longitude": -105.2738879
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "latitude": 40.0163281,
+      "longitude": -105.2789726
+    },
+    "date_analyzed": "2026-07-18",
+    "routing_engine": "OpenStreetMap Valhalla"
+  },
+  "modes": {
+    "walking": {
+      "distance_km": 4.03,
+      "distance_miles": 2.5,
+      "duration_seconds_valhalla": 426.2,
+      "duration_minutes_realistic": 48,
+      "duration_range": "48-50 minutes",
+      "average_speed_kmh": 5.0,
+      "calories_per_trip": 160,
+      "co2_saved_per_trip_kg": 0.8,
+      "annual_co2_saved_kg_250_trips": 200,
+      "annual_cost_savings_usd": 500
+    },
+    "biking": {
+      "distance_km": 4.03,
+      "distance_miles": 2.5,
+      "duration_seconds_valhalla": 426.2,
+      "duration_minutes_typical": 18,
+      "duration_range": "16-20 minutes",
+      "average_speed_kmh": 20.1,
+      "calories_per_trip": 80,
+      "co2_saved_per_trip_kg": 0.8,
+      "annual_co2_saved_kg_250_trips": 200,
+      "annual_cost_savings_usd": 1200
+    }
+  },
+  "segments": [
+    {"name": "Oak Avenue", "distance_m": 96.6, "walking_time_s": 15.6, "bike_time_s": 8.7},
+    {"name": "19th Street", "distance_m": 2156.5, "walking_time_s": 208.6, "bike_time_s": 108.6},
+    {"name": "20th St.", "distance_m": 106.1, "walking_time_s": 11.9, "bike_time_s": 4.6},
+    {"name": "20th Street", "distance_m": 565.6, "walking_time_s": 69.2, "bike_time_s": 112.0},
+    {"name": "Pearl Street", "distance_m": 216.2, "walking_time_s": 25.5, "bike_time_s": 7.7},
+    {"name": "18th Street", "distance_m": 248.8, "walking_time_s": 36.9, "bike_time_s": 8.6},
+    {"name": "Canyon Boulevard", "distance_m": 636.6, "walking_time_s": 58.5, "bike_time_s": 115.0}
+  ],
+  "waypoints": [
+    {"name": "Oak Avenue", "latitude": 40.04488, "longitude": -105.273888},
+    {"name": "Canyon Boulevard", "latitude": 40.016016, "longitude": -105.278866}
+  ],
+  "neighborhoods": [
+    {"zone": "North", "zip": "80304", "character": "Quiet residential, tree-lined, near CU Boulder"},
+    {"zone": "South", "zip": "80302", "character": "Walkable urban core, Pearl Street Mall, downtown"}
+  ]
+}

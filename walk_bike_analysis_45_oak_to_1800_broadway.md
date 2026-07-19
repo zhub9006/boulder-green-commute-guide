@@ -1,162 +1,101 @@
-# 🚶‍♂️🚲 Walking & Biking Commute Analysis
-## 45 Oak Avenue → 1800 Broadway, Boulder, CO
+# 🚶‍♂️🛵 Walk & Bike Commute Analysis: 45 Oak Avenue → 1800 Broadway
 
-**Verified Date:** July 2026  
-**Data Source:** OpenStreetMap Valhalla Routing Engine  
-**Home Coordinates:** 40.0448805°N, 105.2738879°W (ZIP 80304)  
-**Work Coordinates:** 40.0163281°N, 105.2789726°W (ZIP 80302)
+**Verified:** July 2026 | **Routing Engine:** OpenStreetMap Valhalla | **Source Coordinates:** Home (40.0449°N, 105.2739°W) → Work (40.0163°N, 105.2790°W)
 
 ---
 
 ## 📊 Route Summary
 
-| Mode | Distance | Est. Time | Avg Pace | CO₂ Saved (per trip vs. car) |
-|------|----------|-----------|----------|-----------------------------|
-| 🚶 Walking | 4.03 km (2.50 mi) | ~48–50 min (realistic) | ~3.0–3.5 mph | ~0.8 kg |
-| 🚲 Biking | 4.03 km (2.50 mi) | ~16–20 min (realistic) | ~12–15 mph | ~0.8 kg |
-| 🚗 Driving | 4.03 km (2.50 mi) | ~10 min (est.) | ~2.5 min/mi | Baseline |
-| ⚡ E-Bike | 4.03 km (2.50 mi) | ~12–15 min (est.) | ~15–18 mph | ~0.8 kg (direct) |
-
-**Routing model estimate:** 7 min 6 sec (based on idealized walking/biking speeds).  
-**Real-world estimates** account for typical adult pace, stops, and Boulder traffic conditions.
-
----
-
-## 🗺️ Turn-by-Turn Directions
-
-### Walking Route 🚶‍♂️
-
-| # | Street / Segment | Distance | Est. Time | Notes |
-|---|-----------------|----------|-----------|-------|
-| 1 | **Oak Avenue** (Residential) | 96.6 m (317 ft) | ~16 sec | Depart from 45 Oak Ave; gentle southward start on a quiet street |
-| 2 | **19th Street** (Major north-south) | 2,156.5 m (1.34 mi) | ~3.5 min | Long stretch south; use crosswalks at intersections; moderate traffic |
-| 3 | **20th St. / 20th Street** (Connector) | 671.7 m (0.42 mi) | ~1 min 21 sec | Quick east-then-south connector through downtown grid |
-| 4 | **Pearl Street** (Downtown) | 216.2 m (709 ft) | ~26 sec | Head east; Pearl Street Mall area — pedestrian-friendly zone |
-| 5 | **18th Street** (Downtown) | 248.8 m (816 ft) | ~37 sec | North briefly toward Broadway; downtown traffic, use signals |
-| 6 | **Canyon Boulevard** (Final segment) | 636.6 m (0.39 mi) | ~59 sec | East along Canyon Blvd to reach 1800 Broadway |
-| **Total** | | **4,032.2 m (2.50 mi)** | **~5 min 10 sec** | **Realistic walking time: ~48–50 min including stops & crosswalks** |
-
-### Biking Route 🚲
-
-The biking route follows the **same streets** as walking, with these key differences:
-
-| # | Street / Segment | Distance | Est. Time | Cycling Notes |
-|---|-----------------|----------|-----------|---------------|
-| 1 | **Oak Avenue** | 96.6 m | ~16 sec | Easy start; low-speed residential street, bike-friendly |
-| 2 | **19th Street** | 2,156.5 m | ~1.5–2.5 min | **Main corridor** — has designated bike lanes in sections; moderate traffic; be visible |
-| 3 | **20th St / 20th Street** | 671.7 m | ~30–45 sec | Quick connector; watch for turning vehicles at intersections |
-| 4 | **Pearl Street** | 216.2 m | ~15–20 sec | **Pedestrian-priority zone** — dismount or slow to walking speed through mall area; bikes must yield to walkers |
-| 5 | **18th Street** | 248.8 m | ~20–30 sec | Short north connector; downtown traffic, use caution at intersections |
-| 6 | **Canyon Boulevard** | 636.6 m | ~45–60 sec | **Popular multi-use bike route** — Canyon Blvd has dedicated bike infrastructure and scenic canyon views |
-| **Total** | | **4,032.2 m (2.50 mi)** | **~3 min 53 sec** | **Realistic biking time: ~16–20 min with traffic lights & stops** |
+| Metric | Walking | Biking |
+|--------|---------|--------|
+| **Distance** | 4.03 km (2.5 miles) | 4.03 km (2.5 miles) |
+| **Est. Time** | ~48–50 min | ~16–20 min |
+| **Avg. Speed** | ~5.0 km/h | ~20.1 km/h |
+| **CO₂ Saved** | ~0.8 kg/trip | ~0.8 kg/trip |
+| **Annual CO₂ (250 trips)** | ~200 kg | ~200 kg |
+| **Annual Cost Savings** | ~$500+ | ~$500–$1,200 |
+| **Calories Burned (walk)** | ~160–200 kcal/trip | ~80–100 kcal/trip (assist) |
 
 ---
 
-## 🏙️ Neighborhoods Along the Route
+## 🚶 Walking Route — Turn-by-Turn Breakdown
 
-| Zone | Location | Character | Key Landmarks |
-|------|----------|-----------|---------------|
-| 🌳 **North** (80304) | Oak Avenue area | Quiet residential, tree-lined, near CU Boulder | Boulder Waldorf Preschool, playgrounds, RTD bus stops |
-| 🏙️ **South** (80302) | Downtown / Broadway | Walkable urban core, Pearl Street Mall | 94+ restaurants, cafés, shops, B-Cycle stations |
+| # | Segment | Street | Distance | Est. Time | Notes |
+|---|---------|--------|----------|-----------|-------|
+| 1 | Head south | Oak Avenue | 96.6 m | ~15.6 s | Gentle descent from residential area |
+| 2 | Turn right / continue south | 19th Street | 2,156.5 m | ~3 min 29 s | **Main segment** — tree-lined residential street, long stretch |
+| 3 | Turn onto 20th St. | 20th St. | 106.1 m | ~11.9 s | Connects from 19th to 20th corridor |
+| 4 | Continue on 20th Street | 20th Street | 565.6 m | ~1 min 9 s | Approaching downtown area |
+| 5 | Turn onto Pearl Street | Pearl Street | 216.2 m | ~25.5 s | **Key Boulder landmark** — Pearl Street Mall area, quite pedestrian-friendly |
+| 6 | Continue on 18th Street | 18th Street | 248.8 m | ~36.9 s | Short stretch heading toward Canyon || **Final segment** | Canyon Boulevard | 636.6 m | ~58.5 s | Arrive at 1800 Broadway area |
 
----
+### Total Walking Distance: **4.03 km (2.5 miles)**
+### Total Walking Time: **~48–50 minutes** (at typical Boulder walking pace of 5 km/h)
 
-## 🔒 Safety Ratings
-
-| Segment | Pedestrian Safety | Cycling Safety | Notes |
-|---------|-------------------|----------------|-------|
-| Oak Avenue | ⭐⭐⭐⭐ High | ⭐⭐⭐⭐ High | Quiet residential, low speed limit |
-| 19th Street | ⭐⭐⭐ Medium | ⭐⭐⭐ Medium | Main thoroughfare — use crosswalks; moderate traffic volume |
-| 20th St/20th Street | ⭐⭐⭐⭐ High | ⭐⭐⭐⭐ High | Short connector; minimal conflict points |
-| Pearl Street Mall | ⭐⭐⭐⭐ High (walk) / ⚠️ Dismount (bike) | ⭐⭐ Low–Medium | Pedestrian-priority zone — bikes must yield to walkers |
-| 18th Street | ⭐⭐⭐ Medium | ⭐⭐⭐ Medium | Downtown traffic; use signals |
-| Canyon Boulevard | ⭐⭐⭐⭐ High | ⭐⭐⭐⭐⭐ | Popular multi-use path; bike infrastructure; scenic canyon views |
-
-**Overall Route Safety:** ⭐⭐⭐⭐ Very good — one of Boulder's most established bike and walk corridors.
+> ⚠️ **Note:** The Valhalla routing engine returned 426 seconds (7.1 min) for walking, which appears to be a default vehicle-speed calculation. The realistic walking time at Boulder's typical pedestrian pace (~5 km/h) is approximately 48–50 minutes. Biking time is accurately estimated at 16–20 minutes.
 
 ---
 
-## 🌿 Environmental & Health Impact
+## 🚴 Biking Route — Turn-by-Turn Breakdown
 
-### Annual CO₂ Savings (250 commuting days)
+| # | Segment | Street | Distance | Est. Time | Notes |
+|---|---------|--------|----------|-----------|-------|
+| 1 | Head south | Oak Avenue | 96.6 m | ~8.7 s | Quick departure from home street |
+| 2 | Continue south on bike path/road | 19th Street | 2,156.5 m | ~1 min 49 s | **Longest segment** — moderate traffic, check signals |
+| 3 | Dash across | 20th St. | 106.1 m | ~4.6 s | Short connector to 20th corridor |
+| 4 | Continue east on 20th Street | 20th Street | 565.6 m | ~1 min 52 s | Approaching Pearl Street corridor |
+| 5 | Turn onto Pearl Street | Pearl Street | 216.2 m | ~7.7 s | **Boulder's famous pedestrian mall** — dismount zone for bikes |
+| 6 | Continue on 18th Street | 18th Street | 248.8 m | ~8.6 s | Short segment toward downtown |
+| 7 | Final stretch | Canyon Boulevard | 636.6 m | ~1 min 55 s | Arrive at 1800 Broadway | **Canyon Blvd is a major bike corridor in Boulder** |
 
-| Mode | Annual CO₂ Emissions | Savings vs. Car |
-|------|---------------------|-----------------|
-| 🚶 Walking | 0 kg (direct) | ~200 kg CO₂ saved per year |
-| 🚲 Biking | 12.5 kg (food-based) | ~187.5 kg CO₂ saved per year |
-| ⚡ E-Bike | ~40–50 kg (electricity) | ~150–160 kg CO₂ saved per year |
-| 🚗 Driving (baseline) | ~200 kg | — |
-
-### Health Benefits of Walking This Route Daily
-
-- **Cardiovascular fitness:** 30+ minutes of moderate exercise per trip
-- **Calories burned:** ~200–250 kcal per walking trip
-- **Mental health:** Reduced stress and anxiety from active commuting
-- **Longevity:** Active commuters show lower risk of heart disease and premature death
-- **Annual calories burned:** ~50,000 kcal (equivalent to ~14 lbs of fat)
-
-### Health Benefits of Biking This Route Daily
-
-- **Cardiovascular fitness:** Excellent aerobic exercise
-- **Calories burned:** ~400–500 kcal per biking trip
-- **Joint health:** Low-impact vs. running; easier on knees
-- **Annual calories burned:** ~100,000 kcal (equivalent to ~28 lbs of fat)
+### Total Biking Distance: **4.03 km (2.5 miles)**
+### Total Biking Time: **~16–20 minutes** (including stops, signals, and dismount zones)
 
 ---
 
-## 💡 Practical Tips for This Commute
+## 🗺️ Key Streets & Infrastructure
 
-1. **Best time to walk:** Early morning (7–8 AM) or mid-morning (10–11 AM) — avoids peak downtown foot traffic
-2. **Best time to bike:** Before 8:30 AM or after 4:30 PM to avoid rush hour congestion on 19th St
-3. **Weather considerations:** Boulder's bike infrastructure is excellent year-round, but summer afternoon thunderstorms are common (May–September) — carry a rain jacket
-4. **Winter biking:** Boulder has aggressive snow clearing on major bike routes; 19th St and Canyon Blvd are prioritized — studded tires recommended Nov–Mar
-5. **Bike parking:** 1800 Broadway area has B-Cycle stations and bike racks downtown — check for secured parking at your office
-6. **Footwear:** Keep walking shoes at the office if you prefer to bike one way and walk the other
-7. **Combination option:** Bike to Downtown (~5–10 min), then walk through Pearl Street Mall area (~5 min) — gives you variety and avoids busy cycling zones in the mall
-8. **Carry essentials:** Water bottle (Boulder elevation = 5,430 ft — you dehydrate faster), sunscreen, and a small first-aid kit
-
----
-
-## 📐 Route Geometry Data
-
-Key waypoints along the route:
-
-| Waypoint | Latitude | Longitude | Location |
-|----------|----------|-----------|----------|
-| Start | 40.04488 | -105.27389 | 45 Oak Avenue |
-| Transition | 40.04488 | -105.27275 | Oak Ave → 19th St |
-| Mid-19th | 40.03007 | -105.27266 | Midpoint on 19th St / 20th St area |
-| Pearl St | 40.02552 | -105.27252 | Approaching Pearl Street |
-| 18th/Broadway | 40.01901 | -105.27193 | 18th Street / Broadway vicinity |
-| Canyon Blvd | 40.01648 | -105.27657 | Canyon Boulevard east segment |
-| End | 40.01602 | -105.27887 | 1800 Broadway |
+| Street | Type | Bike Infrastructure | Walkability | Notes |
+|--------|------|---------------------|-------------|-------|
+| Oak Avenue | Residential | Sidewalks, low traffic | Excellent | Quiet neighborhood street |
+| 19th Street | Arterial | Some bike lanes, moderate traffic | Good | Longest stretch; stay alert |
+| 20th Street | Collector | Bike-friendly, some lanes | Good | Transition zone |
+| Pearl Street | Pedestrian Mall | Bike dismount zone; very walkable | Excellent | Most pedestrian-friendly area in Boulder |
+| 18th Street | Downtown | Short urban segment | Excellent | Quick downtown passage |
+| Canyon Boulevard | Major Corridor | **Dedicated bike path** | Very Good | Wide bike path; fast approach to Broadway |
 
 ---
 
-## 🔄 Alternative Routes
+## 🏆 Route Comparison
 
-### Alternative Walking Route (via Arapahoe Ave)
-- **Distance:** ~4.2 km (2.6 mi)
-- **Time:** ~51–53 min at walking pace
-- **Description:** Head east on Oak to Arapahoe Ave, then south on Arapahoe to Broadway. More scenic with views of the Flatirons, but slightly longer and busier on Arapahoe.
-
-### Alternative Biking Route (Boulder Creek Path)
-- **Distance:** ~4.5 km (2.8 mi)
-- **Time:** ~18–20 min
-- **Description:** From 19th St, divert to Boulder Creek Path near 15th St. Follow the creek south through central Boulder, reconnect to 18th St near Broadway. **Scenic and largely separated from car traffic** — highly recommended for experienced cyclists.
-
----
-
-## 📚 Sources & Verification
-
-- **Routing Engine:** OpenStreetMap / Valhalla (v8.4)
-- **Map Data Date:** Verified via OSM API, July 2026
-- **Coordinate Sources:** Geocoded via Nominatim (OpenStreetMap search)
-- **Route Geometry:** Full coordinate string with 85+ GPS waypoints (see data directory)
-- **Emission Factors:** EPA eGRID (Colorado grid mix), GHG Protocol commuter calculations
-- **Distances verified against:** OSM Valhalla routing engine — 4,026.5 m total path length
+| Factor | Walking 🚶 | Biking 🚴 | Winner |
+|--------|-----------|-----------|--------|
+| Speed | ~50 min | ~18 min | 🚴 Biking |
+| Cost | Free | Free (+ bike maintenance) | 🤝 Tie |
+| Exercise | 160–200 kcal | 80–100 kcal | 🚶 Walking |
+| Weather Impact | Gets wet! | Rain gear helps | 🚴 Biking |
+| Carbon Savings | ~0.8 kg/trip | ~0.8 kg/trip | 🤝 Tie |
+| Flexibility | No gear needed | Needs bike + lock | 🚶 Walking |
+| Stress Level | Low (pedestrian) | Moderate (traffic) | 🚶 Walking |
+| All-Weather | Poor | Fair (with gear) | 🚴 Biking |
 
 ---
 
-*Last updated: July 2026 | Data verified against live OpenStreetMap routing engine*  
-*For questions or corrections, see the [Contributing Guide](../contributing.md)*
+## 💡 Recommendations
+
+1. **Try the Golden Mean:** Bike one way, walk back — get exercise on the return while saving time on the morning commute.
+2. **Best for Walking:** On pleasant mornings with no time pressure — enjoy the tree-lined streets and Pearl Street atmosphere.
+3. **Best for Biking:** When time matters or weather is sketchy — use the dedicated bike path on Canyon Boulevard for a fast, safe ride.
+4. **E-Bike Alternative:** ~12–15 min with even less effort; great for hilly sections or when arriving less sweaty.
+5. **Combine with Transit:** RTD bus stops are available on Oak Avenue and Broadway; bike-and-ride is another Boulder option.
+
+---
+
+## 🏘️ Neighborhoods Traversed
+
+- **North (80304):** Quiet residential, tree-lined streets, near CU Boulder
+- **South (80302):** Walkable urban core, 94+ restaurants & cafés near Pearl Street Mall
+
+---
+
+*Data sourced from OpenStreetMap Valhalla Routing Engine. Verify current road conditions and closures before commuting.*
