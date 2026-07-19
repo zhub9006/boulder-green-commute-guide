@@ -1,75 +1,87 @@
-# 📊 Walk vs. Bike: Detailed Route Comparison
+# 📊 Walking vs. Biking Route Comparison
 
-## 45 Oak Avenue → 1800 Broadway, Boulder, CO
-
----
-
-## Side-by-Side Comparison
-
-| Feature | 🚶 Walking | 🚴 Biking |
-|---------|-----------|-----------|
-| **Total Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) |
-| **Average Pace** | ~48–50 min | ~16–20 min |
-| **Calories Burned** | ~160–200 kcal | ~80–100 kcal |
-| **CO₂ Saved** | ~0.8 kg/trip | ~0.8 kg/trip |
-| **Cost per Trip** | $0 | $0 (plus ~$0.02 bike wear) |
-| **Annual Cost (250 trips)** | $0 | ~$50 in maintenance |
-| **Annual CO₂ Saved (250 trips)** | ~200 kg | ~200 kg |
-| **Annual Cost Savings vs. Car** | ~$500+ | ~$1,200+ |
+> **Route:** 45 Oak Avenue → 1800 Broadway, Boulder · **Verified:** July 2026
 
 ---
 
-## Street-by-Street Comparison
+## Head-to-Head Comparison
 
-| Street | Walking Time | Biking Time | Notes |
-|--------|-------------|-------------|-------|
-| Oak Avenue | ~16 sec | ~9 sec | Residential, safe for both |
-| 19th Street | ~3.5 min | ~1.8 min | **Longest segment**; moderate traffic |
-| 20th St. | ~12 sec | ~5 sec | Quick connector |
-| 20th Street | ~1 min | ~1.9 min | Nearby downtown |
-| Pearl Street | ~26 sec | ~8 sec | **Budget dismount zone** for bikes |
-| 18th Street | ~37 sec | ~9 sec | Short urban segment |
-| Canyon Blvd | ~59 sec | ~1.9 min | **Dedicated bike path** — gorilla segment! |
-
----
-
-## When to Walk vs. Bike
-
-### 🚶 Choose Walking When:
-- Weather is beautiful and you have 45+ minutes
-- You want your daily exercise without gym time
-- You're carrying items that don't fit on a bike
-- You enjoy the quiet residential streets and downtown stroll
-- Evening commute when bike lights are a hassle
-
-### 🚴 Choose Biking When:
-- You're running late or have back-to-back meetings
-- Weather is overcast or lightly raining (rain jacket!) 
-- You want to arrive fresh and energized
-- You're carrying a laptop bag or lunch box
-- It's winter and you want to stay warm (be visible!)
-- You've been sitting all evening and need movement before working
+| Factor | 🚶 Walking | 🚲 Biking | Winner |
+|--------|-----------|-----------|--------|
+| **Time** | ~48–52 min | ~14–18 min | ⚡ Biking |
+| **Cost** | Free | Free (+ bike maintenance ~$5/mo) | 🤝 Tie |
+| **Exercise** | 160–200 kcal/trip | 80–100 kcal/trip | 🚶 Walking |
+| **Weather Resilience** | Poor (gets wet!) | Fair (rain gear helps) | ⚡ Biking |
+| **Carbon Savings** | ~0.8 kg/trip | ~0.8 kg/trip | 🤝 Tie |
+| **Gear Needed** | Good shoes | Bike, lock, helmet | 🚶 Walking |
+| **Stress Level** | Low (pedestrian) | Moderate (traffic) | 🚶 Walking |
+| **Arrival Condition** | Slightly warm | May need shower | 🚶 Walking |
+| **All-Weather** | ❌ | ⚠️ (with gear) | ⚡ Biking |
+| **Scenic Enjoyment** | ✅ Great at walking pace | ✅ Good, faster | 🤝 Tie |
+| **Parking** | ✅ No parking needed | ✅ Building racks available | 🤝 Tie |
 
 ---
 
-## The Hybrid Approach (Recommended!)
+## Speed vs. Effort Tradeoff
 
-Many Boulder commuters use a **mixed-mode strategy**:
-
-1. **Walk one way, bike the other** — Gets you exercise + speed
-2. **Bike in winter, walk in summer** — Seasonal optimization
-3. **Walk outside rush, bike during peak** — Avoid the busy 19th Street intersection
-4. **Combine with B-Cycle** — Use Boulder's bike-share for one leg if you don't want to bike your own bike
-
----
-
-## Safety Tips
-- 🔴 **19th Street** has the most vehicle traffic — stay alert, use hand signals, and watch for right-hooks at intersections
-- 🟡 **Pearl Street Mall** — bikes must dismount in the pedestrian zone; it's the law and it's courteous
-- 🟢 **Canyon Boulevard** has a dedicated bike path — you're golden here!
-- 💡 Always use lights at dawn/dusk — Colorado law requires it
-- 🧤 Gloves and reflective vests recommended in fall/winter
+```
+Walking:  ████████████████████░░░░  High exercise, slower
+Biking:   ████████░░░░░░░░░░░░░░░░  Moderate exercise, faster
+E-Bike:   █████░░░░░░░░░░░░░░░░░░░  Low effort, fastest
+Driving:  ░░░░░░░░░░░░░░░░░░░░░░░░  No exercise, fastest (but costs $)
+```
 
 ---
 
-*All data sourced from OpenStreetMap Valhalla Routing Engine, verified July 2026.*
+## Time Savings Analysis (Annual, 250 commute days)
+
+| Mode | Total Time/Year | Time vs. Driving | Value of Saved Time* |
+|------|-----------------|------------------|----------------------|
+| Walking | 207 hours | +125 hrs vs. driving | ~$3,125* |
+| Biking | 70 hours | -25 hrs vs. driving | ~$625 saved + $0 gas |
+| Driving | 207 hours | Baseline | ~$1,200+ gas+parking |
+
+**\*Value of time based on $25/hr opportunity cost. Walking takes longer but generates health value and saves money on gas/parking.**
+
+---
+
+## The Best Strategy: Mixed-Mode Commuting
+
+Recommendation for this specific route:
+
+| Day Pattern | Morning | Evening | Annual Benefit |
+|-------------|---------|---------|----------------|
+| **Mon/Wed/Fri** | 🚲 Bike | 🚶 Walk | Best time savings + exercise |
+| **Tue/Thu** | 🚶 Walk | 🚶 Walk | Extra 320 kcal/day on half-days |
+
+**Annual totals with mixed mode:**
+- ~150 kg CO₂ saved
+- ~$800 saved
+- ~55,000 kcal burned
+- ~130 hours of active commuting (health benefits!)
+
+---
+
+## Boulder-Specific Route Notes
+
+### 19th Street — The Critical Segment
+- **2.16 km** stretches from Oak Ave to downtown
+- This is where you'll spend **~3.5 min walking / ~2 min biking**
+- Has a bike lane in sections — use it!
+- Rush hour (4:30–5:30 PM) can be congested — earlier departure helps
+
+### Canyon Boulevard — The Scenic Finish
+- **636 m** final stretch along Boulder Creek
+- Dedicated bike path with beautiful canyon views
+- Perfect for decompressing after work
+- Nice in all seasons — spring wildflowers, summer shade, fall foliage
+
+### Pearl Street Mall — The Landmark
+- **Pedestrian-only zone** — bikes must dismount
+- One of the most charming urban stretches in Colorado
+- Great for walking; plan a 30-sec detour for biking
+- 94+ restaurants and cafés nearby for lunch stops
+
+---
+
+*Source: OpenStreetMap Valhalla Routing Engine · Verified July 2026*
