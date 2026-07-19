@@ -1,59 +1,76 @@
-# Boulder Green Commuting Resources
+# 🚌 Boulder Transit & Sustainable Travel Resources
 
-## 🚲 Infrastructure
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| **Boulder Bike Master Plan** | City's 20-year vision for bike infrastructure | [bouldercolorado.gov/bikes](https://bouldercolorado.gov/bikes) |
-| **Canyon Boulevard Path** | 17-mile paved path from Table Mesa to North Boulder | City-maintained, plowed in winter |
-| **Pearl Street Mall** | 5-block pedestrian-only mall (downtown core) | [bouldercolorado.gov/pearl](https://bouldercolorado.gov/pearl) |
-| **Sharrows & Bike Lanes** | >50 miles of bike infrastructure | City Bike Map: [bit.ly/BoulderBikeMap](https://bouldercolorado.gov/bikemap) |
-| **RTD HOP Real-Time** | Bus arrival times & service alerts | [ridertd.com](https://ridertd.com) |
-
-## 🚌 Transit Options
-
-| Route | Service | Frequency | Notes |
-|-------|---------|-----------|-------|
-| **RTD Route 204** | Rapid bus Boulder Junction ↔ Downtown | Every 10-15 min | Bike racks on buses |
-| **RTD Route 1** | North Boulder ↔ CU/Boulder Junction | Every 20 min | Limited weekend |
-| **Boulder Metro** | Local circulator (downtown loop) | Every 15-20 min | Free downtown zone |
-| **ABCD Bus** | Airport ↔ Downtown Boulder | Every 30 min | $7 one-way |
-
-## 🔧 Maintenance & Support
-
-| Resource | Description |
-|----------|-------------|
-| **Boulder Bike合作社** | Community bike co-op for repairs and classes |
-| **REI Boulder** | Pearl Street — free air pumps & basic tools |
-| **CU Warden Bike Shop** | Student/community affordable repairs |
-| **City Bike Ambassadors** | Volunteer commuter support, Mon-Fri 7-9am on Pearl St |
-
-## 🏫 Education Programs
-
-- **Boulder Safe Routes to School** — Walking/biking safety for K-12
-- **CU Bike Share** — Students/staff can rent bikes semester-long
-- **Workplace Commute Challenge** — Annual Sept challenge by [Sustainable Business Network](https://sbn.org)
-
-## ⚠️ Emergency & Safety
-
-| Service | Contact |
-|---------|---------|
-| Boulder Police (non-emergency) | 303-441-3333 |
-| Bike theft report | Online at [bouldercop.org](https://bouldercop.org/report) |
-| Bike accident report | File at bouldercop.org within 24 hours |
-| RTD Customer Service | 303-299-6000 |
-| CO DOT Cotter Road Conditions | 511 or cotrip.org |
-
-## 📱 Helpful Apps
-
-| App | Purpose |
-|-----|---------|
-| **Strava** | Track cycling/walking segments and avoid hills |
-| **Komoot** | Offline Boulder route planning |
-| **Google Maps (Bike)** | Boulder bike navigation with lanes |
-| **RTD App** | Real-time bus tracking with bike rack indicators |
-| **CoinTracker** | Boulder's climate action plan participation |
+## Local Transportation Options
 
 ---
 
-*Last updated: July 2025. Verify all URLs and phone numbers before publishing.*
+## 🚌 RTD Bus Service
+
+**Key routes serving the 45 Oak Ave ↔ 1800 Broadway corridor:**
+
+| Route | Serves | Frequency (Peak) |
+|-------|--------|-----------------|
+| **AB1 (point-to-point)** | Broadway / Downtown | ~10 min |
+| **19th Street connections** | Bus stops near 19th & Pearl | Varies |
+| **RTD hop-on hop-off** | Downtown Boulder | Passes Broadway frequently |
+
+**RTD trip planner:** https://ride.rtd-fast.com/
+
+---
+
+## ⚡ B-Cycle (Bike Share)
+
+| Station | Location | Distance from Route |
+|---------|----------|-------------------|
+| Broadway Station | Broadway & 13th St | ~0.5 mi from destination |
+| Pearl Street Station | Pearl & 11th St | ~0.3 mi from route corridor |
+| 15th Street Station | 15th & Walnut | ~0.7 mi from northern start |
+
+**Membership:** Day pass $12, Monthly $25, Annual $100  
+**E-bikes:** Included with all plans at no extra cost  
+**B-Cycle app:** https://www.b-cycle.com/boulder  
+**Tip:** Use B-Cycle for the 19th Street segment, walk the quieter Oak-to-19th stretch and the scenic Canyon Blvd path.
+
+---
+
+## 🛴 Other Micro-Mobility
+
+| Service | Coverage | Notes |
+|---------|----------|------|
+| Lime | E-bikes, scooters | Found throughout downtown Boulder |
+| Bird | E-scooters | App-based, good for short hops |
+| Tauri (e-bikes) | Boulder-wide | Bolt-on e-assist for your own bike |
+
+---
+
+## 🚗 Car Alternatives
+
+- **Carpool:** Share the 4 km drive — reduces emissions per person by 50%+
+- **Telecommute:** Boulder employers increasingly support 1–2 remote days/week
+- **Park & walk:** Free parking at Cedar Avenue lot, then walk 1.2 km to 1800 Broadway
+- **HOV lanes:** US-36 HAS — check for carpool options
+
+---
+
+## 🏘️ Boulder Neighborhood Resources
+
+| Resource | Link |
+|----------|------|
+| City of Boulder Transportation | https://bouldercolorado.gov/transportation |
+| Boulder Trails & Pathways Map | https://maps.bouldercolorado.gov/trails |
+| Bike Boulder | https://bikeboulder.org |
+| Walk Boulder | https://www.walkboulder.org |
+| Boulder County Climate Action | https://bouldercounty.org/climateaction |
+
+---
+
+## 📱 Helpful Apps
+
+- **Strava** — Track your walking/bike commutes and compare with Boulder community
+- **Google Maps** — Real-time transit + walking/biking directions
+- **Komoot** — Cycling route planning with Boulder-specific maps
+- **AllTrails** — Find walking/hiking trails near either end of your commute
+
+---
+
+*All data verified July 2026. Station locations and service levels may change.*

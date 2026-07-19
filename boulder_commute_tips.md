@@ -1,74 +1,70 @@
----
-title: Sustainable Travel Tips — Boulder Green Commute Guide
-excerpt: Practical tips for making your walking and biking commute in Boulder more sustainable, safe, and enjoyable year-round.
----
+# 💡 Sustainable Commuting Tips for Boulder
 
-# 🧭 Sustainable Travel Tips for Boulder Commuters
-
-## 🌱 Make Every Commute Count
-
-Boulder is one of the most eco-conscious cities in Colorado. Here are actionable tips to make your green commute even better — for you and for the community.
+## Year-Round Guidance for Walkers & Cyclists
 
 ---
 
-## 🚶‍♂️ Walking Tips
+## 🌱 Get Started
 
-### Comfort & Safety
-- **Choose supportive shoes** — A 4 km walk is easy on joints but can cause blisters in unsupportive footwear
-- **Layer your clothing** — Boulder's elevation means weather can shift quickly from cool morning to warm afternoon
-- **Cross at marked crosswalks** — 19th Street has moderate traffic; always use crosswalks and make eye contact with drivers
-
-### Efficiency
-- **Walk at a steady pace (~5 km/h)** — Consistency beats speed for sustainable commuting
-- **Use pedestrian signals** — 19th Street intersections have audible signals for accessibility
-- **Walk with a buddy** — More social, more fun, and safer on longer stretches
+1. **Commit to 2 days/week** — That's 104 car-free commutes a year
+2. **Layer up** — Boulder's altitude means weather changes fast
+3. **Prepare the night before** — Have your gear (shoes, helmet, layers) ready
+4. **Track your impact** — Use this guide's data to see your annual savings
 
 ---
 
-## 🚲 Biking Tips
+## 🚶 Walking Tips
 
-### Bike Selection
-- **Hybrid or commuter bike** — Best for mixed surfaces (paved roads + bike paths)
-- **E-bike options** — Available at [B-Cycle Boulder](https://b-cycle.com) for short rental or purchase with [e-bike rebate](https://letsrhobike.com) ($1,200!
-- **Tire choice** — Pneumatic tires for comfort on pavement; consider studded tires for winter rides
-
-### Route-Specific Notes
-1. **Oak Avenue (Residential)** — Low-stress start; ideal for warming up legs
-2. **19th Street (Main corridor)** — Use bike lane sections; stay visible and predictable
-3. **20th Street connector** — Watch for right-turning vehicles at intersections; signal early
-4. **Pearl Street Mall** — **Dismount zone** — bikes must yield to pedestrians in the Mall
-5. **18th Street** — Short segment; use hand signals at all intersections
-6. **Canyon Boulevard** — Enjoy the scenic multi-use path; this is the gem of your commute!
-
-### Weather Seasonality
-| Season | Recommendation | Gear Needed |
-|--------|---------------|-------------|
-| Spring (Mar–May) | Great biking weather | Light jacket, sunglasses |
-| Summer (Jun–Aug) | Hot afternoons, thunderstorms | Rain jacket, sunscreen, early departure |
-| Fall (Sep–Nov) | Optimal biking conditions | Light layers, reflective gear |
-| Winter (Dec–Feb) | Manageable with prep | Studded tires, warm layers, lights |
+- **Footwear:** Trail runners handle Boulder's variable pavement better than road shoes
+- **Pace:** ~5 km/h is comfortable walking speed for the 4 km route
+- **Hydration:** Carry water even for a 50-min walk — Boulder is dry at 5,430 ft elevation
+- **Winter:** Ice on Canyon Boulevard is the main hazard — use Yaktrax or similar
+- **Spring:** Watch for construction on 19th Street
+- **Summer:** Early morning starts are more comfortable; bring water
+- **Fall:** Best season for walking — mild temps, less UV
 
 ---
 
-## ⚡ E-Bike Tips
-- **Charge nightly** — Range of 40+ km on a full charge; more than enough for this route
-- **Use pedal-assist mode** — Gets you there fresh while still getting exercise
-- **Park at designated e-bike stations** — 1800 Broadway has charging available
+## 🚴 Biking Tips
+
+- **Bike type:** A hybrid or commuter bike with fenders works great for this route
+- **Helmet:** Required by Colorado law for riders under 18; recommended for all ages
+- **Lights:** Front white + rear red light are required after dark
+- **Lock:** A U-lock is best; the Canyon Boulevard path has quiet viewing spots
+- **Winter riding:** Studded tires and 3+ layers make ice and cold manageable
+- **B-Cycle:** Rent e-bikes from downtown B-Cycle stations for the 19th Street stretch
 
 ---
 
-## 🚌 Transit Connection (Backup Option)
-- **RTD Bus #20** runs along 19th Street) — hop on if weather is bad
-- **B-Cycle** stations near both start and end points for flexible one-way trips
-- **Park-and-Ride** — RTD Downtown Boulder station is close to your office
+## 🌤️ Seasonal Calendar
+
+| Season | Walking | Biking | Notes |
+|--------|---------|--------|-------|
+| **Winter (Dec–Feb)** | ❄️ Bundle up; watch ice on Canyon Blvd | 🧊 Studded tires + 3 layers | Short daylight — plan accordingly |
+| **Spring (Mar–May)** | 🌸 Ideal! Mild temps, longer days | 🚴 Great riding; watch for spring rain | 19th St construction possible |
+| **Summer (Jun–Aug)** | ☀️ Early start best | 🌡️ Best riding weather; hydrate | Thunderstorms possible after 2 PM |
+| **Fall (Sep–Nov)** | 🍂 Best walking season | 🍁 Prime biking — cool & dry | Golden aspens on Canyon Blvd path |
 
 ---
 
-## 🧊 Winter Commuting Specifics
-- **Start early** — Give yourself extra time for slower speeds on ice
-- **Lights are essential** — Winter days are short in Boulder; front and rear lights required
-- **Check road reports** — Boulder Public Works clears priority bike routes first
+## 🏫 For Boulder Families
+
+- **Bike trains** — Organize groups of kids biking to school together
+- **Walking school bus** — Adults rotate walking kids to/from campus
+- **Safe routes** — This 45 Oak → 1800 Broadway route has low traffic and good visibility
 
 ---
 
-*Last updated: July 2026 | Sources: OSM Valhalla, RTD, City of Boulder Transportation, EPA eGRID*
+## 📊 Track Your Annual Impact
+
+If you commute 5 days/week × 50 weeks = **250 trips/year**
+
+| Mode (250 trips) | CO₂ Saved | Calories Burned | Money Saved |
+|-------------------|-----------|-----------------|-------------|
+| Walking only | ~200 kg | ~50,000 kcal | ~$400–500 (no fuel/parking) |
+| Biking only | ~175 kg | ~37,500 kcal | ~$500–1,200 (no fuel/parking + health) |
+| Hybrid (3 walk + 2 bike/wk) | ~155 kg | ~44,000 kcal | ~$400–800 |
+
+---
+
+*Tips compiled from City of Boulder transportation resources, RTD guidelines, and local community feedback.*

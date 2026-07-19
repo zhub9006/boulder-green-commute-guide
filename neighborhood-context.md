@@ -1,58 +1,71 @@
-# 🗺️ Neighborhood Context — 45 Oak Ave → 1800 Broadway
+# 🏘️ Neighborhood Context
 
-This commute passes through two distinct Boulder neighborhoods. Here is what you need to know about each.
+## Two Communities, One Commute
 
----
-
-## 🌳 North Boulder (ZIP 80304)
-
-| Attribute | Detail |
-|-----------|--------|
-| **Character** | Quiet residential, tree-lined streets, American Elm canopy |
-| **Elevation** | ~5,430 ft (1,655 m) |
-| **Near CU Boulder** | Yes — University of Colorado campus is within walking distance |
-| **Amenities** | Boulder Waldorf Preschool, playgrounds, small shops, RTD bus stops on 19th St |
-| **Walk Score** | Very walkable — residential streets with sidewalks throughout |
-| **Bike Score** | Bike-friendly — low traffic on residential streets makes an ideal starting point |
-
-### Starting Your Day at 45 Oak Avenue
-- The morning walk south down Oak Avenue is peaceful and barely 100 meters
-- Oak Avenue has a gentle grade (slight descent southbound) — a soft start to your commute
-- The street is shaded by mature elms, making it pleasant year-round
+The 45 Oak Avenue → 1800 Broadway commute passes through two distinct Boulder neighborhoods: **North Boulder (80304)** and **Downtown Boulder (80302)**.
 
 ---
 
-## 🏙️ Downtown Boulder (ZIP 80302)
+## 🌳 North Boulder (ZIP 80304) — Starting Point
 
-| Attribute | Detail |
-|-----------|--------|
-| **Character** | Walkable urban core, Pearl Street Mall, institutional/commercial |
-| **Elevation** | ~5,418 ft (slightly lower than home — a gentle descent!) |
-| **Near CU Boulder** | Yes — part of the university area |
-| **Amenities** | 94+ restaurants, cafés, shops, B-Cycle stations, bike racks, parking garages |
-| **Walk Score** | Excellent — most daily needs within walking distance |
-| **Bike Score** | Good — dedicated bike lanes on Canyon Blvd; shared lanes elsewhere |
-
-### Arriving at 1800 Broadway
-- Broadway is a major east–west corridor in downtown Boulder
-- Bike racks are available near the Broadway intersection
-- B-Cycle stations are within a 1-minute walk of 1800 Broadway
-- Restrooms, coffee shops, and food options are all nearby
+| Attribute | Details |
+|-----------|---------|
+| **Character** | Quiet, tree-lined residential neighborhood |
+| **Elevation** | ~5,490 ft (highest point on route) |
+| **Housing** | Single-family homes, some duplexes — mix of older and newer construction |
+| **Green space** | Mesa Trail nearby; open meadowland along 19th Street |
+| **Schools** | Near CU Boulder; Boulder Waldorf Preschool, community childcare centers |
+| **Amenities** | RTD bus stops on Oak and 19th; small shops at 28th and Arapahoe |
+| **Vibe** | Family-friendly, leafy, walkable medium-density neighborhood |
 
 ---
 
-## 📊 Route by Neighborhood Zone
+## 🏙️ Downtown Boulder (ZIP 80302) — Destination
 
-| Zone | Distance | Character | Experience |
-|------|----------|-----------|------------|
-| 🌳 Oak Avenue (Residential) | ~97 m | Quiet streets, tree canopy | Calm, easy start |
-| 🏙️ 19th Street (Major Road) | ~2,157 m | Busy arterial, moderate traffic | Requires attention; use crosswalks |
-| 🏙️ 20th Street Connector | ~672 m | Residential connector | Quick, low-stress transition |
-| 🏙️ Pearl Street (Downtown Mall) | ~216 m | Pedestrian-priority zone | Dismount bikes and enjoy the Mall |
-| 🏙️ 18th Street (Downtown) | ~249 m | Urban connector | Short, straightforward |
-| 🌳 Canyon Boulevard (Multi-use) | ~637 m | Scenic, car-free path | The highlight — beautiful canyon views |
+| Attribute | Details |
+|-----------|---------|
+| **Character** | Walkable urban core; Boulder's historic downtown with Pearl Street Mall |
+| **Elevation** | ~5,430 ft (lowest point on route) |
+| **Housing** | Mixed — apartments above shops, older residential near Broadway |
+| **Green space** | Boulder Creek Path runs through downtown; tree canopy on Canyon Blvd |
+| **Amenities** | Pearl Street Mall (shops/restaurants), civic center, downtown library, farmers market (May–Oct) |
+| **Vibe** | Urban, active, diverse — restaurant row on Pearl St, breweries, galleries, B-Cycle stations |
 
 ---
 
-*Generated July 2026 | Sources: OSM, City of Boulder neighborhood data*  
-*For more about Boulder's neighborhoods and livability, see the [Full Center analysis](neighborhood-context.md)*
+## 🚶‍♂️🚴‍♂️ Route Between the Neighborhoods
+
+| Zone | Street | Character |
+|------|--------|-----------|
+| North Boulder | Oak Ave | Residential — slow, quiet, 25 mph limit |
+| Transition | 19th Street | Straight north-south road; moderate traffic; bike lane present |
+| Transition | 20th Street | Residential-to-downtown transition |
+| Core | Pearl Street | Historic — pedestrian mall section nearby, share the road |
+| Core | 18th Street | Short connector, good for bikes and pedestrians |
+| Creek corridor | Canyon Boulevard | **Signature segment** — wide separated path, Boulder Creek views |
+| Destination | Broadway | Downtown office corridor — bike racks near most buildings |
+
+---
+
+## 🌿 Greenery & Scenery
+
+1. **Oak Avenue** — Mature trees line the sidewalk
+2. **Canyon Boulevard** — Boulder Creek with river rock, cottonwoods, wildflowers (June–Aug)
+3. **19th Street** — Mature tree-lined corridor
+4. **Pearl Street** — Outdoor murals and public art on buildings
+
+---
+
+## 🏫 Schools Nearby
+
+| School | Distance from Route | Type |
+|--------|-------------------|------|
+| Boulder Waldorf Preschool | <0.3 mi from start | Pre-K |
+| CU Boulder campus | <0.5 mi from Oak Ave start | University |
+| Niwot High School | ~1.5 mi | High school |
+| Casey Middle School | ~1 mi | Middle school |
+| Emerald Elementary | ~1.2 mi | Elementary |
+
+---
+
+*Neighborhood profile compiled from City of Boulder open data, OSM tags, and community knowledge. Last updated July 2026.*
