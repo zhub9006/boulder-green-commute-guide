@@ -29,10 +29,13 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 
 | File | Description |
 |------|-------------|
-| ✅ `verified-walk-bike-commute-analysis.md` | Full verified turn-by-turn walking & biking analysis with safety ratings, seasonal tips, and environmental impact |
+| ✅ `verified-walk-bike-commute-analysis.md` | Full validated turn-by-turn walking & biking analysis with safety ratings, seasonal tips, and environmental impact |
 | 📊 `route-comparison-walk-vs-bike.md` | Head-to-head comparison of walking vs. biking for this commute — when to choose which |
 | 📊 `walk_bike_analysis_45_oak_to_1800_broadway.md` | Detailed segment-by-segment walk & bike breakdown |
-| 📁 `data/` | Machine-readable route geometry JSON with verified GPS coordinates and full segment data |
+| 📊 `verified-analysis-summary.md` | **NEW** Comprehensive verified commute analysis — integrated summary with all modes, environmental impact, and neighborhood scores |
+| 📊 `neighborhood-livability-scores.md` | **NEW** Detailed Walk/Bike/Transit scores for both commute endpoints |
+| 📊 `street-safety-analysis.md` | **NEW** Street-level safety and infrastructure audit for every segment |
+| 📂 `data/` | Machine-readable route geometry JSON with verified GPS coordinates and full segment data |
 | 💡 `boulder_commute_tips.md` | Sustainable travel tips for Boulder year-round |
 | 🌍 `emissions-impact.md` | Environmental and health benefit calculations |
 | 🚌 `resources.md` | Boulder transit, B-Cycle, and RTD bus connections |
@@ -43,14 +46,16 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 
 ## Quick Links
 
-- 📊 **[Full Commute Analysis — Turn-by-turn walk & bike breakdown](walk_bike_analysis_45_oak_to_1800_broadway.md)** — Detailed segment distances, times, safety ratings, and tips
-- ✅ **[Verified Route Analysis](verified-walk-bike-commute-analysis.md)** — Newly verified with live GPS coordinates, seasonal advice, and pro tips
-- 📊 **[Route Comparison: Walking vs Biking](route-comparison-walk-vs-bike.md)** — Head-to-head comparison to help you choose the right mode
-- 📁 **[Route Geometry Data](data/45_oak_ave_to_1800_broadway_geometry.json)** — Machine-readable route geometry and timing (verified July 2026)
-- 💡 **[Sustainable Travel Tips](boulder_commute_tips.md)** — Make your commute greener year-round
-- 🌍 **[Environmental Impact](emissions-impact.md)** — Understand your carbon and health savings
-- 🚌 **[Boulder Transit Resources](resources.md)** — Local infrastructure, B-Cycle, and RTD bus connections
-- 🏙️ **[Neighborhood Context](neighborhood-context.md)** — What you'll pass through on your commute
+- 📊 **[Full Commute Analysis — Turn-by-turn walk & bike breakdown](walk_bike_analysis_45_oak_to_1800_broadway.md)**
+- ✅ **[New Verified Route Analysis](verified-analysis-summary.md)**
+- 📊 **[Route Comparison: Walking vs Biking](route-comparison-walk-vs-bike.md)**
+- 📂 **[Route Geometry Data](data/45_oak_ave_to_1800_broadway_geometry.json)**
+- 📊 **[Neighborhood Livability Scores](neighborhood-livability-scores.md)**
+- 📊 **[Street-Level Safety Analysis](street-safety-analysis.md)**
+- 💡 **[Sustainable Travel Tips](boulder_commute_tips.md)**
+- 🌍 **[Environmental Impact](emissions-impact.md)**
+- 🚌 **[Boulder Transit Resources](resources.md)**
+- 🏙️ **[Neighborhood Context](neighborhood-context.md)**
 
 ---
 
@@ -74,7 +79,7 @@ Boulder is one of the most bike-friendly cities in Colorado, with over 200 miles
 4. **Track your impact** — Use our emissions calculator and seasonal adjustments
 5. **Share your story** — Help inspire other Boulder residents!
 
-## 🏡 Live Along This Route?
+## 🏠 Live Along This Route?
 
 This commute passes through two distinct Boulder neighborhoods:
 
