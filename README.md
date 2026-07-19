@@ -10,7 +10,7 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 
 ## 📋 Featured Commute
 
-**45 Oak Avenue → 1800 Broadway, Boulder**  
+**45 Oak Avenue → 1800 Broadway, Boulder**
 *ZIP 80304 → 80302 · Two Boulder neighborhoods, one sustainable journey*
 
 | Mode | Distance | Est. Time | CO₂ Saved (per trip) | Annual Savings (250 trips) |
@@ -20,17 +20,17 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 | 🚗 Driving | 4.03 km (2.5 mi) | ~8–12 min | Baseline | ~200 kg CO₂/yr on gas |
 | ⚡ E-Bike | 4.03 km (2.5 mi) | ~12–15 min | ~0.5 kg | ~200 kg CO₂ |
 
-**Verified coordinates:** Home (40.0448805°N, 105.2738879°W) → Work (40.0163281°N, 105.2789726°W)  
+**Verified coordinates:** Home (40.0448805°N, 105.2738879°W) → Work (40.0163281°N, 105.2789726°W)
 **Data source:** OpenStreetMap Valhalla Routing Engine, July 2026
 
 ---
 
 ## 🚶 Walking Route
 
-- **Distance:** 4.03 km (2.5 mi)  
-- **Time:** 48–52 minutes  
-- **Key streets:** Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd  
-- **Safety:** ⭐⭐⭐⭐ Good — sidewalks throughout; dedicated bike lane on Canyon Blvd  
+- **Distance:** 4.03 km (2.5 mi)
+- **Time:** 48–52 minutes
+- **Key streets:** Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd
+- **Safety:** ⭐⭐⭐⭐ Good — sidewalks throughout; dedicated bike lane on Canyon Blvd
 - **Best for:** Exercise, carrying items, bad weather days, casual afternoons
 
 [📖 Full walking analysis →](verified-walk-bike-commute-analysis.md)
@@ -39,10 +39,10 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 
 ## 🚴 Biking Route
 
-- **Distance:** 4.03 km (2.5 mi)  
-- **Time:** 14–18 minutes  
-- **Key streets:** Same route, 3x faster  
-- **Safety:** ⭐⭐⭐⭐ Good — Canyon Blvd has buffered bike lane; bike parking at 1800 Broadway  
+- **Distance:** 4.03 km (2.5 mi)
+- **Time:** 14–18 minutes
+- **Key streets:** Same route, 3x faster
+- **Safety:** ⭐⭐⭐⭐ Good — Canyon Blvd has buffered bike lane; bike parking at 1800 Broadway
 - **Best for:** Speed, summer commutes, meeting afterward
 
 [📊 Walk vs. bike comparison →](route-comparison-walk-vs-bike.md)
@@ -55,11 +55,13 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 |------|-------------|
 | ✅ `verified-walk-bike-commute-analysis.md` | Full validated turn-by-turn analysis with safety ratings, seasonal tips, and environmental impact |
 | 📊 `route-comparison-walk-vs-bike.md` | Head-to-head comparison of walking vs. biking — when to choose which |
-| 📍 `route-data/45_oak_ave_to_1800_broadway_geometry.json` | Machine-readable route geometry with GPS coordinates and segment data |
+| 📍 `verified-route-coordinates.md` | 20 key GPS waypoints along the route with coordinates and segment summary |
+| 📁 `route-data/45_oak_ave_to_1800_broadway_geometry.json` | Machine-readable route geometry with GPS coordinates and segment data |
+| 📁 `verified-data/45-oak-ave-1800-broadway.json` | Full machine-readable commute data (all modes, environmental impact, verification metadata) |
 | 💡 `boulder_commute_tips.md` | Sustainable travel tips for Boulder year-round |
 | 🌍 `emissions-impact.md` | Environmental and health benefit calculations |
 | 🚌 `resources.md` | Boulder transit, B-Cycle, and RTD bus connections |
-| 🏘️ `neighborhood-context.md` | Neighborhood profile for both ends of the commute |
+| 🏙️ `neighborhood-context.md` | Neighborhood profile for both ends of the commute |
 | 📋 `CONTRIBUTING.md` | How to add new routes and contribute to the guide |
 
 ---
@@ -68,7 +70,9 @@ All route data is **verified against the OpenStreetMap Valhalla Routing Engine**
 
 - 📖 **[Full Commute Analysis — Turn-by-turn walk & bike breakdown](verified-walk-bike-commute-analysis.md)**
 - 📊 **[Route Comparison: Walking vs Biking](route-comparison-walk-vs-bike.md)**
-- 📍 **[Route Geometry Data](route-data/45_oak_ave_to_1800_broadway_geometry.json)**
+- 📍 **[GPS Route Coordinates](verified-route-coordinates.md)**
+- 📍 **[Machine-Readable Route Data (JSON)](route-data/45_oak_ave_to_1800_broadway_geometry.json)**
+- 📁 **[Full Commute Data (JSON)](verified-data/45-oak-ave-1800-broadway.json)**
 - 💡 **[Sustainable Travel Tips](boulder_commute_tips.md)**
 - 🌍 **[Environmental Impact](emissions-impact.md)**
 - 🚌 **[Boulder Transit Resources](resources.md)**
@@ -95,7 +99,7 @@ Boulder is one of the most bike-friendly cities in Colorado, with over 200 miles
 4. **Track your impact** — Use our emissions calculator and seasonal adjustments
 5. **Share your story** — Help inspire other Boulder residents!
 
-## 🏘️ Live Along This Route?
+## 🏟️ Live Along This Route?
 
 This commute passes through two distinct Boulder neighborhoods:
 
@@ -121,5 +125,5 @@ See our [Contributing Guide](CONTRIBUTING.md) to get started.
 
 ---
 
-*Made with ❤️ for the Boulder community. Data sourced from OpenStreetMap, RTD, and City of Boulder transportation resources.*  
-*Route data verified against live OpenStreetMap Valhalla Routing engine on 2026-07-19.*
+*Made with ❤️ for the Boulder community. Data sourced from OpenStreetMap, RTD, and City of Boulder transportation resources.*
+*Route data verified against live OpenStreetMap Valhalla routing engine on 2026-07-19.*
