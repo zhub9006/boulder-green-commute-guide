@@ -1,54 +1,73 @@
-# ⚖️ Route Comparison: Walking vs. Biking
+# 📊 Route Comparison: Walking vs. Biking
 
-## 45 Oak Avenue → 1800 Broadway, Boulder
-
-### Head-to-Head Comparison
-
-| Category | 🚶 Walking | 🚴 Biking |
-|----------|-----------|----------|
-| **Distance** | 4.03 km (2.50 mi) | 4.03 km (2.50 mi) |
-| **Travel Time** | ~48 minutes | ~15 minutes |
-| **Time per km** | ~12 min/km | ~3.7 min/km |
-| **Physical Effort** | Moderate | Low–Moderate |
-| **Terrain** | Mostly flat, slight descent toward Broadway | Same route — flat |  
-| **Weather Sensitivity** | High (rain, wind, heat) | Moderate (wind mainly) |
-| **Shower Needed?** | No | Yes (recommended) |
-| **Bike Required?** | N/A | Yes |
-| **Cost** | Free | Free (or e-bike: ~$0.05/trip) |
+**Route:** 45 Oak Avenue → 1800 Broadway, Boulder, CO  
+**Distance:** 4.03 km (2.5 miles)  
+**Data Source:** OpenStreetMap Valhalla Routing Engine
 
 ---
 
-### When to Choose Walking
-- ✅ Weather is nice (50–75°F, low wind)
-- ✅ You want morning exercise before work
-- ✅ You're running errands along the route
-- ✅ You don't have access to a bike or shower at work
-- ✅ You enjoy the stroll through downtown Boulder on Pearl Street
+## Head-to-Head Comparison
 
-### When to Choose Biking
-- ✅ You need a faster commute
-- ✅ Weather is cool or windy (biking is more wind-resistant)
-- ✅ You have a workplace shower or nearby locker
-- ✅ You're carrying work items (panniers/bag)
-- ✅ Daily commute — the time savings add up fast!
+| Metric | 🚶 Walking | 🚴 Biking | Winner |
+|--------|-----------|----------|--------|
+| **Total Distance** | 4.03 km | 4.03 km | Tie |
+| **Estimated Time** | 48–52 min | 14–18 min | 🚴 Biking |
+| **Speed** | ~4.5–5.0 km/h | ~13–17 km/h | 🚴 Biking |
+| **Energy Expenditure** | ~200–250 kcal | ~80–120 kcal | 🚶 Walking (exercise) |
+| **CO₂ Emissions** | 0 kg | 0 kg | Tie |
+| **Cost** | Free | Free | Tie |
+| **Weather Sensitivity** | High | Medium | 🚴 Biking (more forgiving) |
+| **Preparation** | None | Bike, helmet, lock, lights | 🚶 Walking |
+| **Parking** | Not needed | Bike rack at destination | 🚶 Walking (simpler) |
+| **Exercise Benefit** | High cardio & lbs | Moderate cardio | 🚶 Walking |
+| **Luggage-Friendly** | Yes (just a bag) | Limited | 🚶 Walking |
+| **Work Appearance** | May arrive sweaty | May arrive sweaty | Tie |
+| **Safety** | Sidewalks, crosswalks | Bike lanes, shared roads | Context-dependent |
 
-### Hybrid Option
-Consider **walking one direction and biking the other** to reduce exposure and get exercise while saving time:
-- Bike to work in the morning, walk home in the evening (cooler ride = less wind resistance)
-- Walk to work on nice days, bike on workdays
+---
+## 🕐 When to Choose Walking
+
+- **Short on preparation time** — no bike needed, just step out the door
+- **Carrying items** — briefcase, laptop bag, or groceries are easier on foot
+- **Bad weather** — rain or snow doesn't affect you as much
+- **Want exercise** — walking burns more calories per trip
+- **Afternoon/evening commute** — less need for lights, safer on sidewalks
+- **Casual days** — when arriving slightly disheveled is fine
+- **Audiobook/podcast time** — walking is a great time for media consumption
+
+## 🚴 When to Choose Biking
+
+- **Running late** — 30+ minutes faster than walking
+- **Meeting afterward** — arrive fresh, not winded
+- **Summer months** — best biking conditions Nov–Mar in Boulder are marginal
+- **Longer route feasibility** — if detouring to grab coffee, biking is still fast
+- **Return trip** — the northbound return (Canyon Blvd → 19th St) has a mild uphill
+- **Weather permitting** — Boulder gets 300+ sunny days/year; planning around weather pays off
+
+---
+## 📈 Weekly Recommendation
+
+| Day | Mode | Rationale |
+|-----|------|-----------|
+| Monday | 🚴 Bike | Fresh start, no weekend fatigue |
+| Tuesday | 🚶 Walk | Mid-week variety, good exercise |
+| Wednesday | 🚴 Bike | Steady mid-week rhythm |
+| Thursday | 🚶 Walk | Early check-out from desk exercise |
+| Friday | 🚴 Bike | Save leg power for weekend |
+
+**Mixed approach:** 2–3 days biking + 2–3 days walking = best of both worlds!
 
 ---
 
-### Time Savings Over a Year (250 workdays)
+## 💡 Pro Tips
 
-| Mode | Annual Commute Time |
-|------|-------------------|
-| Driving | ~42 hours |  
-| Walking | ~200 hours |
-| Biking | ~62 hours |
-
-Biking saves **~138 hours/year** compared to walking, and **~0 hours** if you consider the total time including an e-bike. You could read 23 books in the time saved by biking vs. walking!
+1. **Bike maintenance** — keep tires inflated and brakes checked weekly; Boulder's altitude can affect tire pressure
+2. **Shower at work** — if possible, the downtown location likely has facilities
+3. **Layer up** — Boulder's 5,431 ft elevation means temperature swings of 20°F+ between morning and afternoon
+4. **Light pack** — panniers or a backpack are more comfortable than a shoulder bag on a bike
+5. **Clock check** — Boulder's 9 AM–5 PM schedule means morning rush is 7:30–8:30 AM; alternative timing helps avoid 19th St congestion
+6. **Use RTD** — for the worst weather days, RTD bus route 200 runs along Pearl Street, connecting both ends of this commute in ~15 min
 
 ---
 
-*All times based on standard speeds: walking 5 km/h, biking 16 km/h on flat terrain.*
+*Last updated: 2026-07-19  |  Source: OpenStreetMap + City of Boulder Transportation*
