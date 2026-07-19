@@ -20,6 +20,7 @@
 | **Year-Round Viability** | Limited in winter | Possible with gear | Biking |
 
 ---
+
 ## When to Walk 🚶
 - ✅ Fantastic weather
 - ✅ Short on time but still want exercise
@@ -35,6 +36,7 @@
 - ✅ Want to explore Boulder's bike infrastructure
 
 ---
+
 ## 🔀 Smart Combination Strategy
 
 Consider a **hybrid commute**:
