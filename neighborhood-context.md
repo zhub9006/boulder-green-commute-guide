@@ -1,4 +1,4 @@
-# 🏘️ Neighborhood Context
+# 🏙️ Neighborhood Context
 
 ## Two Communities, One Commute
 
