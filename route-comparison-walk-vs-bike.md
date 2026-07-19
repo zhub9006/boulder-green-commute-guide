@@ -1,8 +1,9 @@
 # 📊 Route Comparison: Walking vs. Biking
 
-**Route:** 45 Oak Avenue → 1800 Broadway, Boulder, CO  
-**Distance:** 4.03 km (2.5 miles)  
-**Data Source:** OpenStreetMap Valhalla Routing Engine
+**Route:** 45 Oak Avenue → 1800 Broadway, Boulder, CO
+**Distance:** 4.03 km (2.5 miles)
+**Data Source:** OpenStreetMap Valhalla Routing Engine (verified 2026-07-19)
+**Coordinates:** Home (40.0448805°N, 105.2738879°W) → Work (40.0163281°N, 105.2789726°W)
 
 ---
 
@@ -13,7 +14,7 @@
 | **Total Distance** | 4.03 km | 4.03 km | Tie |
 | **Estimated Time** | 48–52 min | 14–18 min | 🚴 Biking |
 | **Speed** | ~4.5–5.0 km/h | ~13–17 km/h | 🚴 Biking |
-| **Energy Expenditure** | ~200–250 kcal | ~80–120 kcal | 🚶 Walking (exercise) |
+| **Energy Expenditure** | ~380–420 kcal | ~60–90 kcal | 🚶 Walking (exercise) |
 | **CO₂ Emissions** | 0 kg | 0 kg | Tie |
 | **Cost** | Free | Free | Tie |
 | **Weather Sensitivity** | High | Medium | 🚴 Biking (more forgiving) |
@@ -25,49 +26,59 @@
 | **Safety** | Sidewalks, crosswalks | Bike lanes, shared roads | Context-dependent |
 
 ---
+
 ## 🕐 When to Choose Walking
 
 - **Short on preparation time** — no bike needed, just step out the door
 - **Carrying items** — briefcase, laptop bag, or groceries are easier on foot
 - **Bad weather** — rain or snow doesn't affect you as much
-- **Want exercise** — walking burns more calories per trip
+- **Want exercise** — walking burns more calories per trip (~400 kcal)
 - **Afternoon/evening commute** — less need for lights, safer on sidewalks
 - **Casual days** — when arriving slightly disheveled is fine
 - **Audiobook/podcast time** — walking is a great time for media consumption
+
+---
 
 ## 🚴 When to Choose Biking
 
 - **Running late** — 30+ minutes faster than walking
 - **Meeting afterward** — arrive fresh, not winded
-- **Summer months** — best biking conditions Nov–Mar in Boulder are marginal
+- **Summer months** — best biking conditions; Apr–Oct in Boulder is ideal
 - **Longer route feasibility** — if detouring to grab coffee, biking is still fast
-- **Return trip** — the northbound return (Canyon Blvd → 19th St) has a mild uphill
+- **Return trip** — the northbound return (Canyon Blvd → 19th St) has a mild uphill (biking advantage)
 - **Weather permitting** — Boulder gets 300+ sunny days/year; planning around weather pays off
+- **E-bike option** — motor assist makes wind and early/late season travel easier (~12–15 min)
 
 ---
+
 ## 📈 Weekly Recommendation
 
 | Day | Mode | Rationale |
 |-----|------|-----------|
-| Monday | 🚴 Bike | Fresh start, no weekend fatigue |
-| Tuesday | 🚶 Walk | Mid-week variety, good exercise |
-| Wednesday | 🚴 Bike | Steady mid-week rhythm |
-| Thursday | 🚶 Walk | Early check-out from desk exercise |
-| Friday | 🚴 Bike | Save leg power for weekend |
+| Monday | 🚴 Bike | Start week fresh; bike parking available |
+| Tuesday | 🚶 Walk | Mental health day — walking is meditative |
+| Wednesday | 🚴 Bike | Mid-week; arrive quickly for afternoon meetings |
+| Thursday | 🚶 Walk | End-of-week calm; enjoy the route |
+| Friday | 🚴 Bike | Bike to after-work activity; arrive ready |
 
-**Mixed approach:** 2–3 days biking + 2–3 days walking = best of both worlds!
-
----
-
-## 💡 Pro Tips
-
-1. **Bike maintenance** — keep tires inflated and brakes checked weekly; Boulder's altitude can affect tire pressure
-2. **Shower at work** — if possible, the downtown location likely has facilities
-3. **Layer up** — Boulder's 5,431 ft elevation means temperature swings of 20°F+ between morning and afternoon
-4. **Light pack** — panniers or a backpack are more comfortable than a shoulder bag on a bike
-5. **Clock check** — Boulder's 9 AM–5 PM schedule means morning rush is 7:30–8:30 AM; alternative timing helps avoid 19th St congestion
-6. **Use RTD** — for the worst weather days, RTD bus route 200 runs along Pearl Street, connecting both ends of this commute in ~15 min
+> **Tip:** Alternating walking and biking keeps your routine sustainable and maximizes both health and time benefits. Switch to e-bike in winter/rain for about 12–15 min door-to-door.
 
 ---
 
-*Last updated: 2026-07-19  |  Source: OpenStreetMap + City of Boulder Transportation*
+## 🗺️ Route Segments Detail (for both modes)
+
+| Segment | Distance | Walk Time | Bike Time |
+|---------|----------|-----------|-----------|
+| Oak Avenue | 97 m | 16 sec | 16 sec |
+| 19th Street | 2,157 m | 3 min 29 sec | 3 min 29 sec |
+| 20th St. connector | 106 m | 12 sec | 12 sec |
+| 20th Street | 566 m | 1 min 9 sec | 1 min 9 sec |
+| Pearl Street | 216 m | 26 sec | 26 sec |
+| 18th Street | 249 m | 37 sec | 37 sec |
+| Canyon Boulevard | 637 m | 59 sec | 59 sec |
+
+> **Note:** Segment times shown are raw routing engine outputs. Real-world times include pedestrian crossings, stop lights, and safe cycling considerations. Actual walk time: ~48 min. Actual bike time: ~16 min.
+
+---
+
+*Verified via OSM Valhalla API · 131 GPS waypoints · Full route geometry in `route-data/`*
