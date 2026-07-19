@@ -18,7 +18,7 @@
 
 ---
 
-## 🚶‍♀️ Walking Analysis
+## 🚶 Walking Analysis
 
 | Metric | Value |
 |--------|-------|
@@ -47,11 +47,11 @@
 - **Canyon Boulevard path** is the best segment — fully separated from motor vehicle traffic, with Boulder Creek views
 - **Pearl Street** requires extra caution — pedestrians have right of way, but drivers may not expect them
 - **18th Street** has frequent traffic signals — use the "beg buttons" at pedestrian crossings
-- **Full trip avoides any highway/BLM crossings or multi-lane arterials**
+- **Full trip avoids any highway/BLM crossings or multi-lane arterials**
 
 ---
 
-## 🚴‍♂️ Biking Analysis
+## 🚴 Biking Analysis
 
 | Metric | Value |
 |--------|-------|
@@ -129,29 +129,40 @@
 
 ---
 
-## 🏘️ Neighborhood Living Scores (Updated July 2026)
+## 🏙️ Neighborhood Living Scores (Updated July 2026)
 
 ### North Boulder — 80304 (Home)
-| Category | Score | Count |
-|----------|-------|-------|
-| Overall | 0.5/5 | Low — residential focus |
-| Walkability | Low | Quiet streets, limited commercial |
-| Parks & Playgrounds | 5.4 | 4 within 1 km |
-| Schools | Near CU Boulder | Boulder Waldorf Preschool etc. |
-| RTD Bus | Low | Arapahoe & 19th stops |
-| Overall Character | Quiet residential, tree-lined, family-friendly |
+| Category | OSM Score | Details |
+|----------|-----------|---------|
+| Overall Character | Quiet residential, tree-lined, family-friendly | 40304 |
+| Restaurants & Cafés | 5.8 | 4 within ~650 m: Dagabi Cucina, China Gourmet, Lucky's Bakehouse, Ruzo Coffee |
+| Parks & Playgrounds | 5.4 | 4 within ~1 km: Melody Park, Catalpa Park, playgrounds |
+| Education | 4.4 | 2 nearby: Boulder Waldorf Preschool (518 m), Tara Institute |
+| Services | 2.6 | 1 within 675 m: North Boulder Shipping Store |
+| Groceries | 0 | None within 1 km — nearest on Broadway ~0.7 mi |
+| Healthcare | 0 | None within 1 km |
+| Public Transport | 0 | None within 1 km (RTD stops on Arapahoe/19th slightly farther) |
+| Sports, Entertainment, Shopping | 0 | Not in immediate步行 radius |
+
+**Character:** Quiet residential, tree-lined streets, near CU Boulder, family-friendly. Most daily errands require a short drive or walk toward Broadway.
+
+---
 
 ### Downtown Boulder — 80302 (Work)
-| Category | Score | Count |
-|----------|-------|-------|
-| Overall | 4.8/5 | Excellent |
-| Walkability | 10/10 | Very walkable |
-| Restaurants & Cafés | 94+ | Pearl Street & 13th St area |
-| Shopping | 9.5 | Pearl Street Mall |
-| Public Transit | 7.8 | Downtown Boulder Station (4 bus stops within 230 m) |
-| Sports & Fitness | 9.9 | One Boulder Fitness, Amana Yoga, CorePower Yoga |
-| Services | 9.9 | Pharmacy (Pharmaca), banks, services |
-| Parks | 6.1 | 4 playgrounds nearby |
+| Category | OSM Score | Details |
+|----------|-----------|---------|
+| Overall | Excellent (4.8/5) | Walkable urban core |
+| Restaurants & Cafés | 9.8 | 94+ within ~554 m avg — Pearl Street Mall, Walnut St, 13th St |
+| Public Transport | 7.8 | 4 bus stops within 230 m: Downtown Boulder Station (Gates 1–4) |
+| Sports & Fitness | 9.9 | One Boulder Fitness, Amana Yoga, CorePower Yoga nearby |
+| Services | 9.9 | Pharmaca, banks, professional services nearby |
+| Bicycle Parking | 8.5 | 20+ stations within 500 m — 164-capacity wall loops, B-Cycle stations |
+| Parks | 6.1 | Canyon Boulevard path, Central Park area |
+| Walkability (OSM) | 10/10 | Very walkable — daily needs on foot |
+
+**Character:** Vibrant downtown Boulder — Pearl Street Mall, extensive dining, shopping, and transit hub. Very walkable and bikeable.
+
+---
 
 ### Transit Connections at Destination
 - **RTD Bus Stop:** Downtown Boulder Station (Gates 1–4) — 230 m from 1800 Broadway
@@ -160,7 +171,7 @@
 
 ---
 
-## 🛣️ Infrastructure Along the Route
+## 🚏 Infrastructure Along the Route
 
 | Feature | Description |
 |---------|-------------|
@@ -178,7 +189,7 @@
 
 | Season | Walking | Biking | Notes |
 |--------|---------|--------|-------|
-| 🩷 Winter (Dec–Feb) | Bundle up; ice possible on Canyon Blvd | Studded tires + 3 layers; short daylight | Plan for ice on Canyon Blvd path |
+| ❄️ Winter (Dec–Feb) | Bundle up; ice possible on Canyon Blvd | Studded tires + 3 layers; short daylight | Plan for ice on Canyon Blvd path |
 | 🌸 Spring (Mar–May) | ✅ Ideal — mild temps, longer days | ✅ Great riding; watch for spring rain | 19th St construction possible |
 | ☀️ Summer (Jun–Aug) | Early start best (heat) | ✅ Best weather; hydrate | Thunderstorms after 2 PM |
 | 🍂 Fall (Sep–Nov) | ✅ Best season — mild, cool | ✅ Prime biking — cool & dry | Golden aspens on Canyon Blvd path |
@@ -193,11 +204,11 @@
 | **Fastest** | 🚴 Biking / 🔋 E-Bike | 3x faster than walking |
 | **Lowest Effort** | 🔋 E-Bike | No sweat, arrive fresh |
 | **Best in Bad Weather** | 🚶 Walking | No bike maintenance in winter |
-| **Most Year-Round** | 🠔 Hybrid (walk/bike switch) | Combine modes as weather demands |
+| **Most Year-Round** | 🧎 Hybrid (walk/bike switch) | Combine modes as weather demands |
 | **Most Eco-Friendly** | 🚶 Walking | Zero emissions |
 | **Most Economical** | 🚶 Walking / 🚴 Biking | Zero fuel + zero parking costs |
 
 ---
 
-*All route data verified against OpenStreetMap Valhalla Routing Engine on 2026-07-19.*  
+*All route data verified against OpenStreetMap Valhalla Routing Engine on 2026-07-19.*
 *Neighborhood scores based on OSM data and City of Boulder livability metrics.*
