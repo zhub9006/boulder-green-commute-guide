@@ -20,8 +20,8 @@
 
 | Segment | Street | Distance | Time (est.) | Pace | Safety |
 |---------|--------|----------|-------------|------|--------|
-| 1 | Oak Avenue | 97 m | ~16 sec | — | Low traffic, residential |
-| 2 | 19th Street | 2,157 m | ~3.5 min | 116 m/min | Crosswalks at intervals |
+| 1 | Oak Avenue | 97 m | ~1 min | — | Low traffic, residential |
+| 2 | 19th Street | 2,157 m | ~3.5 min | ~116 m/min | Crosswalks at intervals |
 | 3 | 20th St (brief) | 106 m | ~12 sec | — | Quick connector |
 | 4 | 20th Street (main) | 566 m | ~1.2 min | — | Moderate traffic |
 | 5 | Pearl Street | 216 m | ~26 sec | — | Pedestrian-heavy, slow |
@@ -35,8 +35,8 @@
 
 ## 🚴 Biking Breakdown
 
-| Segment | Street | Distance | Time (est.) | Speed | Safety |
-|---------|--------|----------|-------------|-------|--------|
+| Segment | Street | Distance | Time (est.) | Speed est. | Safety |
+|---------|--------|----------|-------------|-----------|--------|
 | 1 | Oak Avenue | 97 m | ~10 sec | — | Low traffic |
 | 2 | 19th Street | 2,157 m | ~3.5 min | ~19 km/h | Bike lane on east side |
 | 3 | 20th St (brief) | 106 m | ~7 sec | — | Quick connector |
@@ -51,7 +51,7 @@
 
 ---
 
-## 🗺️ Key Landmarks Along the Route
+## 📰 Key Landmarks Along the Route
 
 | Location | Approx. Distance from Start | Notes |
 |----------|---------------------------|-------|
