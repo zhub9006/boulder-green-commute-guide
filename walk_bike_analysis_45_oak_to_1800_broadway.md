@@ -12,10 +12,10 @@
 
 | Mode | Distance | Est. Time | Avg Pace | CO₂ Saved (per trip vs. car) |
 |------|----------|-----------|----------|-----------------------------|
-| 🚶‍♂️ Walking | 4.03 km (2.50 mi) | ~48–50 min (realistic) | ~3.0–3.5 mph | ~0.8 kg |
+| 🚶 Walking | 4.03 km (2.50 mi) | ~48–50 min (realistic) | ~3.0–3.5 mph | ~0.8 kg |
 | 🚲 Biking | 4.03 km (2.50 mi) | ~16–20 min (realistic) | ~12–15 mph | ~0.8 kg |
 | 🚗 Driving | 4.03 km (2.50 mi) | ~10 min (est.) | ~2.5 min/mi | Baseline |
-| 🛴 E-Bike | 4.03 km (2.50 mi) | ~12–15 min (est.) | ~15–18 mph | ~0.8 kg (direct) |
+| ⚡ E-Bike | 4.03 km (2.50 mi) | ~12–15 min (est.) | ~15–18 mph | ~0.8 kg (direct) |
 
 **Routing model estimate:** 7 min 6 sec (based on idealized walking/biking speeds).  
 **Real-world estimates** account for typical adult pace, stops, and Boulder traffic conditions.
@@ -34,11 +34,7 @@
 | 4 | **Pearl Street** (Downtown) | 216.2 m (709 ft) | ~26 sec | Head east; Pearl Street Mall area — pedestrian-friendly zone |
 | 5 | **18th Street** (Downtown) | 248.8 m (816 ft) | ~37 sec | North briefly toward Broadway; downtown traffic, use signals |
 | 6 | **Canyon Boulevard** (Final segment) | 636.6 m (0.39 mi) | ~59 sec | East along Canyon Blvd to reach 1800 Broadway |
-
-**Total Walking Distance:** 4.03 km (2.50 mi)  
-**Total Walking Time:** ~48–50 minutes at typical adult walking pace  
-**Elevation Change:** Slight descent southward (~50–80 ft drop, making the return slightly uphill)  
-**Surface:** Paved sidewalks and crosswalks throughout; all segments are ADA accessible
+| **Total** | | **4,032.2 m (2.50 mi)** | **~5 min 10 sec** | **Realistic walking time: ~48–50 min including stops & crosswalks** |
 
 ### Biking Route 🚲
 
@@ -52,11 +48,7 @@ The biking route follows the **same streets** as walking, with these key differe
 | 4 | **Pearl Street** | 216.2 m | ~15–20 sec | **Pedestrian-priority zone** — dismount or slow to walking speed through mall area; bikes must yield to walkers |
 | 5 | **18th Street** | 248.8 m | ~20–30 sec | Short north connector; downtown traffic, use caution at intersections |
 | 6 | **Canyon Boulevard** | 636.6 m | ~45–60 sec | **Popular multi-use bike route** — Canyon Blvd has dedicated bike infrastructure and scenic canyon views |
-
-**Total Biking Distance:** 4.03 km (2.50 mi)  
-**Total Biking Time:** ~16–20 minutes at typical cruising speed  
-**Elevation Change:** Gentle descent heading south/bike-friendly  
-**Surface:** Paved roads throughout; mix of bike lanes and shared roads
+| **Total** | | **4,032.2 m (2.50 mi)** | **~3 min 53 sec** | **Realistic biking time: ~16–20 min with traffic lights & stops** |
 
 ---
 
@@ -74,14 +66,13 @@ The biking route follows the **same streets** as walking, with these key differe
 | Segment | Pedestrian Safety | Cycling Safety | Notes |
 |---------|-------------------|----------------|-------|
 | Oak Avenue | ⭐⭐⭐⭐ High | ⭐⭐⭐⭐ High | Quiet residential, low speed limit |
-| 19th Street | ⭐⭐⭐ Medium | ⭐⭐⭐ Medium | Main thoroughfare — use crosswalks; moderate traffic volume? |
-| 20th St/Temporary connector | ⭐⭐⭐⭐ High | ⭐⭐⭐⭐ High | Short connector; minimal conflict points |
-| 20th Street (south) | ⭐⭐⭐ Medium | ⭐⭐⭐ Medium | Shared road; watch for turning vehicles |
+| 19th Street | ⭐⭐⭐ Medium | ⭐⭐⭐ Medium | Main thoroughfare — use crosswalks; moderate traffic volume |
+| 20th St/20th Street | ⭐⭐⭐⭐ High | ⭐⭐⭐⭐ High | Short connector; minimal conflict points |
 | Pearl Street Mall | ⭐⭐⭐⭐ High (walk) / ⚠️ Dismount (bike) | ⭐⭐ Low–Medium | Pedestrian-priority zone — bikes must yield to walkers |
 | 18th Street | ⭐⭐⭐ Medium | ⭐⭐⭐ Medium | Downtown traffic; use signals |
-| Canyon Boulevard | ⭐⭐⭐⭐ High | ⭐⭐⭐⭐ High | Popular multi-use path; bike infrastructure; scenic canyon views |
+| Canyon Boulevard | ⭐⭐⭐⭐ High | ⭐⭐⭐⭐⭐ | Popular multi-use path; bike infrastructure; scenic canyon views |
 
-**Overall Route Safety:** ⭐⭐⭐⭐ Very good — this is one of Boulder's most established bike and walk corridors.
+**Overall Route Safety:** ⭐⭐⭐⭐ Very good — one of Boulder's most established bike and walk corridors.
 
 ---
 
@@ -93,7 +84,7 @@ The biking route follows the **same streets** as walking, with these key differe
 |------|---------------------|-----------------|
 | 🚶 Walking | 0 kg (direct) | ~200 kg CO₂ saved per year |
 | 🚲 Biking | 12.5 kg (food-based) | ~187.5 kg CO₂ saved per year |
-| 🛴 E-Bike | ~40–50 kg (electricity) | ~150–160 kg CO₂ saved per year |
+| ⚡ E-Bike | ~40–50 kg (electricity) | ~150–160 kg CO₂ saved per year |
 | 🚗 Driving (baseline) | ~200 kg | — |
 
 ### Health Benefits of Walking This Route Daily
@@ -120,7 +111,7 @@ The biking route follows the **same streets** as walking, with these key differe
 3. **Weather considerations:** Boulder's bike infrastructure is excellent year-round, but summer afternoon thunderstorms are common (May–September) — carry a rain jacket
 4. **Winter biking:** Boulder has aggressive snow clearing on major bike routes; 19th St and Canyon Blvd are prioritized — studded tires recommended Nov–Mar
 5. **Bike parking:** 1800 Broadway area has B-Cycle stations and bike racks downtown — check for secured parking at your office
-6. **Footwear:** Keep walking shoes at the office if you prefer to bike one way and walk the other (way of the mixed-mode commute!)
+6. **Footwear:** Keep walking shoes at the office if you prefer to bike one way and walk the other
 7. **Combination option:** Bike to Downtown (~5–10 min), then walk through Pearl Street Mall area (~5 min) — gives you variety and avoids busy cycling zones in the mall
 8. **Carry essentials:** Water bottle (Boulder elevation = 5,430 ft — you dehydrate faster), sunscreen, and a small first-aid kit
 
@@ -152,7 +143,7 @@ Key waypoints along the route:
 ### Alternative Biking Route (Boulder Creek Path)
 - **Distance:** ~4.5 km (2.8 mi)
 - **Time:** ~18–20 min
-- **Description:** From 19th St, divert to Boulder Creek Path near 15th St. Follow the creek south through central Boulder, reconnect to 18th St near Broadway. **Scenic and largely separated from car traffic** — highly recommended for experienced cyclists who enjoy the creek path.
+- **Description:** From 19th St, divert to Boulder Creek Path near 15th St. Follow the creek south through central Boulder, reconnect to 18th St near Broadway. **Scenic and largely separated from car traffic** — highly recommended for experienced cyclists.
 
 ---
 
