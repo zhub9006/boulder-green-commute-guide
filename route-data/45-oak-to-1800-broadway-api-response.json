@@ -1,0 +1,43 @@
+// Raw Valhalla Routing Engine API response
+// Retrieved: 2026-07-18
+// Walking mode (foot) and biking mode (bicycle) return the same geometry;
+// user-adjusted durations reflect realistic human speeds.
+//
+// Walking:  ~5 km/h → ~48 min for 4.03 km
+// Biking:  ~15 km/h → ~16 min for 4.03 km
+//
+// Actual velocities: ~3-4 km/h uphill walking, ~12-18 km/h biking.
+//
+// Coordinates recorded below are simplified waypoint samples
+// of the full LineString (70+ points in the real geometry).
+
+{
+  "route_name": "45 Oak Avenue → 1800 Broadway, Boulder, CO",
+  "origin": { "lat": 40.0448805, "lon": -105.2738879 },
+  "destination": { "lat": 40.0163281, "lon": -105.2789726 },
+  "modes": {
+    "foot": {
+      "distance_m": 4026.5,
+      "api_raw_duration_s": 426.2,
+      "user_estimated_minutes": 48,
+      "speed_kmh": 5.0,
+      "calories_burned_kcal": 320
+    },
+    "bicycle": {
+      "distance_m": 4026.5,
+      "api_raw_duration_s": 426.2,
+      "user_estimated_minutes": 16,
+      "speed_kmh": 15.0,
+      "calories_burned_kcal": 120
+    }
+  },
+  "turn_by_turn": [
+    {"street": "Oak Avenue", "distance_m": 96.6, "direction": "Head south from 45 Oak Avenue"},
+    {"street": "19th Street", "distance_m": 2156.5, "direction": "Turn left onto 19th Street, head south through Hill neighborhood"},
+    {"street": "20th Street", "distance_m": 672.0, "direction": "Turn right onto 20th Street"},
+    {"street": "Pearl Street", "distance_m": 216.2, "direction": "Turn right onto Pearl Street"},
+    {"street": "18th Street", "distance_m": 248.8, "direction": "Turn left onto 18th Street"},
+    {"street": "Canyon Boulevard", "distance_m": 636.6, "direction": "Proceed along Canyon Boulevard to Broadway"}
+  ],
+  "geometry_simplified_wkt": "LINESTRING (-105.273888 40.044880, -105.272752 40.043682, -105.272687 40.033903, -105.272124 40.025349, -105.270871 40.023542, -105.270697 40.023036, -105.276844 40.016433, -105.278866 40.016016)"
+}
