@@ -1,53 +1,86 @@
-# 🌍 Environmental Impact & Health Benefits
+# 🌍 Environmental & Health Impact
 
-## Carbon Footprint Reduction
+## CO₂ Emissions Comparison
 
-### Per-Trip Comparison (4.03 km commute)
+### Per Commute Trip (One-Way, 4.03 km / 2.5 mi)
 
-| Mode | CO₂ Emitted (kg) | CO₂ Saved vs. Driving | 
-|------|------------------|----------------------|
-| 🚶 Walking | 0 | ~0.8 kg |
-| 🚴 Biking | 0 | ~0.7 kg |
-| ⚡ E-Bike | ~0.005 | ~0.5 kg |
-| 🚗 Driving (gas) | ~0.8 | Baseline |
-| 🚗 Driving (EV) | ~0.15 | ~0.65 kg |
+| Mode | CO₂ Emitted | CO₂ Saved vs. Driving |
+|------|------------|----------------------|
+| 🚶 Walking | 0 kg | 0.8 kg |
+| 🚴 Biking | 0 kg (direct) | 0.8 kg |
+| 🚗 Driving (gas car, avg 25 mpg) | ~0.8 kg | Baseline |
+| ⚡ E-Bike | ~0.1 kg | 0.7 kg |
+| 🚌 RTD Bus | ~0.3 kg | 0.5 kg |
 
-### Annual Impact (250 commute days/year)
+### Daily Round-Trip Impact
 
-| Mode | CO₂ Saved/Year | Money Saved/Year |
-|------|---------------|-----------------|
-| Walking 2 days/wk | ~200 kg | ~$400–500 (fuel + parking) |
-| Biking 2 days/wk | ~175 kg | ~$500–1,200 (fuel + parking) |
-| Biking 5 days/wk | ~438 kg | ~$1,250–3,000 |
-| Walking 5 days/wk | ~500 kg | ~$500–500 (time only) |
+If your commute is 4.03 km each way (8.06 km total):
 
-## Health Benefits
-
-### 🚶 Walking
-- **Calories burned:** ~200–250 kcal per trip (48–52 min)
-- **Cardiovascular:** Reduces heart disease risk by 20–30%
-- **Mental health:** Reduces stress; improves mood and focus
-- **Muscle:** Low-impact; builds leg strength and endurance
-- **Longevity:** Regular walking adds 3–7 years to life expectancy
-
-### 🚴 Biking
-- **Calories burned:** ~80–120 kcal per trip (14–18 min)
-- **Cardiovascular:** Improves heart health; lowers blood pressure
-- **Joint health:** Low-impact; easier on knees than running
-- **Muscle:** Builds quadricep and glute strength
-- **Stress:** Endorphin release; clear your head before work
-
-## Community Impact
-
-If 100 Boulder residents switched to walking/biking 2 days/week for this commute:
-
-| Metric | Impact |
-|--------|--------|
-| CO₂ reduction | ~18,000 kg/year |
-| Car trips eliminated | ~50,000/year |
-| Road wear reduction | ~$25,000/year in infrastructure savings |
-| Parking demand reduction | ~200 fewer spaces needed |
+| Mode | Daily CO₂ | Annual CO₂ (250 work days) |
+|------|-----------|---------------------------|
+| 🚗 Driving | ~1.6 kg/day | ~400 kg/year |
+| 🚶 Walking | 0 kg/day | 0 kg/year (net zero) |
+| 🚴 Biking | 0 kg/day | 0 kg/year (net zero) |
+| ⚡ E-Bike | ~0.2 kg/day | ~50 kg/year |
+| 🚌 Bus | ~0.6 kg/day | ~150 kg/year |
 
 ---
 
-*Calculations based on EPA emissions factors and American Heart Association health data. Individual results may vary.*
+## Annual Savings Summary (250 Round Trips)
+
+| Benefit | Walking/Biking | vs. Driving |
+|---------|---------------|-------------|
+| **CO₂ Not Emitted** | ~400 kg (2,600+ lbs) | — |
+| **Gasoline Not Used** | — | ~160 gallons |
+| **Money Saved** | $3,750–$6,750/yr | — |
+| **Health Benefit** | Active lifestyle, reduced disease risk | Sedentary baseline |
+
+--
+
+## The Broader Picture
+
+### If All Boulder Residents Walked/Biked Just 2 Days/Week
+
+Boulder has roughly **110,000** residents. If even 30% commuted sustainably 2 days/week:
+
+- **CO₂ reduction:** ~66,000 kg (**145,000+ lbs**) per week
+- **Annual savings:** ~$5M+ in combined transportation costs
+- **Traffic congestion reduction:** Noticeable decrease on Arapahoe Avenue, Broadway, and US-36
+- **Healthcare savings:** Reduced obesity, heart disease, and mental health costs
+
+---
+
+## Health Benefits of Active Commuting
+
+### Walking 40+ Minutes/Day (Your Commute)
+- ✅ Meets weekly aerobic exercise guidelines (150+ min/week)
+- ✅ Reduces risk of heart disease by 30–40%
+- ✅ Improves mental health — reduces anxiety and depression
+- ✅ Strengthens bones and muscles
+- ✅ Better sleep quality
+- ✅ Maintains healthy weight
+
+### Biking 40+ Minutes/Day (Your Commute)
+- ✅ Excellent cardiovascular workout
+- ✅ Low-impact — easier on joints than running
+- ✅ Builds leg strength and endurance
+- ✅ Reduces stress — freedom and speed of biking
+- ✅ Time-efficient — exercise + transportation combined
+- ✅ Can add years to your life expectancy
+
+---
+
+## Carbon Footprint Context
+
+| Activity | CO₂ Equivalent |
+|----------|----------------|
+| Round-trip drive (this route) | 0.8 kg |
+| Swim 30 min in heated pool | 0.2 kg |
+| Laptop charged for 1 year | 0.3 kg |
+| iPhone charged for 1 year | 0.2 kg |
+| **Your annual commute by car** | **~400 kg** |
+| **Your annual commute by bike/walk** | **0 kg** |
+
+---
+
+*All estimates based on EPA, Boulder County sustainability data, and OpenStreetMap routing. Real-world values may vary based on vehicle type, route conditions, and individual factors.*
