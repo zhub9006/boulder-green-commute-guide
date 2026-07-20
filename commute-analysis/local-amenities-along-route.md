@@ -61,7 +61,7 @@
 | **Spring (Apr–Jun)** | Pleasant; watch for potholes after winter; wildflowers along Canyon Blvd |
 | **Summer (Jul–Sep)** | Hot but dry; carry water; UV protection essential |
 | **Fall (Oct–Nov)** | Best biking weather; golden aspens; shorter days |
-| **Winter (Dec–Mar)** | Snow/ice possible; use studded tires; Bundle up; shorter daylight |
+| **Winter (Dec–Mar)** | Snow/ice possible; use studded tires; bundle up; shorter daylight |
 
 ---
 
