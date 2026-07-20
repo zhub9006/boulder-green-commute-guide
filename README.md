@@ -20,7 +20,7 @@ This repository shares a real-world commute analysis from **45 Oak Avenue** to *
 
 ---
 
-## 🚶‍♂️ Walking Route Details
+## 🚶 Walking Route Details
 
 | Segment | Street | Distance | Est. Time |
 |---|---|---|---|
@@ -72,7 +72,7 @@ This repository shares a real-world commute analysis from **45 Oak Avenue** to *
 - **No parking fees downtown**
 - **No car payment needed**
 
-### 🏃‍♂️ Health Benefits
+### 🏃 Health Benefits
 - Walking: ~240 calories burned per commute (round-trip = ~480)
 - Biking: ~300 calories burned per commute (round-trip = ~600)
 - Improved cardiovascular health, reduced stress, better sleep
@@ -97,7 +97,7 @@ This repository shares a real-world commute analysis from **45 Oak Avenue** to *
 
 ---
 
-## 🚏 Boulder-Specific Commuting Tips
+## 🚦 Boulder-Specific Commuting Tips
 
 1. **Boulder Creek Path** – Use this paved multi-use trail for a scenic, car-free ride along Boulder Creek. It's separated from road traffic.
 2. **Bike joke tellers (Boulder's traffic calming)** – Slow down and enjoy the neighborhood feel; these make biking safer.
