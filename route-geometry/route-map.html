@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Boulder Green Commute Map — 45 Oak Ave → 1800 Broadway</title>
+<style>
+  body { margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f4f4f4; }
+  #map { width: 100%; height: 100vh; }
+  .legend { position: absolute; top: 10px; right: 10px; background: white; padding: 12px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.3); z-index: 1000; }
+  .legend h3 { margin: 0 0 8px 0; font-size: 14px; }
+  .legend-item { display: flex; align-items: center; margin: 4px 0; font-size: 12px; }
+  .legend-line { width: 24px; height: 3px; margin-right: 8px; border-radius: 2px; }
+  .legend-line.walk { background: #2196F3; }
+  .legend-line.bike { background: #4CAF50; }
+  .info { position: absolute; top: 10px; left: 10px; background: white; padding: 12px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.3); z-index: 1000; max-width: 300px; }
+  .info h2 { margin: 0 0 8px 0; font-size: 16px; }
+  .info p { margin: 4px 0; font-size: 13px; color: #555; }
+  .stat { font-weight: bold; color: #333; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div class="info">
+  <h2>🚶‍♂️🛴 Boulder Green Commute</h2>
+  <p><strong>From:</strong> 45 Oak Avenue, Boulder, CO</p>
+  <p><strong>To:</strong> 1800 Broadway, Boulder, CO</p>
+  <p><strong>Distance:</strong> <span class="stat">4,026 m (2.5 mi)</span></p>
+  <p><strong>Walking:</strong> <span class="stat">~48 min</span></p>
+  <p><strong>Biking:</strong> <span class="stat">~16 min</span></p>
+  <p style="margin-top:12px; font-size:12px;">Data: OpenStreetMap & OSRM</p>
+</div>
+<div class="legend">
+  <h3>Route Legend</h3>
+  <div class="legend-item"><div class="legend-line walk"></div> Walking Route</div>
+  <div class="legend-item"><div class="legend-line bike"></div> Biking Route</div>
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+var map = L.map('map').setView([40.03, -105.276], 14);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors', maxZoom: 19
+}).addTo(map);
+
+var routeCoords = [
+  [40.04488,-105.27389],[40.04488,-105.27382],[40.04488,-105.27363],[40.04488,-105.27328],
+  [40.04368,-105.27275],[40.04253,-105.27275],[40.04158,-105.27275],
+  [40.04010,-105.27274],[40.03906,-105.27274],[40.03788,-105.27271],
+  [40.03641,-105.27270],[40.03465,-105.27269],[40.03390,-105.27269],
+  [40.03316,-105.27268],[40.03285,-105.27267],[40.03273,-105.27267],
+  [40.03244,-105.27267],[40.03193,-105.27266],[40.03161,-105.27266],
+  [40.03118,-105.27266],[40.03074,-105.27266],[40.03007,-105.27266],
+  [40.02919,-105.27265],[40.02800,-105.27264],[40.02685,-105.27263],
+  [40.02625,-105.27262],[40.02566,-105.27258],[40.02552,-105.27252],
+  [40.02552,-105.27241],[40.02546,-105.27232],[40.02535,-105.27212],
+  [40.02507,-105.27165],[40.02496,-105.27151],[40.02491,-105.27146],
+  [40.02476,-105.27133],[40.02457,-105.27123],[40.02450,-105.27120],
+  [40.02403,-105.27104],[40.02354,-105.27087],[40.02304,-105.27070],
+  [40.02255,-105.27053],[40.02214,-105.27039],[40.02203,-105.27035],
+  [40.02194,-105.27032],[40.02154,-105.27019],[40.02103,-105.27002],
+  [40.02094,-105.26998],[40.02053,-105.26984],[40.02011,-105.26969],
+  [40.02004,-105.26967],[40.02001,-105.26966],[40.01999,-105.26979],
+  [40.01994,-105.27001],[40.01987,-105.27037],[40.01981,-105.27069],
+  [40.01978,-105.27079],[40.01975,-105.27093],[40.01971,-105.27112],
+  [40.01958,-105.27175],[40.01952,-105.27200],[40.01950,-105.27211],
+  [40.01943,-105.27208],[40.01932,-105.27193],[40.01861,-105.27178],
+  [40.01850,-105.27174],[40.01842,-105.27170],[40.01836,-105.27167],
+  [40.01818,-105.27162],[40.01780,-105.27162],[40.01731,-105.27163],
+  [40.01732,-105.27203],[40.01731,-105.27228],[40.01731,-105.27242],
+  [40.01730,-105.27254],[40.01730,-105.27260],[40.01729,-105.27265],
+  [40.01727,-105.27277],[40.01725,-105.27289],[40.01725,-105.27291],
+  [40.01714,-105.27344],[40.01712,-105.27353],[40.01701,-105.27407],
+  [40.01699,-105.27419],[40.01683,-105.27492],[40.01676,-105.27523],
+  [40.01675,-105.27527],[40.01673,-105.27538],[40.01670,-105.27553],
+  [40.01662,-105.27593],[40.01658,-105.27610],[40.01655,-105.27627],
+  [40.01653,-105.27633],[40.01649,-105.27653],[40.01649,-105.27655],
+  [40.01648,-105.27657],[40.01648,-105.27659],[40.01648,-105.27660],
+  [40.01646,-105.27670],[40.01644,-105.27681],[40.01644,-105.27682],
+  [40.01643,-105.27684],[40.01622,-105.27784],[40.01621,-105.27788],
+  [40.01619,-105.27800],[40.01618,-105.27805],[40.01617,-105.27813],
+  [40.01608,-105.27856],[40.01602,-105.27887]
+];
+
+L.polyline(routeCoords, {color: '#2196F3', weight: 5, opacity: 0.8}).addTo(map);
+
+L.marker([40.04488, -105.27389]).addTo(map).bindPopup('<b>🏠 Start: 45 Oak Avenue</b>').openPopup();
+L.marker([40.01633, -105.27897]).addTo(map).bindPopup('<b>🏢 End: 1800 Broadway</b>').openPopup();
+</script>
+</body>
+</html>
