@@ -1,65 +1,50 @@
-# Route Comparison: Walking vs. Biking for Boulder Green Commute
+# Walking vs. Biking: Route Comparison
 
-## Quick Reference for Boulder Residents
+**Route:** 45 Oak Avenue → 1800 Broadway, Boulder, CO
+**Distance:** 4,027 m (~2.5 miles)
 
-| | 🚶 Walking | 🚲 Biking | 🚗 Driving |
-|---|---|---|---|
-| **Distance** | 4.0 km (2.5 mi) | 4.0 km (2.5 mi) | 2.5 mi |
-| **Time** | ~48 min | ~16 min | 10–15 min |
-| **CO₂** | 0 | 0 | ~1.5 kg/trip |
-| **Cost** | Free | Free | ~$5–7/trip |
-| **Fitness** | ~240 kcal | ~300 kcal | 0 kcal |
-| **Parking** | Not needed | Not needed | Required downtown |
-| **Stress** | Low (fresh air) | Low (exercise) | Medium (traffic, search) |
+## Overview
 
-## Choosing the Right Mode
+| Metric | 🚶 Walking | 🚲 Biking |
+|---|---|---|
+| **Distance** | 4,027 m | 4,027 m |
+| **Time** | ~48 min | ~16 min |
+| **Speed** | ~5 km/h | ~15 km/h |
+| **Calories burned** | ~240 (one way) | ~300 (one way) |
+| **CO₂ saved vs. driving** | ~1.5 kg | ~1.5 kg |
+| **Cost** | Free | Free (or $1 B-Cycle) |
+| **Weather dependency** | High | Moderate |
+| **Storage needed** | None | Bike lock/rack |
 
-### Choose Walking If:
-- You have 48+ minutes and want maximum health benefit
-- You enjoy a leisurely pace with fresh air
-- You want to arrive at work feeling energized
-- Weather is mild and you can dress comfortably
+## Route Segments Comparison
 
-### Choose Biking If:
-- You want to save time (~16 min is very close to driving)
-- You want exercise without the longer time commitment
-- You enjoy the freedom of cycling in Boulder's bike-friendly streets
-- You can use the Boulder Creek Path for a scenic, separated route
+| Segment | Walking Time | Biking Time |
+|---|---|---|
+| Oak Avenue → 19th St | ~1 min | ~15 sec |
+| 19th Street (long stretch) | ~3.5 min | ~1.5 min |
+| 20th St connector | ~13 sec | ~12 sec |
+| 20th Street | ~55 sec | ~55 sec |
+| Pearl Street | ~26 sec | ~26 sec |
+| 18th Street | ~39 sec | ~39 sec |
+| Canyon Boulevard | ~1 min 9 sec | ~1 min |
 
-### When to Walk vs. Bike:
-| Scenario | Recommended Mode |
-|---|---|
-| Good weather, plenty of time | Either — both are great! |
-| Short on time, need to get there fast | Biking |
-| Want maximum health benefits | Walking |
-| Bad weather (rain/snow) | Consider bus/bike combo, or driving occasionally |
-| Returning from a long day at work | Biking (more energy-efficient) |
-| Exploring the route for the first time | Walking (you can stop and orient yourself) |
+## Key Differences
 
-## Key Route Facts
+### Walking Advantages
+- No equipment needed
+- Exercise is built into the commute
+- Safer in bad weather
+- More reflective/meditative
 
-1. **The route shares 7 street segments** — both walking and biking follow the same corridor
-2. **Canyon Boulevard** is the most scenic segment — it runs alongside Boulder Creek
-3. **19th Street** is the longest segment at 2.15 km — it's a busy but well-maintained corridor
-4. **Pearl Street** gives you access to downtown — dismount and walk your bike through the pedestrian mall if biking
-5. **Total elevation change** is minimal — Boulder's core is flat
+### Biking Advantages
+- 3× faster than walking
+- Arrives less sweaty (16 min vs 48 min)
+- Easier in cold/windy conditions
+- Can carry more cargo with panniers/bags
 
-## Pro Tips for Boulder Commuters
+### When to Choose Which
+- **Walk:** Pleasant weather, want exercise, short errand after, don't have a bike
+- **Bike:** Time-sensitive, cold morning, have cargo, want to arrive fresh
 
-- 🚲 **Use the Boulder Creek Path** on Canyon Boulevard — it's separated from car traffic and gorgeous
-- 👟 **Plan your route** — GPS apps like Komoot or Strava have pre-loaded Boulder bike routes
-- 🌦️ **Check the forecast** at boulderweather.com — afternoon thunderstorms in summer
-- 🔒 **Lock your bike** at the rack outside 1800 Broadway — use a U-lock for the frame + cable for wheels
-- 🧴 **Sunscreen** — Boulder's altitude means stronger UV even on cloudy days
-- 💧 **Carry water** — hydration station at 1800 Broadway plaza
-
-## Data Sources
-
-- Geocoding & routing: OpenStreetMap (Nominatim + OSRM)
-- Coordinates: Programmatically retrieved via OSM API
-- All estimates based on standard pacing (5 km/h walking, 15 km/h cycling)
-- Lane/road type data from OSM tags
-
----
-
-*Generated programmatically — always verify current road conditions before commuting.*
+## Hybrid Option
+Walk-bike combo: bike on 19th Street and 20th Street (flat, bike lanes), walk on steep Canyon Boulevard section if needed.
