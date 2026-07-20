@@ -1,76 +1,62 @@
-# 🛤️ Walking vs. Biking Route Comparison
-
-## Route: 45 Oak Avenue → 1800 Broadway, Boulder, CO
-
----
+# 🔄 Walk vs. Bike vs. Drive — Full Comparison
 
 ## Side-by-Side Comparison
 
-### Distance & Time
-
-| Metric | Walking 🚶 | Biking 🚲 | Driving 🚗 |
+| Feature | 🚶‍♂️ Walking | 🚲 Biking | 🚗 Driving |
 |---|---|---|---|
-| **Total Distance** | 4,027 m (2.5 mi) | 4,027 m (2.5 mi) | 4,027 m (2.5 mi) |
-| **One-way Time** | ~48 min | ~16 min | 10–15 min |
-| **Round-trip Time** | ~96 min | ~32 min | 25–40 min |
-| **Avg. Speed** | 5.0 km/h | 15.0 km/h | ~16 km/h (with traffic/parking) |
-
-### Health & Environmental Impact
-
-| Metric | Walking 🚶 | Biking 🚲 | Driving 🚗 |
-|---|---|---|---|
-| **CO₂ per trip** | 0 kg | 0 kg | ~1.5 kg |
-| **Annual CO₂** | 0 kg | 0 kg | ~375 kg |
-| **Calories per trip** | ~480 kcal | ~600 kcal | 0 kcal |
-| **Annual calories burned** | ~120,000 kcal | ~150,000 kcal | 0 kcal |
-
-### Cost
-
-| Expense | Walking | Biking | Driving |
-|---|---|---|---|
-| **Annual cost** | $0 | $0–$100 | $2,235 |
-| **Fuel** | $0 | $0 | $75 |
-| **Maintenance** | $0 | $0 | $600 |
-| **Insurance** | $0 | $0 | $1,200 |
-| **Parking** | $0 | $0 | $360 |
+| **Distance** | 4,027 m (2.5 mi) | 4,027 m (2.5 mi) | 4,027 m (2.5 mi) |
+| **One-Way Time** | ~48 min | ~16 min | ~10–15 min |
+| **Round-Trip Time** | ~96 min | ~32 min | ~25–40 min |
+| **Speed** | ~5 km/h | ~15 km/h | ~25–30 km/h (avg) |
+| **Cost per Trip** | Free | Free or ~$1 (B-Cycle) | ~$3–5 |
+| **Annual Cost** | Free | ~$365 (B-Cycle annual) | ~$3,000–$5,000 |
+| **CO₂ per Trip** | 0 kg | 0 kg | ~1.5 kg |
+| **CO₂ per Year** | 0 kg | 0 kg | ~375 kg |
+| **Calories per Trip** | ~240 kcal | ~300 kcal | 0 kcal |
+| **Calories per Year** | ~120,000 kcal | ~60,000 kcal | 0 kcal |
+| **Parking Needed** | No | No | Yes ($150–$300/mo downtown) |
+| **Fitness Benefit** | Cardiovascular, leg strength | Cardiovascular, leg strength | None |
+| **Reliability** | High (no traffic) | High (bike lane + Creek Path) | Low (traffic, parking) |
+| **Weather Dependence** | Medium | Medium | Low |
+| **Door-to-Door Convenience** | Low (slow) | High | Medium (parking hassle) |
+| **Mental Health Benefit** | High | High | None |
+| **Overall Score** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 
 ---
 
-## Route Comparison
+## Recommended Strategy: Walk-Bike Hybrid
 
-### Walking Route: 19th Street + Canyon Boulevard
-- **Best for:** Exercise, sightseeing, enjoying Boulder's weather
-- **Advantages:** No equipment needed, health benefits, zero emissions, no parking needed
-- **Considerations:** Takes longer, weather-dependent, may need a rain layer
+### 🌤️ Good Weather Days (most days)
+- **Bike to work** via the 19th Street bike lane → Canyon Boulevard separated path
+- **Time:** ~16–17 minutes
+- **Savings:** $3–5 per trip, 1.5 kg CO₂
 
-### Biking Route: Same Corridor (19th St → Canyon Blvd)
-- **Best for:** Fastest green commute option, combining speed with sustainability
-- **Advantages:** Only 3 min slower than driving, significant health benefits, bike-share available
-- **Considerations:** Requires bike, need for lighting/lock, weather prep, U-lock
+### 🌧️ Bad Weather / Winter Days
+- **Walk to work** via 19th Street → Pearl Street Mall → Canyon Boulevard Path
+- **Time:** ~48–51 minutes
+- **Alternative:** Take RTD Bus routes 1, 3, 7, 10 with bike rack
+- **Savings:** Still better than driving (no parking needed, bus fare ~$3.50)
 
-### Driving (Baseline Comparison)
-- **Best for:** Bad weather days, carrying heavy items, multi-stop errands
-- **Disadvantages:** Parking stress, cost, emissions, traffic
-
----
-
-## Recommended Strategy
-
-| Scenario | Recommended Mode |
-|---|---|
-| **Day 1–2 (good weather)** | 🚲 Bike — fast, healthy, green |
-| **Day 3–4 (carry heavy items)** | 🚗 Drive — practical for one-off trips |
-| **Rainy day** | 🚶 Walk if short rain, otherwise drive |
-| **After work (no heavy items)** | 🚲 Bike — decompress with exercise |
-| **Meeting downtown, no gear** | 🚶 Walk — no need for bike infrastructure |
-| **Running late** | 🚲 Bike — only 3 min slower than driving |
+### ❄️ Winter Strategy
+- **Bike the 19th Street corridor** (plowed first, bike lane maintained)
+- **Walk the last 2 blocks** through downtown if ice is a concern
+- **Use B-Cycle** for the return trip (pre-warmed stations)
 
 ---
 
-## Key Takeaways
+## Cost-Benefit Summary
 
-1. **Biking is the sweet spot** — nearly as fast as driving, with massive health and environmental benefits.
-2. **Walking is deeply underrated** — in Boulder's flat, compact downtown, a 48-minute walk is very manageable.
-3. **Car-free is viable** — the data shows it's not just possible, it's actually *better* in almost every metric.
-4. **Combine modes** — use a walk-bike hybrid approach to adapt to weather, time, and cargo needs.
-5. **Share your commute** — add your route to `/commutes/` to help other Boulder residents go green!
+| | Walking | Biking | Driving |
+|---|---|---|---|
+| **Annual cost** | $0 | $0–$365 | $3,000–$5,000 |
+| **Annual savings vs. driving** | $3,000–$5,000 | $2,635–$4,635 | — |
+| **Annual CO₂ saved** | 0 kg | 0 kg | 375 kg |
+| **Annual fitness gain** | 120,000 kcal | 60,000 kcal | 0 kcal |
+| **Annual time (round-trip × 250)** | ~133 hrs | ~44 hrs | ~94 hrs |
+
+> **Average annual cost of car ownership in Boulder: ~$4,200/yr** (insurance, payment, fuel, maintenance, parking)
+> **B-Cycle annual membership: $88/yr** — essentially free compared to car ownership!
+
+---
+
+*Data based on OpenStreetMap routing analysis | Boulder-specific cost estimates*
