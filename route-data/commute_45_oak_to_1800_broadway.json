@@ -1,0 +1,42 @@
+{
+  "route": "45 Oak Avenue to 1800 Broadway, Boulder, CO",
+  "distance_m": 4026.5,
+  "distance_km": 4.03,
+  "distance_miles": 2.5,
+  "modes": {
+    "walking": {
+      "time_seconds": 2880,
+      "time_minutes": 48,
+      "pace_kmh": 5.0,
+      "calories_one_way": 240,
+      "calories_round_trip": 480
+    },
+    "biking": {
+      "time_seconds": 960,
+      "time_minutes": 16,
+      "pace_kmh": 15.0,
+      "calories_one_way": 300,
+      "calories_round_trip": 600
+    },
+    "driving": {
+      "time_seconds": 600,
+      "time_minutes": 10,
+      "co2_kg_per_trip": 1.5,
+      "co2_kg_per_year_250_days": 375
+    }
+  },
+  "segments": [
+    {"street": "Oak Avenue", "distance_m": 97, "walking_time_s": 12, "biking_time_s": 15},
+    {"street": "19th Street", "distance_m": 2157, "walking_time_s": 180, "biking_time_s": 95},
+    {"street": "20th St.", "distance_m": 106, "walking_time_s": 12, "biking_time_s": 12},
+    {"street": "20th Street", "distance_m": 566, "walking_time_s": 55, "biking_time_s": 55},
+    {"street": "Pearl Street", "distance_m": 216, "walking_time_s": 25, "biking_time_s": 25},
+    {"street": "18th Street", "distance_m": 249, "walking_time_s": 39, "biking_time_s": 39},
+    {"street": "Canyon Boulevard", "distance_m": 637, "walking_time_s": 69, "biking_time_s": 60}
+  ],
+  "coordinates": {
+    "home": {"lat": 40.0448805, "lon": -105.2738879},
+    "work": {"lat": 40.0163281, "lon": -105.2789726}
+  },
+  "data_source": "OpenStreetMap / OSRM"
+}
