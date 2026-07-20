@@ -1,146 +1,112 @@
-# 🌱 Sustainability & Health Impact
+# 🌍 Sustainability Impact Analysis
 
-This file documents the environmental and personal health benefits of choosing to walk or bike instead of driving your Boulder commute.
+## Environmental Benefits of Walking/Biking This Commute
 
-## Your Commute at a Glance
+### CO₂ Savings
 
 | Metric | Value |
-|--------|-------|
-| One-way distance | 4,027 m (2.5 miles) |
-| Round-trip distance | 8,054 m (5 miles) |
-| Workdays per year | ~250 |
-| Annual commuting distance | 1,006 km (625 miles) |
+|---|---|
+| **Distance per trip** | 4.03 km (2.5 mi) |
+| **Average car CO₂ emission** | ~0.21 kg/km |
+| **CO₂ saved per trip (one way)** | ~0.85 kg |
+| **CO₂ saved per round trip** | ~1.7 kg |
+| **CO₂ saved per week (5 days)** | ~8.5 kg |
+| **CO₂ saved per year (250 workdays)** | ~375 kg (827 lbs) |
+| **Equivalent car miles not driven** | 1,250 miles/year |
+| **Trees needed to absorb this CO₂** | 6 trees per year |
 
 ---
 
-## 🌍 Environmental Impact
+## Fuel Savings
 
-### CO₂ Emissions Saved
-
-| Mode | CO₂ per trip | CO₂ per year (250 days) | Equivalent |
-|------|-------------|------------------------|------------|
-| 🚗 Driving (gasoline) | ~1.5 kg | ~375 kg | 6 trees absorbed per year |
-| 🚶 Walking | 0 kg | 0 kg | 6 trees worth of CO₂ absorbed |
-| 🚴 Biking | ~5 g (food energy) | ~1.25 kg | ~0.2 trees offset |
-
-### Fuel Saved Per Year
-
-- **Gallons saved:** ~33 gallons/year
-- **Liters saved:** ~125 liters/year
-- **CO₂ from gasoline:** ~840 lbs/year avoided
-
-### Carbon Footprint Reduction
-
-```
-🚗 Driving:     ~375 kg CO₂/year
-🚶 Walking:      ~0 kg CO₂/year   ← 100% reduction!
-🚴 Biking:       ~1.25 kg CO₂/year ← 99.7% reduction!
-```
+| Metric | Value |
+|---|---|
+| **Average fuel economy** | 25 mpg (typical commuter car) |
+| **Fuel used per round trip** | ~0.1 liters |
+| **Fuel saved per year** | ~125 liters (~33 gallons) |
+| **Cost of fuel saved per year** | ~$500–$625 |
 
 ---
 
-## 💰 Financial Savings
+## Parking Savings
 
-| Expense | Annual Cost (Driving) | Annual Cost (Walking/Biking) | Savings |
-|---------|----------------------|------------------------------|---------|
-| Fuel | ~$750 | $0 | $750 |
-| Parking (downtown) | ~$600–$1,200 | $0 | $600–$1,200 |
-| Car insurance | ~$1,200 | ~$900 (no commute) | $300 |
-| Car maintenance | ~$600 | ~$200 | $400 |
-| Car payment | ~$4,800 | $0 | $4,800 |
-| **Total** | **~$7,950–$8,550** | **~$1,100** | **~$6,850–$7,450** |
-
-> *Note: Even if you keep your car, the commute-specific savings are ~$1,500–$3,000/year.*
+| Metric | Value |
+|---|---|
+| **Monthly downtown parking** | $150–$300 |
+| **Annual parking cost (if driving)** | $1,800–$3,600 |
+| **Annual parking savings (walking/biking)** | $1,800–$3,600 |
 
 ---
 
-## 🏃 Health & Wellness Benefits
+## Full Financial Impact
 
-### Calories Burned
+| Category | Annual Savings |
+|---|---|
+| Fuel | $500–$625 |
+| Parking | $1,800–$3,600 |
+| Car maintenance (oil, tires, brakes) | $300–$600 |
+| Car insurance | $400–$800 |
+| Car payment | $3,000–$5,000 |
+| **Total potential savings** | **$6,000–$10,625/yr** |
+| **Minimum savings (if you keep car for occasional use)** | **$2,235/yr** |
 
-| Metric | Walking | Biking |
-|--------|---------|--------|
-| Per one-way trip | ~240 kcal | ~300 kcal |
-| Per round-trip | ~480 kcal | ~600 kcal |
-| Per week (5 round-trips) | ~2,400 kcal | ~3,000 kcal |
-| Per year (250 workdays) | ~120,000 kcal | ~75,000 kcal |
-| Weight loss potential | ~15 lbs/year | ~10 lbs/year |
-
-### Physical Health Benefits
-
-| Benefit | Walking | Biking |
-|---------|---------|--------|
-| Cardiovascular fitness | ✅ Improved | ✅ Improved |
-| Joint impact | Low (smooth surface) | Very low ( bike supports weight) |
-| Muscle strengthening | Legs, core | Legs, glutes, core |
-| Bone density | Improved | Maintained |
-| Blood pressure | Lowered | Lowered |
-| Blood sugar control | Improved | Improved |
-
-### Mental Health Benefits
-
-- **Stress reduction** — Active commuting reduces cortisol levels
-- **Better sleep** — Morning exercise improves sleep quality
-- **Mood enhancement** — Endorphin release from physical activity
-- **Social connection** — Wave to neighbors, interact with fellow path users
-- **Productivity boost** — Arrive at work more alert and energized
-- **Anxiety reduction** — Regular exercise reduces anxiety by ~20%
+> **Note:** Many Boulder residents who switch to walk/bike keep their car for weekend trips but save $2,000–$5,000/year even after accounting for occasional use.
 
 ---
 
-## 📊 Annual Impact Summary
+## Health Impact
 
-| Metric | Walking Commute | Biking Commute |
-|--------|----------------|----------------|
-| CO₂ saved per year | ~375 kg | ~374 kg |
-| Calories burned per year | ~120,000 kcal | ~75,000 kcal |
-| Fuel saved per year | N/A | ~125 liters |
-| Money saved per year | ~$2,235 | ~$2,235 |
-| Trees equivalent | 6 trees | 6 trees |
-| New healthy habits | ✅ | ✅ |
-| Cars removed from road | 1 (yours!) | 1 (yours!) |
+### Walking Healthcare Savings
+- **Cardiovascular exercise** reduces heart disease risk by ~30%
+- **Weight-bearing exercise** improves bone density
+- **Daily walking** reduces risk of type 2 diabetes by ~40%
+- **Mental health:** Reduced anxiety, improved mood, better sleep quality
+- **Estimated lifetime healthcare savings:** $30,000–$50,000 (from regular exercise)
 
----
-
-## 🌲 Community Impact (If Everyone Did This)
-
-If every Boulder resident within biking distance of their workplace switched to active commuting:
-
-- **5,000 commuters × 375 kg CO₂ saved** = **1,875,000 kg CO₂ saved per year** = equivalent to planting ~30,000 trees
-- **$11M+ in annual savings** across the community
-- **Reduced traffic congestion** on major corridors
-- **Improved air quality** in downtown Boulder
-- **More active, healthier population**
+### Biking Healthcare Savings
+- **Higher intensity cardio** improves cardiovascular fitness more than walking
+- **Joint-friendly** (low impact compared to running)
+- **Core strength** improvement from balancing
+- **Mental health:** Stress reduction, improved cognitive function
+- **Increased lifespan:** Regular cyclists live ~2–3 years longer on average
 
 ---
 
-## 🎯 The Boulder Advantage
+## Community Impact
 
-Boulder is one of the best cities in the US for walking and biking because of:
+If just **100 Boulder residents** switched from driving to walking/biking this route:
 
-1. **Flat terrain** — Most of the city is gentle grade
-2. **Extensive bike path network** — 100+ miles of paved paths
-3. **Progressive city planning** — Boulder Transportation Master Plan prioritizes non-motorized transport
-4. **B-Cycle program** — Affordable bike-sharing with 20+ stations
-5. **RTD Bus + Bike** — Public transit with bike racks on every bus
-6. **Walkable downtown** — Pearl Street Mall is entirely pedestrian
-7. **300+ sunny days** — Year-round cycling is realistic
-8. **Active community** — Strong culture of sustainable transportation
-
----
-
-## 📈 Your Personal Dashboard
-
-Track your impact over time:
-
-```
-Month 1:  2,500 kcal burned, 75 kg CO₂ saved
-Month 3:  7,500 kcal burned, 225 kg CO₂ saved
-Month 6: 15,000 kcal burned, 450 kg CO₂ saved
-Year 1: 120,000 kcal burned, 375 kg CO₂ saved
-Year 5: 600,000 kcal burned, 1,875 kg CO₂ saved = 5 trees worth!
-```
+| Metric | Impact |
+|---|---|
+| Annual CO₂ reduction | 37,500 kg (~82,680 lbs) |
+| Annual fuel reduction | 12,500 liters (~3,300 gallons) |
+| Reduced traffic congestion | 100 fewer cars on 19th & Broadway daily |
+| Reduced parking demand | 100 fewer parking spaces needed |
+| Improved air quality | measurable PM2.5 reduction in downtown corridor |
 
 ---
 
-*Data calculated using EPA emissions factors (8.89 kg CO₂/gallon gasoline), ACS metabolic equivalents, and Boulder-specific transit data.*
+## Carbon Offset Equivalency
+
+To put 375 kg of CO₂ savings in perspective:
+
+- 🌳 **6 mature trees** absorb 375 kg of CO₂ per year
+- 🏠 **Powering a home for** 46 days produces ~375 kg of CO₂
+- 🌊 **Opposing 1.5 hours** of airline flight saves ~375 kg of CO₂
+- 📱 **Charging a smartphone** for 1 year = ~5 kg → This commute = 75 phones charged for a year
+
+---
+
+## Boulder's Climate Goals
+
+Boulder has committed to:
+- **100% renewable electricity by 2030**
+- **80% reduction in greenhouse gas emissions by 2050** (from 2005 levels)
+- **Transportation is Boulder's #1 source of emissions (~35%)**
+- **Every sustainable commute contributes directly to these goals**
+
+> *Source: City of Boulder Climate Action Plan, 2024*
+
+---
+
+*Data based on EPA emissions factors (0.21 kg CO₂/km for average gasoline car) | Boulder-specific cost estimates from local sources*
