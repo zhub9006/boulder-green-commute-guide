@@ -51,220 +51,107 @@ This guide demonstrates that a **4+ km daily commute** in Boulder can be accompl
 | 2 | 19th Street (southbound) | 2,157 m | ~1 min 35 sec |
 | 3 | 20th St. (brief connector) | 106 m | ~12 sec |
 | 4 | 20th Street (southbound) | 566 m | ~55 sec |
-| 5 | Pearl Street (westbound) | 216 m | ~25 sec |
+| 5 | Pearl Street (westbound) | 216 m | ~26 sec |
 | 6 | 18th Street (southbound) | 249 m | ~39 sec |
 | 7 | Canyon Boulevard (westbound) | 637 m | ~1 min |
 
 ### Biking Route Summary
 - **Total distance:** 4,027 m (~2.5 miles)
 - **Estimated time:** ~16 minutes at a comfortable cycling pace (15 km/h)
-- **Route character:** Same corridor as walking; 19th and 20th Streets are bike-friendly with bike lanes; Canyon Boulevard is part of the Boulder Creek Path network
-- **Terrain:** Flat; well-paved roads with bike lanes where available
-
----
-
-## 📊 Walking vs. Biking Comparison
-
-| Metric | Walking | Biking | Driving (with parking) |
-|---|---|---|---|
-| **One-way time** | ~48 min | ~16 min | 10–15 min |
-| **Round-trip time** | ~96 min | ~32 min | 25–40 min |
-| **Distance** | 4.0 km | 4.0 km | 4.0 km |
-| **Calories burned** | ~480 kcal | ~600 kcal | 0 kcal |
-| **CO₂ per trip** | 0 kg | 0 kg | ~1.5 kg |
-| **Annual CO₂ (250 days)** | 0 kg | 0 kg | ~375 kg |
-| **Annual cost** | $0 | $0–$100 | $2,000–$3,000 |
-| **Parking required?** | No | No | Yes |
-
-> **Key takeaway:** Biking is only ~3 minutes slower than driving door-to-door, and you get exercise, zero emissions, and no parking stress.
+- **Route character:** Same corridor as walking; 19th Street has bike lanes, Canyon Boulevard offers the scenic Boulder Creek Path
+- **Terrain:** Flat; well-paved roads; bike infrastructure on 19th and 20th Streets
+- **Bike infrastructure:** Dedicated bike lanes on 19th Street; Creek Path on Canyon Blvd
 
 ---
 
 ## 🌍 Environmental Impact
 
-### CO₂ Savings
-- Per commute (car → walk): **~1.5 kg CO₂ saved**
-- Per commute (car → bike): **~1.5 kg CO₂ saved**
-- Annual (250 workdays): **~375 kg CO₂ saved** — equivalent to planting about 6 trees
-
-### Fuel Savings
-- Annual (250 workdays, 500 miles driven): **~75 gallons of gasoline saved**
-
-### Key environmental benefits:
-- Reduced greenhouse gas emissions
-- Less air pollution in Boulder's sensitive mountain-valley airshed
-- Reduced traffic congestion on Broadway and Arapahoe Avenue
-- Lower demand for parking infrastructure in downtown Boulder
+| Metric | Savings |
+|---|---|
+| CO₂ per trip (vs. driving) | ~1.5 kg |
+| CO₂ per year (250 workdays) | ~375 kg |
+| Fuel saved per year | ~125 liters (~33 gallons) |
 
 ---
 
 ## 💰 Financial Benefits
 
-| Expense | Annual Cost (Car) | Annual Cost (Walk/Bike) |
-|---|---|---|
-| Fuel (500 mi/year) | ~$75 | $0 |
-| Maintenance | ~$600 | $0 |
-| Insurance | ~$1,200 | $0 |
-| Parking (downtown) | ~$360 | $0 |
-| **Total** | **~$2,235** | **$0–$100** |
-
-**Potential annual savings: $2,135–$2,235**
+- **Annual savings vs. driving:** ~$1,500–$3,000
+- No parking fees downtown
+- No car payment needed
+- Lower insurance costs
 
 ---
 
-## 🏃 Health Benefits
+## 🏃‍♂️ Health Benefits
 
-### Walking
-- Burns ~240 calories per one-way commute (480 kcal round-trip)
-- Improves cardiovascular health
-- Reduces stress and anxiety
-- Strengthens bones and muscles
-- Lowers risk of chronic diseases
-
-### Biking
-- Burns ~300 calories per one-way commute (600 kcal round-trip)
-- Builds leg strength and endurance
-- Improves cardiovascular fitness
-- Boosts mental health and reduces stress
-- Low impact on joints compared to running
-
-### Long-term health gains
-- Regular commuters see **lower BMI**, **better blood pressure**, and **improved sleep quality**
-- Boulder's high altitude and sunny climate (300+ sunny days/year) make outdoor commuting especially beneficial
+- Walking: ~240 calories per commute (480 round-trip)
+- Biking: ~300 calories per commute (600 round-trip)
+- Improved cardiovascular health, reduced stress, better sleep
 
 ---
 
-## 🗺️ Key Landmarks Along the Route
+## ⏱️ Mode Comparison
 
-- **Pearl Street Mall** — The historic heart of downtown Boulder, completely pedestrianized. Great for lunch stops or errands.
-- **Canyon Boulevard / Boulder Creek Path** — A paved, multi-use trail running alongside Boulder Creek. Scenic, car-free, and separated from road traffic.
-- **19th Street** — Major north-south corridor with good sidewalks and bike infrastructure.
-- **20th Street** — Direct east-west connector through the downtown grid.
-- **Broadway** — Boulder's main commercial street where the office is located; lined with shops, restaurants, and services.
+| Mode | One Way | Round Trip | Cost per Trip |
+|---|---|---|---|
+| 🚗 Driving | 10–15 min | 25–40 min | ~$3–5 (fuel + parking) |
+| 🚶 Walking | ~48 min | ~96 min | Free |
+| 🚲 Biking | ~16 min | ~32 min | Free (or ~$1 B-Cycle) |
 
----
-
-## 💡 Boulder-Specific Commuting Tips
-
-1. **Use the Boulder Creek Path** — This paved, multi-use trail runs alongside Boulder Creek and is separated from road traffic. It's the most scenic and safest option for the final stretch on Canyon Boulevard.
-
-2. **B-Cycle Bike Share** — Boulder's public bike-share system lets you try commuting without owning a bike. Stations are located throughout downtown.
-
-3. **Weather prep** — Boulder gets 300+ sunny days per year, but afternoon thunderstorms are common in summer. Carry a lightweight rain layer and dress in layers.
-
-4. **Bike joke tellers** — Boulder's famous traffic-calming humps make neighborhoods safer and more bike-friendly. Slow down, enjoy the pace!
-
-5. **Walk-bike combo** — On bad weather days, consider walking the downtown stretch (Pearl Street → Canyon Boulevard) and biking the streets closer to home where the route is more sheltered.
-
-6. **RTD Bus + Bike** — For longer commutes, combine cycling with RTD bus service. Most RTD buses have bike racks.
-
-7. **Lighting** — If commuting in the dark, use front and rear lights. Boulder's bike infrastructure is well-lit, but visibility is key.
-
-8. **Locking** — Use a U-lock for your bike. Downtown Boulder has public bike racks at most buildings.
+> **Pro tip:** Biking is only ~3 minutes slower than driving door-to-door in Boulder, and you get exercise and zero parking stress!
 
 ---
 
-## 🛣️ Alternate Routes
+## 🗺️ Key Landmarks & Infrastructure
 
-| Route | Distance | Walking Time | Biking Time | Notes |
-|---|---|---|---|---|
-| **Via 19th St + Canyon Blvd** | 4.0 km | ~48 min | ~16 min | Fastest; uses dedicated paths |
-| **Via Arapahoe Ave** | ~4.3 km | ~52 min | ~18 min | Scenic; passes CU Boulder area; more traffic |
-| **Via Folsom St** | ~3.8 km | ~46 min | ~15 min | Shorter; steeper grade near creek |
-| **Pedestrian-only (Pearl St Mall)** | ~4.5 km | ~55 min | ~20 min | Most downtown-friendly; no car traffic |
-
----
-
-## 📋 How to Add Your Own Commute
-
-1. Fork this repository
-2. Create a new file in `/commutes/` named with your addresses (e.g., `45-oak-to-1800-broadway.md`)
-3. Include:
-   - Start and end addresses
-   - Geo-coordinates
-   - Distance
-   - Walking time and route breakdown
-   - Biking time and route breakdown
-   - Elevation profile
-   - Personal tips and observations
-4. Submit a pull request
+- **Pearl Street Mall** – Historic pedestrian-friendly downtown shopping area
+- **Boulder Creek Path** – Multi-use paved trail along Boulder Creek (car-free)
+- **Canyon Boulevard** – Western terminus of the Creek Path
+- **19th Street** – Major N-S corridor with bike lanes
+- **20th Street** – Direct connector through the downtown grid
 
 ---
 
-## 📊 Sustainability Impact Calculator
+## 🛣️ Boulder-Specific Tips
 
-Use these formulas to estimate your personal impact:
+1. **Boulder Creek Path** – Scenic, car-free, paved. Connects downtown to the west side
+2. **Bike joke tellers** – Traffic calming devices that make biking safer
+3. **DT parking** – City Center (~$1/hr) or 13th Street garage for occasional drivers
+4. **B-Cycle** – Public bike-share, no ownership needed
+5. **Layers** – 300+ sunny days, but temp swings require rain gear + layers
+6. **Walk-bike combo** – Walk in bad weather, bike on flat sections
+
+---
+
+## 📊 Quick Sustainability Calculator
 
 ```
-CO₂ Saved (kg/year) = miles_driven_per_year × 0.404 × days_commuted / 250
-
-Fuel Saved (gal/year) = miles_driven_per_year × 0.0235 × days_commuted / 250
-
-Money Saved ($/year) = fuel_cost + maintenance + insurance + parking
-                    = (miles × $0.15) + ($50 × 12) + $1200 + ($30 × 12)
-```
-
-### Example (Boulder commuter):
-- 500 miles/month × $0.15 → $75 fuel
-- $50/month maintenance × 12 → $600
-- Insurance → $1,200
-- Parking → $360
-- **Total: ~$2,235/year saved**
-- **CO₂: ~202 kg saved per year**
-
----
-
-## 🏙️ Making Boulder Even Greener
-
-- **Support BCycle** — Use or advocate for Boulder's bike-share program
-- **Advocate for protected bike lanes** — especially on 19th and 20th Streets
-- **Join Bicycle Colorado** — statewide advocacy for bike infrastructure
-- **Participate in Boulder's Open Space program** — car-free recreation land
-- **Use RTD buses with bike racks** — extend your bike commuting range
-- **Support Complete Streets policy** — safer streets for all users
-
----
-
-## 📚 Resources
-
-- [Boulder BCycle](https://www.boulderbcycle.com) — Public bike-share
-- [RTD Bus + Bike](https://www.rtd-denver.com) — Regional transit with bike racks
-- [Bike Colorado](https://bikecolorado.org) — Statewide cycling advocacy
-- [Boulder Open Space](https://bouldercolorado.gov/openspace) — Car-free recreation
-- [City of Boulder Traffic](https://bouldercolorado.gov/traffic) — Cycling infrastructure info
-- [OSM routing data](https://www.openstreetmap.org) — Open-source map data used for analysis
-
----
-
-## 📂 Repository Structure
-
-```
-boulder-green-commute-guide/
-├── README.md                          # This file
-├── commute-analysis/                  # Detailed commute analysis docs
-├── data/                              # Raw and processed route data
-├── photos/                            # Route photos and maps
-├── resources/                         # Links and reference materials
-├── route-data/                        # GeoJSON, GPX, and other route files
-├── routes/                            # Individual route descriptions
-├── sustainability/                    # Environmental impact calculations
-└── verified-data/                     # Verified, quality-checked data
+Walking or biking 2.5 mi × 250 days = 1,250 miles/year avoided driving
+= ~101 kg CO₂ saved per year
+= ~$2,200 in fuel/maintenance/parking/insurance saved per year
 ```
 
 ---
 
-## 🔍 About This Analysis
+## 📝 Contributing
 
-- **Data source:** OpenStreetMap via OSM routing API
-- **Coordinates:**
-  - Home: 40.04488°N, 105.27389°W (45 Oak Avenue)
-  - Office: 40.01633°N, 105.27897°W (1800 Broadway)
-- **Routing engine:** OSRM-based turn-by-turn directions
-- **Analysis date:** July 2026
-- **Pace assumptions:** Walking 5 km/h, Biking 15 km/h
+Add your own Boulder commute route!
+
+1. Fork the repo
+2. Create `/commutes/your-name-route.md`
+3. Include: addresses, distance, walking/biking times, route notes
+4. Submit a PR
 
 ---
 
-*Created with ❤️ for the Boulder community — helping more residents choose sustainable travel* 🌱
+## 🏙️ Resources & Advocacy
 
-*Data sourced from OpenStreetMap & OSRM*
+- **Boulder BCycle** – City bike-share program
+- **Bicycle Colorado** – Statewide bike infrastructure advocacy
+- **RTD Bus + Bike** – Public transit for longer distances
+- **Boulder Open Space** – Car-free recreation trails
+
+---
+
+*Created with ❤️ for the Boulder community | Data sourced from OpenStreetMap & OSRM*
