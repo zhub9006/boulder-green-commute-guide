@@ -1,0 +1,52 @@
+{
+  "commute": {
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "latitude": 40.0448805,
+      "longitude": -105.2738879
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "latitude": 40.0163281,
+      "longitude": -105.2789726
+    },
+    "total_distance_km": 4.03,
+    "total_distance_miles": 2.5
+  },
+  "modes": [
+    {
+      "mode": "walking",
+      "icon": "🚶‍♂️",
+      "distance_km": 4.03,
+      "estimated_time_minutes": 48,
+      "calories_burned": 220,
+      "co2_saved_kg": 0.7,
+      "segments": [
+        {"road": "Oak Avenue", "distance_m": 97, "distance_miles": 0.06, "time_min": 2},
+        {"road": "19th Street", "distance_m": 2157, "distance_miles": 1.34, "time_min": 27},
+        {"road": "20th St.", "distance_m": 106, "distance_miles": 0.07, "time_min": 1},
+        {"road": "20th Street", "distance_m": 566, "distance_miles": 0.35, "time_min": 7},
+        {"road": "Pearl Street", "distance_m": 216, "distance_miles": 0.13, "time_min": 3},
+        {"road": "18th Street", "distance_m": 249, "distance_miles": 0.15, "time_min": 3},
+        {"road": "Canyon Boulevard", "distance_m": 637, "distance_miles": 0.40, "time_min": 8}
+      ]
+    },
+    {
+      "mode": "biking",
+      "icon": "🚴‍♀️",
+      "distance_km": 4.03,
+      "estimated_time_minutes": 16,
+      "calories_burned": 110,
+      "co2_saved_kg": 0.6,
+      "segments": [
+        {"road": "Oak Avenue", "distance_m": 97, "distance_miles": 0.06, "time_min": 1},
+        {"road": "19th Street", "distance_m": 2157, "distance_miles": 1.34, "time_min": 9},
+        {"road": "20th St.", "distance_m": 106, "distance_miles": 0.07, "time_min": 1},
+        {"road": "20th Street", "distance_m": 566, "distance_miles": 0.35, "time_min": 2},
+        {"road": "Pearl Street", "distance_m": 216, "distance_miles": 0.13, "time_min": 1},
+        {"road": "18th Street", "distance_m": 249, "distance_miles": 0.15, "time_min": 1},
+        {"road": "Canyon Boulevard", "distance_m": 637, "distance_miles": 0.40, "time_min": 3}
+      ]
+    }
+  ]
+}
