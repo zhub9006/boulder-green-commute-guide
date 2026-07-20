@@ -19,8 +19,6 @@ This guide demonstrates that a **4+ km daily commute** in Boulder can be accompl
 | **Biking Time** | ~16 minutes |
 | **Elevation Change** | ~30 m (gentle descent southbound) |
 | **Terrain** | Predominantly flat; paved roads |
-| **Start zip** | 80304 (North Boulder residential) |
-| **End zip** | 80302 (Downtown Boulder core) |
 
 ---
 
@@ -29,12 +27,13 @@ This guide demonstrates that a **4+ km daily commute** in Boulder can be accompl
 | Segment | Street | Distance | Est. Time |
 |---|---|---|---|
 | 1 | Oak Avenue | 97 m | ~1 min |
-| 2 | 19th Street (southbound) | 2,157 m | ~3.5 min |
+| 2 | 19th Street (southbound) | 2,157 m | ~3 min 29 sec |
 | 3 | 20th St. (brief connector) | 106 m | ~13 sec |
-| 4 | 20th Street (southbound) | 566 m | ~1 min |
+| 4 | 20th Street (southbound) | 566 m | ~1 min 20 sec |
 | 5 | Pearl Street (westbound) | 216 m | ~26 sec |
 | 6 | 18th Street (southbound) | 249 m | ~39 sec |
 | 7 | Canyon Boulevard (westbound) | 637 m | ~1 min 9 sec |
+| **Total** | | **4,027 m** | **~48 min** |
 
 ### Walking Highlights
 - **Canyon Boulevard segment** — Sharing the Boulder Creek Path, a scenic, car-free, paved multi-use trail with Flatirons views
@@ -55,12 +54,13 @@ This guide demonstrates that a **4+ km daily commute** in Boulder can be accompl
 | 5 | Pearl Street (westbound) | 216 m | ~25 sec | Pedestrian mall — **dismount** |
 | 6 | 18th Street (southbound) | 249 m | ~39 sec | Road (low risk) |
 | 7 | Canyon Boulevard (westbound) | 637 m | ~1 min | 🚲 Separated bike path (**safest!**) |
+| **Total** | | **4,027 m** | **~16 min** | |
 
 ### Biking Highlights
 - **19th Street corridor** — Dedicated bike lane along the majority of the route
 - **Canyon Boulevard** — Visible, car-free, physically separated bike path
 - **Total biking time:** ~16 minutes at a comfortable 15 km/h pace
-- **Only ~3 minutes slower** than driving door-to-door!
+- **Only ~4 minutes slower than driving door-to-door!**
 
 ---
 
@@ -117,33 +117,7 @@ This guide demonstrates that a **4+ km daily commute** in Boulder can be accompl
 
 ---
 
-## 🏬 Neighborhood Around the Route
-
-### Starting Area (80304 — North Boulder)
-- Centum Middle School, Crestview Elementary, Boulder Waldorf Preschool
-- Ruzo Coffee, Lucky's Bakehouse Café
-- Dagabi Cucina, China Gourmet
-- Quiet residential streets, tree-lined
-
-### Destination Area (80302 — Downtown Boulder)
-- Pearl Street Mall with 100+ shops and restaurants
-- 4+ bike parking stations within 500 m
-- Jax Fish House, Pasta Jay's, Kepler's, Sweetgreen
-- 7+ schools within 1 km
-- RTD Downtown Boulder Station nearby
-- Boulder County Sheriff HQ
-
-### Bike Infrastructure Nearby
-| Type | Count |
-|------|-------|
-| Bike parking racks near 1800 Broadway | 4+ locations |
-| Total bike parking capacity nearby | 50+ spots |
-| B-Cycle stations nearby | 2 stations |
-| EV charging stations within 2 km | 3 stations |
-
----
-
-## 🌦️ Boulder-Specific Tips
+## 🌡️ Boulder-Specific Tips
 
 1. **Boulder Creek Path** — Scenic, car-free, paved. The highlight of the route!
 2. **Dooring risk on 19th St** — Stay in the bike lane, not near parked cars
@@ -174,13 +148,8 @@ Walking or biking 2.5 mi × 250 days = 1,250 miles/year avoided driving
 | `commute-analysis.md` | Detailed walking & biking analysis with segment breakdowns |
 | `route-details.md` | Turn-by-turn directions, infrastructure quality ratings, seasonal tables |
 | `route-comparison.md` | Side-by-side walk vs. bike vs. drive comparison with strategies |
-| `route-geometry/` | GPS coordinates for mapping apps and route visualizations |
 | `commute_data.json` | Structured commute data for programmatic use |
-| `neighborhood-amenities.md` | Complete POI directory (schools, cafés, restaurants, bike/EV infrastructure) |
-| `neighborhood-comparison.md` | Side-by-side neighborhood analysis (80304 vs. 80302) |
 | `sustainability-impact.md` | Environmental and health impact data |
-| `green_tips.md` | Seasonal riding guide, altitude considerations, gear checklist |
-| `getting-started.md` | Practical tips for making the switch from driving to walking/biking |
 
 ---
 
@@ -191,20 +160,18 @@ Add your own Boulder commute route and help other residents make sustainable cho
 1. Fork the repo
 2. Create `/commutes/your-name-route.md` with your route details
 3. Include: addresses, distances, walking/biking times, route notes
-4. Update neighborhood amenities if a business opens/closes
-5. Submit a PR
+4. Submit a PR
 
 ---
 
-## 🏛️ Resources & Advocacy
+## 🎯 Resources & Advocacy
 
-- **Boulder BCycle** — City bike-share program: [boulder.b-cycle.com](https://www.boulder.b-cycle.com)
-- **Bicycle Colorado** — Statewide bike infrastructure advocacy: [bicyclecolorado.org](https://bicyclecolorado.org)
-- **RTD Bus + Bike** — Public transit with bike racks: [rtd-denver.com](https://www.rtd-denver.com)
-- **Boulder Open Space** — Car-free recreation trails: [bouldercolorado.gov/openspace](https://www.bouldercolorado.gov/openspace)
-- **Boulder Transportation Master Plan** — [bouldercolorado.gov/transportation](https://www.bouldercolorado.gov/transportation)
-- **Colorado Energy Office** — $1,200 E-Bike rebate program: [energystone.colorado.gov](https://energystone.colorado.gov)
+- **Boulder BCycle** — City bike-share program: boulder.b-cycle.com
+- **Bicycle Colorado** — Statewide bike infrastructure advocacy: bicyclecolorado.org
+- **RTD Bus + Bike** — Public transit with bike racks: rtd-denver.com
+- **Boulder Open Space** — Car-free recreation trails: bouldercolorado.gov/openspace
+- **Colorado Energy Office** — $1,200 E-Bike rebate program: energystone.colorado.gov
 
 ---
 
-*Created with ❤️ for the Boulder community | Data sourced from OpenStreetMap & OSRM | Coordinates: 40.04488°N, 105.27389°W → 40.01633°N, 105.27897°W*
+*Created with ❤️ for the Boulder community | Data sourced from OpenStreetMap & OSRM*
