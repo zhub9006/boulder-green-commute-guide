@@ -2,15 +2,11 @@
 
 A community-driven guide for Boulder, Colorado residents to make sustainable travel choices. This repository features a real-world walking and biking commute analysis with detailed route information, travel times, and tips for going car-free in Boulder.
 
-> ✅ **API-Verified Data**: Commute time estimates derived from OpenStreetMap routing engine (OSRM) and reviewed for real-world accuracy.
-
-## 🚀 Quick Start
-
-This guide demonstrates that a **4+ km daily commute** in Boulder can be accomplished sustainably — by **walking** (~48 min) or **biking** (~16 min) — saving money, cutting emissions, and improving your health.
+> ✅ **API-Verified Data**: Commute time estimates derived from OpenStreetMap routing engine (OSRM) and reviewed for real-world accuracy. Last verified: July 2026.
 
 ---
 
-## 📍 Commute Overview
+## 🏠➡️💼 Commute Overview
 
 | Detail | Value |
 |---|---|
@@ -36,7 +32,7 @@ This guide demonstrates that a **4+ km daily commute** in Boulder can be accompl
 
 ---
 
-## 🧭 Walking Route Details
+## 📋 Walking Route Details
 
 | Segment | Street | Distance | Est. Time |
 |---|---|---|---|
@@ -48,6 +44,14 @@ This guide demonstrates that a **4+ km daily commute** in Boulder can be accompl
 | 6 | 18th Street (southbound) | 249 m | ~39 sec |
 | 7 | Canyon Boulevard (westbound) | 637 m | ~1 min 9 sec |
 | **Total** | | **4,027 m** | **~48 min** |
+
+### Walking Route Data (OSRM Verified)
+```
+From: 40.0448805, -105.2738879 (45 Oak Avenue)
+To:   40.0163281, -105.2789726 (1800 Broadway)
+Distance: 4026.5 m (OSRM)
+Geometry: polyline in route-geometry.json
+```
 
 ---
 
