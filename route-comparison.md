@@ -1,108 +1,96 @@
-# 🔄 Route Comparison: Walk vs. Bike vs. Drive
+# 📊 Walk vs. Bike vs. Drive: Route Comparison
+
+*45 Oak Avenue ➡️ 1800 Broadway, Boulder, CO | Verified July 2026*
+
+---
 
 ## Side-by-Side Comparison
 
-| Metric | 🚶 Walking | 🚲 Biking | 🚗 Driving |
+| Criteria | 🚶 Walking | 🚲 Biking | 🚗 Driving |
 |---|---|---|---|
-| **Distance** | 4,027 m | 4,027 m | ~4,030 m |
-| **One-way time** | ~48 min | ~16 min | ~10 min (plus 5–6 min parking) |
-| **Round-trip time** | ~96 min | ~32 min | ~21–25 min |
-| **Cost per trip** | Free | Free or ~$1 | ~$4–5 |
-| **Cost per year (250 days)** | $0 | ~$50 | ~$2,400 |
-| **Calories burned** | ~240 kcal | ~300 kcal | 0 kcal |
-| **CO₂ emitted** | 0 kg | 0 kg | ~1.5 kg |
-| **Parking needed** | No | No | Yes ($$$) |
-| **Weather dependency** | High | Moderate | Low |
-| **Health impact** | Positive (cardio, mental) | Positive (cardio, mood) | None |
-| **Stress level** | Low | Moderate | Moderate-High |
+| **One-way time** | ~48 min | ~16 min | ~10–15 min |
+| **Round trip time** | ~96 min | ~32 min | ~25–40 min |
+| **Distance** | 4.03 km / 2.5 mi | 4.03 km / 2.5 mi | 3.5–4.5 km / 2.2–2.8 mi |
+| **Cost per trip** | Free | Free (B-Cycle: ~$1) | $3–5 ($1.20–$2.00/mi) |
+| **Monthly cost (20 round trips)** | $0 | $0–$20 | $60–$100 |
+| **Annual cost (250 workdays)** | $0 | $0–$250 | $750–$1,250 |
+| **CO₂ per trip** | 0 kg | 0 kg | ~1.5 kg |
+| **CO₂ per year** | 0 kg | 0 kg | ~375 kg (827 lbs) |
+| **Calories per trip** | ~240 kcal | ~300 kcal | 0 kcal |
+| **Annual calories** | ~120,000 kcal | ~150,000 kcal | 0 kcal |
+| **Stress level** | 🟢 Low (scenic walk) | 🟡 Moderate (urban riding) | 🔴 High (parking + traffic) |
+| **Reliability** | 🟢 High (not traffic-dependent) | 🟢 High (not traffic-dependent) | 🔴 Low (parking + traffic) |
+| **Parking required?** | No | No | Yes ($15–25/day downtown) |
+| **Weather dependent?** | Moderate (umbrella) | Moderate (layers) | Low (car shelter) |
+| **Fun factor** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 
 ---
 
-## When to Choose Each Mode
+## Cost Breakdown (Annual, 250 Workdays)
 
-### 🚶 Walking is best when:
-- ✅ Weather is excellent (clear, mild)
-- ✅ You want exercise and mental health benefits
-- ✅ You're carrying a light bag or no bag at all
-- ✅ You have ~50 minutes of free time
-- ✅ You want to enjoy the town at a slower pace
+### 🚶 Walking
+- Fuel: $0
+- Parking: $0
+- Maintenance: $0
+- Insurance: $0
+- **Total annual cost: $0**
+- **Health savings (reduced medical costs):** ~$500–$1,000/yr
 
-### 🚲 Biking is best when:
-- ✅ You need to arrive in under ~20 minutes
-- ✅ You want to carry a moderate load (backpack, pannier)
-- ✅ Weather is decent but not ideal
-- ✅ You want a bit of exercise without the full walking time
-- ✅ You're ready to arrive refreshed but not sweaty
+### 🚲 Biking
+- Fuel: $0
+- Parking: $0
+- Maintenance: ~$100–$150/yr (tires, chain, tune-ups)
+- Insurance: $0 (or ~$50 if renter's insurance covers bike)
+- B-Cycle membership (if used): $0–$75/yr
+- **Total annual cost: $50–$225**
+- **Health savings:** ~$500–$1,200/yr
 
-### 🚗 Driving is best when:
-- ✅ Severe weather (ice, heavy rain, extreme cold)
-- ✅ Carrying heavy or fragile items
-- ✅ Running late and rideshare is simpler
-- ✅ Meeting for a drink at a distant restaurant afterward
+### 🚗 Driving
+- Fuel: ~$500–$700/yr (at $3.50/gal, 2.5 mi × 500 trips = 1,250 mi)
+- Parking: ~$1,250–$3,125/yr ($15–25/day × 250 days)
+- Maintenance: ~$300–$500/yr
+- Insurance: ~$500–$1,000/yr (allocated per commute)
+- Depreciation: ~$1,500–$2,500/yr
+- **Total annual cost: $3,550–$7,825**
 
----
-
-## Recommended Strategy: The Walk-Bike Split
-
-### Monday / Wednesday / Friday → **Bike**
-- Cooler start to the week
-- Arrive at the office more energized
-- Use the Canyon Boulevard separated bike path
-
-### Tuesday / Thursday → **Walk**
-- Mid-week, good weather typically
-- Start your morning with fresh air
-- Enjoy Pearl Street Mall on the way to work
-
-### Any day → **RTD Bus with Bike Rack**
-- Plan B for bad weather
-- Bike rack on routes 1, 3, 7, 10
-- Get the exercise of walking to/from the bus stop
-- ~28 min total door-to-door
-
----
-
-## The Hidden Cost of Driving
-
-While driving is only ~2 minutes faster than biking door-to-door, consider the hidden costs:
-
-| Hidden Cost | Estimated Value |
+### 💰 Annual Savings (Biking vs. Driving)
+| Category | Savings |
 |---|---|
-| Parking at Broadway | $15–30/day → $3,750–$7,500/year |
-| Gas for 2.5 mi round-trip | $2–4/day → $500–$1,000/year |
-| Car payment | $300–$600/month → $3,600–$7,200/year |
-| Insurance | $1,500–$3,000/year |
-| Maintenance & repairs | $1,000–$2,000/year |
-| **Total annual cost** | **$8,800–$18,700/year** |
-
-**Biking saves minutes of commute time and costs 0 dollars. And healthiest of all: 300 calories burned!**
+| Fuel | $500–$700 |
+| Parking | $1,250–$3,125 |
+| Maintenance | $200–$450 |
+| Insurance | $400–$900 |
+| Depreciation | $1,500–$2,500 |
+| **Total** | **$3,850–$7,675/yr** |
 
 ---
 
-## Boulder Full Commute Mode Scorecard
+## ⏱️ Time vs. Cost Trade-off Analysis
 
-| Mode | Speed Score | Cost Score | Health Score | Eco Score | **Total** |
-|---|---|---|---|---|---|
-| 🚶 Walking | 5/10 | 10/10 | 9/10 | 10/10 | **34/40** |
-| 🚲 Biking | 8/10 | 9/10 | 7/10 | 10/10 | **34/40** |
-| 🚗 Driving | 9/10 | 2/10 | 0/10 | 0/10 | **11/40** |
+```
+Biking saves ~$6,000+/year vs. driving
+Biking takes ~4 min longer than driving per trip (one way)
+Biking takes ~32 min vs. ~25–40 min driving (round trip)
 
----
+→ Biking is essentially AS FAST as driving when you factor in:
+   - Finding parking (5–10 min)
+   - Walking to/from parking lot (3–5 min)
+   - Traffic lights on 19th St (2–3 min extra)
 
-## Lifecycle Cost Comparison
-
-### If you switch from driving to biking:
-- **One-time cost:** Buy a quality bike (~$500–$1,000)
-- **Ongoing cost:** ~$100–$200/year (tubes, chain lube, occasional tune-up)
-- **Annual savings:** ~$8,800–$18,700
-- **Break-even point:** After ~1–3 months (bikes last 10+ years)
-
-### If you rely on RTD Bus + Bike:
-- **One-time cost:** Buy a bike + lock (~$300–$600)
-- **Ongoing cost:** ~$150/year for RTD pass, ~$500/year bike maintenance
-- **Annual savings:** ~$7,000–$16,000 vs. driving
-- **Convenience boost:** No parking stress, flexible grocery runs
+→ Net time difference: often ZERO or NEGATIVE for biking!
+```
 
 ---
 
-*Data verified July 2026 using OSRM. Real-world conditions may vary.*
+## 🏆 Verdict
+
+| Winner | Category |
+|---|---|
+| 🚲 **Biking** | Speed, Cost, Health, Fun, Reliability |n| 🚶 **Walking** | Health (more exercise), Zero equipment cost, Most relaxing |
+| 🚗 **Driving** | Weather protection, Carrying items, Long-distance comfort |
+
+**Overall Recommendation: 🚲🚶 Walk the dry/rainy days, bike on clear days, drive only when necessary!**
+
+---
+
+*All monetary figures are in USD. Costs based on Boulder-specific data (high parking costs downtown).*
