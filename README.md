@@ -65,7 +65,7 @@ Geometry: polyline in route-geometry.json
 | 4 | 20th Street (southbound) | 566 m | ~1 min | Road (low risk) |
 | 5 | Pearl Street (westbound) | 216 m | ~25 sec | Pedestrian mall — **dismount** |
 | 6 | 18th Street (southbound) | 249 m | ~39 sec | Road (low risk) |
-| 7 | Canyon Boulevard (westbound) | 637 m | ~1 min | 🚲 Separated bike path (**safest!**) |
+| 7 | Canyon Boulevard (westbound) | 637 m | ~1 min | 🚴 Separated bike path (**safest!**) |
 | **Total** | | **4,027 m** | **~16 min** | |
 
 ---
