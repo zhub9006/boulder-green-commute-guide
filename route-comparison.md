@@ -4,15 +4,17 @@
 
 | Metric | 🚶 Walking | 🚲 Biking | 🚗 Driving |
 |---|---|---|---|
-| **Distance** | 4,027 m | 4,027 m | 4,027 m |
-| **One-way time** | ~48 min | ~16 min | ~12 min |
-| **Round-trip time** | ~96 min | ~32 min | ~25 min |
+| **Distance** | 4,027 m | 4,027 m | ~4,030 m |
+| **One-way time** | ~48 min | ~16 min | ~10 min (plus 5–6 min parking) |
+| **Round-trip time** | ~96 min | ~32 min | ~21–25 min |
 | **Cost per trip** | Free | Free or ~$1 | ~$4–5 |
+| **Cost per year (250 days)** | $0 | ~$50 | ~$2,400 |
 | **Calories burned** | ~240 kcal | ~300 kcal | 0 kcal |
 | **CO₂ emitted** | 0 kg | 0 kg | ~1.5 kg |
 | **Parking needed** | No | No | Yes ($$$) |
 | **Weather dependency** | High | Moderate | Low |
-| **Best for** | Good weather, early morning | Most conditions, refreshed arrival | Bad weather, heavy items |
+| **Health impact** | Positive (cardio, mental) | Positive (cardio, mood) | None |
+| **Stress level** | Low | Moderate | Moderate-High |
 
 ---
 
@@ -73,7 +75,7 @@ While driving is only ~2 minutes faster than biking door-to-door, consider the h
 | Maintenance & repairs | $1,000–$2,000/year |
 | **Total annual cost** | **$8,800–$18,700/year** |
 
-**Biking saves 15 minutes of commute time but costs 0 dollars. And healthiest of all: 300 calories burned!**
+**Biking saves minutes of commute time and costs 0 dollars. And healthiest of all: 300 calories burned!**
 
 ---
 
@@ -99,4 +101,8 @@ While driving is only ~2 minutes faster than biking door-to-door, consider the h
 - **One-time cost:** Buy a bike + lock (~$300–$600)
 - **Ongoing cost:** ~$150/year for RTD pass, ~$500/year bike maintenance
 - **Annual savings:** ~$7,000–$16,000 vs. driving
-- **Convenience boost:** No parking stress, 2 ha filter grocery runs → daily 1 ha dump
+- **Convenience boost:** No parking stress, flexible grocery runs
+
+---
+
+*Data verified July 2026 using OSRM. Real-world conditions may vary.*
