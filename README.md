@@ -24,59 +24,19 @@ This guide demonstrates that a **4+ km daily commute** in Boulder can be accompl
 
 ---
 
-## 🧮 OSRM API-Verified Routing Data
+## 📊 Mode Comparison
 
-> The following segment data comes directly from the OpenStreetMap routing engine (OSRM), verified on July 2026.
+| Mode | One Way | Round Trip | Cost per Trip |
+|---|---|---|---|
+| 🚗 Driving | 10–15 min | 25–40 min | ~$3–5 (fuel + parking) |
+| 🚶 Walking | ~48 min | ~96 min | Free |
+| 🚲 Biking | ~16 min | ~32 min | Free (or ~$1 B-Cycle) |
 
-### 🚶 Walking Route — Raw Segment Data
-
-| Segment | Street | Distance (m) | Raw Duration (s) | Est. Walking Time |
-|---|---|---|---|---|
-| 1 | Oak Avenue | 96.6 | 15.6 | ~1 min |
-| 2 | 19th Street (southbound) | 2,156.5 | 208.6 | ~3 min 29 sec |
-| 3 | 20th St. (east connector) | 106.1 | 11.9 | ~13 sec |
-| 4 | 20th Street (southbound) | 565.6 | 69.2 | ~1 min 9 sec |
-| 5 | Pearl Street (westbound) | 216.2 | 25.5 | ~26 sec |
-| 6 | 18th Street (southbound) | 248.8 | 36.9 | ~39 sec |
-| 7 | Canyon Boulevard (westbound) | 636.6 | 58.5 | ~1 min 9 sec |
-| **Total** | | **4,025.8** | **427.3** | **~48 min** |
-
-> ⚠️ **Note:** OSRM raw durations reflect routing speed, not human walking pace. Adjusted walk times above use standard 5 km/h walking speed.
-
-### 🚲 Biking Route — Raw Segment Data
-
-| Segment | Street | Distance (m) | Raw Duration (s) | Est. Biking Time |
-|---|---|---|---|---|
-| 1 | Oak Avenue | 96.6 | 15.6 | ~15 sec |
-| 2 | 19th Street (southbound) | 2,156.5 | 208.6 | ~1 min 49 sec |
-| 3 | 20th St. (east connector) | 106.1 | 11.9 | ~12 sec |
-| 4 | 20th Street (southbound) | 565.6 | 69.2 | ~1 min 9 sec |
-| 5 | Pearl Street (westbound) | 216.2 | 25.5 | ~25 sec |
-| 6 | 18th Street (southbound) | 248.8 | 36.9 | ~39 sec |
-| 7 | Canyon Boulevard (westbound) | 636.6 | 58.5 | ~1 min 9 sec |
-| **Total** | | **4,025.8** | **427.3** | **~16 min** |
-
-> ⚠️ **Note:** Adjusted bike times use standard 15 km/h average pace. Canyon Boulevard's separated bike path may actually be faster in real-world conditions.
-
-### 📐 Route Geometry (WGS84 Coordinates)
-
-**Full route polyline key waypoints:**
-
-```
-Origin:      [40.04488, -105.27389]  ← 45 Oak Avenue
-  [40.04368, -105.27275]  ← 19th St turn
-  [40.03500, -105.27275]  ← Mid 19th St
-  [40.02551, -105.27252]  ← Pearl St area
-  [40.01729, -105.27680]  ← 18th St
-  [40.01602, -105.27915]  ← Canyon Blvd
-Destination: [40.01633, -105.27897]  ← 1800 Broadway
-```
-
-**Full geometry:** 200+ coordinate points along the route path (see `route-geometry.json`)
+**Biking is only ~4 minutes slower than driving door-to-door — and you stay healthy in the process!**
 
 ---
 
-## 👣 Walking Route Details
+## 🧭 Walking Route Details
 
 | Segment | Street | Distance | Est. Time |
 |---|---|---|---|
@@ -88,12 +48,6 @@ Destination: [40.01633, -105.27897]  ← 1800 Broadway
 | 6 | 18th Street (southbound) | 249 m | ~39 sec |
 | 7 | Canyon Boulevard (westbound) | 637 m | ~1 min 9 sec |
 | **Total** | | **4,027 m** | **~48 min** |
-
-### Walking Highlights
-- **Canyon Boulevard segment** — Sharing the Boulder Creek Path, a scenic, car-free, paved multi-use trail with Flatirons views
-- **Pearl Street Mall** — Cross through Boulder's iconic pedestrian-friendly downtown
-- **Total walking time:** ~48 minutes at a comfortable 5 km/h pace
-- **Sidewalk quality:** Good throughout; 19th Street has wide sidewalks
 
 ---
 
@@ -109,12 +63,6 @@ Destination: [40.01633, -105.27897]  ← 1800 Broadway
 | 6 | 18th Street (southbound) | 249 m | ~39 sec | Road (low risk) |
 | 7 | Canyon Boulevard (westbound) | 637 m | ~1 min | 🚲 Separated bike path (**safest!**) |
 | **Total** | | **4,027 m** | **~16 min** | |
-
-### Biking Highlights
-- **19th Street corridor** — Dedicated bike lane along the majority of the route
-- **Canyon Boulevard** — Visible, car-free, physically separated bike path
-- **Total biking time:** ~16 minutes at a comfortable 15 km/h pace
-- **Only ~4 minutes slower than driving door-to-door!**
 
 ---
 
@@ -144,19 +92,8 @@ Destination: [40.01633, -105.27897]  ← 1800 Broadway
 |---|---|---|
 | Calories per commute | ~240 kcal | ~300 kcal |
 | Calories per round-trip | ~480 kcal | ~600 kcal |
-| Annual calories (walking) | ~120,000 kcal | — |
-| Annual calories (biking) | — | ~60,000 kcal (less sedentary) |
+| Annual calories (250 days) | ~120,000 kcal | ~150,000 kcal |
 | Mental health benefits | Reduced stress, better sleep | Improved mood, anxiety reduction |
-
----
-
-## ⏱️ Mode Comparison
-
-| Mode | One Way | Round Trip | Cost per Trip |
-|---|---|---|---|
-| 🚗 Driving | 10–15 min | 25–40 min | ~$3–5 (fuel + parking) |
-| 🚶 Walking | ~48 min | ~96 min | Free |
-| 🚲 Biking | ~16 min | ~32 min | Free (or ~$1 B-Cycle) |
 
 ---
 
@@ -171,7 +108,7 @@ Destination: [40.01633, -105.27897]  ← 1800 Broadway
 
 ---
 
-## 🌡️ Boulder-Specific Tips
+## 🎯 Boulder-Specific Tips
 
 1. **Boulder Creek Path** — Scenic, car-free, paved. The highlight of the route!
 2. **Dooring risk on 19th St** — Stay in the bike lane, not near parked cars
@@ -183,7 +120,7 @@ Destination: [40.01633, -105.27897]  ← 1800 Broadway
 
 ---
 
-## 📊 Sustainability Calculator
+## 📈 Sustainability Calculator
 
 ```
 Walking or biking 2.5 mi × 250 days = 1,250 miles/year avoided driving
@@ -198,13 +135,14 @@ Walking or biking 2.5 mi × 250 days = 1,250 miles/year avoided driving
 
 | File | Description |
 |---|---|
-| `README.md` | This page — overview, quick-reference guide, and OSRM routing data |
+| `README.md` | Overview, quick-reference guide, and OSRM routing data |
 | `commute-analysis.md` | Detailed walking & biking analysis with segment breakdowns |
 | `route-details.md` | Turn-by-turn directions, infrastructure quality ratings, seasonal tables |
-| `route-comparison.md` | Side-by-side walk vs. bike vs. drive comparison with strategies |
+| `route-comparison.md` | Side-by-side walk vs. bike vs. drive comparison |
 | `commute_data.json` | Structured commute data for programmatic use |
 | `route-geometry.json` | Full GPS coordinate polyline for mapping |
 | `sustainability-impact.md` | Environmental and health impact data |
+| `neighborhood-analysis.md` | Livability scores and amenities near both locations |
 
 ---
 
@@ -225,7 +163,7 @@ Add your own Boulder commute route and help other residents make sustainable cho
 - **Bicycle Colorado** — Statewide bike infrastructure advocacy: bicyclecolorado.org
 - **RTD Bus + Bike** — Public transit with bike racks: rtd-denver.com
 - **Boulder Open Space** — Car-free recreation trails: bouldercolorado.gov/openspace
-- **Colorado Energy Office** — $1,200 E-Bike rebate program: energystone.colorado.gov
+- **Colorado Energy Office** — $1,200 E-Bike rebate: energystone.colorado.gov
 
 ---
 
