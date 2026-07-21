@@ -1,62 +1,102 @@
-# 🔄 Walk vs. Bike vs. Drive — Full Comparison
+# 🔄 Route Comparison: Walk vs. Bike vs. Drive
 
 ## Side-by-Side Comparison
 
-| Feature | 🚶‍♂️ Walking | 🚲 Biking | 🚗 Driving |
+| Metric | 🚶 Walking | 🚲 Biking | 🚗 Driving |
 |---|---|---|---|
-| **Distance** | 4,027 m (2.5 mi) | 4,027 m (2.5 mi) | 4,027 m (2.5 mi) |
-| **One-Way Time** | ~48 min | ~16 min | ~10–15 min |
-| **Round-Trip Time** | ~96 min | ~32 min | ~25–40 min |
-| **Speed** | ~5 km/h | ~15 km/h | ~25–30 km/h (avg) |
-| **Cost per Trip** | Free | Free or ~$1 (B-Cycle) | ~$3–5 |
-| **Annual Cost** | Free | ~$365 (B-Cycle annual) | ~$3,000–$5,000 |
-| **CO₂ per Trip** | 0 kg | 0 kg | ~1.5 kg |
-| **CO₂ per Year** | 0 kg | 0 kg | ~375 kg |
-| **Calories per Trip** | ~240 kcal | ~300 kcal | 0 kcal |
-| **Calories per Year** | ~120,000 kcal | ~60,000 kcal | 0 kcal |
-| **Parking Needed** | No | No | Yes ($150–$300/mo downtown) |
-| **Fitness Benefit** | Cardiovascular, leg strength | Cardiovascular, leg strength | None |
-| **Reliability** | High (no traffic) | High (bike lane + Creek Path) | Low (traffic, parking) |
-| **Weather Dependence** | Medium | Medium | Low |
-| **Door-to-Door Convenience** | Low (slow) | High | Medium (parking hassle) |
-| **Mental Health Benefit** | High | High | None |
-| **Overall Score** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| **Distance** | 4,027 m | 4,027 m | 4,027 m |
+| **One-way time** | ~48 min | ~16 min | ~12 min |
+| **Round-trip time** | ~96 min | ~32 min | ~25 min |
+| **Cost per trip** | Free | Free or ~$1 | ~$4–5 |
+| **Calories burned** | ~240 kcal | ~300 kcal | 0 kcal |
+| **CO₂ emitted** | 0 kg | 0 kg | ~1.5 kg |
+| **Parking needed** | No | No | Yes ($$$) |
+| **Weather dependency** | High | Moderate | Low |
+| **Best for** | Good weather, early morning | Most conditions, refreshed arrival | Bad weather, heavy items |
 
 ---
 
-## Recommended Strategy: Walk-Bike Hybrid
+## When to Choose Each Mode
 
-### 🌤️ Good Weather Days (most days)
-- **Bike to work** via the 19th Street bike lane → Canyon Boulevard separated path
-- **Time:** ~16–17 minutes
-- **Savings:** $3–5 per trip, 1.5 kg CO₂
+### 🚶 Walking is best when:
+- ✅ Weather is excellent (clear, mild)
+- ✅ You want exercise and mental health benefits
+- ✅ You're carrying a light bag or no bag at all
+- ✅ You have ~50 minutes of free time
+- ✅ You want to enjoy the town at a slower pace
 
-### 🌧️ Bad Weather / Winter Days
-- **Walk to work** via 19th Street → Pearl Street Mall → Canyon Boulevard Path
-- **Time:** ~48–51 minutes
-- **Alternative:** Take RTD Bus routes 1, 3, 7, 10 with bike rack
-- **Savings:** Still better than driving (no parking needed, bus fare ~$3.50)
+### 🚲 Biking is best when:
+- ✅ You need to arrive in under ~20 minutes
+- ✅ You want to carry a moderate load (backpack, pannier)
+- ✅ Weather is decent but not ideal
+- ✅ You want a bit of exercise without the full walking time
+- ✅ You're ready to arrive refreshed but not sweaty
 
-### ❄️ Winter Strategy
-- **Bike the 19th Street corridor** (plowed first, bike lane maintained)
-- **Walk the last 2 blocks** through downtown if ice is a concern
-- **Use B-Cycle** for the return trip (pre-warmed stations)
-
----
-
-## Cost-Benefit Summary
-
-| | Walking | Biking | Driving |
-|---|---|---|---|
-| **Annual cost** | $0 | $0–$365 | $3,000–$5,000 |
-| **Annual savings vs. driving** | $3,000–$5,000 | $2,635–$4,635 | — |
-| **Annual CO₂ saved** | 0 kg | 0 kg | 375 kg |
-| **Annual fitness gain** | 120,000 kcal | 60,000 kcal | 0 kcal |
-| **Annual time (round-trip × 250)** | ~133 hrs | ~44 hrs | ~94 hrs |
-
-> **Average annual cost of car ownership in Boulder: ~$4,200/yr** (insurance, payment, fuel, maintenance, parking)
-> **B-Cycle annual membership: $88/yr** — essentially free compared to car ownership!
+### 🚗 Driving is best when:
+- ✅ Severe weather (ice, heavy rain, extreme cold)
+- ✅ Carrying heavy or fragile items
+- ✅ Running late and rideshare is simpler
+- ✅ Meeting for a drink at a distant restaurant afterward
 
 ---
 
-*Data based on OpenStreetMap routing analysis | Boulder-specific cost estimates*
+## Recommended Strategy: The Walk-Bike Split
+
+### Monday / Wednesday / Friday → **Bike**
+- Cooler start to the week
+- Arrive at the office more energized
+- Use the Canyon Boulevard separated bike path
+
+### Tuesday / Thursday → **Walk**
+- Mid-week, good weather typically
+- Start your morning with fresh air
+- Enjoy Pearl Street Mall on the way to work
+
+### Any day → **RTD Bus with Bike Rack**
+- Plan B for bad weather
+- Bike rack on routes 1, 3, 7, 10
+- Get the exercise of walking to/from the bus stop
+- ~28 min total door-to-door
+
+---
+
+## The Hidden Cost of Driving
+
+While driving is only ~2 minutes faster than biking door-to-door, consider the hidden costs:
+
+| Hidden Cost | Estimated Value |
+|---|---|
+| Parking at Broadway | $15–30/day → $3,750–$7,500/year |
+| Gas for 2.5 mi round-trip | $2–4/day → $500–$1,000/year |
+| Car payment | $300–$600/month → $3,600–$7,200/year |
+| Insurance | $1,500–$3,000/year |
+| Maintenance & repairs | $1,000–$2,000/year |
+| **Total annual cost** | **$8,800–$18,700/year** |
+
+**Biking saves 15 minutes of commute time but costs 0 dollars. And healthiest of all: 300 calories burned!**
+
+---
+
+## Boulder Full Commute Mode Scorecard
+
+| Mode | Speed Score | Cost Score | Health Score | Eco Score | **Total** |
+|---|---|---|---|---|---|
+| 🚶 Walking | 5/10 | 10/10 | 9/10 | 10/10 | **34/40** |
+| 🚲 Biking | 8/10 | 9/10 | 7/10 | 10/10 | **34/40** |
+| 🚗 Driving | 9/10 | 2/10 | 0/10 | 0/10 | **11/40** |
+
+---
+
+## Lifecycle Cost Comparison
+
+### If you switch from driving to biking:
+- **One-time cost:** Buy a quality bike (~$500–$1,000)
+- **Ongoing cost:** ~$100–$200/year (tubes, chain lube, occasional tune-up)
+- **Annual savings:** ~$8,800–$18,700
+- **Break-even point:** After ~1–3 months (bikes last 10+ years)
+
+### If you rely on RTD Bus + Bike:
+- **One-time cost:** Buy a bike + lock (~$300–$600)
+- **Ongoing cost:** ~$150/year for RTD pass, ~$500/year bike maintenance
+- **Annual savings:** ~$7,000–$16,000 vs. driving
+- **Convenience boost:** No parking stress, 2 ha filter grocery runs → daily 1 ha dump

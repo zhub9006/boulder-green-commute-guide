@@ -1,57 +1,92 @@
 {
-  "origin": {
-    "address": "45 Oak Avenue, Boulder, CO 80304",
-    "coordinates": {
+  "commute": {
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, CO 80304",
       "latitude": 40.0448805,
       "longitude": -105.2738879
-    }
-  },
-  "destination": {
-    "address": "1800 Broadway, Boulder, CO 80302",
-    "coordinates": {
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, CO 80302",
       "latitude": 40.0163281,
       "longitude": -105.2789726
-    }
+    },
+    "distance_meters": 4027,
+    "distance_km": 4.027,
+    "distance_miles": 2.502,
+    "data_source": "OpenStreetMap / OSRM",
+    "verification_date": "2026-07-21"
   },
-  "distance_meters": 4025.8,
-  "distance_miles": 2.5,
   "walking": {
     "estimated_time_minutes": 48,
-    "pace_kmh": 5,
-    "calories_per_trip": 240,
-    "co2_kg_per_trip": 0,
+    "walking_speed_kmh": 5.0,
+    "calories_burned": 240,
     "segments": [
-      {"street": "Oak Avenue", "distance_m": 96.6, "estimated_time_s": 15.6},
-      {"street": "19th Street (southbound)", "distance_m": 2156.5, "estimated_time_s": 208.6},
-      {"street": "20th St. (east connector)", "distance_m": 106.1, "estimated_time_s": 11.9},
-      {"street": "20th Street (southbound)", "distance_m": 565.6, "estimated_time_s": 69.2},
-      {"street": "Pearl Street (westbound)", "distance_m": 216.2, "estimated_time_s": 25.5},
-      {"street": "18th Street (southbound)", "distance_m": 248.8, "estimated_time_s": 36.9},
-      {"street": "Canyon Boulevard (westbound)", "distance_m": 636.6, "estimated_time_s": 58.5}
+      {"street": "Oak Avenue", "distance_m": 97, "time_min": 1.2},
+      {"street": "19th Street (southbound)", "distance_m": 2157, "time_min": 3.48},
+      {"street": "20th St. connector", "distance_m": 106, "time_min": 0.22},
+      {"street": "20th Street (southbound)", "distance_m": 566, "time_min": 1.33},
+      {"street": "Pearl Street (westbound)", "distance_m": 216, "time_min": 0.43},
+      {"street": "18th Street (southbound)", "distance_m": 249, "time_min": 0.65},
+      {"street": "Canyon Boulevard (westbound)", "distance_m": 637, "time_min": 1.15}
     ]
   },
   "biking": {
     "estimated_time_minutes": 16,
-    "pace_kmh": 15,
-    "calories_per_trip": 300,
-    "co2_kg_per_trip": 0,
+    "biking_speed_kmh": 15.0,
+    "calories_burned": 300,
+    "infrastructure_notes": {
+      "bike_lane_streets": ["19th Street"],
+      "dismount_zones": ["Pearl Street Mall"],
+      "separated_bike_path": ["Canyon Boulevard / Boulder Creek Path"],
+      "low_traffic_connectors": ["20th Street"]
+    },
     "segments": [
-      {"street": "Oak Avenue", "distance_m": 96.6, "estimated_time_s": 15.6},
-      {"street": "19th Street (southbound)", "distance_m": 2156.5, "estimated_time_s": 208.6},
-      {"street": "20th St. (east connector)", "distance_m": 106.1, "estimated_time_s": 11.9},
-      {"street": "20th Street (southbound)", "distance_m": 565.6, "estimated_time_s": 69.2},
-      {"street": "Pearl Street (westbound)", "distance_m": 216.2, "estimated_time_s": 25.5},
-      {"street": "18th Street (southbound)", "distance_m": 248.8, "estimated_time_s": 36.9},
-      {"street": "Canyon Boulevard (westbound)", "distance_m": 636.6, "estimated_time_s": 58.5}
+      {"street": "Oak Avenue", "distance_m": 97, "time_min": 0.25},
+      {"street": "19th Street (southbound)", "distance_m": 2157, "time_min": 1.82},
+      {"street": "20th St. connector", "distance_m": 106, "time_min": 0.20},
+      {"street": "20th Street (southbound)", "distance_m": 566, "time_min": 1.0},
+      {"street": "Pearl Street (westbound)", "distance_m": 216, "time_min": 0.42},
+      {"street": "18th Street (southbound)", "distance_m": 249, "time_min": 0.65},
+      {"street": "Canyon Boulevard (westbound)", "distance_m": 637, "time_min": 1.0}
     ]
   },
-  "annual_impact": {
-    "workdays_per_year": 250,
-    "total_distance_km_year": 2012.9,
-    "co2_saved_kg_year": 375,
-    "fuel_saved_liters_year": 125,
-    "cost_saved_usd_year": 2235
+  "driving_comparison": {
+    "estimated_time_minutes": 12,
+    "cost_per_trip_usd": 4.5,
+    "cost_per_year_usd": 2250
   },
-  "routing_engine": "OSRM (OpenStreetMap Routing Machine)",
-  "data_retrieved": "2026-07-21"
+  "sustainability": {
+    "co2_saved_per_trip_kg": 1.5,
+    "co2_saved_per_year_kg": 375,
+    "co2_saved_per_year_lbs": 827,
+    "fuel_saved_per_year_liters": 125,
+    "trees_equivalent": 6
+  },
+  "financial": {
+    "fuel_saved_per_year_usd": 375,
+    "parking_saved_per_year_usd": 1500,
+    "total_annual_savings_usd": 1875,
+    "range_estimate_usd": [1500, 3000]
+  },
+  "health": {
+    "walking_calories_per_week": 1200,
+    "biking_calories_per_week": 1500,
+    "walking_calories_per_year": 60000,
+    "biking_calories_per_year": 75000
+  },
+  "nearby_amenities": {
+    "origin_1km": {
+      "restaurants": ["Dagabi Cucina", "China Gourmet", "Lucky's Bakehouse Cafe", "Ruzo Coffee"],
+      "bike_rental": ["Broadway & Iris B-cycle Station"],
+      "bike_parking": ["Wildwood HOA bike stands", "Broadway bike racks"],
+      "schools": ["Boulder Waldorf Kindergarten & Preschool"]
+    },
+    "destination_1km": {
+      "restaurants": ["Boulder Creek Market", "Jaipur Indian Restaurant", "T/ACO", "Boulder Baked", "Brewing Market Coffee", "Ku Cha House of Tea", "Peregrine", "Amante", "Jax Fish House"],
+      "fitness": ["One Boulder Fitness", "Amana Yoga Studio", "Buldog Yoga", "CorePower Yoga"],
+      "shopping": ["Free People", "Max", "The Denim Store at Weekends", "Savvy on Pearl", "Prana"],
+      "bike_parking": ["Pearl Street bike rack stands", "Canyon Blvd bike racks"],
+      "banks": ["Chase", "Bank of America", "Wells Fargo", "Elevations CU"]
+    }
+  }
 }

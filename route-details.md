@@ -1,128 +1,110 @@
-# 🗺️ Route Details: 45 Oak Avenue → 1800 Broadway, Boulder
+# 🗺️ Route Details — Walking & Biking Complete Guide
 
-**Route:** 4.03 km (2.5 mi) · 7 street segments · ZIP 80304 → 80302  
-**Verified:** July 18, 2026 · OpenStreetMap Valhalla Routing API  
-**Elevation:** ~5,430 ft → ~5,400 ft (30 m descent southbound)  
-**Coordinates:** Start (40.04488°N, 105.27389°W) → End (40.01633°N, 105.27897°W)
-
----
-
-## Turn-by-Turn Walking Directions (~48 min)
-
-| # | Instruction | Distance | Time | Tips |
-|---|-------------|----------|------|------|
-| 1 | **Head south on Oak Avenue** | 97 m | 1 min | Quiet residential street with sidewalk and tree canopy |
-| 2 | **Turn south onto 19th Street** | 2,157 m | ~3.5 min | Longest segment — use the sidewalk; RTD buses frequent |
-| 3 | **Turn briefly east onto 20th Street** | 106 m | 10 sec | Quick connector |
-| 4 | **Continue south on 20th Street** | 566 m | 1 min | Residential, tree-lined, moderate foot traffic |
-| 5 | **Turn right onto Pearl Street** | 216 m | 25 sec | Historic Pearl Mall area — cafés, shops, and restaurants |
-| 6 | **Turn left onto 18th Street** | 249 m | 30 sec | Downtown crossover; use crosswalks |
-| 7 | **Continue onto Canyon Boulevard** | 637 m | 1 min | Boulder Creek Path — the highlight! Dedicated multi-use path with Flatirons views |
-
-**Walking Pace:** 5 km/h (comfortable)  
-**Key Reminder:** The route is essentially flat with a gentle 30 m descent southbound.
+## Origin: 45 Oak Avenue, Boulder, CO 80304
+## Destination: 1800 Broadway, Boulder, CO 80302
+## Total Distance: 4,027 meters (~2.5 miles)
+## Route Name: Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd
 
 ---
 
-## Turn-by-Turn Biking Directions (~16 min)
+## 🚶 Complete Walking Directions
 
-| # | Instruction | Distance | Time | Infrastructure | Safety |
-|---|-------------|----------|------|----------------|--------|
-| 1 | **Head south on Oak Avenue** | 97 m | 20 sec | Sidewalk shared | ⭐⭐ Low risk |
-| 2 | **Turn south onto 19th Street** | 2,157 m | ~52 sec | Painted 4-ft bike lane | ⭐⭐⭐ Moderate — watch for dooring & buses |
-| 3 | **Turn briefly east onto 20th Street** | 106 m | 10 sec | Road | ⭐⭐ Low risk |
-| 4 | **Continue south on 20th Street** | 566 m | 12 sec | Road, no bike lane | ⭐⭐ Low risk |
-| 5 | **Turn right onto Pearl Street** | 216 m | 15 sec | Pedestrian mall — **DISMOUNT** | ⭐⭐ Very low risk (walking) |
-| 6 | **Turn left onto 18th Street** | 249 m | 15 sec | Road shared | ⭐⭐ Low risk |
-| 7 | **Continue onto Canyon Boulevard** | 637 m | 15 sec | 🚲 Separated bike lane | ⭐⭐⭐⭐⭐ Safest segment |
-
-**Biking Pace:** 15 km/h (average urban, including stops)  
-**Key Reminder:** On 19th Street, ride in the bike lane (not near parked cars) to avoid the dooring risk.
-
----
-
-## ⏱️ Time Comparison by Segment
-
-| Segment | Walking (5 km/h) | Biking (15 km/h) | Time Saved by Biking |
-|---------|-----------------|-------------------|---------------------|
-| Oak Avenue | 1 min | 12 sec | 48 sec |
-| 19th Street | 3.5 min | 1 min 49 sec | 1 min 41 sec |
-| 20th St. connector | 10 sec | 7 sec | 3 sec |
-| 20th Street | 1 min | 19 sec | 41 sec |
-| Pearl Street | 1 min | 9 sec | 51 sec |
-| 18th Street | 30 sec | 12 sec | 18 sec |
-| Canyon Boulevard | 1 min | 15 sec | 45 sec |
-| **Total** | **~48 min** | **~16 min** | **~32 min saved** |
+| # | Instruction | Distance | Est. Time | Running Total |
+|---|---|---|---|---|
+| 1 | Head south on Oak Avenue | 97 m | 1 min | 1 min |
+| 2 | Turn right onto 19th St, head south (bike lane available) | 2,157 m | 3 min 29 sec | 4 min 29 sec |
+| 3 | Brief right onto 20th St (east connector) | 106 m | 13 sec | 4 min 42 sec |
+| 4 | Turn left onto 20th St, head south | 566 m | 1 min 20 sec | 6 min 2 sec |
+| 5 | Turn right onto Pearl St, head west | 216 m | 26 sec | 6 min 28 sec |
+| 6 | **⚠️ Dismount** — Walk bike through Pearl Street Mall | 216 m | 26 sec | 6 min 54 sec |
+| 7 | Turn right onto 18th St, head south | 249 m | 39 sec | 7 min 33 sec |
+| 8 | Turn right onto Canyon Blvd, head west (Creek Path) | 637 m | 1 min 9 sec | 8 min 42 sec |
+| 9 | Arrive at 1800 Broadway | — | — | **~48 min** |
 
 ---
 
-## 🛣️ Infrastructure Quality by Segment
+## 🚲 Complete Biking Directions
 
-| Segment | Sidewalk Quality | Bike Infrastructure | Road Condition | Lighting |
-|---------|-----------------|--------------------|-----------------|----------|
-| Oak Avenue | Good — tree-lined | None (residential) | Smooth, low traffic | ✅ Good |
-| 19th Street | Wide, well-maintained | Painted 4-ft lane | Smooth, moderate traffic | ✅ Good |
-| 20th St. connector | Good | None | Smooth | ✅ Good |
-| 20th Street | Adequate | None | Smooth, low traffic | ✅ Good |
-| Pearl Street | Excellent — pedestrian mall | Dismount zone | Smooth | ✅ Excellent |
-| 18th Street | Adequate | None | Smooth, moderate traffic | ✅ Good |
-| Canyon Boulevard | Excellent — multi-use path | 🚲 Separated lane | Smooth, dedicated | ✅ Good |
-
----
-
-## 🚦 Traffic & Transit Notes
-
-### RTD Bus Routes Along the Route
-- **19th Street:** Routes 1, 3, 7, 10 frequent this corridor
-- **Canyon Boulevard:** Route 3 and seasonal shuttle service
-- **Broadway (destination):** Routes 1, 3, 7, 10, 201, 202, 204, 206
-
-### Bike Rack Locations
-- **1800 Broadway:** Building has secure bike parking in lobby/room 126
-- **Pearl Street Mall:** Multiple B-Cycle stations nearby (13th & Pearl, 15th & Pearl)
-
-### Seasonal Considerations
-
-| Season | Walking Conditions | Biking Conditions | Notes |
-|--------|-------------------|-------------------|-------|
-| **Spring** (Apr–May) | 🟢 Excellent | 🟢 Excellent | Ideal conditions; watch for afternoon showers |
-| **Summer** (Jun–Aug) | 🟡 Good (early/late) | 🟢 Excellent | Hot afternoons — start before 10am or after 4pm |
-| **Fall** (Sep–Oct) | 🟢 Excellent | 🟢 Excellent | Perfect biking and walking weather |
-| **Winter** (Nov–Mar) | 🟡 Fair (cold) | 🟡 Fair (ice/snow) | Layer up; studded tires recommended; watch for ice on Canyon Blvd |
+| # | Instruction | Distance | Est. Time | Running Total |
+|---|---|---|---|---|
+| 1 | Head south on Oak Avenue | 97 m | 15 sec | 15 sec |
+| 2 | Turn right onto 19th St, head south (bike lane) | 2,157 m | 1 min 49 sec | 2 min 4 sec |
+| 3 | Brief right onto 20th St (east connector) | 106 m | 12 sec | 2 min 16 sec |
+| 4 | Turn left onto 20th St, head south | 566 m | 1 min | 3 min 16 sec |
+| 5 | **⚠️ Dismount** — Walk bike through Pearl Street Mall | 216 m | 25 sec | 3 min 41 sec |
+| 6 | Turn right onto 18th St, head south | 249 m | 39 sec | 4 min 20 sec |
+| 7 | Turn right onto Canyon Blvd (separated bike path) | 637 m | 1 min | 5 min 20 sec |
+| 8 | Arrive at 1800 Broadway | — | — | **~16 min** |
 
 ---
 
-## 📍 Key Landmarks Along the Route
+## 🏔️ Elevation Profile
 
-| Distance from Start | Landmark | Direction | Notes |
-|--------------------|----------|-----------|-------|
-| 0 m | 45 Oak Avenue | Start | Residential area near CU Boulder |
-| ~500 m | Boulder Waldorf Preschool | Near 19th & Cedar | School zone — slow down |
-| ~1,200 m | RTD Bus Stop (19th & Canyon) | Near 19th & Canyon | Bus routes 1, 3, 7, 10 |
-| ~2,800 m | Pearl Street Mall entrance | At Pearl & 13th | Pedestrian zone begins |
-| ~3,400 m | Boulder Creek Path junction | Near 18th & Creek | Scenic multi-use path |
-| 4,027 m | 1800 Broadway | End | Destination building |
+- **Starting elevation (Oak Ave):** ~5,440 ft (1,658 m)
+- **Ending elevation (Broadway):** ~5,410 ft (1,649 m)
+- **Net change:** ~30 ft descent (gentle)
+- **Grade:** Mostly flat with very mild grade
+
+> **Note:** The route is predominantly flat, making it accessible for riders of all fitness levels. The gentle descent southbound means the ride home involves a slight climb, but at only 30 ft net change, it's barely noticeable.
 
 ---
 
-## 🔒 Safety Summary
+## 🔧 Route Infrastructure Map
 
-### Walking Safety
-- ✅ Well-maintained sidewalks throughout
-- ✅ Good street lighting on all segments
-- ⚠️ 19th Street is a busy arterial — use crosswalks carefully
-- ⚠️ Downtown Broadway intersection can be busy during rush hour
-- ✅ Low traffic on residential segments (Oak, 20th)
+```
+45 Oak Ave ──► 19th St ──► 20th St ──► Pearl St ──► 18th St ──► Canyon Blvd ──► 1800 Broadway
+  (home)       (bike lane)  (coll)     (dismount)  (coll)       (SEPARATED       (office)
+                ↓                          ↓                       PATH)
+               ▼                          ▼                        ▼
+         Residential area          Downtown core          Boulder Creek
+                                                                     Path
+```
 
-### Biking Safety
-- 🚲 Dedicated separated bike lane on Canyon Boulevard (safest segment!)
-- ⚠️ 19th Street bike lane — watch for dooring and bus stops
-- 🚫 Pearl Street Mall — dismount and walk through pedestrian zone
-- ✅ Boulder has 200+ miles of paved bike paths
-- 💡 Wear a helmet and use lights for visibility
-- 🔒 Secure bike parking available at 1800 Broadway
+**Legend:**
+- `bike lane` = Painted bicycle lane
+- `coll` = Low-traffic connector street
+- `dismount` = Pedestrian zone — dismount and walk your bike
+- `SEPARATED PATH` = Car-free, physically separated bike path
 
 ---
 
-*Data verified against OpenStreetMap Valhalla Routing Engine on 2026-07-18.  
-Full route geometry coordinates available in [routes/45_oak_ave_to_1800_broadway_geometry.json](./routes/45_oak_ave_to_1800_broadway_geometry.json)*
+## ⚠️ Safety Notes
+
+1. **19th Street** — One of the most dangerous segments for cyclists due to parking alongside the bike lane. Watch for car doors opening ("dooring" risk). Ride in the bike lane, not closer to parked cars. Make eye contact with drivers before pulling into the lane.
+
+2. **Pearl Street Mall** — The downtown pedestrian mall requires you to dismount and walk your bike. Obey all pedestrian traffic signals. Be courteous to pedestrians — slow down and announce your presence when passing.
+
+3. **Canyon Boulevard** — While the Creek Path is car-free, be aware of other cyclists, joggers, and pedestrians. Pass on the left and announce your presence audibly ("on your left"). Watch for southbound trail users.
+
+4. **20th Street** — Mid-block turn from 19th to 20th Street. There's no dedicated turning lane — use the crosswalk and look both ways before crossing.
+
+5. **Night riding** — If commuting in darkness, front headlight and rear tail-light are essential. The route is mostly well-lit along 19th Street and in downtown Boulder. The Creek Path may be less well-lit in some stretches.
+
+6. **Intersection safety** — Be extra cautious at 20th Street and 18th Street intersections. These are mid-block crossings without dedicated signal phases for cyclists. Use the "Idaho stop" approach if comfortable — treat stop signs as yields.
+
+---
+
+## ⏱️ Time-to-Commit Confidence
+
+| Time | Percentile | What it means |
+|---|---|---|
+| 14 min | Fastest | Experienced cyclist, off-peak hours, no delays |
+| 16 min | Average | Typical weekday commute |
+| 20 min | Comfortable | Holiday/weekend traffic on Creek Path |
+| 25+ min | Worst case | Peak hours, heavy bike traffic, weather slowdown |
+
+---
+
+## 📊 Route Geometry (Key Waypoints)
+
+| Point | Latitude | Longitude | Segment |
+|---|---|---|---|
+| Origin | 40.04488 | -105.27389 | Oak Avenue |
+| 19th St turn | 40.04368 | -105.27275 | 19th Street |
+| Mid 19th | 40.03500 | -105.27275 | 19th Street (mid-route) |
+| Pearl St area | 40.02551 | -105.27252 | Pearl Street |
+| 18th St turn | 40.01729 | -105.27680 | 18th Street |
+| Canyon Blvd | 40.01602 | -105.27915 | Canyon Boulevard |
+| Destination | 40.01633 | -105.27897 | (1800 Broadway) |
+
+Full geometry JSON with 200+ coordinate points available at `route-geometry.json`
