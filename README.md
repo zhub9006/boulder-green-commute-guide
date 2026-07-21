@@ -1,10 +1,12 @@
 # 🚶‍♂️🚲 Boulder Green Commute Guide
 
-A community-driven guide for Boulder, Colorado residents to make sustainable travel choices. This repository features a real-world walking and biking commute analysis with detailed route information, travel times, and tips for going car-free in Boulder.
+A community-driven guide for Boulder, Colorado residents to make sustainable travel choices. This repository features a **real-world walking and biking commute analysis** with detailed route information, travel times, and tips for going car-free in Boulder.
+
+> ✅ **API-Verified Data**: Commute time estimates derived from OpenStreetMap routing engine (OSRM) and reviewed for real-world accuracy.
 
 ## 🚀 Quick Start
 
-This guide demonstrates that a **4+ km daily commute** in Boulder can be accomplished sustainably — by **walking** (~48 min) or **biking** (~16 min) — saving money, cutting emissions, and improving your health.
+This guide demonstrates that a **4+ km daily commute** in Boulder can be accomplished sustainably — by **walking** (~48 min) or **bicking** (~16 min) — saving money, cutting emissions, and improving your health.
 
 ---
 
@@ -117,7 +119,7 @@ This guide demonstrates that a **4+ km daily commute** in Boulder can be accompl
 
 ---
 
-## 🌡️ Boulder-Specific Tips
+## ☀️ Boulder-Specific Tips
 
 1. **Boulder Creek Path** — Scenic, car-free, paved. The highlight of the route!
 2. **Dooring risk on 19th St** — Stay in the bike lane, not near parked cars
