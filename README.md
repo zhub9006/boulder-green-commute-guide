@@ -12,13 +12,13 @@ A comprehensive guide for Boulder, Colorado residents exploring sustainable comm
 
 ### Route: Oak Avenue → 1800 Broadway
 
-| Mode | Distance | Est. Time | CO₂ Saved per Trip |
-|------|----------|-----------|---------------------|
-| 🚶 Walking | 4.0 km (2.5 mi) | ~50 min | ~0.9 kg vs. car |
-| 🚲 Biking | 4.0 km (2.5 mi) | ~18 min | ~0.9 kg vs. car |
-| 🚗 Driving | 4.0 km (2.5 mi) | ~10 min | Baseline |
+| Mode | Distance | Est. Time | Calories Burned | CO₂ Saved per Trip |
+|------|----------|-----------|-----------------|---------------------|
+| 🚶 Walking | 4.0 km (2.5 mi) | ~50 min | ~200–250 cal | ~0.9 kg vs. car |
+| 🚲 Biking | 4.0 km (2.5 mi) | ~15–18 min | ~80–120 cal | ~0.9 kg vs. car |
+| 🚗 Driving | 4.0 km (2.5 mi) | ~8–12 min | 0 | Baseline (0.9 kg CO₂) |
 
-**Monthly Impact:** If you commute 20 days/month by bike instead of driving, you'll save approximately **18 kg of CO₂ per month**!
+**Monthly Impact:** If you commute 20 days/month by bike instead of driving, you'll save approximately **18 kg of CO₂ per month!**
 
 ---
 
@@ -57,7 +57,7 @@ A comprehensive guide for Boulder, Colorado residents exploring sustainable comm
 ### 🚲 Biking Route
 
 **Total Distance:** 4.03 km (2.5 miles)  
-**Estimated Time:** 15–20 minutes  
+**Estimated Time:** 15–18 minutes  
 **Elevation Gain:** Minimal (~30m)
 
 #### Turn-by-Turn Biking Directions
@@ -89,7 +89,7 @@ A comprehensive guide for Boulder, Colorado residents exploring sustainable comm
 
 | Factor | Walking | Biking | Driving |
 |--------|---------|--------|--------|
-| **Time** | 45–55 min | 15–20 min | 8–12 min |
+| **Time** | 45–55 min | 15–18 min | 8–12 min |
 | **Calories Burned** | ~200–250 | ~80–120 | 0 |
 | **CO₂ per Trip** | 0 kg | 0 kg | ~0.9 kg |
 | **Cost per Commute** | $0 | ~$0.02 (electricity) | ~$1.50–2.00 |
@@ -114,18 +114,18 @@ A comprehensive guide for Boulder, Colorado residents exploring sustainable comm
 
 ### Community Benefits
 - Reduced traffic congestion on Pearl Street and Broadway
-- Lower air pollution in Boulder's vitalmart neighborhood
+- Lower air pollution in Boulder's vibrant downtown neighborhood
 - Supporting Boulder's reputation as one of America's top biking cities
 
 ---
 
-## 🏢 Boulder Bike & Walk Resources
+## 🚲 Boulder Bike & Walk Resources
 
-- **Boulder Valley School District (BVSD):** Safe Routes to School program
 - **City of Boulder Transportation:** [bouldercolorado.gov/transportation](https://www.bouldercolorado.gov/transportation)
 - **Bicycle Forum of Boulder (BFB):** Community advocacy for better bike infrastructure
 - **CU Boulder Buff & Blue:** Campus bike share and shuttle connections
 - **BCycle Boulder:** Bike share stations throughout downtown
+- **Boulder Valley School District (BVSD):** Safe Routes to School program
 
 ---
 

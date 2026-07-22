@@ -1,61 +1,104 @@
-# 🌱 Sustainability Impact Analysis
-
-## Carbon Footprint Reduction
-
-### Per Commute (One Way)
-
-| Metric | 🚗 Driving | 🚶 Walking | 🚲 Biking |
-|--------|-----------|-----------|----------|
-| CO₂ per km | ~0.19 kg/km | 0 kg/km | 0 kg/km |
-| CO₂ per trip (4.03 km) | ~0.77 kg | 0 kg | 0 kg |
-| CO₂ saved per trip | Baseline | ~0.77 kg | ~0.77 kg |
-
-### Annual Impact (250 Workdays, Round Trip)
-
-| Metric | 🚗 Driving | 🚶 Walking | 🚲 Biking |
-|--------|-----------|-----------|----------|
-| Annual distance | ~2,000 km | ~2,000 km | ~2,000 km |
-| Annual CO₂ | ~375 kg | 0 kg | 0 kg |
-| CO₂ saved vs. driving | — | 375 kg | 375 kg |
-| Trees needed to offset | ~8 trees | — | — |
-
-### Broader Environmental Benefits
-
-- **375 kg CO₂** = weight of a small motorcycle kept out of the atmosphere per year
-- **Equivalent to ~827 lbs** of carbon dioxide saved annually
-- **Same as 6 mature trees** worth of annual carbon sequestration
-- **Noise reduction:** Electric/muted biking is ~15–20 dB quieter than combustion engines
-- **Reduced parking demand** in downtown Boulder (scarce and expensive)
+# 🌱 Sustainability Impact: Your Green Commute
 
 ---
 
-## Boulder-Specific Sustainability Context
+## Your Personal Impact
 
-| Factor | Boulder Context |
-|--------|----------------|
-| City Climate Goals | 80% emission reduction by 2050 |
-| Bike Infrastructure | Extensive bike lanes and separated paths |
-| B-Cycle | City bike-share with 1,000+ bikes |
-| E-Bike Rebate | Colorado Energy Office: $1,200 rebate |
-| RTD Transit | Bus routes 1, 3, 7, 10 with bike racks |
-| Open Space | 45,000+ acres of protected land |
-| Solar Potential | 300+ sunny days/year |
+**Your Commute:** 45 Oak Avenue → 1800 Broadway, Boulder, CO  
+**Distance:** 4.03 km each way (8.06 km round trip)  
+**Workdays per year:** ~250 (5 days/week, 50 weeks)
 
 ---
 
-## What Your Commute Saves Annually
+## Annual Impact by Mode
 
-```
-🚶 Walking 4.03 km × 250 days × 2 = 2,015 km/year
-  → CO₂ saved: 375 kg (6 trees)
-  → Money saved: ~$3,000/year
-  → Exercise: ~160 hours/year
+### 🚶 Walking to Work
+| Metric | Value |
+|--------|-------|
+| CO₂ per trip | 0 kg |
+| Calories burned (daily) | ~200–250 kcal |
+| Annual calories burned | ~50,000–62,500 kcal |
+| Annual CO₂ saved vs. driving | ~225 kg |
+| Annual cost | $0 |
+| Equivalent trees planted | ~10 seedlings for 10 years |
 
-🚲 Biking 4.03 km × 250 days × 2 = 2,015 km/year
-  → CO₂ saved: 375 kg (6 trees)
-  → Money saved: ~$2,900/year
-  → Exercise: ~80 hours/year
-  → Nearly as fast as driving!
-```
+### 🚲 Biking to Work
+| Metric | Value |
+|--------|-------|
+| CO₂ per trip | 0 kg |
+| Calories burned (daily) | ~80–120 kcal |
+| Annual calories burned | ~20,000–30,000 kcal |
+| Annual CO₂ saved vs. driving | ~225 kg |
+| Annual cost | ~$5 (electricity for e-bike) |
+| Equivalent trees planted | ~10 seedlings for 10 years |
 
-*Data sourced from EPA emission factors, OSRM routing, Boulder sustainability reports.*
+### 🚗 Driving to Work (Baseline)
+| Metric | Value |
+|--------|-------|
+| CO₂ per trip | ~0.9 kg |
+| Annual CO₂ emissions | ~225 kg |
+| Annual cost | ~$375–500 (fuel + parking) |
+| Calorie benefit | 0 kcal |
+
+---
+
+## 🌍 Broader Community Impact
+
+If **all 5,000** daily commuters in central Boulder shifted just **one trip per week** from driving to biking or walking:
+
+| Metric | Impact |
+|--------|--------|
+| CO₂ saved per week | ~4,500 kg (4.5 metric tons) |
+| CO₂ saved per year | ~234,000 kg (234 metric tons) |
+| Fuel saved per year | ~100,000 liters |
+| Cars removed from road per day | ~1,000 |
+
+### Air Quality Improvement
+- Fewer tailpipe emissions means lower NOₓ, PM2.5, and ozone precursors
+- Boulder already meets federal air quality standards — green commuting helps keep it that way!
+
+### Health Cost Savings
+- Active commuters have lower rates of heart disease, diabetes, and obesity
+- Estimated healthcare savings per active commuter: ~$500–$1,000/year
+- Community-wide: billions in national healthcare savings if adopted broadly
+
+---
+
+## 📈 Monthly Tracking Template
+
+| Month | Mode | Days Commuted | CO₂ Saved | Money Saved | Calories Burned |
+|-------|------|---------------|-----------|-------------|-----------------|
+| Jan | Bike | | | | |
+| Feb | Bike | | | | |
+| Mar | Walk | | | | |
+| ... | ... | | | | |
+| **Year Total** | | | | | |
+
+---
+
+## 🏆 Boulder Green Commute Champions
+
+### Boulder's Commitment to Sustainability
+- **#1 Bike City** in Colorado (PeopleForBikes)
+- **Platinum Bicycle Friendly Community** (League of American Bicyclists)
+- **Forty percent** of Boulder trips are made by bike, foot, or transit (National Household Travel Survey)
+- **Boulder Creek Path** — 18-mile paved path along Boulder Creek, used daily by thousands
+
+### Key Infrastructure
+- **Boulder Transit Center:** Bus hub with RTD connections
+- **BCycle:** 40+ bike share stations across Boulder
+- **EcoPass:** RTD transit pass included with many Boulder housing permits
+- **Bike corrals:** Bike parking at downtown businesses and transit stops
+
+---
+
+## 🤝 Join the Movement
+
+- **Bike to Work Day:** Every May, thousands of Boulder residents bike to work
+- **World Car-Free Day:** September 22 — try a car-free day!
+- **Boulder Walking School Bus:** Volunteer to walk kids to school
+- **Community Cycling:** Join a bike train or cycling group
+
+---
+
+*Every green commute counts. Thank you for choosing sidewalks, bike lanes, and trails over cars!* 🚲🌿
