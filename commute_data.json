@@ -1,1 +1,48 @@
-{"commute": {"from": {"address": "45 Oak Avenue, Boulder, CO 80304", "latitude": 40.0448805, "longitude": -105.2738879}, "to": {"address": "1800 Broadway, Boulder, CO 80302", "latitude": 40.0163281, "longitude": -105.2789726}, "distance_meters": 4026.5, "distance_miles": 2.5, "verified_source": "OpenStreetMap / OSRM routing engine", "verification_date": "2026-07-27", "notes": "Route goes south on Oak Ave → 19th St → 20th St → Pearl St (dismount) → 18th St → Canyon Blvd (creek path). Total ~2.5 miles (~4 km). Predominantly flat with gentle 30ft descent southbound."}, "modes": {"walking": {"estimated_time_minutes": 48, "estimated_time_seconds": 2880, "average_speed_kmh": 5.0, "calories_per_trip_kcal": 240, "co2_saved_per_trip_kg": 1.5, "segments": [{"street": "Oak Avenue", "distance_m": 96.6, "time_seconds": 71}, {"street": "19th Street (southbound)", "distance_m": 2156.5, "time_seconds": 1512}, {"street": "20th St. (connector)", "distance_m": 106.1, "time_seconds": 71}, {"street": "20th Street (southbound)", "distance_m": 565.6, "time_seconds": 420}, {"street": "Pearl Street (dismount zone)", "distance_m": 216.2, "time_seconds": 252}, {"street": "18th Street (southbound)", "distance_m": 248.8, "time_seconds": 234}, {"street": "Canyon Boulevard (creek path)", "distance_m": 636.6, "time_seconds": 318}]}, "biking": {"estimated_time_minutes": 16, "estimated_time_seconds": 960, "average_speed_kmh": 15.1, "calories_per_trip_kcal": 300, "co2_saved_per_trip_kg": 1.5, "infrastructure_by_segment": [{"street": "Oak Avenue", "type": "shared sidewalk", "risk_level": "low"}, {"street": "19th Street", "type": "painted bike lane (dooring risk)", "risk_level": "moderate"}, {"street": "20th St.", "type": "low-traffic road", "risk_level": "low"}, {"street": "20th Street", "type": "road, moderate traffic", "risk_level": "low"}, {"street": "Pearl Street", "type": "pedestrian mall — dismount required", "risk_level": "low"}, {"street": "18th Street", "type": "road, low traffic", "risk_level": "low"}, {"street": "Canyon Boulevard", "type": "separated multi-use bike path (car-free!)", "risk_level": "low"}]}, "driving": {"estimated_time_minutes": "10–15", "cost_per_trip_usd": "3–5", "fuel_per_trip_liters": 1.0}}, "annual_savings": {"work_days_per_year": 250, "round_trips_per_year": 500, "co2_saved_kg": 375, "co2_saved_lbs": 827, "fuel_saved_liters": 125, "fuel_saved_gallons": 33, "money_saved_usd": 2235, "Trees_equivalent": 6, "miles_driven_avoided": 1250}, "nearby_amenities": {"parks_near_origin": [{"name": "Melody Park", "distance_m": "~400", "notes": "City of Boulder park"}, {"name": "Catalpa Park", "distance_m": "~600", "notes": "City of Boulder park"}], "ev_charging_near_origin": [{"name": "ChargePoint", "distance_m": 1368, "connector": "J1772"}, {"name": "ChargePoint", "distance_m": 1600, "connector": "J1772"}, {"name": "Tesla Supercharger", "distance_m": 2041, "address": "3100 28th St, Boulder", "connectors": "NACS (Tesla)"}], "transit_near_route": [{"route": "RTD 1, 3, 7, 10", "coverage": "19th Street corridor, Boulder Junction to downtown"}, {"route": "RTD Bus", "notes": "Bike racks available on all RTD buses"}]}}
+{
+  "commute_id": "oak-ave-to-1800-broadway",
+  "version": "2.0",
+  "last_verified": "2026-07-22",
+  "home": {
+    "address": "45 Oak Avenue, Boulder, CO",
+    "latitude": 40.0448805,
+    "longitude": -105.2738879,
+    "zip": "80304"
+  },
+  "work": {
+    "address": "1800 Broadway, Boulder, CO",
+    "latitude": 40.0163281,
+    "longitude": -105.2789726,
+    "zip": "80302"
+  },
+  "distance_meters": 4026.5,
+  "distance_miles": 2.50,
+  "modes": {
+    "foot": {
+      "osrm_duration_seconds": 426.2,
+      "real_world_estimate_minutes": 48,
+      "average_speed_mph": 3.1,
+      "calories_per_trip": 240,
+      "co2_saved_kg": 1.5
+    },
+    "bike": {
+      "osrm_duration_seconds": 426.2,
+      "real_world_estimate_minutes": 16,
+      "average_speed_mph": 9.5,
+      "calories_per_trip": 300,
+      "co2_saved_kg": 1.5
+    },
+    "car": {
+      "typical_duration_minutes": "10-15",
+      "cost_per_trip_dollars": "3-5"
+    }
+  },
+  "route_segments": [
+    {"step": 1, "street": "Oak Avenue", "distance_m": 96.6, "duration_s": 15.6},
+    {"step": 2, "street": "19th Street", "distance_m": 2156.5, "duration_s": 208.6},
+    {"step": 3, "street": "20th St.", "distance_m": 106.1, "duration_s": 11.9},
+    {"step": 4, "street": "20th Street", "distance_m": 565.6, "duration_s": 69.2},
+    {"step": 5, "street": "Pearl Street", "distance_m": 216.2, "duration_s": 25.5},
+    {"step": 6, "street": "18th Street", "distance_m": 248.8, "duration_s": 36.9},
+    {"step": 7, "street": "Canyon Boulevard", "distance_m": 636.6, "duration_s": 58.5}
+  ]
+}
