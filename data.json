@@ -1,0 +1,51 @@
+{
+  "commute_analysis": {
+    "origin": {
+      "address": "45 Oak Avenue, Boulder, Colorado 80304",
+      "coordinates": {"latitude": 40.0448805, "longitude": -105.2738879}
+    },
+    "destination": {
+      "address": "1800 Broadway, Boulder, Colorado 80302",
+      "coordinates": {"latitude": 40.0163281, "longitude": -105.2789726}
+    },
+    "date_analyzed": "2026-07-22",
+    "modes": {
+      "walking": {
+        "distance_km": 4.03,
+        "distance_miles": 2.5,
+        "duration_minutes": 48,
+        "calories_kcal": 250,
+        "elevation_gain_m": 30,
+        "steps_estimate": 5040,
+        "co2_saved_kg": 0.9,
+        "sessions_per_week": 10,
+        "annual_co2_saved_kg": 468,
+        "annual_miles": 1100
+      },
+      "biking": {
+        "distance_km": 4.03,
+        "distance_miles": 2.5,
+        "duration_minutes": 14,
+        "calories_kcal": 120,
+        "elevation_gain_m": 30,
+        "avg_speed_kmh": 17.3,
+        "co2_saved_kg": 1.1,
+        "sessions_per_week": 10,
+        "annual_co2_saved_kg": 572,
+        "annual_miles": 1100
+      }
+    },
+    "route_segments": [
+      {"street": "Oak Avenue", "walking_distance_m": 96.6, "walking_duration_s": 15.6, "biking_distance_m": 96.6, "biking_duration_s": 10},
+      {"street": "19th Street", "walking_distance_m": 2156.5, "walking_duration_s": 208.6, "biking_distance_m": 2156.5, "biking_duration_s": 180},
+      {"street": "20th St.", "walking_distance_m": 106.1, "walking_duration_s": 11.9, "biking_distance_m": 106.1, "biking_duration_s": 5},
+      {"street": "20th Street", "walking_distance_m": 565.6, "walking_duration_s": 69.2, "biking_distance_m": 565.6, "biking_duration_s": 60},
+      {"street": "Pearl Street", "walking_distance_m": 216.2, "walking_duration_s": 25.5, "biking_distance_m": 216.2, "biking_duration_s": 5},
+      {"street": "18th Street", "walking_distance_m": 248.8, "walking_duration_s": 36.9, "biking_distance_m": 248.8, "biking_duration_s": 7},
+      {"street": "Canyon Boulevard", "walking_distance_m": 636.6, "walking_duration_s": 58.5, "biking_distance_m": 636.6, "biking_duration_s": 60},
+      {"street": "Canyon Boulevard (arrival)", "walking_distance_m": 0, "walking_duration_s": 0, "biking_distance_m": 0, "biking_duration_s": 0}
+    ],
+    "data_source": "OpenStreetMap via OSM MCP Server",
+    "disclaimer": "Estimated times and calorie counts are approximate and based on average adult speeds. Actual times will vary based on fitness level, weather, and traffic conditions."
+  }
+}
