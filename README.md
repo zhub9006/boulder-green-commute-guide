@@ -6,7 +6,7 @@ A community-driven guide for Boulder, Colorado residents to make sustainable tra
 
 ---
 
-## 🏠➡️💼 Commute Overview
+## 🏠➡️🚼 Commute Overview
 
 | Detail | Value |
 |---|---|
@@ -32,17 +32,17 @@ A community-driven guide for Boulder, Colorado residents to make sustainable tra
 
 ---
 
-## 📋 Walking Route Details
+## 📍 Walking Route Details
 
 | Segment | Street | Distance | Est. Time |
 |---|---|---|---|
 | 1 | Oak Avenue | 97 m | ~1 min |
-| 2 | 19th Street (southbound) | 2,157 m | ~3 min 29 sec |
-| 3 | 20th St. (brief connector) | 106 m | ~13 sec |
-| 4 | 20th Street (southbound) | 566 m | ~1 min 20 sec |
-| 5 | Pearl Street (westbound) | 216 m | ~26 sec |
-| 6 | 18th Street (southbound) | 249 m | ~39 sec |
-| 7 | Canyon Boulevard (westbound) | 637 m | ~1 min 9 sec |
+| 2 | 19th Street (southbound) | 2,157 m | ~26 min |
+| 3 | 20th St. (brief connector) | 106 m | ~1 min |
+| 4 | 20th Street (southbound) | 566 m | ~7 min |
+| 5 | Pearl Street (westbound) | 216 m | ~3 min |
+| 6 | 18th Street (southbound) | 249 m | ~3 min |
+| 7 | Canyon Boulevard (westbound) | 637 m | ~8 min |
 | **Total** | | **4,027 m** | **~48 min** |
 
 ### Walking Route Data (OSRM Verified)
@@ -50,23 +50,23 @@ A community-driven guide for Boulder, Colorado residents to make sustainable tra
 From: 40.0448805, -105.2738879 (45 Oak Avenue)
 To:   40.0163281, -105.2789726 (1800 Broadway)
 Distance: 4026.5 m (OSRM)
-Geometry: polyline in route-geometry.json
+Geometry: Full GPS polyline in route-geometry.json
 ```
 
 ---
 
 ## 🚲 Biking Route Details
 
-| Segment | Street | Distance | Est. Time | Infrastructure |
-|---|---|---|---|---|
-| 1 | Oak Avenue | 97 m | ~15 sec | Sidewalk shared (low risk) |
-| 2 | 19th Street (southbound) | 2,157 m | ~1 min 49 sec | Painted bike lane (moderate) |
-| 3 | 20th St. (brief connector) | 106 m | ~12 sec | Road (low risk) |
-| 4 | 20th Street (southbound) | 566 m | ~1 min | Road (low risk) |
-| 5 | Pearl Street (westbound) | 216 m | ~25 sec | Pedestrian mall — **dismount** |
-| 6 | 18th Street (southbound) | 249 m | ~39 sec | Road (low risk) |
-| 7 | Canyon Boulevard (westbound) | 637 m | ~1 min | 🚴 Separated bike path (**safest!**) |
-| **Total** | | **4,027 m** | **~16 min** | |
+| Segment | Street | Distance | Est. Time | Est. Time (Bike) | Infrastructure |
+|---|---|---|---|---|---|
+| 1 | Oak Avenue | 97 m | ~1 min | ~15 sec | Sidewalk shared (low risk) |
+| 2 | 19th Street (southbound) | 2,157 m | ~26 min | ~8 min 38 sec | Painted bike lane (moderate) |
+| 3 | 20th St. (brief connector) | 106 m | ~1 min | ~25 sec | Road (low risk) |
+| 4 | 20th Street (southbound) | 566 m | ~7 min | ~2 min 16 sec | Road (low risk) |
+| 5 | Pearl Street (westbound) | 216 m | ~3 min | ~52 sec | Pedestrian mall — **dismount** |
+| 6 | 18th Street (southbound) | 249 m | ~3 min | ~1 min | Road (low risk) |
+| 7 | Canyon Boulevard (westbound) | 637 m | ~8 min | ~2 min 33 sec | Separated bike path (**safest!**) |
+| **Total** | | **4,027 m** | **~48 min** | **~16 min** | |
 
 ---
 
@@ -161,7 +161,7 @@ Add your own Boulder commute route and help other residents make sustainable cho
 
 ---
 
-## 🎯 Resources & Advocacy
+## 🎒 Resources & Advocacy
 
 - **Boulder BCycle** — City bike-share program: boulder.b-cycle.com
 - **Bicycle Colorado** — Statewide bike infrastructure advocacy: bicyclecolorado.org
