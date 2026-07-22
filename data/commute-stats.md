@@ -1,103 +1,81 @@
-# 📊 Commute Data & Calculations
+# 📊 Boulder Commute Data & Statistics
 
-## Raw Route Data
+## Our Featured Route: Oak Avenue ↔ 1800 Broadway
 
-### Origin
-- **Address:** 45 Oak Avenue, Boulder, CO 80304
-- **Coordinates:** 40.0449°N, 105.2739°W
-
-### Destination
-- **Address:** 1800 Broadway, Boulder, CO 80302
-- **Coordinates:** 40.0163°N, 105.2790°W
-
-### Routing Method
-- **Data Source:** OpenStreetMap / OSRM (Open Source Routing Machine)
-- **Route API:** OSRM foot and bike profiles
-- **Raw Distance:** 4,026.5 meters
-- **Raw Walking Duration (engine):** 426 seconds (optimal conditions)
-- **Raw Biking Duration (engine):** 426 seconds (optimal conditions)
+| Metric | Value |
+|--------|-------|
+| **Origin** | 45 Oak Avenue, Boulder, CO 80304 |
+| **Destination** | 1800 Broadway, Boulder, CO 80302 |
+| **Latitude (Home)** | 40.0449° N |
+| **Longitude (Home)** | -105.2739° W |
+| **Latitude (Office)** | 40.0163° N |
+| **Longitude (Office)** | -105.2790° W |
+| **Straight-Line Distance** | ~4.0 km |
+| **Road Distance** | 4.03 km (2.5 mi) |
 
 ---
 
-## Calculated Travel Times (Based on Typical Paces)
+## Mode Comparison (One-Way Commute)
 
-| Mode | Pace | Time | Notes |
-|---|---|---|---|
-| Walking | 5 km/h (3.1 mph) | ~48 min | Comfortable, relaxed pace |
-| Walking (brisk) | 6.5 km/h (4.0 mph) | ~37 min | Brisk walking speed |
-| Biking (casual) | 15 km/h (9.3 mph) | ~16 min | Casual Boulder pace |
-| Biking (fast) | 20 km/h (12.4 mph) | ~12 min | Fit cyclist on flat terrain |
-
----
-
-## Emissions Calculations
-
-### Per Trip (One Way)
-- **Driving ~2.5 miles:** ~1.5 kg CO₂ (based on avg US car ~404 g CO₂/mile)
-- **Walking:** 0 kg CO₂
-- **Biking:** 0 kg CO₂ (plus ~0.05 kg if accounting for food energy)
-- **Bus:** ~0.3 kg CO₂ (per passenger, shared emissions)
-
-### Annual Impact (250 workdays, round trip)
-- **Walking/Biking:** 0 kg CO₂
-- **Driving:** ~750 kg CO₂/year
-- **CO₂ saved by walking/biking:** ~750 kg/year (~1,650 lbs)
+| Metric | 🚶 Walking | 🚲 Biking | 🚗 Driving | 🚌 Transit |
+|--------|-----------|-----------|-----------|------------|
+| **Distance** | 4.03 km | 4.03 km | 4.03 km | ~4.5 km (with transfers) |
+| **Time** | 45–55 min | 15–20 min | 8–12 min | 25–35 min |
+| **CO₂ per Trip** | 0 kg | 0 kg | ~0.9 kg | ~0.45 kg |
+| **Monthly Cost (20 days)** | $0 | ~$0.40 | ~$30–40 | ~$20–30 |
+| **Annual CO₂ (250 trips)** | 0 kg | 0 kg | ~225 kg | ~113 kg |
+| **Annual Cost** | $0 | ~$20 | ~$750 | ~$600 |
+| **Calories/Day** | ~220 kcal | ~100 kcal | 0 kcal | 0 kcal |
 
 ---
 
-## Financial Impact
+## CO₂ Savings Calculator
 
-### Per Trip
-| Expense | Cost |
-|---|---|
-| Gas (2.5 mi) | ~$0.25 |
-| Parking (downtown) | ~$2.00+ |
-| **Total driving cost** | **~$2.25** |
-| **Walking/Biking cost** | **$0** |
+### Per Commute (one-way)
+- Walking: **0.9 kg CO₂ saved** vs. driving
+- Biking: **0.9 kg CO₂ saved** vs. driving
+- Transit: **0.45 kg CO₂ saved** vs. driving
 
-### Annual (250 workdays)
-| Expense | Driving | Walking/Biking | Savings |
-|---|---|---|---|
-| Fuel | $125 | $0 | $125 |
-| Parking | $600 | $0 | $600 |
-| Maintenance | $750 | $0 | $750 |
-| Insurance | $1,200 | $0 | $1,200 |
-| **Total** | **~$2,675** | **$0** | **~$2,675** |
+### Per Month (20 commuting days)
+- Walking: **18 kg CO₂ saved**
+- Biking: **18 kg CO₂ saved**
+- Transit: **9 kg CO₂ saved**
 
----
+### Per Year (250 commuting days)
+- Walking: **225 kg CO₂ saved** (≈ 500 lbs)
+- Biking: **225 kg CO₂ saved** (≈ 500 lbs)
+- Transit: **113 kg CO₂ saved** (≈ 250 lbs)
 
-## Health Metrics
-
-### Walking (round trip ~5 miles)
-- **Calories burned:** ~480 kcal
-- **Step count:** ~8,000–10,000 steps
-- **Cardiovascular benefit:** Moderate (meets daily exercise recommendations)
-- **Time spent in exercise zone:** ~96 min/day
-
-### Biking (round trip ~5 miles)
-- **Calories burned:** ~600 kcal
-- **Time in exercise zone:** ~32 min/day
-- **Joint impact:** Low (non-weight-bearing)
+> 🌳 **Equivalency:** 225 kg of CO₂ = the carbon absorbed by approximately **9 mature trees** in a year!
 
 ---
 
-## Route Segments Reference
+## Boulder's Green Commuting Context
 
-| # | Street | Distance | Walking Time | Biking Time |
-|---|---|---|---|---|
-| 1 | Oak Avenue | 96.6 m | ~1 min | ~15 sec |
-| 2 | 19th Street | 2,156.5 m | ~3.6 min | ~1.6 min |
-| 3 | 20th St. | 106.1 m | ~12 sec | ~12 sec |
-| 4 | 20th Street | 565.6 m | ~55 sec | ~55 sec |
-| 5 | Pearl Street | 216.2 m | ~26 sec | ~25 sec |
-| 6 | 18th Street | 248.8 m | ~37 sec | ~37 sec |
-| 7 | Canyon Boulevard | 636.6 m | ~1 min 9 sec | ~1 min |
-| **Total** | **—** | **4,026.5 m** | **~48 min** | **~16 min** |
+### Why Boulder Excels at Green Commuting
+
+1. **Compact Downtown** — Most trips in Boulder are under 5 km, ideal for walking and biking
+2. **Excellent Path Network** — Boulder has over 70 miles of dedicated bike and pedestrian paths
+3. **Municipal Support** — City goals include 30% non-auto mode share by 2030
+4. **Flat Terrain** — Generally flat with gentle grades; very accessible for all fitness levels
+5. **Active Culture** — Boulder consistently ranks in Top 10 fittest cities in America
+
+### Citywide Mode Share (Approximate)
+- Walking: **15–20%** (highest in Colorado)
+- Biking: **10–15%** (one of the highest in the US)
+- Car/Auto: **50–55%**
+- Transit: **10–15%**
+- Other: **5%**
 
 ---
 
 ## Data Sources
-- **Geocoding:** OpenStreetMap Nominatim
-- **Routing:** Open Source Routing Machine (OSRM)
-- **Commute data:** Calculated from OSRM foot and bike profiles
-- **Emission factors:** EPA average for passenger vehicles
+
+- **Routing Engine:** OpenStreetMap / OSRM
+- **Emission Factors:** EPA Greenhouse Gas Equivalencies Calculator
+- **Boulder Transportation Data:** City of Boulder, Transportation Division
+- **Mode Share:** TDM Center at CU Boulder & City Mobility Reports
+
+---
+
+*All statistics are estimates based on available data. Your actual commute may vary based on traffic, weather, and personal pace.*
