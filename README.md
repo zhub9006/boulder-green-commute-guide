@@ -8,46 +8,52 @@ This guide provides detailed commute analyses for common Boulder routes, helping
 
 ---
 
-## Commute Analysis: Oak Avenue (45) → 1800 Broadway
+## Commute Analysis: 45 Oak Avenue → 1800 Broadway
 
 ### Route Summary
 
 | Metric | Walking 🚶 | Biking 🚲 |
 |--------|-----------|----------|
 | **Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) |
-| **Duration** | ~7.1 minutes | ~7.1 minutes |
+| **Estimated Duration** | ~48 minutes | ~16 minutes |
+| **Avg Walking Speed** | ~5 km/h | — |
+| **Avg Biking Speed** | — | ~15 km/h |
 | **Home Coordinates** | 40.0448805, -105.2738879 | 40.0448805, -105.2738879 |
 | **Office Coordinates** | 40.0163281, -105.2789726 | 40.0163281, -105.2789726 |
 | **Route** | Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd | Same route |
 
+> **Note:** Durations are computed using typical steady-state speeds (~5 km/h walking, ~15 km/h biking). Actual times vary with pace, weather, traffic signals, and bike lane availability.
+
 ### Turn-by-Turn Directions
 
-#### Walking Route
-1. **Oak Avenue** — 97 m (16 sec)
-2. **19th Street** — 2.2 km (3.5 min)
-3. **20th St.** — 106 m (12 sec)
-4. **20th Street** — 566 m (1.2 min)
-5. **Pearl Street** — 216 m (26 sec)
-6. **18th Street** — 249 m (37 sec)
-7. **Canyon Boulevard** — 637 m (1.0 min)
+#### Walking Route (~48 minutes)
+1. **Oak Avenue** — 97 m (start heading south)
+2. **19th Street** — 2,156 m (long straight segment south — ~4.3 min)
+3. **20th St.** — 106 m (brief jog westward — ~0.2 min)
+4. **20th Street** — 566 m (continue south — ~1.1 min)
+5. **Pearl Street** — 216 m (turn west onto Pearl — ~0.4 min)
+6. **18th Street** — 249 m (head south on 18th — ~0.5 min)
+7. **Canyon Boulevard** — 637 m (final stretch south to office — ~1.3 min)
 
-#### Biking Route
-1. **Oak Avenue** — 97 m (16 sec)
-2. **19th Street** — 2.2 km (3.5 min)
-3. **20th St.** — 106 m (12 sec)
-4. **20th Street** — 566 m (1.2 min)
-5. **Pearl Street** — 216 m (26 sec)
-6. **18th Street** — 249 m (37 sec)
-7. **Canyon Boulevard** — 637 m (1.0 min)
+#### Biking Route (~16 minutes)
+1. **Oak Avenue** — 97 m (start heading south)
+2. **19th Street** — 2,156 m (long straight segment south — ~4.3 min)
+3. **20th St.** — 106 m (brief jog westward — ~0.2 min)
+4. **20th Street** — 566 m (continue south — ~1.1 min)
+5. **Pearl Street** — 216 m (turn west onto Pearl — ~0.4 min)
+6. **18th Street** — 249 m (head south on 18th — ~0.5 min)
+7. **Canyon Boulevard** — 637 m (final stretch south to office — ~1.3 min)
+
+> **Route Notes:** The route follows a mostly flat, shared-use path through south-central Boulder. 19th Street is the primary north-south corridor. Pearl Street and Canyon Boulevard provide key east-west transitions. The last stretch on Canyon Boulevard has a dedicated bike lane.
 
 ### Environmental Impact
 
-| Mode | CO₂ saved per trip (vs. car) | CO₂ saved per year (250 workdays) | Calories burned |
-|------|------------------------------|-----------------------------------|-----------------|
+| Mode | CO₂ saved per trip (vs. car) | CO₂ saved per year (250 workdays) | Calories burned per trip |
+|------|------------------------------|-----------------------------------|--------------------------|
 | Walking | ~0.8 kg | ~200 kg | ~130 kcal |
 | Biking | ~0.8 kg | ~200 kg | ~80 kcal |
 
-*Assuming a 6 km round trip by car producing approximately 1.6 kg CO₂ per day.*
+*Assuming a 6 km round trip by car producing approximately 1.6 kg CO₂ per day (avg 160 g/km).*
 
 ---
 
@@ -61,7 +67,7 @@ This guide provides detailed commute analyses for common Boulder routes, helping
 ### 💪 Health Benefits
 - Walking: Improves cardiovascular health, strengthens bones, reduces stress
 - Biking: Builds leg strength, improves joint mobility, boosts mental health
-- The CDC recommends 150 minutes of moderate activity per week — a 7-minute walk each way adds up!
+- The CDC recommends 150 minutes of moderate activity per week — a 48-minute walk each way adds up fast!
 
 ### 💰 Financial Benefits
 - Save on gas, parking, and vehicle maintenance
