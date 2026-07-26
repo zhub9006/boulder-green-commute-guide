@@ -8,37 +8,35 @@ This guide provides detailed commute analyses for common Boulder routes, helping
 
 ---
 
-## Commute Analysis: Oak Avenue (45) → 1800 Broadway
+## Commute Analysis: 45 Oak Avenue → 1800 Broadway
 
 ### Route Summary
 
 | Metric | Walking 🚶 | Biking 🚲 | Driving 🚗 |
-|--------|-----------|----------|-----------|
+|--------|-----------|----------|------------|
 | **Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) | ~3.5 km (2.2 mi) |
-| **Duration** | ~48 min | ~16 min | ~12 min |
+| **Duration** | ~48 minutes | ~16 minutes | ~12 min (plus parking) |
 | **Home Coordinates** | 40.0448805, -105.2738879 | 40.0448805, -105.2738879 | — |
 | **Office Coordinates** | 40.0163281, -105.2789726 | 40.0163281, -105.2789726 | — |
-| **Route** | Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd | Same route (faster on bike) | Oak Ave → 19th St → Broadway |
-
-The commute connects **45 Oak Avenue** in the residential north (80304) to **1800 Broadway** in downtown Boulder (80302), passing through central Boulder's urban grid.
+| **Route** | Oak Ave → 19th St → 20th St → Pearl St → 18th St → Canyon Blvd | Same route (with bike lanes) | Oak Ave → 19th St → Broadway |
 
 ### Turn-by-Turn Directions
 
 #### Walking Route (~48 minutes)
-1. **Oak Avenue** — 97 m (2 min) — Low-traffic residential street
+1. **Oak Avenue** — 97 m (2 min) — Low-traffic residential street, head south
 2. **19th Street** — 2.2 km (7–8 min) — Main N-S corridor with bike lanes and RTD bus stops
 3. **20th St. connector** — 106 m (1 min) — Brief connector between 19th and 20th
-4. **20th Street** — 566 m (2 min) — Quieter residential section
-5. **Pearl Street** — 216 m (1 min) — Historic downtown area, pedestrian-heavy
+4. **20th Street** — 566 m (2 min) — Quieter residential section, continue south
+5. **Pearl Street** — 216 m (1 min) — Historic downtown area, pedestrian-heavy, slow down
 6. **18th Street** — 249 m (1 min) — Short connector through downtown grid
 7. **Canyon Boulevard** — 637 m (2 min) — Final approach; connects to Boulder Creek Path
 
 #### Biking Route (~16 minutes)
-1. **Oak Avenue** — 97 m (1 min) — Residential, low traffic; gentle start
-2. **19th Street** — 2.2 km (5–6 min) — Bike lanes available, moderate traffic
-3. **20th St. connector** — 106 m (1 min) — Brief residential connector
+1. **Oak Avenue** — 97 m (15 sec) — Residential, low traffic; gentle start heading south
+2. **19th Street** — 2.2 km (5–6 min) — Bike-friendly corridor with dedicated lanes
+3. **20th St. connector** — 106 m (12 sec) — Quick connector between streets
 4. **20th Street** — 566 m (1 min) — Bike lane available, quieter section
-5. **Pearl Street** — 216 m (1 min) — Downtown, slow down for pedestrians
+5. **Pearl Street** — 216 m (25 sec) — Downtown, watch for pedestrians, slow down
 6. **18th Street** — 249 m (1 min) — Urban grid, moderate traffic
 7. **Canyon Boulevard** — 637 m (1 min) — **Dedicated bike lane** — enjoy the ride!
 
@@ -63,11 +61,11 @@ The commute connects **45 Oak Avenue** in the residential north (80304) to **180
 ### 💪 Health Benefits
 - Walking: Improves cardiovascular health, strengthens bones, reduces stress
 - Biking: Builds leg strength, improves joint mobility, boosts mental health
-- The CDC recommends 150 minutes of moderate activity per week — a 48-minute walk each way adds up beautifully!
+- The CDC recommends 150 minutes of moderate activity per week — a 48-minute walk each way adds up!
 
 ### 💰 Financial Benefits
 - Save on gas, parking, and vehicle maintenance
-- Average annual savings: **$1,000–$3,000** by replacing car trips with active transportation
+- Average annual savings: $1,000–$3,000 by replacing car trips with active transportation
 
 ---
 
@@ -80,7 +78,7 @@ The commute connects **45 Oak Avenue** in the residential north (80304) to **180
 - Always use crosswalks and obey pedestrian signals
 
 ### 🚲 Biking Tips
-- Boulder has over **100 miles** of multi-use trails and bike lanes
+- Boulder has over 100 miles of multi-use trails and bike lanes
 - The **Boulder Creek Path** is a popular cycling route
 - Use **Canyon Boulevard** for a protected bike lane connection between north and south Boulder
 - Lock your bike with a U-lock and remove accessories when parking
