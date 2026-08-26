@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Boulder Green Commute Route Map&#8212;45 Oak Ave to 1800 Broadway</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #f0f4f0;
+      color: #2c3e2d;
+    }
+    header {
+      background: linear-gradient(135deg, #2d6a4f, #52b788);
+      color: #fff;
+      padding: 1.5rem 2rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.6rem; font-weight: 600; }
+    header p { margin-top: 0.4rem; opacity: 0.9; font-size: 0.95rem; }
+
+    .info-panel {
+      background: #fff;
+      border-bottom: 1px solid #d8e2dc;
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+    .info-card {
+      background: #f8faf9;
+      border: 1px solid #ccd5cf;
+      border-radius: 8px;
+      padding: 0.8rem 1.2rem;
+      min-width: 160px;
+      text-align: center;
+    }
+    .info-card .label { font-size: 0.75rem; text-transform: uppercase; color: #6b8070; letter-spacing: 0.05em; }
+    .info-card .value { font-size: 1.25rem; font-weight: 700; color: #2d6a4f; margin-top: 0.2rem; }
+    .info-card .unit { font-size: 0.8rem; color: #7a8a7e; }
+
+    #map { height: 520px; width: 100%; }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.8rem;
+      color: #6b8070;
+    }
+    footer a { color: #2d6a4f; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    .toggle-bar {
+      display: flex;
+      justify-content: center;
+      gap: 0.6rem;
+      padding: 0.6rem;
+      background: #fff;
+      border-bottom: 1px solid #d8e2dc;
+    }
+    .toggle-bar button {
+      padding: 0.4rem 1rem;
+      border: 2px solid #52b788;
+      border-radius: 20px;
+      background: #fff;
+      color: #2d6a4f;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .toggle-bar button.active { background: #2d6a4f; color: #fff; }
+    .toggle-bar button:hover:not(.active) { background: #f0f9f3; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Boulder Green Commute Route</h1>
+  <p>45 Oak Avenue &#8594; 1800 Broadway, Boulder, CO</p>
+</header>
+
+<div class="info-panel">
+  <div class="info-card">
+    <div class="label">Total Distance</div>
+    <div class="value">4.03 <span class="unit">km</span></div>
+  </div>
+  <div class="info-card">
+    <div class="label">Walking Time</div>
+    <div class="value">~48&#8211;50 <span class="unit">min</span></div>
+  </div>
+  <div class="info-card">
+    <div class="label">Biking Time</div>
+    <div class="value">~10&#8211;15 <span class="unit">min</span></div>
+  </div>
+  <div class="info-card">
+    <div class="label">CO&#8322; Avoided vs. Car</div>
+    <div class="value">~0.89 <span class="unit">kg/trip</span></div>
+  </div>
+  <div class="info-card">
+    <div class="label">Annual Savings vs. Car</div>
+    <div class="value">~$4,500&#8211;7,900</div>
+  </div>
+</div>
+
+<div class="toggle-bar">
+  <button id="btn-walk" class="active" onclick="setRoute('walk')">Walking</button>
+  <button id="btn-bike" onclick="setRoute('bike')">Biking</button>
+</div>
+
+<div id="map"></div>
+
+<footer>
+  Route data: <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors &#8212;
+  Routing: <a href="https://router.project-osrm.org/" target="_blank">OSRM</a> &#8212;
+  <a href="https://github.com/zhub9006/boulder-green-commute-guide" target="_blank">github:zhub9006/boulder-green-commute-guide</a>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+        crossorigin=""></script>
+<script>
+// Full route coordinates from OSRM &#8212; both walk and bike use the same fundamental corridor for this route
+const fullRouteCoords = [
+  [40.0448805,-105.2738879],  // Origin: 45 Oak Avenue
+  [40.0448810,-105.2738180],
+  [40.0448840,-105.2736250],
+  [40.0448820,-105.2732780],
+  [40.0448810,-105.2731460],
+  [40.0448790,-105.2727560],
+  [40.0436820,-105.2727520],
+  [40.0436060,-105.2727520],
+  [40.0434040,-105.2727550],
+  [40.0425340,-105.2727490],
+  [40.0415800,-105.2727530],
+  [40.0412210,-105.2727500],
+  [40.0400990,-105.2727410],
+  [40.0398790,-105.2727420],
+  [40.0390610,-105.2727350],
+  [40.0378780,-105.2727090],
+  [40.0372090,-105.2727070],
+  [40.0368160,-105.2727020],
+  [40.0364100,-105.2726990],
+  [40.0362880,-105.2726950],
+  [40.0360590,-105.2726910],
+  [40.0346530,-105.2726910],
+  [40.0340620,-105.2726910],
+  [40.0339030,-105.2726870],
+  [40.0331550,-105.2726810],
+  [40.0328500,-105.2726740],
+  [40.0327250,-105.2726720],
+  [40.0324410,-105.2726670],
+  [40.0319340,-105.2726580],
+  [40.0316090,-105.2726600],
+  [40.0313250,-105.2726600],
+  [40.0311780,-105.2726600],
+  [40.0307410,-105.2726600],
+  [40.0300670,-105.2726540],
+  [40.0291860,-105.2726440],
+  [40.0279990,-105.2726300],
+  [40.0268450,-105.2726290],
+  [40.0267550,-105.2726270],
+  [40.0266850,-105.2726170],
+  [40.0262500,-105.2726180],
+  [40.0260640,-105.2726200],
+  [40.0257550,-105.2725800],
+  [40.0255920,-105.2725230],
+  [40.0255170,-105.2724080],
+  [40.0254630,-105.2723160],
+  [40.0253490,-105.2721240],
+  [40.0250680,-105.2716480],
+  [40.0249610,-105.2715120],
+  [40.0249070,-105.2714560],
+  [40.0247560,-105.2713290],
+  [40.0245730,-105.2712280],
+  [40.0244940,-105.2712010],
+  [40.0240260,-105.2710390],
+  [40.0235420,-105.2708710],
+  [40.0230360,-105.2706970],
+  [40.0225500,-105.2705280],
+  [40.0221390,-105.2703860],
+  [40.0220340,-105.2703510],
+  [40.0219390,-105.2703190],
+  [40.0215360,-105.2701850],
+  [40.0215160,-105.2701780],
+  [40.0211300,-105.2700500],
+  [40.0210300,-105.2700170],
+  [40.0209370,-105.2699840],
+  [40.0205340,-105.2698390],
+  [40.0201050,-105.2696930],
+  [40.0200420,-105.2696710],
+  [40.0200140,-105.2696620],
+  [40.0199880,-105.2697900],
+  [40.0199420,-105.2700140],
+  [40.0198710,-105.2703660],
+  [40.0198050,-105.2706850],
+  [40.0197820,-105.2707940],
+  [40.0197540,-105.2709290],
+  [40.0197130,-105.2711220],
+  [40.0195790,-105.2717510],
+  [40.0195240,-105.2720020],
+  [40.0195020,-105.2721050],
+  [40.0194250,-105.2720790],
+  [40.0193200,-105.2720430],
+  [40.0190100,-105.2719280],
+  [40.0186070,-105.2717800],
+  [40.0185000,-105.2717400],
+  [40.0184200,-105.2717030],
+  [40.0183560,-105.2716730],
+  [40.0181830,-105.2716220],
+  [40.0177980,-105.2716220],
+  [40.0173130,-105.2716280],
+  [40.0173160,-105.2720310],
+  [40.0173140,-105.2722790],
+  [40.0173080,-105.2724170],
+  [40.0173010,-105.2725390],
+  [40.0172970,-105.2725970],
+  [40.0172950,-105.2726310],
+  [40.0172930,-105.2726490],
+  [40.0172750,-105.2727700],
+  [40.0172500,-105.2728870],
+  [40.0172460,-105.2729050],
+  [40.0171360,-105.2734360],
+  [40.0171160,-105.2735330],
+  [40.0170110,-105.2740700],
+  [40.0169850,-105.2741890],
+  [40.0168280,-105.2749150],
+  [40.0167620,-105.2752290],
+  [40.0167540,-105.2752690],
+  [40.0167300,-105.2753820],
+  [40.0167000,-105.2755250],
+  [40.0166160,-105.2759320],
+  [40.0165810,-105.2761000],
+  [40.0165460,-105.2762690],
+  [40.0165330,-105.2763300],
+  [40.0164920,-105.2765290],
+  [40.0164860,-105.2765500],
+  [40.0164830,-105.2765650],
+  [40.0164790,-105.2765850],
+  [40.0164560,-105.2766990],
+  [40.0164390,-105.2768090],
+  [40.0164370,-105.2768240],
+  [40.0164330,-105.2768440],
+  [40.0162210,-105.2778380],
+  [40.0162130,-105.2778760],
+  [40.0161880,-105.2779950],
+  [40.0161790,-105.2780460],
+  [40.0161650,-105.2781260],
+  [40.0160780,-105.2785560],
+  [40.0160160,-105.2788660]   // Destination: 1800 Broadway
+];
+
+// Waypoints for markers
+const waypoints = [
+  { lat: 40.0448805, lng: -105.2738879, title: "Start: 45 Oak Avenue",         desc: "45 Oak Avenue, Boulder, CO 80304" },
+  { lat: 40.0340620, lng: -105.2726910, title: "Midpoint (19th & 20th)",         desc: "Near 19th and 20th St junction" },
+  { lat: 40.0260640, lng: -105.2725800, title: "Pearl Street Mall",              desc: "Pedestrian mall &#8212; walk your bike through!" },
+  { lat: 40.0195020, lng: -105.2721050, title: "CU Campus Area",                 desc: "University of Colorado Boulder" },
+  { lat: 40.0160160, lng: -105.2788660, title: "Finish: 1800 Broadway",          desc: "1800 Broadway, Boulder, CO 80302" }
+];
+
+const walkStyle  = { color: '#e76f51', weight: 5, opacity: 0.9, lineCap: 'round', lineJoin: 'round' };
+const bikeStyle  = { color: '#2a9d8f', weight: 5, opacity: 0.9, dashArray: '12, 8', lineCap: 'round', lineJoin: 'round' };
+
+const map = L.map('map').setView([40.0305, -105.2740], 15);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+let walkLayer = L.polyline(fullRouteCoords, walkStyle).addTo(map);
+let bikeLayer = L.polyline(fullRouteCoords, bikeStyle); // initially NOT on map
+
+// Waypoint markers
+const wpIcons = [
+  L.divIcon({ className: 'wp-marker',
+    html: '<div style="background:#fff;border:2px solid #2d6a4f;border-radius:6px;padding:2px 6px;font-size:11px;font-weight:600;color:#2d6a4f;white-space:nowrap;box-shadow:0 2px 4px rgba(0,0,0,0.2);">HOME</div>',
+    iconSize: [50, 26], iconAnchor: [25, 13] }),
+  L.divIcon({ className: 'wp-marker',
+    html: '<div style="background:#fff;border:2px solid #e76f51;border-radius:6px;padding:2px 6px;font-size:11px;font-weight:600;color:#e76f51;white-space:nowrap;box-shadow:0 2px 4px rgba(0,0,0,0.2);">MID</div>',
+    iconSize: [40, 26], iconAnchor: [20, 13] }),
+  L.divIcon({ className: 'wp-marker',
+    html: '<div style="background:#fff;border:2px solid #e9c46a;border-radius:6px;padding:2px 6px;font-size:11px;font-weight:600;color:#e9c46a;white-space:nowrap;box-shadow:0 2px 4px rgba(0,0,0,0.2);">CAFE</div>',
+    iconSize: [40, 26], iconAnchor: [20, 13] }),
+  L.divIcon({ className: 'wp-marker',
+    html: '<div style="background:#fff;border:2px solid #264653;border-radius:6px;padding:2px 6px;font-size:11px;font-weight:600;color:#264653;white-space:nowrap;box-shadow:0 2px 4px rgba(0,0,0,0.2);">CU</div>',
+    iconSize: [40, 26], iconAnchor: [20, 13] }),
+  L.divIcon({ className: 'wp-marker',
+    html: '<div style="background:#fff;border:2px solid #2d6a4f;border-radius:6px;padding:2px 6px;font-size:11px;font-weight:600;color:#2d6a4f;white-space:nowrap;box-shadow:0 2px 4px rgba(0,0,0,0.2);">WORK</div>',
+    iconSize: [40, 26], iconAnchor: [20, 13] })
+];
+
+waypoints.forEach((wp, i) => {
+  L.marker([wp.lat, wp.lng], { icon: wpIcons[i] })
+   .addTo(map)
+   .bindPopup('<b>' + wp.title + '</b><br>' + wp.desc);
+});
+
+function setRoute(mode) {
+  if (mode === 'walk') {
+    map.removeLayer(bikeLayer);
+    walkLayer.addTo(map);
+    document.getElementById('btn-walk').classList.add('active');
+    document.getElementById('btn-bike').classList.remove('active');
+  } else {
+    map.removeLayer(walkLayer);
+    bikeLayer.addTo(map);
+    document.getElementById('btn-bike').classList.add('active');
+    document.getElementById('btn-walk').classList.remove('active');
+  }
+}
+
+map.fitBounds(walkLayer.getBounds().pad(0.1));
+</script>
+</body>
+</html>
