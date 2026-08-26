@@ -1,104 +1,74 @@
-# 🌱 Sustainability Impact: Your Green Commute
+## 🌍 Your Green Commute Sustainability Impact
+
+### CO2 Emissions per Trip
+| Mode | CO2 (kg) | CO2 (lbs) |
+|------|----------|------------|
+| Driving | 0.8 | 1.76 |
+| Walking | 0 | 0 |
+| Biking | 0 | 0 |
+
+### Annual CO2 Impact (220 work days, round trip)
+| Mode | Annual CO2 (kg) | Annual CO2 (lbs) |
+|------|-----------------|-------------------|
+| Driving | 176 | 388 |
+| Walking | 0 | 0 |
+| Biking | 0 | 0 |
+
+**Impact:** Switching from driving to biking/walking saves **176 kg (388 lbs) of CO2 per year** — equivalent to:
+- Planting **8 trees** (each absorbs ~22 kg CO2/year)
+- Taking **a small car off the road for 4,300 miles**
+- Powering your home with clean electricity for **3 weeks**
 
 ---
 
-## Your Personal Impact
+## 💰 Financial Impact
 
-**Your Commute:** 45 Oak Avenue → 1800 Broadway, Boulder, CO  
-**Distance:** 4.03 km each way (8.06 km round trip)  
-**Workdays per year:** ~250 (5 days/week, 50 weeks)
+### Cost per Trip
+| Mode | Direct Cost | Hidden Costs | Total per Trip |
+|------|-------------|--------------|----------------|
+| Driving | $2.00 (gas) | $1.00-$2.50 (parking, wear) | $3.00-$4.50 |
+| Walking | $0 | Minimal (shoes) | ~$0 |
+| Biking | $0.02 (maintenance) | $0.03 (lubing, charging) | ~$0.05 |
 
----
+### Annual Cost (220 work days, round trip = 440 trips)
+| Mode | Annual Cost |
+|------|-------------|
+| Driving | $1,320-$1,980 |
+| Walking | ~$0 |
+| Biking | ~$22 |
 
-## Annual Impact by Mode
-
-### 🚶 Walking to Work
-| Metric | Value |
-|--------|-------|
-| CO₂ per trip | 0 kg |
-| Calories burned (daily) | ~200–250 kcal |
-| Annual calories burned | ~50,000–62,500 kcal |
-| Annual CO₂ saved vs. driving | ~225 kg |
-| Annual cost | $0 |
-| Equivalent trees planted | ~10 seedlings for 10 years |
-
-### 🚲 Biking to Work
-| Metric | Value |
-|--------|-------|
-| CO₂ per trip | 0 kg |
-| Calories burned (daily) | ~80–120 kcal |
-| Annual calories burned | ~20,000–30,000 kcal |
-| Annual CO₂ saved vs. driving | ~225 kg |
-| Annual cost | ~$5 (electricity for e-bike) |
-| Equivalent trees planted | ~10 seedlings for 10 years |
-
-### 🚗 Driving to Work (Baseline)
-| Metric | Value |
-|--------|-------|
-| CO₂ per trip | ~0.9 kg |
-| Annual CO₂ emissions | ~225 kg |
-| Annual cost | ~$375–500 (fuel + parking) |
-| Calorie benefit | 0 kcal |
+**Savings vs. Driving:**
+- **Walking:** Save $1,320-$1,980/year
+- **Biking:** Save $1,300-$1,960/year
 
 ---
 
-## 🌍 Broader Community Impact
+## 🏋️ Health Impact
 
-If **all 5,000** daily commuters in central Boulder shifted just **one trip per week** from driving to biking or walking:
+### Calories Burned per Trip
+| Mode | Duration | Calories (kcal) | Weekly Total (5 days) |
+|------|----------|-----------------|------------------------|
+| Walking (48 min) | 48 min | ~130 | 650 kcal |
+| Biking (16 min) | 16 min | ~80 | 400 kcal |
+| Driving | ~14 min | 0 | 0 kcal |
 
-| Metric | Impact |
-|--------|--------|
-| CO₂ saved per week | ~4,500 kg (4.5 metric tons) |
-| CO₂ saved per year | ~234,000 kg (234 metric tons) |
-| Fuel saved per year | ~100,000 liters |
-| Cars removed from road per day | ~1,000 |
-
-### Air Quality Improvement
-- Fewer tailpipe emissions means lower NOₓ, PM2.5, and ozone precursors
-- Boulder already meets federal air quality standards — green commuting helps keep it that way!
-
-### Health Cost Savings
-- Active commuters have lower rates of heart disease, diabetes, and obesity
-- Estimated healthcare savings per active commuter: ~$500–$1,000/year
-- Community-wide: billions in national healthcare savings if adopted broadly
+### CDC Recommendation
+- **150 minutes** of moderate-intensity aerobic activity per week
+- Walking this route 5 days/week = **480 min/week** — far exceeding guidelines!
 
 ---
 
-## 📈 Monthly Tracking Template
+## 🏔️ Boulder-Specific Environmental Context
 
-| Month | Mode | Days Commuted | CO₂ Saved | Money Saved | Calories Burned |
-|-------|------|---------------|-----------|-------------|-----------------|
-| Jan | Bike | | | | |
-| Feb | Bike | | | | |
-| Mar | Walk | | | | |
-| ... | ... | | | | |
-| **Year Total** | | | | | |
+Boulder sits in a **mountain-valley airshed** — a unique geographic feature that traps pollutants, especially in winter. This makes every car-free trip particularly valuable:
 
----
+- **Winter inversions** trap fine particulate matter (PM2.5) in the Boulder Valley
+- **Ozone season** (summer) is worsened by vehicle emissions in the mountain backdrop
+- **Wildlife habitat** along Boulder's open space trails benefits from reduced traffic
+- **Boulder Creek** water quality improves with less urban runoff from cars
 
-## 🏆 Boulder Green Commute Champions
-
-### Boulder's Commitment to Sustainability
-- **#1 Bike City** in Colorado (PeopleForBikes)
-- **Platinum Bicycle Friendly Community** (League of American Bicyclists)
-- **Forty percent** of Boulder trips are made by bike, foot, or transit (National Household Travel Survey)
-- **Boulder Creek Path** — 18-mile paved path along Boulder Creek, used daily by thousands
-
-### Key Infrastructure
-- **Boulder Transit Center:** Bus hub with RTD connections
-- **BCycle:** 40+ bike share stations across Boulder
-- **EcoPass:** RTD transit pass included with many Boulder housing permits
-- **Bike corrals:** Bike parking at downtown businesses and transit stops
+**Every walk or bike commute is an act of stewardship for Boulder's extraordinary natural environment.** 🌿
 
 ---
 
-## 🤝 Join the Movement
-
-- **Bike to Work Day:** Every May, thousands of Boulder residents bike to work
-- **World Car-Free Day:** September 22 — try a car-free day!
-- **Boulder Walking School Bus:** Volunteer to walk kids to school
-- **Community Cycling:** Join a bike train or cycling group
-
----
-
-*Every green commute counts. Thank you for choosing sidewalks, bike lanes, and trails over cars!* 🚲🌿
+*Sources: EPA emission factors, CDC physical activity guidelines, OpenStreetMap routing data. Last updated: July 2026*
