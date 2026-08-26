@@ -1,70 +1,97 @@
-# 📊 Walk vs. Bike Comparison: 45 Oak Avenue → 1800 Broadway
+# 🚶 vs 🚲 Walking vs. Biking: Full Comparison
 
-## Head-to-Head Comparison
-
-| Factor | 🚶 Walking | 🚴 Biking | 🚗 Driving |
-|---|---|---|---|
-| **Time** | 48 min | 16 min | 8–15 min |
-| **Distance** | 4.03 km | 4.03 km | 4.03 km |
-| **Calories** | ~250 kcal | ~120 kcal | 0 kcal |
-| **CO₂ Emissions** | 0 kg | 0 kg | ~1.2 kg |
-| **Cost** | Free | Free | ~$3–5/parking+fuel |
-| **Fitness** | Moderate (cardio) | Low (recreational) | None |
-| **Gear Required** | Shoes + layers | Bike + helmet + lock | Car + license |
-| **Weather Exposure** | High (rain/cold) | Moderate (can gear up) | Low |
-| **Capacity** | Bag only | Backpack/pannier | Trunk space |
-| **Fun Factor** | 🌳 Scenic walk | ⚡ Fast + efficient | 😴 Traffic stress |
-
-## Speed Analysis
-
-| Segment | Walk Time | Bike Time | Time Saved by Biking |
-|---|---|---|---|
-| Oak Avenue (97 m) | ~1 min | ~14 sec | ~46 sec |
-| 19th Street (2,157 m) | ~3 min 29 sec | ~3 min 29 sec | ~0 sec |
-| 20th St. connector (106 m) | ~13 sec | ~12 sec | ~1 sec |
-| 20th Street (566 m) | ~1 min 20 sec | ~1 min 9 sec | ~11 sec |
-| Pearl Street (216 m) | ~26 sec | ~26 sec | ~0 sec |
-| 18th Street (249 m) | ~39 sec | ~34 sec | ~5 sec |
-| Canyon Boulevard (637 m) | ~1 min 9 sec | ~1 min 20 sec | ~-11 sec* |
-| **TOTAL** | **~48 min** | **~16 min** | **~32 min** |
-
-*Canyon Blvd takes slightly longer by bike due to narrower lanes and traffic awareness — a safety tradeoff!
-
-## When to Choose Walking
-
-✅ You have 45+ minutes and want exercise
-✅ Weather is nice — it's a beautiful route!
-✅ You want to explore Pearl Street Mall (dismount and browse)
-✅ You're carrying minimal items (backpack only)
-✅ You prefer zero equipment requirements
-✅ Morning or evening for cooler temperatures
-
-## When to Choose Biking
-
-✅ You're short on time (16 min vs 48 min)
-✅ You want to arrive less sweaty (bring a change of clothes at office)
-✅ You want to maximize health benefit in minimal time
-✅ You're carrying a backpack or light cargo (panniers work great)
-✅ Winter months when walking is uncomfortable
-✅ You don't own a bike — use **Boulder B-cycle** ($12/month)
-
-## Combined Strategy
-
-Many Boulder commuters use a **hybrid approach**:
-- **Bike 2–3 days/week** → maximum time savings, consistent exercise
-- **Walk 1–2 days/week** → enjoy the neighborhood, extra step count
-- **RTD bus 1–2 days/week** → rest your legs, read/work on the bus
-- **Total annual savings vs. driving**: ~$1,500+ in fuel/parking + ~300 kg CO₂ avoided
-
-## Route Difficulty Rating
-
-| Factor | Walking | Biking |
-|---|---|---|
-| **Physical difficulty** | ⭐⭐⭐ Moderate (48 min, ~250 cal) | ⭐⭐ Easy (16 min, ~120 cal) |
-| **Mental difficulty** | ⭐⭐ Low (scenic, no navigation stress) | ⭐⭐⭐ Moderate (Canyon Blvd traffic) |
-| **Skill required** | ⭐ Basic (walking) | ⭐⭐ Urban cycling competency |
-| **Weather tolerance** | ⭐⭐ Exposed (rain = miserable) | ⭐⭐⭐ Can layer up |
+**Route:** 45 Oak Avenue -> 1800 Broadway, Boulder, CO
+**Distance:** 4.03 km (2.5 miles)
+**Coordinates:** Start 40.0448805, -105.2738879 -> End 40.0163281, -105.2789726
 
 ---
 
-*Analysis based on OpenStreetMap OSRM routing data, July 2026.*
+## Side-by-Side Summary
+
+| Factor | 🚶 Walking | 🚲 Biking |
+|--------|-----------|----------|
+| **Distance** | 4.03 km (2.5 mi) | 4.03 km (2.5 mi) |
+| **Estimated Duration** | ~48 minutes | ~16 minutes |
+| **Average Speed** | ~5.0 km/h (3.1 mph) | ~15.1 km/h (9.4 mph) |
+| **Calories Burned** | ~130 kcal per trip | ~80 kcal per trip |
+| **Cost per Trip** | $0.00 | ~$0.05 |
+| **Annual Cost (220 days)** | $0 | ~$11 |
+| **CO₂ per Trip** | 0 kg | 0 kg |
+| **CO₂ per Year** | 0 kg | 0 kg |
+| **Parking Needed** | No | No |
+| **Weather Dependent** | High (rain/snow) | Medium (rain/snow/cold) |
+| **Stress Level** | Low | Medium |
+| **Health Benefit** | High (cardio, bones) | High (cardio, strength) |
+| **Time vs. Car** | +33 min slower | +4 min faster (no parking) |
+| **Best For** | Exercise, relaxation, short trips | Speed, fitness, moderate distances |
+
+---
+
+## Route Breakdown
+
+### 🚶 Walking Route
+
+1. **Oak Avenue** (97 m, ~2 min) — Low-traffic residential street, gentle start
+2. **19th Street** south (2.16 km, ~7-8 min) — Main N-S corridor, has bike lanes and RTD bus stops
+3. **20th St.** connector (106 m, ~1 min) — Brief turn between 19th and 20th
+4. **20th Street** south (566 m, ~2 min) — Quieter residential section
+5. **Pearl Street** (216 m, ~1 min) — Historic downtown, pedestrian-heavy, slow down
+6. **18th Street** (249 m, ~1 min) — Short connector through downtown grid
+7. **Canyon Boulevard** (637 m, ~2 min) — Final approach; connects to Boulder Creek Path
+8. **Arrive at 1800 Broadway** 🎉
+
+### 🚲 Biking Route
+
+1. **Oak Avenue** (97 m, ~15 sec) — Residential, low traffic
+2. **19th Street** south (2.16 km, ~5-6 min) — Bike-friendly corridor with dedicated lanes
+3. **20th St.** connector (106 m, ~12 sec) — Quick turn
+4. **20th Street** south (566 m, ~1 min) — Bike lane available, quieter section
+5. **Pearl Street** (216 m, ~25 sec) — Downtown, watch for pedestrians
+6. **18th Street** (249 m, ~1 min) — Urban grid, moderate traffic
+7. **Canyon Boulevard** (637 m, ~1 min) — ⭐ **Dedicated bike lane** — enjoy the ride!
+8. **Arrive at 1800 Broadway** 🎉
+
+---
+
+## Calories Burned Estimate
+
+Based on MET values for adults (155 lbs / 70 kg):
+
+| Activity | MET Value | Duration | Calories |
+|----------|-----------|----------|----------|
+| Walking (moderate, 3.5 mph) | 3.5 | 48 min | ~130 kcal |
+| Biking (leisure, 10-12 mph) | 4.0 | 16 min | ~80 kcal |
+| Biking (moderate, 12-14 mph) | 8.0 | 16 min | ~160 kcal |
+
+---
+
+## CO₂ Emissions Savings
+
+| Scenario | Per Trip | Annual (220 days) |
+|----------|----------|--------------------|
+| Driving (avg car) | 0.8 kg CO₂ | 176 kg CO₂ |
+| Walking | 0 kg CO₂ | 0 kg CO₂ |
+| Biking | 0 kg CO₂ | 0 kg CO₂ |
+| **Walking vs. Driving** | **Saves 0.8 kg** | **Saves 176 kg** |
+| **Biking vs. Driving** | **Saves 0.8 kg** | **Saves 176 kg** |
+
+EPA estimate: avg passenger vehicle emits ~404 g CO₂/mile. 2.5 mi x 0.404 = ~0.8 kg per trip by car.
+
+---
+
+## Decision Guide
+
+| If you... | Choose... | Why |
+|---------|---------|-----|
+| Want maximum exercise | 🚶 Walking | 3x more calories, 3x the duration |
+| Need to arrive quickly | 🚲 Biking | 3x faster than walking |
+| Have limited mobility | 🚶 Walking | Gentle, accessible |
+| Want zero cost | 🚶 Walking | Truly $0 (no bike maintenance) |
+| Have a longer commute | 🚲 Biking | Time-effective for 5-15 km trips |
+| Hate sweat at work | 🚲 Biking (e-bike) | Arrive fresh, or pack clothes |
+| Want to combine with transit | 🚶 Walk to bus stop | RTD buses have bike racks |
+
+---
+
+*Data: OpenStreetMap routing via OSRM | Real-world speeds: 5 km/h walking, 15 km/h biking*
+*Updated: July 2026*
