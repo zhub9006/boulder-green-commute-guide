@@ -1,78 +1,45 @@
-# 🚶 Walking Route: 45 Oak Avenue → 1800 Broadway
+# Walking Route: 45 Oak Avenue to 1800 Broadway
 
-## Route Summary
+## Overview
 
-| Detail | Value |
-|--------|-------|
-| **Mode** | 🚶 Walking |
-| **Total Distance** | 4.03 km (2.5 miles) |
-| **Estimated Time** | ~48–50 minutes |
-| **Avg. Pace** | ~4.8 km/h (3.0 mph) |
-| **Calories Burned** | ~280–340 kcal |
-| **Difficulty** | Easy (flat terrain) |
-| **Best Time of Day** | Early morning or late afternoon (shade on 19th St. corridor) |
+- **Distance:** 4.03 km (2.5 miles)
+- **Estimated Time:** ~48 minutes at 5 km/h
+- **Difficulty:** Easy - flat, well-maintained sidewalks
+- **Best Season:** Year-round (fall and spring are ideal in Boulder)
 
----
+## Turn-by-Turn Directions
 
-## Step-by-Step Walking Directions
+1. **Start: 45 Oak Avenue** - Begin heading south on Oak Avenue (97 m)
+2. **Oak Ave to 19th St** - Turn onto 19th Street heading south (2,157 m)
+   - This is the longest segment - enjoy the walk through central Boulder
+   - Wide sidewalks with plenty of shops and cafes along the way
+3. **19th St to 20th St** - Brief turn onto 20th Street (106 m)
+4. **20th Street southbound** - Continue south on 20th Street (566 m)
+5. **20th St to Pearl St** - Turn east onto Pearl Street (216 m)
+   - You will pass near the Pearl Street Mall, a vibrant pedestrian zone
+6. **Pearl St to 18th St** - Turn onto 18th Street (249 m)
+7. **18th St to Canyon Blvd** - Continue south on Canyon Boulevard (637 m)
+8. **Arrive: 1800 Broadway** - Your destination on the right
 
-### 1. Start on Oak Avenue → 19th Street
-- **Distance:** 97 m
-- **Instructions:** Head south from 45 Oak Avenue onto Oak Avenue. Turn left (east) onto 19th Street.
-- **Notes:** Quiet residential street — great way to start the day.
+## Walking Tips
 
-### 2. South on 19th Street
-- **Distance:** 2.16 km (1.34 miles)
-- **Instructions:** Continue southbound on 19th Street.
-- **Notes:** This is the longest segment. 19th Street has some foot traffic and is well-maintained. Watch for crosswalks near the University of Colorado area.
+- **Beat the heat** - Start early in summer; Boulder afternoon sun is intense
+- **Rain plan** - Good rain gutters on 19th Street, mostly sheltered by buildings downtown
+- **Layers** - Boulder weather shifts quickly; a light jacket is smart even in summer
+- **Navigation** - The route is straightforward; 19th Street is impossible to miss
+- **Safety** - Well-lit, well-trafficked route; safe at all reasonable hours
 
-### 3. Turn onto 20th St.
-- **Distance:** 106 m
-- **Instructions:** Brief road transition — turn onto 20th Street.
-- **Notes:** Short connector.
+## Nearby Points of Interest Along the Route
 
-### 4. Continue South on 20th Street
-- **Distance:** 566 m
-- **Instructions:** Continue south on 20th Street toward downtown Boulder.
-- **Notes:** Approaching the more urban core. Increased pedestrian activity and amenities along this stretch.
+- Pearl Street Mall (free, open-air pedestrian shopping area)
+- Boulder Creek (paralleling the route - lovely for a detour)
+- Various cafes on 19th Street for a mid-walk coffee
 
-### 5. Cross Pearl Street
-- **Distance:** 216 m
-- **Instructions:** Cross or follow Pearl Street area.
-- **Notes:** Pearl Street Mall is nearby — you'll see plenty of retail and dining options. This is a great area for a coffee stop!
+## Annual Walking Stats (251 workdays/year)
 
-### 6. South on 18th Street
-- **Distance:** 249 m
-- **Instructions:** Head south on 18th Street.
-- **Notes:** Another short connector street.
-
-### 7. Arrive via Canyon Boulevard 🏁
-- **Distance:** 637 m
-- **Instructions:** Continue on Canyon Boulevard to reach 1800 Broadway.
-- **Notes:** Canyon Boulevard is a major artery with good pedestrian infrastructure. Your office is just ahead!
-
----
-
-## 🌡️ Seasonal Tips for Walking
-
-| Season | Tip |
-|--------|-----|
-| ❄️ **Winter** | Boulder sees ~300" of snow! Use sidewalks after clearing; consider microspikes for icy days. |
-| 🌸 **Spring** | Beautiful walking weather April–May. Trail conditions can be muddy — stick to paved routes. |
-| ☀️ **Summer** | Hot and dry! Walk early morning or after 5 PM. Bring water and sunscreen. |
-| 🍂 **Fall** | September–October are ideal. Mild temps, clear skies, perfect walking conditions. |
-
----
-
-## 📍 Key Landmarks Along the Route
-
-- **University of Colorado Boulder** — Campus area near 19th St.
-- **Pearl Street Mall** — Pedestrian-friendly shopping/dining district
-- **Boulder Creek Path** — Nearby greenway for a more scenic alternative
-
----
-
-## 🔗 Route on Map
-
-View the full walking route on OpenStreetMap:
-[Open on OSM](https://www.openstreetmap.org/directions?from=40.0448805,-105.2738879&to=40.0163281,-105.2789726&mode=foot)
+| Metric | Value |
+|---|---|
+| Total Distance | ~1,012 km (~629 miles) |
+| Total Time | ~4,017 hours (~167 days) |
+| Calories Burned | ~70,000 kcal |
+| CO2 Saved | ~251 kg (~553 lbs) |
