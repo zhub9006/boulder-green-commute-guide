@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "source": "OpenStreetMap via OSRM (Open Source Routing Machine)",
+    "generated": "2025-01-01",
+    "licence": "Open Data Commons Open Database License (ODbL) 1.0",
+    "attribution": "© OpenStreetMap contributors"
+  },
+  "route": {
+    "name": "45 Oak Avenue → 1800 Broadway, Boulder, CO",
+    "distance_meters": 4026.5,
+    "distance_km": 4.03,
+    "distance_miles": 2.50
+  },
+  "waypoints": [
+    {
+      "name": "Oak Avenue (Origin)",
+      "address": "45 Oak Avenue, Boulder, CO 80304",
+      "coordinates": [-105.273888, 40.04488]
+    },
+    {
+      "name": "19th & 20th Street Junction (Midpoint)",
+      "address": "19th Street, Boulder, CO",
+      "coordinates": [-105.27266, 40.034062]
+    },
+    {
+      "name": "Pearl Street Crossing",
+      "address": "Pearl Street Mall, Boulder, CO 80302",
+      "coordinates": [-105.27180, 40.026064]
+    },
+    {
+      "name": "18th Street Junction",
+      "address": "18th Street, Boulder, CO 80302",
+      "coordinates": [-105.27165, 40.018356]
+    },
+    {
+      "name": "Canyon Boulevard (Terminus)",
+      "address": "1800 Broadway, Boulder, CO 80302",
+      "coordinates": [-105.278866, 40.016016]
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "street": "Oak Avenue",
+      "mode": ["walk", "bike"],
+      "distance_m": 96.6,
+      "duration_sec": 15.6,
+      "start_coordinates": [-105.273888, 40.04488],
+      "end_coordinates": [-105.272742, 40.043682],
+      "description": "Residential start on Oak Ave, southbound"
+    },
+    {
+      "id": 2,
+      "street": "19th Street",
+      "mode": ["walk", "bike"],
+      "distance_m": 2156.5,
+      "duration_sec": 208.6,
+      "start_coordinates": [-105.272742, 40.043682],
+      "end_coordinates": [-105.27266, 40.034062],
+      "description": "Long straight stretch southbound; sidewalk/bike lane infrastructure present"
+    },
+    {
+      "id": 3,
+      "street": "20th St.",
+      "mode": ["walk", "bike"],
+      "distance_m": 106.1,
+      "duration_sec": 11.9,
+      "start_coordinates": [-105.27266, 40.034062],
+      "end_coordinates": [-105.27266, 40.033903],
+      "description": "Brief transition jog near 20th St commercial area"
+    },
+    {
+      "id": 4,
+      "street": "20th Street",
+      "mode": ["walk", "bike"],
+      "distance_m": 565.6,
+      "duration_sec": 69.2,
+      "start_coordinates": [-105.27266, 40.033903],
+      "end_coordinates": [-105.27174, 40.025463],
+      "description": "Downtown-adjacent stretch; high pedestrian density near Pearl St"
+    },
+    {
+      "id": 5,
+      "street": "Pearl Street",
+      "mode": ["walk", "bike"],
+      "distance_m": 216.2,
+      "duration_sec": 25.5,
+      "start_coordinates": [-105.27174, 40.025463],
+      "end_coordinates": [-105.272002, 40.019524],
+      "description": "Cross Pearl Street Mall (pedestrian zone — bike must be walked through), vibrant café and shop district"
+    },
+    {
+      "id": 6,
+      "street": "18th Street",
+      "mode": ["walk", "bike"],
+      "distance_m": 248.8,
+      "duration_sec": 36.9,
+      "start_coordinates": [-105.272002, 40.019524],
+      "end_coordinates": [-105.271703, 40.018356],
+      "description": "CU campus adjacent. Mixed pedestrian and cyclist traffic. University of Colorado Boulder proximity."
+    },
+    {
+      "id": 7,
+      "street": "Canyon Boulevard",
+      "mode": ["walk", "bike"],
+      "distance_m": 636.6,
+      "duration_sec": 58.5,
+      "start_coordinates": [-105.271703, 40.018356],
+      "end_coordinates": [-105.278866, 40.016016],
+      "description": "Final stretch; Canyon Blvd wide shoulder; close to CU Boulder campus. Flatirons visible to the west. Arrive at 1800 Broadway."
+    }
+  ]
+}
