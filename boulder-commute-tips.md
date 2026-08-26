@@ -1,29 +1,36 @@
 # Boulder Commuting Tips for Sustainable Travel
 
-## Seasonal Tips
+## 🏔️ Boulder-Specific Tips
 
-### Spring (March–May)
-- 🌸 Monitor trail and road conditions — snow can linger on north-facing streets
-- 🧥 Layer up — mornings can be chilly even when afternoons are warm
-- 🚲 Spring is a great time to start biking — longer daylight hours
+### Seasonal Tips
 
-### Summer (June–August)
-- ☀️ Boulder's high altitude means stronger sun — wear sunscreen and a hat
-- 💧 Stay hydrated — bring water on longer rides
-- 🌡️ Afternoon thunderstorms are common — plan to commute before 3 PM if possible
-- 🚲 Ensure your bike has working lights for early morning rides
+#### Spring (March-May)
+- Monitor trail and road conditions — snow can linger on north-facing streets
+- Layer up — mornings can be chilly even when afternoons are warm
+- Spring is a great time to start biking — longer daylight hours
+- Afternoon thunderstorms can begin in March — plan to commute before 3 PM
 
-### Fall (September–November)
-- 🍂 Enjoy the beautiful fall foliage along the route
-- 🧥 Temperatures drop quickly in the evening — pack a jacket
-- 🚲 Consider studded tires for early morning frost on 19th Street
+#### Summer (June-August)
+- Boulder's high altitude means stronger sun — wear sunscreen and a hat
+- Stay hydrated — bring water on longer rides
+- Afternoon thunderstorms are common — plan to commute before 3 PM if possible
+- Ensure your bike has working lights for early morning rides
+- Lightning safety: stop riding and seek shelter at the first sign of thunder
 
-### Winter (December–February)
-- ❄️ Icy conditions on 19th Street and 20th Street — use caution
-- 🧊 Studded bike tires are essential for safe winter cycling
-- 🚶 Walking may be safer than biking on icy days
-- 🧤 Invest in warm, waterproof gloves and footwear
-- 🏢 Check if your office has bike storage and shower facilities
+#### Fall (September-November)
+- Enjoy the beautiful fall foliage along the route
+- Temperatures drop quickly in the evening — pack a jacket
+- Consider studded tires for early morning frost on 19th Street
+- Days get shorter — lights are essential after 5 PM
+
+#### Winter (December-February)
+- Icy conditions on 19th Street and 20th Street — use caution
+- Studded bike tires are essential for safe winter cycling
+- Walking may be safer than biking on icy days
+- Invest in warm, waterproof gloves and footwear
+- Check if your office has bike storage and shower facilities
+
+---
 
 ## General Tips
 
@@ -36,8 +43,8 @@
 
 ## Resources
 
-- **Boulder Transportation** — [bouldercolorado.gov/transportation](https://www.bouldercolorado.gov/transportation)
-- **Boulder Cycling** — [bouldercolorado.gov/bike](https://www.bouldercolorado.gov/bike)
+- **Boulder Transportation** — bouldercolorado.gov/transportation
+- **Boulder Cycling** — bouldercolorado.gov/bike
 - **Bike Boulder** — Local advocacy group for cycling infrastructure
 - **Strava** — Track your commutes and discover popular routes
 - **Walk Score** — Check walkability scores for any Boulder address
