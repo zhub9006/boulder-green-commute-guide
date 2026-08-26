@@ -1,115 +1,103 @@
-# 🚲 Biking Route Analysis — Oak Avenue to 1800 Broadway
+# 🚴 Biking Route: 45 Oak Avenue → 1800 Broadway
 
-## Route Overview
+## Route Summary
 
-| Metric | Value |
+| Detail | Value |
 |--------|-------|
-| **Start** | 45 Oak Avenue, Boulder, CO 80304 |
-| **End** | 1800 Broadway, Boulder, CO 80302 |
-| **Mode** | Biking (Bicycle) |
+| **Mode** | 🚴 Biking |
 | **Total Distance** | 4.03 km (2.5 miles) |
-| **Estimated Duration** | 15–20 minutes |
-| **Elevation Change** | ~30 m gain (very gentle) |
-| **Waypoints** | 2 (Oak Ave → Canyon Blvd) |
+| **Estimated Time** | ~10–15 minutes |
+| **Avg. Speed** | 16–24 km/h (10–15 mph) |
+| **Calories Burned** | ~120–180 kcal |
+| **Difficulty** | Easy (mostly flat) |
+| **Best Time of Day** | Early morning or commute hours (7–8 AM, 4–6 PM) |
 
 ---
 
-## Turn-by-Turn Breakdown
+## Step-by-Step Biking Directions
 
-### 1. Oak Avenue (97 m, ~15 sec)
-- Light residential traffic; no bike lane but very low speed
-- Quick merge onto 19th Street
+### 1. Start on Oak Avenue → 19th Street
+- **Distance:** 97 m
+- **Instructions:** Head south from 45 Oak Avenue. Turn left (east) onto 19th Street.
+- **Infrastructure:** ~~Protected bike lane~~ Check for sharrows/local bike infrastructure.
+- **Notes:** Quick start from your home. Oak Avenue is residential and calm.
 
-### 2. 19th Street (2.16 km, ~3.5 min)
-- **Primary biking corridor**
-- Dedicated bike/pedestrian shared path on the north side
-- Good visibility; moderate bike traffic during rush hours
-- Follow leading pedestrian intervals at crosswalks
+### 2. South on 19th Street
+- **Distance:** 2.16 km (1.34 miles)
+- **Instructions:** Continue southbound on 19th Street.
+- **Infrastructure:** Look for bike boxes and sharrows. The 19th Street corridor has been improved for cycling.
+- **Notes:** This is the longest segment. Stay in the bike lane and watch for pedestrians.
 
-### 3. 20th Street (672 m, ~1 min)
-- Right turn heading east
-- Residential; bike path continues
-- Watch for driveway crossings
+### 3. Turn onto 20th St.
+- **Distance:** 106 m
+- **Instructions:** Brief road transition — turn onto 20th Street.
+- **Notes:** Short connector. Use caution at intersections.
 
-### 4. Pearl Street (216 m, ~30 sec)
-- Historic Pearl Street Mall
-- Dismount if foot traffic is dense
-- Step-overs have been installed; low-speed cobblestone section
+### 4. Continue South on 20th Street
+- **Distance:** 566 m
+- **Instructions:** Continue south on 20th Street toward downtown Boulder.
+- **Infrastructure:** Check for bike lane markings.
+- **Notes:** This stretch gets busier as you approach downtown. Be visible and use hand signals.
 
-### 5. 18th Street (249 m, ~40 sec)
-- Tight urban stretch
-- Follow designated bike lanes or path
-- Signal before turning
+### 5. Cross Pearl Street
+- **Distance:** 216 m
+- **Instructions:** Cross or follow Pearl Street area.
+- **Notes:** The Pearl Street Mall area can be tourist-heavy. Dismount and walk if needed.
 
-### 6. Canyon Boulevard (637 m, ~1 min)
-- **Premier Boulder biking corridor**
-- Boulder Creek Path runs parallel
-- Fully separated from car traffic on this segment
-- Beautiful creek-side riding; elevation drops slightly
-- Popular with commuters AND recreationaries — stay alert!
+### 6. South on 18th Street
+- **Distance:** 249 m
+- **Instructions:** Head south on 18th Street.
+- **Notes:** Quick connector.
 
----
-
-## Why This Route Is Boulder's Best
-
-1. **Minimal car interaction** — 80% of the route uses separated or shared-use paths
-2. **Canyon Boulevard** is one of the safest bike corridors in Boulder
-3. **Short distances** — no need to ride on fast-moving arterials
-4. **Scenic motivation** — the creek path makes biking enjoyable, not just practical
+### 7. Arrive via Canyon Boulevard 🏁
+- **Distance:** 637 m
+- **Instructions:** Continue on Canyon Boulevard to reach 1800 Broadway.
+- **Infrastructure:** Canyon Blvd has some bike infrastructure — check for dedicated lanes.
+- **Notes:** Your office destination is just ahead!
 
 ---
 
-## Bike Infrastructure Along the Route
+## 🚲 Boulder Cycling Resources
 
-| Segment | Infrastructure | Notes |
-|---------|---------------|-------|
-| Oak Avenue | Sidewalk sharing | Low-traffic residential |
-| 19th Street | Shared-use path | Well-marked; busy at peak |
-| 20th Street | Sidewalk/pedestrian area | One-way streets; watch for cross traffic |
-| Pearl Street | Dismount zone | Cobblestone; slow and steady |
-| 18th Street | Bike lane (partial) | Short stretch before path |
-| Canyon Blvd | Separated path | Premium bike infrastructure |
+| Resource | Link |
+|----------|------|
+| Boulder B-Cycle (Bike Share) | [bouldercolorado.gov/bcycle](https://bouldercolorado.gov/bcycle) |
+| Boulder Connectivity Map | [bouldercolorado.gov/streets/connectivity](https://bouldercolorado.gov/streets/connectivity) |
+| Eco-Cycle Bike Resources | [ecocycle.org](https://www.ecocycle.org/) |
+| Colorado DOT Bike Guide | [cdot.gov](https://wwwcdot.gov/travel/bike-colorado/) |
 
 ---
 
-## Bike Parking at 1800 Broadway
+## 🛠️ Bike Parking & Storage
 
-- **Indoor bike parking** may be available in the building
-- **Outdoor racks** are typically located near the building entrance
-- Use a **U-lock** through the frame and front wheel — cable locks alone are insufficient
-- Remove visible accessories (lights, bags) or secure them separately
-
----
-
-## Seasonal Biking Guide
-
-| Season | Gear | Path Conditions |
-|--------|------|----------------|
-| **Spring** | Capsule-style rain pants; fenders | Path can be muddy after rain |
-| **Summer** | Light jersey; sunscreen | Thunderstorms possible — avoid riding during lightning |
-| **Fall** | Light jacket; layered | Peak riding season; beautiful colors |
-| **Winter** | Studded tires; thermal layers | Ice on path sections — check conditions |
+- **Office Building:** Check if 1800 Broadway has secure bike parking or a bike room
+- **Downtown Boulder:** Multiple bike racks near Pearl Street Mall and Boulder Creek Path
+- **B-Cike Stations:** Rent a bike share if you don't have your own!
 
 ---
 
-## E-Bike Considerations
+## 💡 Biking Safety Tips for Boulder
 
-E-bikes are increasingly popular for Boulder commuters:
-- **Throttle assist** makes the 4 km commute effortless even in wind or heat
-- **Battery range** typically 40–80 km — more than enough for daily commuting
-- **Charge at work** — most Boulder offices now have charging stations
-- **Speed regulation:** E-bikes in Colorado are limited to 28 mph (Class 3) on shared paths
-
----
-
-## Annual Impact
-
-If you bike this commute **5 days/week, 50 weeks/year**:
-- **Distance:** 4.03 km × 2 (round trip) × 5 days × 50 weeks = **2,015 km/year**
-- **CO₂ saved:** ~**200 kg/year** (vs. driving a car)
-- **Fuel saved:** ~160 liters of gasoline per year
-- **Calories burned:** ~60,000 kcal/year (equivalent to ~17 lbs of body fat)
+1. **🦺 Wear a helmet** — Colorado law requires it for riders under 18, but it's smart for everyone.
+2. **💡 Use lights** — Front white light + rear red light, especially in fall/winter with early sunsets.
+3. **👀 Be visible** — Wear bright/reflective clothing, especially at dawn and dusk.
+4. **📢 Signal turns** — Use hand signals at all intersections.
+5. **🗺️ Plan ahead** — Check [Boulder's bike map](https://bouldercolorado.gov/streets/connectivity) for the best routes with infrastructure.
 
 ---
 
-*Generated from OpenStreetMap routing and Boulder city cycling data. Always check for construction or path closures.*
+## 🌡️ Seasonal Biking Tips
+
+| Season | Tip |
+|--------|-----|
+| ❄️ **Winter** | Use studded tires for ice. Salt and grease your chain. Consider a winter commuter bike. |
+| 🌸 **Spring** | Great riding weather! Check tire pressure and brakes. Watch for spring runoff on some paths. |
+| ☀️ **Summer** | Bring water! Hydration is key. Ride early or late to avoid peak afternoon heat. |
+| 🍂 **Fall** | Perfect temps for biking. Be cautious of wet leaves on roadways. |
+
+---
+
+## 🔗 Route on Map
+
+View the full biking route on OpenStreetMap:
+[Open on OSM](https://www.openstreetmap.org/directions?from=40.0448805,-105.2738879&to=40.0163281,-105.2789726&mode=bicycle)
