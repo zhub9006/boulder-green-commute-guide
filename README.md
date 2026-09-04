@@ -24,7 +24,7 @@ This guide presents a detailed analysis of walking and biking commute options fo
 | CO₂ Saved vs. Car | ~0.9 kg/trip | ~0.9 kg/trip |
 | Trips/yr CO₂ Saved | ~234 kg (260 round trips) | ~234 kg |
 | Cost | Free | Free |
-| Weather Dependent | Yes — Bundle up in winter! | Yes — Use aLayers! |
+| Weather Dependent | Yes — Bundle up in winter! | Yes — Layers, fenders & lights in rain |
 
 ---
 
@@ -47,19 +47,19 @@ Oak Avenue → 19th Street → 20th Street → Pearl Street → 18th Street → 
 | 5 | Pearl Street | 216 m | ~28 s | ~17 s | Cross vibrant Pearl Street Mall — downtown heart |
 | 6 | 18th Street | 249 m | ~31 s | ~18 s | South on 18th toward Canyon |
 | 7 | Canyon Boulevard | 637 m | ~1 min | ~28 s | Scenic final stretch arriving via Canyon Blvd 🏁 |
-|  | **TOTAL** | **4,027 m / 2.5 mi** | **~48–50 min** | **~12–15 min** |  |
+| | **TOTAL** | **4,027 m / 2.5 mi** | **~48–50 min** | **~12–15 min** | |
 
 ---
 
-## 🌍 Why Green Commuting Matters
+## 🌱 Why Green Commuting Matters
 
 Boulder is a city that leads by example in sustainability. By choosing to walk or bike for your daily commute, you're:
 
 - 🌱 **Reducing emissions** — A single 4 km car trip produces ~0.9 kg of CO₂. Switching to walking or biking eliminates this entirely.
 - 💪 **Improving health** — Walking 30+ min/day reduces heart disease risk by up to 30%, improves mood, and boosts energy.
 - 💰 **Saving money** — The average American spends $0.65/mile driving; walking/biking costs $0 per mile.
-- 🚗 **Reducing congestion** — Fewer cars means better traffic for everyone, especially during flood season on Walnut.
-- 🦎 **Supporting Boulder's green ethos** — Boulder has 300+ miles of bike paths and 45,000+ acres of open space.
+- 🚗 **Reducing congestion** — Fewer cars means better traffic for everyone, especially during peak hours on Walnut Street and connecting to Folsom Field.
+- 🌿 **Supporting Boulder's green ethos** — Boulder has 300+ miles of bike paths and 45,000+ acres of open space!
 
 ---
 
@@ -89,7 +89,6 @@ Explore this commute route live on OpenStreetMap:
 
 - **Home (45 Oak Ave):** [View on OSM](https://www.openstreetmap.org/#map=15/40.0449/-105.2739)
 - **Office (1800 Broadway):** [View on OSM](https://www.openstreetmap.org/#map=15/40.0163/-105.2790)
-- **Route map (OpenStreetMap 编辑器):** 
 
 ---
 
@@ -100,7 +99,7 @@ This is a community guide! If you have suggestions for improving walking or biki
 ### How to Add Your Own Commute Analysis
 
 1. **Geocode** your home and work addresses using [Nominatim](https://nominatim.openstreetmap.org/)
-2. **Run** a commute analysis using the [OSRM live demo](https://map.project-osrm.org/) or [OSM Tools API](https://tools.interlier.com/)
+2. **Run** a commute analysis using the [OSRM live demo](https://map.project-osrm.org/)
 3. **Add** your route details as a new `.md` file under `/routes`
 4. **Include** a GeoJSON file of the route geometry if available
 5. **Submit** a pull request!
@@ -120,9 +119,9 @@ This is a community guide! If you have suggestions for improving walking or biki
 ## 📬 Get Involved
 
 - 🔧 Open an [Issue](https://github.com/zhub9006/boulder-green-commute-guide/issues) to suggest improvements
-- 📧 Share this guide with fellow Boulder residents looking to abandon the I-14 shoulder traffic
+- 📨 Share this guide with fellow Boulder residents looking to ditch traffic and embrace the outdoors
 - 🚲 Advocate for more protected bike lanes in Boulder!
-- 🌎 Start a similar repo in your city — open-source sustainability!
+- 🌍 Start a similar repo in your city — open-source sustainability!
 
 ---
 
