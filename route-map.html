@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🗺️ Boulder Green Commute Map — 45 Oak Ave → 1800 Broadway</title>
+<style>
+body { margin: 0; font-family: 'Segoe UI', Tahoma, sans-serif; background: #1a1a2e; color: #e0e0e0; }
+header { background: linear-gradient(135deg, #16c79a 0%, #1a8a5e 100%); padding: 20px 40px; display: flex; align-items: center; justify-content: space-between; }
+header h1 { margin: 0; color: #fff; font-size: 1.4em; }
+header span { font-size: 0.9em; opacity: 0.9; }
+.container { display: flex; flex-wrap: wrap; }
+.map-container { flex: 1; min-width: 400px; height: 500px; position: relative; }
+#map { width: 100%; height: 100%; background: #0d1117; position: relative; overflow: hidden; }
+.panel { flex: 0 0 350px; padding: 20px; background: #16213e; overflow-y: auto; max-height: 500px; }
+.panel h2 { color: #16c79a; margin-top: 0; font-size: 1.1em; border-bottom: 2px solid #16c79a; padding-bottom: 5px; }
+.panel p, .panel li { font-size: 0.85em; line-height: 1.5; }
+.panel table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+.panel th, .panel td { padding: 5px 8px; text-align: left; font-size: 0.82em; border-bottom: 1px solid #0f3460; }
+.panel th { color: #16c79a; }
+.stat-walk { color: #e8d44d; }
+.stat-bike { color: #4ecdc4; }
+.marker { position: absolute; width: 14px; height: 14px; border-radius: 50%; border: 2px solid #fff; transform: translate(-50%, -50%); z-index: 10; }
+.marker.home { background: #e74c3c; }
+.marker.work { background: #3498db; }
+.marker-label { position: absolute; font-size: 11px; color: #fff; white-space: nowrap; transform: translate(-50%, -160%); background: rgba(0,0,0,0.7); padding: 2px 6px; border-radius: 4px; }
+.path { position: absolute; width: 100%; height: 100%; pointer-events: none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🌿 Boulder Green Commute Guide</h1>
+  <span>45 Oak Avenue → 1800 Broadway, Boulder, CO</span>
+</header>
+<div class="container">
+  <div class="map-container">
+    <div id="map">
+      <div class="marker home" style="left: 3%; top: 8%;"><div class="marker-label">🏠 45 Oak Ave</div></div>
+      <div class="marker work" style="left: 88%; top: 88%;"><div class="marker-label">🏢 1800 Broadway</div></div>
+      <svg class="path" viewBox="0 0 100 100" preserveAspectRatio="none">
+        <line x1="3" y1="8" x2="88" y2="88" stroke="#16c79a" stroke-width="0.5" stroke-dasharray="2,1" opacity="0.9"/>
+        <circle cx="3" cy="8" r="1.5" fill="#e74c3c" opacity="0.6"/>
+        <circle cx="88" cy="88" r="1.5" fill="#3498db" opacity="0.6"/>
+      </svg>
+    </div>
+  </div>
+  <div class="panel">
+    <h2>📊 At a Glance</h2>
+    <table>
+      <tr><th></th><th>🚶 Walk</th><th>🚴 Bike</th></tr>
+      <tr><td>Distance</td><td>4.03 km / 2.5 mi</td><td>4.03 km / 2.5 mi</td></tr>
+      <tr><td>Realistic Time</td><td class="stat-walk">~48–50 min</td><td class="stat-bike">~12–15 min</td></tr>
+      <tr><td>Avg Speed</td><td>5 km/h</td><td>16–19 km/h</td></tr>
+      <tr><td>CO₂ Saved</td><td>~0.9 kg/trip</td><td>~0.9 kg/trip</td></tr>
+      <tr><td>Annual CO₂</td><td>~234 kg</td><td>~234 kg</td></tr>
+      <tr><td>Cost</td><td>Free</td><td>Free</td></tr>
+    </table>
+    <h2>🗺️ Route Corridor</h2>
+    <ol>
+      <li><strong>Oak Avenue</strong> — quiet residential start (97 m)</li>
+      <li><strong>19th Street</strong> — main stretch southbound (2,157 m)</li>
+      <li><strong>20th St. / 20th Street</strong> — campus & Folsom Field area (672 m)</li>
+      <li><strong>Pearl Street</strong> — vibrant downtown mall (216 m)</li>
+      <li><strong>18th Street</strong> — downtown core (249 m)</li>
+      <li><strong>Canyon Boulevard</strong> — scenic finish with Flatirons views (637 m)</li>
+    </ol>
+    <h2>🌍 Live Map Links</h2>
+    <p><a href="https://www.openstreetmap.org/directions?from=40.0448805,-105.2738879&to=40.0163281,-105.2789726" target="_blank" style="color:#4ecdc4;">View on OpenStreetMap →</a></p>
+    <p style="font-size:0.75em; color:#888; margin-top:20px;">Data: OpenStreetMap (ODbL 1.0) | OSRM | EPA GHG | Ainsworth et al. (2011)</p>
+  </div>
+</div>
+</body>
+</html>
